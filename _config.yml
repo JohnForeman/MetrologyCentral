@@ -63,6 +63,6 @@ navigation:
 
 # AdSense Configuration
 adsense:
-  enabled: false  # Set to true when ready to enable ads
-  client_id: # ca-pub-XXXXXXXXXXXXXXXX
+  enabled: true
+  client_id: ca-pub-4671140685661347
 
