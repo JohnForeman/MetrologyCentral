@@ -1,0 +1,25 @@
+{% comment %}
+  Breadcrumbs navigation component
+  Generates breadcrumb navigation based on page URL structure
+{% endcomment %}
+
+{% if page.url != '/' %}
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <ol>
+    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+    {% assign url_parts = page.url | split: '/' %}
+    {% assign breadcrumb_path = '' %}
+    {% for part in url_parts %}
+      {% if part != '' %}
+        {% assign breadcrumb_path = breadcrumb_path | append: '/' | append: part %}
+        {% if forloop.last %}
+          <li aria-current="page">{{ page.title | default: part | capitalize }}</li>
+        {% else %}
+          <li><a href="{{ breadcrumb_path | relative_url }}">{{ part | capitalize | replace: '-', ' ' }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
