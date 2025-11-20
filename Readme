@@ -1,0 +1,39 @@
+# Metrology Central
+
+**Metrology Central** is a knowledge-sharing site focused on dimensional metrology, quality systems, measurement technologies, and best practices used across manufacturing. This site serves as a public blog and resource hub for engineers, inspectors, technicians, and professionals working with CMMs, GD&T, MBD/QIF workflows, and production quality systems.
+
+The site is published using **GitHub Pages** and maintained directly from this repository.
+
+---
+
+## 🧭 Site Purpose
+
+This project aims to:
+
+- Share practical, experience-based insights from real manufacturing environments.
+- Document lessons learned in dimensional metrology and inspection automation.
+- Provide guidance for engineers and programmers implementing digital quality workflows.
+- Showcase emerging technologies including AI-assisted inspection, model-based definition, and data-driven quality systems.
+
+Content will include articles, diagrams, reference material, and links to related projects.
+
+---
+
+## 🌐 Live Site
+
+Once deployed, the site will be available at:
+
+**https://metrologycentral.com**  
+*(custom domain pointing to GitHub Pages)*
+
+---
+
+## 🛠 Technology & Structure
+
+- Hosted on **GitHub Pages**
+- Public repository
+- Custom domain with HTTPS enabled
+- (Optional) static site generator such as **Jekyll**, Hugo, or Astro
+
+If using Jekyll on GitHub Pages:
+
