@@ -1,0 +1,44 @@
+# Site settings
+title: Metrology Central
+description: A knowledge-sharing site focused on dimensional metrology, quality systems, measurement technologies, and best practices used across manufacturing.
+url: https://metrologycentral.com
+baseurl: ""
+
+# Author information
+author:
+  name: Metrology Central
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# GitHub Pages settings
+github: [metadata]
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Pagination (optional, can enable later)
+paginate: 5
+paginate_path: "/page:num/"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: Blog
+    url: /blog
+  - title: About
+    url: /about
+

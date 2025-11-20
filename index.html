@@ -1,0 +1,44 @@
+---
+layout: home
+title: Metrology Central
+---
+
+<div class="home-hero">
+  <h1>Metrology Central</h1>
+  <p class="lead">A knowledge-sharing site focused on dimensional metrology, quality systems, measurement technologies, and best practices used across manufacturing.</p>
+</div>
+
+<div class="feature-grid">
+  <div class="feature-card">
+    <h2>📐 Dimensional Metrology</h2>
+    <p>Insights on CMMs, coordinate measurement, and dimensional inspection techniques.</p>
+  </div>
+  <div class="feature-card">
+    <h2>✅ Quality Systems</h2>
+    <p>Best practices for quality control, inspection workflows, and quality assurance.</p>
+  </div>
+  <div class="feature-card">
+    <h2>🔧 Measurement Technologies</h2>
+    <p>Latest tools, techniques, and technologies in precision measurement.</p>
+  </div>
+  <div class="feature-card">
+    <h2>💻 Digital Workflows</h2>
+    <p>GD&T, MBD/QIF workflows, and digital transformation in manufacturing quality.</p>
+  </div>
+</div>
+
+<h2>Latest Posts</h2>
+<ul class="post-list">
+  {% for post in site.posts limit:5 %}
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </h3>
+      {% if post.excerpt %}
+        <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
