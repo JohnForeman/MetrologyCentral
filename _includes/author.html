@@ -1,0 +1,33 @@
+{% comment %}
+  Author box include
+  Displays author information defined in _config.yml
+{% endcomment %}
+
+{% assign author_name = page.author | default: site.author.name %}
+{% assign author_title = site.author.title %}
+{% assign author_bio = site.author.bio %}
+
+<section class="author-box">
+  <div class="author-info">
+    <h3>About {{ author_name }}</h3>
+    {% if author_title %}
+      <p class="author-title">{{ author_title }}</p>
+    {% endif %}
+    {% if author_bio %}
+      <p class="author-bio">{{ author_bio }}</p>
+    {% endif %}
+
+    <div class="author-social">
+      {% if site.author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+      {% endif %}
+      {% if site.author.github %}
+        <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+      {% endif %}
+      {% if site.author.email %}
+        <a href="mailto:{{ site.author.email }}">Email</a>
+      {% endif %}
+    </div>
+  </div>
+</section>
+

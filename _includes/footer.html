@@ -1,0 +1,37 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    <section class="footer-section">
+      <h3>{{ site.title }}</h3>
+      <p>{{ site.description }}</p>
+    </section>
+
+    <section class="footer-section">
+      <h3>Resources</h3>
+      <ul>
+        <li><a href="{{ '/blog' | relative_url }}">Blog</a></li>
+        <li><a href="{{ '/about' | relative_url }}">About</a></li>
+        <li><a href="{{ '/contact' | relative_url }}">Contact</a></li>
+      </ul>
+    </section>
+
+    <section class="footer-section">
+      <h3>Connect</h3>
+      <ul>
+        {% if site.author.linkedin %}
+          <li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" rel="noopener">LinkedIn</a></li>
+        {% endif %}
+        {% if site.author.github %}
+          <li><a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a></li>
+        {% endif %}
+        {% if site.author.email %}
+          <li><a href="mailto:{{ site.author.email }}">Email</a></li>
+        {% endif %}
+      </ul>
+    </section>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
+  </div>
+</footer>
+

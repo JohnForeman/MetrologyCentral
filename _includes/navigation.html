@@ -1,0 +1,25 @@
+{% comment %}
+  Main site navigation
+  Builds navigation items from site.navigation defined in _config.yml
+{% endcomment %}
+<nav class="site-nav" aria-label="Primary">
+  <ul>
+    {% for item in site.navigation %}
+      {% if item.dropdown and item.sublinks %}
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle">{{ item.title }}</a>
+          <div class="dropdown-menu">
+            {% for link in item.sublinks %}
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            {% endfor %}
+          </div>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</nav>
+
