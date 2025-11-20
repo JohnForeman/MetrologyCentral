@@ -4,7 +4,10 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog Posts
+<div class="home-hero">
+  <h1>Latest Insights on Metrology</h1>
+  <p class="lead">Practical knowledge, real-world case studies, and technical guides from the field of dimensional metrology and quality systems.</p>
+</div>
 
 <div class="post-list">
   {% for post in site.posts %}
@@ -29,7 +32,7 @@ permalink: /blog/
           {{ post.excerpt }}
         </div>
       {% endif %}
-      <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+      <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
     </article>
   {% endfor %}
 </div>

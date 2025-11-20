@@ -6,31 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   </head>
   <body>
     <div class="site-container">
       {% if site.title and site.title != page.title %}
       <header class="site-header">
         <h1><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h1>
+        {% if site.author.tagline %}
+        <p class="tagline">{{ site.author.tagline }}</p>
+        {% endif %}
       </header>
       {% endif %}
 
-      <nav class="site-nav">
-        <ul>
-          {% for item in site.navigation %}
-            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
-          {% endfor %}
-        </ul>
-      </nav>
+      {% include navigation.html %}
 
       <main class="site-content">
         {{ content }}
       </main>
 
-      <footer class="site-footer">
-        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
-        <p>Hosted on <a href="https://pages.github.com/">GitHub Pages</a></p>
-      </footer>
+      {% include footer.html %}
     </div>
   </body>
 </html>
