@@ -11,7 +11,7 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+# theme: minima  # Commented out - using custom layouts instead
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
