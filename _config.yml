@@ -6,7 +6,13 @@ baseurl: ""
 
 # Author information
 author:
-  name: Metrology Central
+  name: John Foreman
+  title: Metrologist & Quality Systems Engineer
+  tagline: Turning measurement data into manufacturing certainty
+  bio: Senior Application Engineer with deep expertise in CMM programming, dimensional metrology, and quality systems. Passionate about sharing practical insights from years of hands-on experience with measurement technologies and manufacturing quality.
+  email: contact@metrologycentral.com
+  linkedin: # Add your LinkedIn username
+  github: # Add your GitHub username if applicable
 
 # Build settings
 markdown: kramdown
@@ -33,12 +39,30 @@ exclude:
 paginate: 5
 paginate_path: "/page:num/"
 
-# Navigation
+# Navigation (with Topics dropdown)
 navigation:
   - title: Home
     url: /
   - title: Blog
     url: /blog
+  - title: Topics
+    dropdown: true
+    sublinks:
+      - title: CMM Programming
+        url: /categories/cmm-programming/
+      - title: MBD & QIF
+        url: /categories/mbd-qif/
+      - title: Quality Systems
+        url: /categories/quality-systems/
+      - title: Automation & Metrology
+        url: /categories/automation-metrology/
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
+
+# AdSense Configuration
+adsense:
+  enabled: false  # Set to true when ready to enable ads
+  client_id: # ca-pub-XXXXXXXXXXXXXXXX
 
