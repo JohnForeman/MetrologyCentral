@@ -4,30 +4,24 @@ title: Metrology Central
 ---
 
 <div class="home-hero">
-  <h1>Metrology Central</h1>
-  <p class="lead">A knowledge-sharing site focused on dimensional metrology, quality systems, measurement technologies, and best practices used across manufacturing.</p>
-</div>
+  <div class="hero-content">
+    <p class="hero-eyebrow">Metrology Central</p>
+    <h1>Metrology, Explained From Someone Who’s Lived It</h1>
+    <p class="lead">After decades programming CMMs, solving production problems, supporting engineering teams, and navigating the evolution of digital metrology, I’m sharing the lessons, insights, and real-world experience that shaped my career.</p>
+    <p class="lead">This site is your resource for clear, honest, and practical metrology knowledge—written for professionals who want to stay sharp, learn continuously, and advance their craft.</p>
 
-<div class="feature-grid">
-  <div class="feature-card">
-    <h2>📐 Dimensional Metrology</h2>
-    <p>Insights on CMMs, coordinate measurement, and dimensional inspection techniques.</p>
+    <div class="hero-ctas">
+      <a class="btn btn-primary" href="#latest-posts">Explore Topics</a>
+      <a class="btn btn-ghost" href="#latest-posts">New Content Weekly</a>
+    </div>
   </div>
-  <div class="feature-card">
-    <h2>✅ Quality Systems</h2>
-    <p>Best practices for quality control, inspection workflows, and quality assurance.</p>
-  </div>
-  <div class="feature-card">
-    <h2>🔧 Measurement Technologies</h2>
-    <p>Latest tools, techniques, and technologies in precision measurement.</p>
-  </div>
-  <div class="feature-card">
-    <h2>💻 Digital Workflows</h2>
-    <p>GD&T, MBD/QIF workflows, and digital transformation in manufacturing quality.</p>
+
+  <div class="hero-visual">
+    <img src="{{ '/assets/landing.jpg' | relative_url }}" alt="Metrology instrumentation illustration">
   </div>
 </div>
 
-<h2>Latest Posts</h2>
+<h2 id="latest-posts">Latest Posts</h2>
 <ul class="post-list">
   {% for post in site.posts limit:5 %}
     <li>
