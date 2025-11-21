@@ -17,6 +17,8 @@ author:
 # Build settings
 markdown: kramdown
 highlighter: rouge
+# Allow previewing posts with future dates locally
+future: true
 # theme: minima  # Commented out - using custom layouts instead
 plugins:
   - jekyll-feed
@@ -39,23 +41,12 @@ exclude:
 paginate: 5
 paginate_path: "/page:num/"
 
-# Navigation (with Topics dropdown)
+# Navigation
 navigation:
   - title: Home
     url: /
   - title: Blog
     url: /blog
-  - title: Topics
-    dropdown: true
-    sublinks:
-      - title: CMM Programming
-        url: /categories/cmm-programming/
-      - title: MBD & QIF
-        url: /categories/mbd-qif/
-      - title: Quality Systems
-        url: /categories/quality-systems/
-      - title: Automation & Metrology
-        url: /categories/automation-metrology/
   - title: About
     url: /about
   - title: Contact

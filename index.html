@@ -3,36 +3,87 @@ layout: home
 title: Metrology Central
 ---
 
-<div class="home-hero">
-  <div class="hero-content">
-    <p class="hero-eyebrow">Metrology Central</p>
-    <h1>Metrology, Explained From Someone Who’s Lived It</h1>
-    <p class="lead">After decades programming CMMs, solving production problems, supporting engineering teams, and navigating the evolution of digital metrology, I’m sharing the lessons, insights, and real-world experience that shaped my career.</p>
-    <p class="lead">This site is your resource for clear, honest, and practical metrology knowledge—written for professionals who want to stay sharp, learn continuously, and advance their craft.</p>
+{% assign latest_post = site.posts | first %}
 
-    <div class="hero-ctas">
-      <a class="btn btn-primary" href="#latest-posts">Explore Topics</a>
-      <a class="btn btn-ghost" href="#latest-posts">New Content Weekly</a>
-    </div>
+<div class="home-hero">
+  <div class="hero-header">
+    <p class="hero-eyebrow">Metrology Central</p>
+    <h1>Evolving Quality → Digital, Data-Driven, AI-Supported</h1>
   </div>
 
-  <div class="hero-visual">
-    <img src="{{ '/assets/landing.jpg' | relative_url }}" alt="Metrology instrumentation illustration">
+  <div class="hero-main">
+    <div class="hero-content">
+      <p class="lead">Understand quality in a data-driven world.</p>
+
+      <ul class="hero-highlights">
+        <li>Navigate digital metrology with clarity</li>
+        <li>Connect measurement and modern quality</li>
+        <li>Prepare for the next evolution of quality work</li>
+        <li>Interpret the shift to digital inspection</li>
+        <li>Adapt confidently to modern workflows</li>
+      </ul>
+
+      <div class="hero-ctas">
+        <a class="btn btn-primary" href="#latest-posts">Jump to the Latest</a>
+        {% if latest_post %}
+          <a class="btn btn-ghost" href="{{ latest_post.url | relative_url }}">Read Today’s Article</a>
+        {% else %}
+          <a class="btn btn-ghost" href="{{ '/blog' | relative_url }}">Browse Topics</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <img src="{{ '/assets/landing.jpg' | relative_url }}" alt="Metrology instrumentation illustration">
+    </div>
   </div>
 </div>
 
-<h2 id="latest-posts">Latest Posts</h2>
-<ul class="post-list">
-  {% for post in site.posts limit:5 %}
-    <li>
-      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-      </h3>
-      {% if post.excerpt %}
-        <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+{% if latest_post %}
+  <section class="latest-highlight" id="latest-posts">
+    <p class="section-eyebrow">Latest article</p>
+    <article class="post-preview post-preview-featured">
+      <div class="featured-meta">
+        <time datetime="{{ latest_post.date | date_to_xmlschema }}">{{ latest_post.date | date: "%b %-d, %Y" }}</time>
+        {% if latest_post.categories %}
+          <div class="categories">
+            {% for category in latest_post.categories %}
+              <span class="category">{{ category }}</span>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </div>
+      <h2>
+        <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title | escape }}</a>
+      </h2>
+      {% if latest_post.excerpt %}
+        <p class="excerpt">{{ latest_post.excerpt | strip_html | truncatewords: 50 }}</p>
       {% endif %}
-    </li>
-  {% endfor %}
-</ul>
+      <div class="featured-actions">
+        <a class="btn btn-primary" href="{{ latest_post.url | relative_url }}">Read the latest</a>
+        <a class="btn btn-ghost" href="{{ '/blog' | relative_url }}">Browse the archive</a>
+      </div>
+    </article>
+  </section>
+{% endif %}
+
+<h2>More Posts</h2>
+{% assign more_posts = site.posts | slice: 1, 4 %}
+{% if more_posts and more_posts.size > 0 %}
+  <ul class="post-list">
+    {% for post in more_posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h3>
+        {% if post.excerpt %}
+          <p>{{ post.excerpt | strip_html | truncatewords: 30 }}</p>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p class="post-list-empty">More articles are on the way—check back soon.</p>
+{% endif %}
 
