@@ -18,13 +18,6 @@ permalink: /blog/
         </h2>
         <p class="post-meta">
           <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-          {% if post.categories.size > 0 %}
-            <span class="categories">
-              {% for category in post.categories %}
-                <span class="category">{{ category }}</span>
-              {% endfor %}
-            </span>
-          {% endif %}
         </p>
       </header>
       {% if post.excerpt %}

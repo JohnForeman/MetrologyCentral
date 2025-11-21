@@ -45,13 +45,6 @@ title: Metrology Central
     <article class="post-preview post-preview-featured">
       <div class="featured-meta">
         <time datetime="{{ latest_post.date | date_to_xmlschema }}">{{ latest_post.date | date: "%b %-d, %Y" }}</time>
-        {% if latest_post.categories %}
-          <div class="categories">
-            {% for category in latest_post.categories %}
-              <span class="category">{{ category }}</span>
-            {% endfor %}
-          </div>
-        {% endif %}
       </div>
       <h2>
         <a href="{{ latest_post.url | relative_url }}">{{ latest_post.title | escape }}</a>

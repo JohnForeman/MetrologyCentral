@@ -138,6 +138,26 @@ author: Author Name
 ---
 ```
 
+## 🧰 Local Admin UI
+
+To simplify creating and editing posts, a local-only admin tool is included under `admin/`. It never deploys to GitHub Pages thanks to the `_config.yml` exclude entry.
+
+1. Install dependencies (first run only):
+   ```bash
+   cd admin
+   npm install
+   ```
+2. Start the admin server:
+   ```bash
+   npm start
+   ```
+3. Open `http://localhost:5050` in your browser. From there you can:
+   - Browse existing `_posts/`
+   - Create new posts with front matter + Markdown body
+   - Edit posts and save directly to `_posts/`
+
+All changes are local file edits. Review the `_posts/` directory and commit/push manually when you’re ready to publish.
+
 ## 🔧 Configuration
 
 Edit `_config.yml` to customize:

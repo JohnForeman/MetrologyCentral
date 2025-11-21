@@ -12,13 +12,6 @@ layout: default
       {% if page.author %}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {% endif %}
-      {% if page.categories.size > 0 %}
-        <span class="categories">
-          {% for category in page.categories %}
-            <span class="category">{{ category }}</span>
-          {% endfor %}
-        </span>
-      {% endif %}
     </p>
   </header>
 

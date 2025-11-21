@@ -1,3 +1,78 @@
+---
+layout: post
+title: Future-Proofing Documentation for an AI-Driven Quality Organization
+date: '2025-11-21'
+author: John Foreman
+categories:
+  - Quality Systems
+  - Metrology
+  - Manufacturing Technology
+  - AI in Quality
+  - Knowledge Management
+  - Document Control
+  - Digital Transformation
+  - Inspection & Measurement
+  - Engineering Processes
+  - Continuous Improvement
+  - AI in Manufacturing
+  - Document Control Best Practices
+  - Manufacturing Digitalization
+  - Coordinate Metrology
+  - Dimensional Inspection
+  - CMM Programming
+  - Measurement Systems
+  - Industrial Metrology
+  - Precision Manufacturing
+  - Manufacturing Operations
+  - Production Quality
+  - Digital Manufacturing
+  - Factory Knowledge Systems
+  - Industrial Best Practices
+tags:
+  - RAG
+  - Retrieval Augmented Generation
+  - retrieval augmented generation
+  - rag ai
+  - manufacturing ai
+  - metrology ai
+  - quality engineering ai
+  - document control automation
+  - semantic search technology
+  - digital transformation quality
+  - industrial knowledge management
+  - manufacturing data retrieval
+  - quality documentation standards
+  - CMM workflows AI
+  - inspection automation
+  - metrology
+  - cmm programming
+  - gd&t interpretation
+  - dimensional measurement
+  - measurement systems analysis
+  - probe calibration
+  - inspection workflows
+  - technical documentation
+  - advanced metrology practices
+  - digital inspection
+  - model based definition
+  - MBD
+  - QIF
+  - measurement knowledge retention
+  - quality systems
+  - manufacturing quality
+  - process improvement
+  - engineering documentation
+  - shop floor support
+  - knowledge retention
+  - factory training
+  - digital work instructions
+  - production troubleshooting
+  - technical knowledge base
+  - AI for manufacturing
+  - documentation consistency
+  - inspection processes
+  - manufacturing data access
+---
 Over the last year, I’ve been deeply involved in a project that forced me to rethink how quality organizations store knowledge, retrieve information, and support the people doing the real work on the floor.
 
 That project centered on one idea:
