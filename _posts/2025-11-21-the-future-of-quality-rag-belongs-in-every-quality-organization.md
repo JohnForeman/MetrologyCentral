@@ -77,7 +77,7 @@ Over the last year, I’ve been deeply involved in a project that forced me to r
 
 That project centered on one idea:
 
-**Retrieval-Augmented Generation (RAG) isn’t “future tech.” It’s the next natural evolution of document control, engineering support, and enterprise knowledge management — and quality departments are uniquely positioned to benefit from it.**
+**Retrieval-Augmented Generation (RAG) isn’t “future tech.” It’s the next natural evolution of document control, engineering support, and enterprise knowledge management — and quality organizations are primed to take full advantage of it.**
 
 But adopting RAG isn’t as simple as pointing an AI model at a database. It challenges decades of habits, legacy systems, inconsistent formatting, and tribal knowledge that has been scattered across emails, PDFs, shared drives, handwritten procedures, and the memories of long-retired engineers.
 
