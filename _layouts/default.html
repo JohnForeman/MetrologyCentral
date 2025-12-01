@@ -15,6 +15,10 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    {% if site.adsense.enabled and site.adsense.client_id %}
+    <!-- Google AdSense Auto ads -->
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense.client_id }}" crossorigin="anonymous"></script>
+    {% endif %}
   </head>
   <body>
     <div class="site-container">
@@ -31,7 +35,6 @@
 
       <main class="site-content">
         {{ content }}
-        {% include adsense.html %}
       </main>
 
       {% include footer.html %}
