@@ -1,0 +1,1 @@
+﻿# Working Articles\n\nDrop raw notes, PDFs converted to text, and draft fragments here. Jarvis will use these as source material to propose blog posts.\n\n- Keep private/company-sensitive info out of this folder.\n- File naming suggestion: YYYY-MM-DD_topic_short-title.md\n
