@@ -1,3 +1,10 @@
+---
+layout: default
+title: About
+description: Learn about John Foreman, senior metrologist and quality systems engineer behind Metrology Central.
+permalink: /about/
+---
+
 <div class="about-hero">
   <h1>About Me</h1>
   <p class="tagline">Turning measurement data into manufacturing certainty</p>

@@ -6,6 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="{{ "/assets/Favicon.png" | relative_url }}">
     {% seo %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | jsonify }},
+      "logo": {{ site.url | append: '/assets/Favicon.png' | jsonify }}
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": {{ site.author.name | jsonify }},
+      "jobTitle": {{ site.author.title | jsonify }},
+      "worksFor": {
+        "@type": "Organization",
+        "name": {{ site.title | jsonify }}
+      },
+      "url": {{ site.url | append: '/about/' | jsonify }}
+    }
+    </script>
     {% if page.tags and page.tags.size > 0 %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}

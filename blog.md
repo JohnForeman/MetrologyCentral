@@ -2,6 +2,7 @@
 layout: default
 title: Blog
 permalink: /blog/
+description: Articles and case studies on dimensional metrology, CMM validation, and modern manufacturing quality systems.
 ---
 
 <div class="home-hero">
