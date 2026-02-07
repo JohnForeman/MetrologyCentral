@@ -546,15 +546,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .post-content code {
-  background-color: rgba(13, 71, 161, 0.05);
+  background-color: rgba(46, 197, 255, 0.14);
   padding: 2px 6px;
   border-radius: 4px;
   font-size: 0.9em;
-  color: var(--brand-primary);
+  color: var(--text-white);
 }
 
 .post-content pre {
-  background-color: #f6f8fa;
+  background-color: rgba(3, 11, 22, 0.95);
   padding: 20px;
   border-radius: 8px;
   overflow-x: auto;
@@ -571,9 +571,51 @@ h1, h2, h3, h4, h5, h6 {
   margin: 30px 0;
   padding: 20px 30px;
   border-left: 4px solid var(--brand-gold);
-  background-color: rgba(176, 141, 87, 0.05);
+  background-color: rgba(75, 225, 255, 0.08);
   font-style: italic;
   color: var(--text-color);
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 24px 0;
+  background: rgba(3, 11, 22, 0.85);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.post-content th,
+.post-content td {
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  text-align: left;
+  vertical-align: top;
+}
+
+.post-content th:last-child,
+.post-content td:last-child {
+  border-right: none;
+}
+
+.post-content tr:last-child td {
+  border-bottom: none;
+}
+
+.post-content thead th {
+  background: rgba(46, 197, 255, 0.16);
+  color: var(--text-white);
+  font-weight: 700;
+}
+
+.post-content tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.post-content tbody tr:hover {
+  background: rgba(46, 197, 255, 0.08);
 }
 
 .post-content ul, .post-content ol {
@@ -583,6 +625,12 @@ h1, h2, h3, h4, h5, h6 {
 
 .post-content li {
   margin-bottom: 10px;
+}
+
+.post-content hr {
+  border: 0;
+  border-top: 1px solid var(--border-color);
+  margin: 32px 0;
 }
 
 .site-footer {
