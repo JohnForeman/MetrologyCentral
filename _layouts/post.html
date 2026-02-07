@@ -19,6 +19,8 @@ layout: default
     {{ content }}
   </div>
 
+  {% include adsense-unit.html slot=site.adsense.slots.post_inline class='adsense-post-inline' %}
+
   {% include author.html %}
 
   <!-- Related Posts Section -->
@@ -40,6 +42,8 @@ layout: default
     </div>
   </section>
   {% endif %}
+
+  {% include adsense-unit.html slot=site.adsense.slots.post_bottom class='adsense-post-bottom' %}
 
   {% if site.disqus.shortname %}
     {% include disqus_comments.html %}

@@ -1165,6 +1165,14 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--brand-accent);
 }
 
+/* AdSense Units */
+.adsense-unit {
+  margin: 28px 0;
+  padding: 8px 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
 /* AdSense Placeholder */
 .adsense-container {
   margin: 40px 0;

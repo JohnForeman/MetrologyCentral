@@ -50,6 +50,7 @@ permalink: /about/
   <h2>Current Role</h2>
   <p><strong>Senior Application Engineer – LK Metrology</strong></p>
   <p>I provide technical expertise, CMM programming, and consulting on building and improving quality systems for manufacturing organizations across multiple industries.</p>
+  <p>Over more than three decades in metrology and quality engineering, my work has focused on making complex measurement systems practical, repeatable, and useful for real production decisions.</p>
 
   <h3>Past Roles</h3>
   <ul>
@@ -67,6 +68,17 @@ permalink: /about/
     <li>Consulting on quality systems setup, digital workflows, and optimization</li>
     <li>Mentorship for new or developing metrology professionals</li>
     <li>Collaboration on integrating AI into metrology workflows for improved efficiency and insight</li>
+  </ul>
+</div>
+
+<div class="about-section">
+  <h2>Editorial Approach at Metrology Central</h2>
+  <p>Metrology Central content is based on hands-on field experience, practical engineering workflows, and technical review before publication. The goal is to publish material that quality professionals can apply immediately in real manufacturing environments.</p>
+  <ul>
+    <li>Focus on practical implementation, not marketing language</li>
+    <li>Clear distinction between evidence, assumptions, and recommendations</li>
+    <li>Preference for repeatable methods and validated workflows</li>
+    <li>Continuous updates as tools, standards, and best practices evolve</li>
   </ul>
 </div>
 

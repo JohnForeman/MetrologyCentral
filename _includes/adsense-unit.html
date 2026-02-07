@@ -1,0 +1,13 @@
+{% if site.adsense.enabled and site.adsense.client_id and include.slot %}
+<div class="adsense-unit {{ include.class | default: '' }}" data-slot="{{ include.slot }}">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsense.client_id }}"
+       data-ad-slot="{{ include.slot }}"
+       data-ad-format="{{ include.format | default: 'auto' }}"
+       data-full-width-responsive="{{ include.responsive | default: 'true' }}"></ins>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>
+{% endif %}

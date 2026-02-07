@@ -10,6 +10,8 @@ description: Articles and case studies on dimensional metrology, CMM validation,
   <p class="lead">Practical knowledge, real-world case studies, and technical guides from the field of dimensional metrology and quality systems.</p>
 </div>
 
+{% include adsense-unit.html slot=site.adsense.slots.blog_header class='adsense-blog' %}
+
 <div class="post-list">
   {% for post in site.posts %}
     <article class="post-preview">
