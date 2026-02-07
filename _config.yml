@@ -49,6 +49,8 @@ navigation:
     url: /
   - title: Blog
     url: /blog
+  - title: News
+    url: /news
   - title: About
     url: /about
   - title: Contact

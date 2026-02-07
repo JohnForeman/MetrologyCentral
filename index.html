@@ -26,11 +26,7 @@ description: Practical metrology and quality engineering insights on CMM workflo
 
       <div class="hero-ctas">
         <a class="btn btn-primary" href="#latest-posts">Jump to the Latest</a>
-        {% if latest_post %}
-          <a class="btn btn-ghost" href="{{ latest_post.url | relative_url }}">Read Today’s Article</a>
-        {% else %}
-          <a class="btn btn-ghost" href="{{ '/blog' | relative_url }}">Browse Topics</a>
-        {% endif %}
+        <a class="btn btn-ghost" href="{{ '/blog' | relative_url }}">Browse Topics</a>
       </div>
     </div>
 
@@ -41,6 +37,31 @@ description: Practical metrology and quality engineering insights on CMM workflo
 </div>
 
 {% include adsense-unit.html slot=site.adsense.slots.home_infeed class='adsense-home' %}
+
+{% assign news_items = site.data.news | sort: 'date' | reverse %}
+{% if news_items and news_items.size > 0 %}
+  <section class="latest-highlight" id="news-watch">
+    <p class="section-eyebrow">News watch</p>
+    <article class="post-preview post-preview-featured">
+      <h2><a href="{{ '/news' | relative_url }}">Industry software and research updates</a></h2>
+      <p class="excerpt">Curated external updates on quality software systems, releases, case studies, and technical papers.</p>
+      <ul class="post-list">
+        {% for item in news_items limit: 3 %}
+          <li>
+            <span class="post-meta">{{ item.date | date: "%b %-d, %Y" }} · {{ item.source }}</span>
+            <h3><a class="post-link" href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h3>
+            {% if item.summary %}
+              <p>{{ item.summary | truncatewords: 28 }}</p>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+      <div class="featured-actions">
+        <a class="btn btn-ghost" href="{{ '/news' | relative_url }}">View all news items</a>
+      </div>
+    </article>
+  </section>
+{% endif %}
 
 {% if latest_post %}
   <section class="latest-highlight" id="latest-posts">
