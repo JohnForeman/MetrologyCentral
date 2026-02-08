@@ -1,6 +1,7 @@
 - date: 2026-01-30
   title: PC-DMIS 2026.1 Technical Preview enrollment opened
   source: Hexagon Nexus Community
+  sector: quality_software
   kind: vendor_release
   summary: Hexagon opened early sign-up for the PC-DMIS 2026.1 Technical Preview, signaling an upcoming pre-release cycle for validation and feedback before general availability. This is a useful early indicator for teams that want to regression-test routines before production rollout.
   url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2026-1-technical-preview-coming-soon
@@ -8,6 +9,7 @@
 - date: 2026-02-07
   title: CAMIO 2023 R2 page remains key LK reference for standards-aware CMM programming updates
   source: LK Metrology
+  sector: quality_software
   kind: vendor_release
   summary: LK’s CAMIO 2023 R2 page documents practical updates such as improved automatic sensor-selection workflow, Inventor CAD import support, and explicit handling of independency/envelope principles for size tolerances. The item remains a high-signal reference for teams aligning CAMIO inspection routines to ISO/ASME interpretation behavior.
   url: https://www.lkmetrology.com/products/software/camio-2023-r2/
@@ -15,6 +17,7 @@
 - date: 2026-02-07
   title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and AI-assisted translation
   source: ZEISS Metrology
+  sector: quality_software
   kind: vendor_release
   summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional measurement-result context in CAD views, server-side template management refinements, and AI-assisted report translation features. The update also emphasizes notification customization and usability improvements for cross-team quality-data workflows.
   url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
@@ -22,6 +25,7 @@
 - date: 2026-02-07
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail architectures
   source: LK Metrology News
+  sector: scientific_metrology
   kind: hardware_news
   summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 m³ to 72 m³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
@@ -29,6 +33,7 @@
 - date: 2026-02-05
   title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
   source: Hexagon Manufacturing Intelligence Blog
+  sector: quality_software
   kind: case_study
   summary: A new Hexagon case study describes workflow consolidation around WORKNC, ESPRIT EDGE, and VISI to reduce CAD/CAM fragmentation and improve digital continuity between design and manufacturing. The report highlights practical effects on programming reliability, quotation speed, and shop-floor communication in a high-precision mouldmaking environment.
   url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
@@ -36,6 +41,7 @@
 - date: 2026-02-07
   title: "ASME Y14.49 Part 3: article details functional-surface filtering strategy for large plate flatness control"
   source: Digital Metrology (Surface Matters blog)
+  sector: scientific_metrology
   kind: standards_method
   summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification framing to separate functional flatness from fine texture content using wavelength-based filtering, with an example for large granite surface plates. The article provides a concrete standards-to-method bridge for reducing ambiguity and measurement burden in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/

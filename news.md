@@ -24,20 +24,16 @@ What appears here:
   <a class="news-filter-btn" href="#ev-manufacturing">EV Manufacturing</a>
   <a class="news-filter-btn" href="#auto-manufacturing">Auto Manufacturing</a>
   <a class="news-filter-btn" href="#aerospace-defense-manufacturing">Aerospace & Defense</a>
-  <a class="news-filter-btn" href="#quality-software-metrology">Quality Software & Metrology</a>
+  <a class="news-filter-btn" href="#quality-software">Quality Software</a>
+  <a class="news-filter-btn" href="#scientific-metrology">Scientific Metrology</a>
 </div>
 
 {% assign items = site.data.news | sort: 'date' | reverse %}
 {% assign ev_items = items | where: 'sector', 'ev_manufacturing' %}
 {% assign auto_items = items | where: 'sector', 'auto_manufacturing' %}
 {% assign aero_items = items | where: 'sector', 'aerospace_defense_manufacturing' %}
-
-{% assign quality_items = '' | split: '' %}
-{% for item in items %}
-  {% unless item.sector == 'ev_manufacturing' or item.sector == 'auto_manufacturing' or item.sector == 'aerospace_defense_manufacturing' %}
-    {% assign quality_items = quality_items | push: item %}
-  {% endunless %}
-{% endfor %}
+{% assign quality_items = items | where: 'sector', 'quality_software' %}
+{% assign science_items = items | where: 'sector', 'scientific_metrology' %}
 
 {% if ev_items and ev_items.size > 0 %}
   <section id="ev-manufacturing" class="news-category-section">
@@ -110,10 +106,33 @@ What appears here:
 {% endif %}
 
 {% if quality_items and quality_items.size > 0 %}
-  <section id="quality-software-metrology" class="news-category-section">
-    <h2>Quality Software & Metrology</h2>
+  <section id="quality-software" class="news-category-section">
+    <h2>Quality Software</h2>
     <div class="post-list" id="news-list-quality">
       {% for item in quality_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
+
+{% if science_items and science_items.size > 0 %}
+  <section id="scientific-metrology" class="news-category-section">
+    <h2>Scientific Metrology</h2>
+    <div class="post-list" id="news-list-science">
+      {% for item in science_items %}
         <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
           <header>
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
