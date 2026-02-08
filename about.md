@@ -12,10 +12,6 @@ permalink: /about/
 
 <div class="about-section">
   <div class="about-intro">
-    <div class="headshot">
-      <img src="/assets/images/author-placeholder.jpg" alt="John Foreman" />
-    </div>
-
     <div class="bio">
       <h2>John Foreman</h2>
       <p class="title">Metrologist & Quality Systems Engineer</p>
