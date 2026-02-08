@@ -29,16 +29,24 @@ What appears here:
 </div>
 
 {% assign items = site.data.news | sort: 'date' | reverse %}
-{% assign ev_items = items | where: 'sector', 'ev_manufacturing' %}
-{% assign auto_items = items | where: 'sector', 'auto_manufacturing' %}
-{% assign aero_items = items | where: 'sector', 'aerospace_defense_manufacturing' %}
-{% assign quality_items = items | where: 'sector', 'quality_software' %}
-{% assign science_items = items | where: 'sector', 'scientific_metrology' %}
+{% assign cutoff_ts = 'now' | date: '%s' | plus: 0 | minus: 2592000 %}
+{% assign recent_items = '' | split: '' %}
+{% for item in items %}
+  {% assign item_ts = item.date | date: '%s' | plus: 0 %}
+  {% if item_ts >= cutoff_ts %}
+    {% assign recent_items = recent_items | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign ev_items = recent_items | where: 'sector', 'ev_manufacturing' %}
+{% assign auto_items = recent_items | where: 'sector', 'auto_manufacturing' %}
+{% assign aero_items = recent_items | where: 'sector', 'aerospace_defense_manufacturing' %}
+{% assign quality_items = recent_items | where: 'sector', 'quality_software' %}
+{% assign science_items = recent_items | where: 'sector', 'scientific_metrology' %}
 
 {% if ev_items and ev_items.size > 0 %}
   <section id="ev-manufacturing" class="news-category-section">
     <h2>EV Manufacturing (Global)</h2>
-    <p class="post-meta">Coverage includes China, North America, Europe, and other active EV manufacturing regions.</p>
     <div class="post-list" id="news-list-ev">
       {% for item in ev_items %}
         <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
