@@ -508,6 +508,14 @@ h1, h2, h3, h4, h5, h6 {
   background: rgba(46, 197, 255, 0.14);
 }
 
+.news-category-section {
+  margin-top: 30px;
+}
+
+.news-category-section h2 {
+  margin-bottom: 8px;
+}
+
 .post-link {
   text-decoration: none;
   color: var(--text-white);

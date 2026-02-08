@@ -20,61 +20,114 @@ What appears here:
 
 ---
 
+<div class="news-filters" role="navigation" aria-label="Jump to news category">
+  <a class="news-filter-btn" href="#ev-manufacturing">EV Manufacturing</a>
+  <a class="news-filter-btn" href="#auto-manufacturing">Auto Manufacturing</a>
+  <a class="news-filter-btn" href="#aerospace-defense-manufacturing">Aerospace & Defense</a>
+  <a class="news-filter-btn" href="#quality-software-metrology">Quality Software & Metrology</a>
+</div>
+
 {% assign items = site.data.news | sort: 'date' | reverse %}
-{% assign kinds = site.data.news | map: 'kind' | uniq %}
+{% assign ev_items = items | where: 'sector', 'ev_manufacturing' %}
+{% assign auto_items = items | where: 'sector', 'auto_manufacturing' %}
+{% assign aero_items = items | where: 'sector', 'aerospace_defense_manufacturing' %}
 
-{% if items and items.size > 0 %}
-  <div class="news-filters" role="group" aria-label="Filter news by type">
-    <button class="news-filter-btn active" data-filter="all" type="button">All</button>
-    {% for kind in kinds %}
-      {% if kind %}
-        <button class="news-filter-btn" data-filter="{{ kind }}" type="button">{{ kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}</button>
-      {% endif %}
-    {% endfor %}
-  </div>
+{% assign quality_items = '' | split: '' %}
+{% for item in items %}
+  {% unless item.sector == 'ev_manufacturing' or item.sector == 'auto_manufacturing' or item.sector == 'aerospace_defense_manufacturing' %}
+    {% assign quality_items = quality_items | push: item %}
+  {% endunless %}
+{% endfor %}
 
-  <div class="post-list" id="news-list">
-    {% for item in items %}
-      <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
-        <header>
-          <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
-          <p class="post-meta">
-            <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-            {% if item.source %} · Source: {{ item.source }}{% endif %}
-            {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
-            <span class="source-policy-badge">External source</span>
-          </p>
-        </header>
-        {% if item.summary %}
-          <div class="excerpt">
-            <p>{{ item.summary }}</p>
-          </div>
-        {% endif %}
-        <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
-      </article>
-    {% endfor %}
-  </div>
+{% if ev_items and ev_items.size > 0 %}
+  <section id="ev-manufacturing" class="news-category-section">
+    <h2>EV Manufacturing (Global)</h2>
+    <p class="post-meta">Coverage includes China, North America, Europe, and other active EV manufacturing regions.</p>
+    <div class="post-list" id="news-list-ev">
+      {% for item in ev_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
 
-  <script>
-    (function () {
-      const buttons = document.querySelectorAll('.news-filter-btn');
-      const items = document.querySelectorAll('.news-item');
-      if (!buttons.length || !items.length) return;
+{% if auto_items and auto_items.size > 0 %}
+  <section id="auto-manufacturing" class="news-category-section">
+    <h2>Auto Manufacturing (Non-EV Focus)</h2>
+    <div class="post-list" id="news-list-auto">
+      {% for item in auto_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
 
-      buttons.forEach((btn) => {
-        btn.addEventListener('click', () => {
-          const filter = btn.getAttribute('data-filter');
-          buttons.forEach((b) => b.classList.remove('active'));
-          btn.classList.add('active');
+{% if aero_items and aero_items.size > 0 %}
+  <section id="aerospace-defense-manufacturing" class="news-category-section">
+    <h2>Aerospace & Defense Manufacturing (Global)</h2>
+    <div class="post-list" id="news-list-aero">
+      {% for item in aero_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
 
-          items.forEach((item) => {
-            const kind = item.getAttribute('data-kind');
-            item.style.display = (filter === 'all' || kind === filter) ? '' : 'none';
-          });
-        });
-      });
-    })();
-  </script>
-{% else %}
-  <p>News curation is active. First batch will appear after the next scouting run.</p>
+{% if quality_items and quality_items.size > 0 %}
+  <section id="quality-software-metrology" class="news-category-section">
+    <h2>Quality Software & Metrology</h2>
+    <div class="post-list" id="news-list-quality">
+      {% for item in quality_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
 {% endif %}

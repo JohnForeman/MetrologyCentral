@@ -39,3 +39,51 @@
   kind: standards_method
   summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification framing to separate functional flatness from fine texture content using wavelength-based filtering, with an example for large granite surface plates. The article provides a concrete standards-to-method bridge for reducing ambiguity and measurement burden in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/
+
+- date: 2026-02-06
+  title: BYD localizes Brazil EV factory supply chain toward 50% local parts target
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports BYD is pushing local sourcing in Brazil to scale regional manufacturing and improve competitiveness, a strong global EV manufacturing signal outside China’s domestic footprint.
+  url: https://www.reuters.com/sustainability/sustainable-finance-reporting/byd-shifts-local-parts-brazil-factory-bid-market-leadership-2026-02-05/
+
+- date: 2025-12-16
+  title: Tesla ramps battery-cell investment at German gigafactory
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Tesla is expanding battery-cell investment in Germany, highlighting a process-level manufacturing move with implications for EV localization and capacity planning in Europe.
+  url: https://www.reuters.com/business/autos-transportation/tesla-ramps-up-battery-cell-investments-german-gigafactory-2025-12-16/
+
+- date: 2025-09-16
+  title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
+  source: Rivian Newsroom
+  sector: ev_manufacturing
+  kind: press_release
+  summary: Rivian announced its Georgia plant kickoff with construction starting in 2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing capacity expansion.
+  url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
+
+- date: 2025-10-27
+  title: Airbus adjusts A220 output timing while targeting 2026 production milestones
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Airbus delayed part of A220 output, tightening the path to planned 2026 rate milestones and underscoring ongoing aerospace supply-chain constraints.
+  url: https://www.reuters.com/business/aerospace-defense/airbus-delays-some-a220-output-narrowing-window-reach-2026-target-2025-10-27/
+
+- date: 2026-01-27
+  title: Boeing reports 737 MAX output at 42 per month while outlining higher-rate plans
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters coverage indicates Boeing ended the year at 42/month 737 MAX output with continued production-ramp planning, a key capacity signal for global aerospace manufacturing and suppliers.
+  url: https://www.reuters.com/business/aerospace-defense/boeing-reports-fourth-quarter-profit-2026-01-27/
+
+- date: 2025-11-06
+  title: Nissan case study highlights production-scale metrology integration
+  source: Renishaw
+  sector: auto_manufacturing
+  kind: case_study
+  summary: Renishaw’s Nissan case study provides a practical view of production metrology deployment decisions at automotive scale, including process integration and throughput-focused quality control.
+  url: https://www.renishaw.com/en/news--6854
