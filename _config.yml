@@ -47,7 +47,7 @@ paginate_path: "/page:num/"
 navigation:
   - title: Home
     url: /
-  - title: Blog
+  - title: Articles
     url: /blog
   - title: News
     url: /news
