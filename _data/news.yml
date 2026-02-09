@@ -1,18 +1,10 @@
-- date: 2026-01-30
-  title: PC-DMIS 2026.1 Technical Preview enrollment opened
-  source: Hexagon Nexus Community
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon opened early sign-up for the PC-DMIS 2026.1 Technical Preview, signaling an upcoming pre-release cycle for validation and feedback before general availability. This is a useful early indicator for teams that want to regression-test routines before production rollout.
-  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2026-1-technical-preview-coming-soon
-
-- date: 2026-02-07
-  title: CAMIO 2023 R2 page remains key LK reference for standards-aware CMM programming updates
+- date: 2026-02-09
+  title: CAMIO 2025 R3 released with PH20 support and expanded 5-axis relative-measurement workflows
   source: LK Metrology
   sector: quality_software
   kind: vendor_release
-  summary: LK’s CAMIO 2023 R2 page documents practical updates such as improved automatic sensor-selection workflow, Inventor CAD import support, and explicit handling of independency/envelope principles for size tolerances. The item remains a high-signal reference for teams aligning CAMIO inspection routines to ISO/ASME interpretation behavior.
-  url: https://www.lkmetrology.com/products/software/camio-2023-r2/
+  summary: LK Metrology published CAMIO 2025 R3 details including Renishaw PH20 head support, integrated inferred-calibration setup, and program-mode relative measurement enhancements for 5-axis inspection programming.
+  url: https://www.lkmetrology.com/us/story/camio2025r3/
 
 - date: 2026-02-07
   title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and AI-assisted translation
@@ -30,16 +22,8 @@
   summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 m³ to 72 m³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 
-- date: 2026-02-05
-  title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
-  source: Hexagon Manufacturing Intelligence Blog
-  sector: quality_software
-  kind: case_study
-  summary: A new Hexagon case study describes workflow consolidation around WORKNC, ESPRIT EDGE, and VISI to reduce CAD/CAM fragmentation and improve digital continuity between design and manufacturing. The report highlights practical effects on programming reliability, quotation speed, and shop-floor communication in a high-precision mouldmaking environment.
-  url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
-
 - date: 2026-02-07
-  title: "ASME Y14.49 Part 3: article details functional-surface filtering strategy for large plate flatness control"
+  title: ASME Y14.49 Part 3 article details functional-surface filtering strategy for large plate flatness control
   source: Digital Metrology (Surface Matters blog)
   sector: scientific_metrology
   kind: standards_method
@@ -54,29 +38,29 @@
   summary: Reuters reports BYD is pushing local sourcing in Brazil to scale regional manufacturing and improve competitiveness, a strong global EV manufacturing signal outside China’s domestic footprint.
   url: https://www.reuters.com/sustainability/sustainable-finance-reporting/byd-shifts-local-parts-brazil-factory-bid-market-leadership-2026-02-05/
 
-- date: 2025-12-16
-  title: Tesla ramps battery-cell investment at German gigafactory
+- date: 2026-02-06
+  title: Global carmakers report about $55 billion in EV-related writedowns amid production-strategy resets
   source: Reuters
-  sector: ev_manufacturing
+  sector: auto_manufacturing
   kind: industry_news
-  summary: Reuters reports Tesla is expanding battery-cell investment in Germany, highlighting a process-level manufacturing move with implications for EV localization and capacity planning in Europe.
-  url: https://www.reuters.com/business/autos-transportation/tesla-ramps-up-battery-cell-investments-german-gigafactory-2025-12-16/
+  summary: Reuters reports multiple automakers disclosed large EV-related writedowns while adjusting platform and capacity plans, reflecting slower transition pacing and changing regional market conditions.
+  url: https://www.reuters.com/business/autos-transportation/global-carmakers-book-55-billion-hit-ev-rollback-2026-02-06/
 
-- date: 2025-09-16
-  title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
-  source: Rivian Newsroom
-  sector: ev_manufacturing
-  kind: press_release
-  summary: Rivian announced its Georgia plant kickoff with construction starting in 2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing capacity expansion.
-  url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
+- date: 2026-02-05
+  title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
+  source: Hexagon Manufacturing Intelligence Blog
+  sector: quality_software
+  kind: case_study
+  summary: A new Hexagon case study describes workflow consolidation around WORKNC, ESPRIT EDGE, and VISI to reduce CAD/CAM fragmentation and improve digital continuity between design and manufacturing. The report highlights practical effects on programming reliability, quotation speed, and shop-floor communication in a high-precision mouldmaking environment.
+  url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
 
-- date: 2025-10-27
-  title: Airbus adjusts A220 output timing while targeting 2026 production milestones
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Airbus delayed part of A220 output, tightening the path to planned 2026 rate milestones and underscoring ongoing aerospace supply-chain constraints.
-  url: https://www.reuters.com/business/aerospace-defense/airbus-delays-some-a220-output-narrowing-window-reach-2026-target-2025-10-27/
+- date: 2026-01-30
+  title: PC-DMIS 2026.1 Technical Preview enrollment opened
+  source: Hexagon Nexus Community
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon opened early sign-up for the PC-DMIS 2026.1 Technical Preview, signaling an upcoming pre-release cycle for validation and feedback before general availability. This is a useful early indicator for teams that want to regression-test routines before production rollout.
+  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2026-1-technical-preview-coming-soon
 
 - date: 2026-01-27
   title: Boeing reports 737 MAX output at 42 per month while outlining higher-rate plans
@@ -86,6 +70,14 @@
   summary: Reuters coverage indicates Boeing ended the year at 42/month 737 MAX output with continued production-ramp planning, a key capacity signal for global aerospace manufacturing and suppliers.
   url: https://www.reuters.com/business/aerospace-defense/boeing-reports-fourth-quarter-profit-2026-01-27/
 
+- date: 2025-12-16
+  title: Tesla ramps battery-cell investment at German gigafactory
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Tesla is expanding battery-cell investment in Germany, highlighting a process-level manufacturing move with implications for EV localization and capacity planning in Europe.
+  url: https://www.reuters.com/business/autos-transportation/tesla-ramps-up-battery-cell-investments-german-gigafactory-2025-12-16/
+
 - date: 2025-11-06
   title: Nissan case study highlights production-scale metrology integration
   source: Renishaw
@@ -93,3 +85,19 @@
   kind: case_study
   summary: Renishaw’s Nissan case study provides a practical view of production metrology deployment decisions at automotive scale, including process integration and throughput-focused quality control.
   url: https://www.renishaw.com/en/news--6854
+
+- date: 2025-10-27
+  title: Airbus adjusts A220 output timing while targeting 2026 production milestones
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Airbus delayed part of A220 output, tightening the path to planned 2026 rate milestones and underscoring ongoing aerospace supply-chain constraints.
+  url: https://www.reuters.com/business/aerospace-defense/airbus-delays-some-a220-output-narrowing-window-reach-2026-target-2025-10-27/
+
+- date: 2025-09-16
+  title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
+  source: Rivian Newsroom
+  sector: ev_manufacturing
+  kind: press_release
+  summary: Rivian announced its Georgia plant kickoff with construction starting in 2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing capacity expansion.
+  url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
