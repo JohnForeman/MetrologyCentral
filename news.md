@@ -46,7 +46,7 @@ What appears here:
 
 {% if ev_items and ev_items.size > 0 %}
   <section id="ev-manufacturing" class="news-category-section">
-    <h2>EV Manufacturing (Global)</h2>
+    <h2>EV Manufacturing</h2>
     <div class="post-list" id="news-list-ev">
       {% for item in ev_items %}
         <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
@@ -69,7 +69,7 @@ What appears here:
 
 {% if auto_items and auto_items.size > 0 %}
   <section id="auto-manufacturing" class="news-category-section">
-    <h2>Auto Manufacturing (Non-EV Focus)</h2>
+    <h2>Auto Manufacturing</h2>
     <div class="post-list" id="news-list-auto">
       {% for item in auto_items %}
         <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
@@ -92,7 +92,7 @@ What appears here:
 
 {% if aero_items and aero_items.size > 0 %}
   <section id="aerospace-defense-manufacturing" class="news-category-section">
-    <h2>Aerospace & Defense Manufacturing (Global)</h2>
+    <h2>Aerospace & Defense Manufacturing</h2>
     <div class="post-list" id="news-list-aero">
       {% for item in aero_items %}
         <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
