@@ -1,3 +1,19 @@
+- date: 2026-02-10
+  title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic manufacturing
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Ceer signed 16 agreements valued at 3.7 billion riyals to localize electric-vehicle manufacturing in Saudi Arabia, indicating continued regional investment in EV industrial capacity.
+  url: https://www.reuters.com/world/middle-east/saudi-ev-brand-ceer-signs-986-million-deals-localise-manufacturing-2026-02-09/
+
+- date: 2026-02-10
+  title: Ford and Geely hold talks on European manufacturing collaboration and shared vehicle technologies
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Ford and Geely are in discussions that include potential use of Ford factory space in Europe and possible collaboration on vehicle technologies, reflecting continued cost-sharing moves across global auto manufacturing.
+  url: https://www.reuters.com/business/autos-transportation/ford-geely-talks-manufacturing-technology-partnership-sources-say-2026-02-04/
+
 - date: 2026-02-09
   title: CAMIO 2025 R3 released with PH20 support and expanded 5-axis relative-measurement workflows
   source: LK Metrology
