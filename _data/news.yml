@@ -1,3 +1,35 @@
+- date: 2026-02-13
+  title: Global EV sales hampered by China and US slowdown in January
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports January global EV sales growth was constrained by weaker momentum in China and the U.S., signaling continued volatility in near-term EV manufacturing demand planning.
+  url: https://www.reuters.com/sustainability/climate-energy/global-ev-sales-hampered-by-china-us-slowdown-january-2026-02-13/
+
+- date: 2026-02-13
+  title: Stellantis reintroduces diesel models in Europe amid EV-demand pullback
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Stellantis is bringing back multiple diesel models in Europe as EV demand underperforms expectations, highlighting active production-mix rebalancing across automotive manufacturing lines.
+  url: https://www.reuters.com/business/autos-transportation/stellantis-resurrects-diesel-cars-across-europe-amid-ev-retreat-2026-02-13/
+
+- date: 2026-02-13
+  title: Safran to open Moroccan landing-gear plant to support Airbus A320 supply
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Safran Landing Systems signed an agreement to build a new factory near Casablanca focused on Airbus A320 landing gear, adding aerospace manufacturing capacity in a key supplier region.
+  url: https://www.reuters.com/business/aerospace-defense/safran-open-landing-gear-plant-morocco-2026-02-13/
+
+- date: 2026-02-09
+  title: NIST outlines expanding need for reference materials in orbital research and production
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST describes how certified reference materials are being extended into space-based research workflows, emphasizing traceability and standards infrastructure as low-Earth-orbit experimentation and manufacturing activity increase.
+  url: https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards
+
 - date: 2026-02-10
   title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic manufacturing
   source: Reuters
