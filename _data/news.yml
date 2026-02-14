@@ -1,26 +1,26 @@
 - date: 2026-02-13
   title: Global EV sales hampered by China and US slowdown in January
-  source: Reuters
+  source: Yahoo Finance
   sector: ev_manufacturing
   kind: industry_news
-  summary: Reuters reports January global EV sales growth was constrained by weaker momentum in China and the U.S., signaling continued volatility in near-term EV manufacturing demand planning.
-  url: https://www.reuters.com/sustainability/climate-energy/global-ev-sales-hampered-by-china-us-slowdown-january-2026-02-13/
+  summary: Coverage notes January global EV sales growth was constrained by weaker momentum in China and the U.S., signaling continued volatility in near-term EV manufacturing demand planning.
+  url: https://finance.yahoo.com/news/global-ev-sales-hampered-china-000308427.html
 
 - date: 2026-02-13
   title: Stellantis reintroduces diesel models in Europe amid EV-demand pullback
-  source: Reuters
+  source: Yahoo Finance
   sector: auto_manufacturing
   kind: industry_news
-  summary: Reuters reports Stellantis is bringing back multiple diesel models in Europe as EV demand underperforms expectations, highlighting active production-mix rebalancing across automotive manufacturing lines.
-  url: https://www.reuters.com/business/autos-transportation/stellantis-resurrects-diesel-cars-across-europe-amid-ev-retreat-2026-02-13/
+  summary: Coverage says Stellantis is bringing back multiple diesel models in Europe as EV demand underperforms expectations, highlighting active production-mix rebalancing across automotive manufacturing lines.
+  url: https://uk.finance.yahoo.com/news/exclusive-stellantis-resurrects-diesel-cars-131155385.html
 
 - date: 2026-02-13
   title: Safran to open Moroccan landing-gear plant to support Airbus A320 supply
-  source: Reuters
+  source: Safran
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: Reuters reports Safran Landing Systems signed an agreement to build a new factory near Casablanca focused on Airbus A320 landing gear, adding aerospace manufacturing capacity in a key supplier region.
-  url: https://www.reuters.com/business/aerospace-defense/safran-open-landing-gear-plant-morocco-2026-02-13/
+  summary: Safran announced a new facility near Casablanca focused on Airbus A320 landing-gear equipment, adding aerospace manufacturing capacity in a key supplier region.
+  url: https://www.safran-group.com/download/press_release/file/2265081
 
 - date: 2026-02-09
   title: NIST outlines expanding need for reference materials in orbital research and production
@@ -32,19 +32,19 @@
 
 - date: 2026-02-10
   title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic manufacturing
-  source: Reuters
+  source: CEER
   sector: ev_manufacturing
   kind: industry_news
-  summary: Reuters reports Ceer signed 16 agreements valued at 3.7 billion riyals to localize electric-vehicle manufacturing in Saudi Arabia, indicating continued regional investment in EV industrial capacity.
-  url: https://www.reuters.com/world/middle-east/saudi-ev-brand-ceer-signs-986-million-deals-localise-manufacturing-2026-02-09/
+  summary: CEER says it signed 16 agreements valued at 3.7 billion riyals to localize electric-vehicle manufacturing in Saudi Arabia, indicating continued regional investment in EV industrial capacity.
+  url: https://ceermotors.com/news/ceer-signs-16-mous-worth-sar-37-billion-at-pif-private-sector-forum-2026-targeting-45percent-saudi-l/
 
 - date: 2026-02-10
   title: Ford and Geely hold talks on European manufacturing collaboration and shared vehicle technologies
-  source: Reuters
+  source: Yahoo Finance
   sector: auto_manufacturing
   kind: industry_news
-  summary: Reuters reports Ford and Geely are in discussions that include potential use of Ford factory space in Europe and possible collaboration on vehicle technologies, reflecting continued cost-sharing moves across global auto manufacturing.
-  url: https://www.reuters.com/business/autos-transportation/ford-geely-talks-manufacturing-technology-partnership-sources-say-2026-02-04/
+  summary: Coverage reports Ford and Geely are in discussions that include potential use of Ford factory space in Europe and possible collaboration on vehicle technologies, reflecting continued cost-sharing moves across global auto manufacturing.
+  url: https://finance.yahoo.com/news/ford-geely-discuss-european-production-130300646.html
 
 - date: 2026-02-09
   title: CAMIO 2025 R3 released with PH20 support and expanded 5-axis relative-measurement workflows
