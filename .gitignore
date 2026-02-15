@@ -14,3 +14,7 @@ Gemfile.lock
 *.log
 node_modules/
 
+# Local OpenClaw helper scripts (do not commit)
+.openclaw-healthcheck.ps1
+.openclaw-rendercheck.ps1
+
