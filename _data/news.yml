@@ -1,4 +1,28 @@
 - date: 2026-02-13
+  title: Harnessing AI to detect anomalies during aircraft wing manufacture
+  source: Metrology News
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: A write-up on Loughborough University’s AVRRC research describes using multi-spectral sensing plus AI training techniques (including synthetic anomaly generation) to augment stringent human inspection during wing build and in-service checks, aiming to scale inspection without relaxing tolerances.
+  url: https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/
+
+- date: 2026-02-11
+  title: White-light inspection robots bring repeatable turbine-disk inspection to MRO workflows
+  source: Metrology News
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: An overview of GE Aerospace’s AI-guided "white light" robotic inspection in MRO highlights standardized scan capture, anomaly scoring, and persistent digital records to reduce inspector-to-inspector variation and free human expertise for disposition decisions.
+  url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
+
+- date: 2026-02-11
+  title: Automating airbag-yarn quality control using AI defect detection and robotic vision
+  source: Metrology News
+  sector: auto_manufacturing
+  kind: case_study
+  summary: A case-style report details a proof-of-concept using Techman Robot’s TM AI+ with industrial imaging hardware to detect subtle "fuzz" defects on cylindrical yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical rotation to keep defects in focus.
+  url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
+
+- date: 2026-02-13
   title: Global EV sales hampered by China and US slowdown in January
   source: Yahoo Finance
   sector: ev_manufacturing
