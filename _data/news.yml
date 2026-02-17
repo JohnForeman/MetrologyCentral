@@ -1,4 +1,28 @@
 - date: 2026-02-12
+  title: Rivian projects 2026 delivery jump as R2 rollout anchors Illinois manufacturing scale-up
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Rivian expects a significant 2026 delivery increase tied to its lower-cost R2 launch, with initial production centered in Normal, Illinois while Georgia plant expansion continues—an important near-term EV manufacturing capacity signal.
+  url: https://www.reuters.com/business/autos-transportation/rivian-sees-2026-delivery-jump-driven-by-rollout-smaller-more-affordable-r2-suvs-2026-02-12/
+
+- date: 2026-02-11
+  title: Northrop Grumman and Niewiadow target 180,000+ artillery shells per year in Poland
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Northrop Grumman and Polish manufacturer Niewiadow are targeting annual output above 180,000 artillery rounds, signaling continued defense-manufacturing localization and scale-up in Europe.
+  url: https://www.reuters.com/business/aerospace-defense/northrop-grumman-polish-arms-maker-aim-produce-more-than-180000-artillery-shells-2026-02-11/
+
+- date: 2025-11-20
+  title: ZEISS announces INSPECT 2026 software release with expanded GD&T and X-ray workflow automation
+  source: ZEISS Industrial Quality Solutions
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS announced its 2026 INSPECT release with upgraded GD&T support, faster scripting, and new X-ray workflow features (including multipart separation and broader METROTOM support), extending the software stack for high-throughput inspection teams.
+  url: https://www.zeiss.com/metrology/en/about-us/newsroom/2025/software-release.html
+
+- date: 2026-02-12
   title: BYD, Geely, and VinFast shortlisted for Nissan-Mercedes Mexico plant acquisition
   source: Reuters
   sector: ev_manufacturing
@@ -63,20 +87,20 @@
   url: https://finance.yahoo.com/news/global-ev-sales-hampered-china-000308427.html
 
 - date: 2026-02-13
-  title: Stellantis reintroduces diesel models in Europe amid EV-demand pullback
-  source: Yahoo Finance
+  title: Stellantis resurrects diesel models across Europe amid EV retreat
+  source: Reuters
   sector: auto_manufacturing
   kind: industry_news
-  summary: Coverage says Stellantis is bringing back multiple diesel models in Europe as EV demand underperforms expectations, highlighting active production-mix rebalancing across automotive manufacturing lines.
-  url: https://uk.finance.yahoo.com/news/exclusive-stellantis-resurrects-diesel-cars-131155385.html
+  summary: Reuters reports Stellantis is bringing back diesel variants across multiple European nameplates as EV demand softens, underscoring active manufacturing mix rebalancing and capacity reprioritization.
+  url: https://www.reuters.com/business/autos-transportation/stellantis-resurrects-diesel-cars-across-europe-amid-ev-retreat-2026-02-13/
 
 - date: 2026-02-13
-  title: Safran to open Moroccan landing-gear plant to support Airbus A320 supply
-  source: The National
+  title: Safran to open landing-gear plant in Morocco to supply Airbus A320 programs
+  source: Reuters
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: The report says Safran signed a deal to open a new plant near Casablanca focused on Airbus A320 landing-gear equipment, adding aerospace manufacturing capacity in a key supplier region.
-  url: https://www.thenationalnews.com/business/aviation/2026/02/14/frances-safran-to-open-332m-aircraft-landing-gear-plant-in-morocco/
+  summary: Reuters reports Safran Landing Systems signed a deal with Morocco to build a 280 million euro landing-gear facility near Casablanca to support Airbus A320 demand, adding capacity in a strategically growing aerospace supplier region.
+  url: https://www.reuters.com/business/aerospace-defense/safran-open-landing-gear-plant-morocco-2026-02-13/
 
 - date: 2026-02-09
   title: NIST outlines expanding need for reference materials in orbital research and production
@@ -157,14 +181,6 @@
   kind: case_study
   summary: A new Hexagon case study describes workflow consolidation around WORKNC, ESPRIT EDGE, and VISI to reduce CAD/CAM fragmentation and improve digital continuity between design and manufacturing. The report highlights practical effects on programming reliability, quotation speed, and shop-floor communication in a high-precision mouldmaking environment.
   url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
-
-- date: 2026-01-30
-  title: PC-DMIS 2026.1 Technical Preview enrollment opened
-  source: Hexagon Nexus Community
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon opened early sign-up for the PC-DMIS 2026.1 Technical Preview, signaling an upcoming pre-release cycle for validation and feedback before general availability. This is a useful early indicator for teams that want to regression-test routines before production rollout.
-  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2026-1-technical-preview-coming-soon
 
 - date: 2026-01-27
   title: Boeing reports 737 MAX output at 42 per month while outlining higher-rate plans
