@@ -1,3 +1,43 @@
+- date: 2026-02-16
+  title: SAIC-JSW MG India to invest up to $440M to expand plant capacity and launch new NEV models
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports JSW MG Motor plans up to $440 million in new investment to expand India capacity from roughly 120,000 to 300,000 units annually and launch additional hybrid/EV models, signaling a material production-scale move in one of the world’s fastest-growing auto hubs.
+  url: https://www.reuters.com/world/china/saics-india-venture-invest-up-440-million-expansion-deepen-bet-hybrids-evs-2026-02-16/
+
+- date: 2026-02-16
+  title: CAMIO 2026 R2 announced as first release with full REVO system support
+  source: M&MT
+  sector: quality_software
+  kind: vendor_release
+  summary: M&MT coverage of LK Metrology’s MACH 2026 plans says CAMIO 2026 R2 is the first official release with full Renishaw REVO support, adding synchronized CMM/probe-head motion and multi-sensor workflow integration for faster 5-axis inspection programming.
+  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
+
+- date: 2026-02-16
+  title: LK Metrology introduces COREX 250 shop-floor CT system for rapid internal inspection
+  source: Quality Magazine
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Quality Magazine reports LK introduced the COREX 250 industrial CT platform (via Ready Metrology) with a 230 mm cube work volume and short scan cycles aimed at near-line non-destructive metrology, reflecting continued migration of volumetric inspection from labs to production environments.
+  url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
+
+- date: 2026-02-06
+  title: Chinese EV exports reach record $69.6B across widening global market footprint
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters analysis highlights China’s 2025 new-energy-vehicle output above 16 million units and EV exports at a record 2.6 million units ($69.6 billion), a key signal that global EV manufacturing competition is increasingly shaped by export-scale Chinese production.
+  url: https://www.reuters.com/markets/china-tightens-clean-tech-grip-with-growing-ev-export-reach-2026-02-06/
+
+- date: 2026-01-26
+  title: Airbus commercial-jet chief reiterates production ramp focus and signals openness to larger A220
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports new Airbus commercial-aircraft CEO Lars Wagner prioritized output execution and ramp management (including A350 and narrowbody programs) while indicating support for a larger A220 variant, reinforcing ongoing capacity and product-mix pressure across aerospace manufacturing.
+  url: https://www.reuters.com/business/aerospace-defense/new-airbus-commercial-ceo-focused-output-backs-bigger-a220-2026-01-26/
+
 - date: 2026-02-12
   title: Rivian projects 2026 delivery jump as R2 rollout anchors Illinois manufacturing scale-up
   source: Reuters
@@ -125,14 +165,6 @@
   kind: industry_news
   summary: Coverage reports Ford and Geely are in discussions that include potential use of Ford factory space in Europe and possible collaboration on vehicle technologies, reflecting continued cost-sharing moves across global auto manufacturing.
   url: https://finance.yahoo.com/news/ford-geely-discuss-european-production-130300646.html
-
-- date: 2026-02-09
-  title: CAMIO 2025 R3 released with PH20 support and expanded 5-axis relative-measurement workflows
-  source: LK Metrology
-  sector: quality_software
-  kind: vendor_release
-  summary: LK Metrology published CAMIO 2025 R3 details including Renishaw PH20 head support, integrated inferred-calibration setup, and program-mode relative measurement enhancements for 5-axis inspection programming.
-  url: https://www.lkmetrology.com/us/story/camio2025r3/
 
 - date: 2026-02-07
   title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and AI-assisted translation
