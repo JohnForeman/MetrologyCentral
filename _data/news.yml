@@ -1,3 +1,43 @@
+- date: 2026-02-18
+  title: Italy approves production start at Rheinmetall’s Sardinia explosives and missile plant
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Italy approved Rheinmetall’s production start at its Domusnovas, Sardinia site after environmental clearance; the company says output will begin shortly to support EU/NATO demand after about €50 million in site investment.
+  url: https://www.reuters.com/sustainability/climate-energy/italy-approves-production-start-rheinmetalls-sardinia-island-plant-2026-02-18/
+
+- date: 2026-02-18
+  title: U.S. rescinds fuel-content-factor rule that had boosted EV compliance values in CAFE calculations
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports the U.S. Energy Department removed the fuel-content-factor provision used in fuel-economy calculations, reversing an EV-crediting mechanism that materially affected automaker compliance math and could influence EV production-mix planning.
+  url: https://www.reuters.com/world/trump-rescinding-rule-incentivizing-ev-production-meet-fuel-economy-requirements-2026-02-18/
+
+- date: 2026-01-31
+  title: LK highlights CAMIO 2026 R2 + REVO2 deployment on Altera CMM at MACH 2026
+  source: ETMM Online (LK Metrology)
+  sector: quality_software
+  kind: vendor_release
+  summary: LK’s MACH 2026 preview details CAMIO 2026 R2 as the first official full-REVO release, demonstrated on an Altera M SCANtek5 CMM, and also highlights Focus point-cloud integration plus broader IMG workflow alignment for multi-sensor 5-axis inspection.
+  url: https://www.etmm-online.com/lk-metrology-5-axis-metrology-breakthrough-mach-2026-a-cdd0956b00036f44f2849554626b990d/
+
+- date: 2026-01-06
+  title: Mercedes moves A-Class production from Germany to Hungary to rebalance plant capacity
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Mercedes-Benz will shift A-Class production from Rastatt to Kecskemét from Q2 2026, framing the move as capacity reallocation within its flexible network to free German lines for upcoming model launches.
+  url: https://www.reuters.com/business/mercedes-move-a-class-production-germany-hungary-2026-01-06/
+
+- date: 2025-04-30
+  title: InnovMetric releases PolyWorks 2025 with inspection digital-thread controls and approval workflow
+  source: InnovMetric
+  sector: quality_software
+  kind: vendor_release
+  summary: InnovMetric’s PolyWorks 2025 release emphasizes enterprise inspection-thread governance, including project-template standardization, piece-inspection locking, view-only sharing, and web-based review/approval to improve traceability and cross-team quality execution.
+  url: https://www.polyworks.com/en-ca/news/innovmetric-releases-polyworks-2025
+
 - date: 2026-02-16
   title: SAIC-JSW MG India to invest up to $440M to expand plant capacity and launch new NEV models
   source: Reuters
