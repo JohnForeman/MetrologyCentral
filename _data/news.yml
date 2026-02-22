@@ -1,3 +1,35 @@
+- date: 2026-02-20
+  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at 650 Wh/kg
+  source: Electrek
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250°C heating tests, initially targeting non-automotive applications before EV integration.
+  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
+
+- date: 2026-02-20
+  title: New U.S. cybersecurity rules create barrier for small defense suppliers amid production push
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports the Defense Department's Cybersecurity Maturity Model Certification (CMMC) rules, which started enforcement last November, are leading some small suppliers to reconsider military work due to high compliance costs and months-long audit waits, raising production risks as the Trump administration pressures contractors to boost output and diversify the supply base.
+  url: https://www.reuters.com/business/aerospace-defense/new-cybersecurity-rules-us-defense-industry-create-barrier-for-some-small-2026-02-20/
+
+- date: 2026-02-20
+  title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production inspection
+  source: 3D Printing Industry
+  sector: quality_software
+  kind: hardware_news
+  summary: 3D Printing Industry reports Hexagon introduced a portable HYPERSCAN 3D scanner certified to VDI/VDE 2634-3 and validated by ISO 17025 accredited laboratory, eliminating reference targets that typically add 15-30 minutes per setup; the system operates in handheld or robotic configurations, integrates with PC-DMIS, Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi 6/7 and integrated battery for shopfloor deployment.
+  url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
+
+- date: 2026-02-19
+  title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology brand
+  source: Measurement Solutions Ltd
+  sector: quality_software
+  kind: industry_news
+  summary: Measurement Solutions Ltd announced official UK distribution appointment for READY Metrology (manufactured at Coord3's Italy facility), expanding its portfolio into production-focused CMM and CT inspection systems; the READY RUN series features prismatic guideways without air bearings, linear motors, no clean room requirement, setup under 2 hours, and full front table extraction for robotic integration.
+  url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
+
 - date: 2026-02-18
   title: Polestar rolls out refreshed Polestar 2 and 4 models to conserve cash and boost European sales
   source: Reuters
