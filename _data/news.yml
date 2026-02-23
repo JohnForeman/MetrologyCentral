@@ -1,3 +1,27 @@
+- date: 2026-02-23
+  title: Verisurf 2026 introduces workflow improvements for digital manufacturing metrology
+  source: Metrology News
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Verisurf 2026 introduces numerous new features and workflow improvements designed to help manufacturers reduce costs, save time, and enhance repeatable process control across all stages of digital manufacturing; by embedding metrology into the digital workflow, manufacturers gain faster inspection with greater visibility, repeatability, and control of their entire production process.
+  url: https://metrology.news/verisurf-2026-precision-meets-innovation/
+
+- date: 2026-02-23
+  title: SHINING 3D expands industrial metrology portfolio with OptimScan Q9 and FreeScan Omni Lite
+  source: Metrology News
+  sector: scientific_metrology
+  kind: product_release
+  summary: 'Metrology News reports SHINING 3D introduced two new industrial metrology systems: OptimScan Q9 (fixed blue LED scanner with 0.005mm accuracy, VDI/VDE 2634 and ISO 10360 certified for aerospace/electronics) and FreeScan Omni Lite (handheld mobile scanner for large-scale on-site inspection); both maintain industrial-grade measurement integrity with consistent software capability and support across the portfolio.'
+  url: https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/
+
+- date: 2026-02-22
+  title: Airbus targets record 870 commercial jet deliveries in 2026, up 10% from 2025
+  source: AeroNews Journal
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: AeroNews Journal reports Airbus raised its 2026 delivery forecast to approximately 870 aircraft, a 10% increase over 793 delivered in 2025 and surpassing the pre-pandemic high of 863 in 2019; the company plans to stabilize A320neo narrowbody production at 70-75 aircraft per month by end of 2026, supported by an order backlog exceeding 8,700 aircraft despite ongoing supply chain and engine availability challenges.
+  url: https://www.aeronewsjournal.com/2026/02/airbus-soars-higher-targets-record-870.html
+
 - date: 2026-02-20
   title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at 650 Wh/kg
   source: Electrek
@@ -21,6 +45,14 @@
   kind: hardware_news
   summary: 3D Printing Industry reports Hexagon introduced a portable HYPERSCAN 3D scanner certified to VDI/VDE 2634-3 and validated by ISO 17025 accredited laboratory, eliminating reference targets that typically add 15-30 minutes per setup; the system operates in handheld or robotic configurations, integrates with PC-DMIS, Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi 6/7 and integrated battery for shopfloor deployment.
   url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
+
+- date: 2026-02-17
+  title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
+  source: MTDCNC
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: MTDCNC reports Renishaw introduced the AGILITY Coordinate Measuring Machine featuring 5-axis REVO technology designed to enhance throughput and flexibility on the manufacturing shopfloor; the system streamlines multiple measurement tasks on a single platform, accesses previously unreachable features, minimizes part handling delays, and operates close to the point of manufacture to reduce transport-related errors.
+  url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
 
 - date: 2026-02-19
   title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology brand
