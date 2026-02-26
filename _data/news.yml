@@ -1,3 +1,27 @@
+- date: 2026-02-25
+  title: Aerospace startup Salient Motion wins first production contract for lie-flat seat actuation systems
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Salient Motion secured its first production contract with Aviointeriors for actuator systems that convert business-class seats from upright to lie-flat on Airbus and Boeing narrowbody aircraft, with initial deliveries slated for late 2026/early 2027 and positioning the startup for broader aerospace supply-chain participation.
+  url: https://www.reuters.com/business/aerospace-defense/aerospace-supplier-startup-lands-first-production-contract-2026-02-25/
+
+- date: 2026-02-24
+  title: Lucid guides 2026 output to 25,000-27,000 EVs while citing supply-chain and tariff risks
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Lucid forecast 2026 production of 25,000-27,000 vehicles versus 17,840 in 2025, implying slower growth than last year as the company manages supply-chain fragility, tariff exposure, and component constraints while ramping Gravity SUV output and preparing its midsize platform launch.
+  url: https://www.reuters.com/business/autos-transportation/lucid-beats-fourth-quarter-revenue-forecasts-jump-2026-production-2026-02-24/
+
+- date: 2026-02-11
+  title: International AI measurement network publishes consensus practices for automated AI evaluations
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST announced that the International Network for Advanced AI Measurement, Evaluation, and Science published consensus practices and open technical questions for automated AI evaluations, extending measurement-science frameworks for AI capability, reliability, and standards alignment across ten participating jurisdictions.
+  url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
+
 - date: 2026-02-23
   title: Verisurf 2026 introduces workflow improvements for digital manufacturing metrology
   source: Metrology News
@@ -133,14 +157,6 @@
   kind: industry_news
   summary: Reuters reports the U.S. Energy Department removed the fuel-content-factor provision used in fuel-economy calculations, reversing an EV-crediting mechanism that materially affected automaker compliance math and could influence EV production-mix planning.
   url: https://www.reuters.com/world/trump-rescinding-rule-incentivizing-ev-production-meet-fuel-economy-requirements-2026-02-18/
-
-- date: 2026-01-31
-  title: LK highlights CAMIO 2026 R2 + REVO2 deployment on Altera CMM at MACH 2026
-  source: ETMM Online (LK Metrology)
-  sector: quality_software
-  kind: vendor_release
-  summary: LK's MACH 2026 preview details CAMIO 2026 R2 as the first official full-REVO release, demonstrated on an Altera M SCANtek5 CMM, and also highlights Focus point-cloud integration plus broader IMG workflow alignment for multi-sensor 5-axis inspection.
-  url: https://www.etmm-online.com/lk-metrology-5-axis-metrology-breakthrough-mach-2026-a-cdd0956b00036f44f2849554626b990d/
 
 - date: 2026-01-06
   title: Mercedes moves A-Class production from Germany to Hungary to rebalance plant capacity
