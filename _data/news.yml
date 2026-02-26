@@ -22,6 +22,22 @@
   summary: NIST announced that the International Network for Advanced AI Measurement, Evaluation, and Science published consensus practices and open technical questions for automated AI evaluations, extending measurement-science frameworks for AI capability, reliability, and standards alignment across ten participating jurisdictions.
   url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
 
+- date: 2026-02-18
+  title: Valeo commits over €200M to expand India manufacturing footprint and localize advanced components
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Valeo will invest more than €200 million to expand in India and target roughly €700 million in sales by 2028, with strategy centered on localizing advanced automotive technologies and scaling supply for both passenger vehicles and small-mobility segments.
+  url: https://www.reuters.com/world/india/french-car-parts-maker-valeo-unveils-plans-increase-sales-india-2026-02-18/
+
+- date: 2025-10-22
+  title: PC-DMIS 2025.2 release adds Calypso program conversion and reporting enhancements
+  source: Hexagon Nexus
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon's PC-DMIS 2025.2 release introduces a Calypso-to-PC-DMIS conversion utility, updates to cloud-based Metrology Reporting, and freeform/strategy improvements, making it the latest published PC-DMIS release line for mixed-software CMM environments.
+  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2025-2-release-available-now
+
 - date: 2026-02-23
   title: Verisurf 2026 introduces workflow improvements for digital manufacturing metrology
   source: Metrology News
