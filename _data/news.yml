@@ -1,3 +1,27 @@
+- date: 2026-02-26
+  title: Stellantis posts €20B net loss after EV writedowns and quality-related charges
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Stellantis disclosed a €20 billion second-half net loss tied to EV-related writedowns and quality-cost charges, with management projecting recovery while spreading roughly €6.5 billion in associated cash outflows over multiple years; the result signals continued production-mix and platform-reset pressure across major auto manufacturing groups.
+  url: https://www.reuters.com/business/stellantis-posts-20-bln-euro-net-loss-second-half-2025-after-ev-writedowns-2026-02-26/
+
+- date: 2026-02-26
+  title: Hensoldt guides 2026 growth on defense backlog despite revenue miss
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Hensoldt missed current-period revenue expectations but maintained growth guidance for 2026, citing a strong defense-order environment and backlog conversion, reinforcing ongoing European defense-manufacturing demand visibility.
+  url: https://www.reuters.com/business/aerospace-defense/hensoldt-reports-revenue-miss-defense-boom-supports-backlog-2026-02-26/
+
+- date: 2026-02-11
+  title: Chinese EV makers seek EU tariff dialogue model after Volkswagen framework
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Chinese EV manufacturers are pursuing their own tariff-negotiation channels with the EU after a Volkswagen-related framework shift, highlighting policy risk as a core variable in 2026 EV manufacturing footprint and export planning.
+  url: https://www.reuters.com/business/autos-transportation/after-volkswagen-deal-chinese-ev-makers-eye-eu-tariff-talks-their-own-2026-02-11/
+
 - date: 2026-02-25
   title: Aerospace startup Salient Motion wins first production contract for lie-flat seat actuation systems
   source: Reuters
