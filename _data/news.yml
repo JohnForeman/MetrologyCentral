@@ -1,3 +1,43 @@
+- date: 2026-02-27
+  title: Hyundai Motor Group to invest $6.3B in AI data center and robot factory in South Korea
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports Hyundai Motor Group and the South Korean government signed a 9 trillion won plan centered on a 50,000-GPU AI data center, a robot manufacturing plant, and related hydrogen/solar infrastructure in Saemangeum, signaling a major production-technology and industrial-capacity buildout in Asian automotive manufacturing.
+  url: https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/
+
+- date: 2026-02-27
+  title: Melrose flags softer 2026 aerospace sales despite strong defense demand
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports GKN owner Melrose expects 2026 revenue below consensus due to supply-chain bottlenecks and tariff uncertainty, even as defense demand remains strong, highlighting persistent throughput constraints across aerospace manufacturing tiers.
+  url: https://www.reuters.com/business/aerospace-defense/melrose-annual-revenue-up-8-defence-demand-2026-02-27/
+
+- date: 2026-02-09
+  title: Mastercam 2026.R2 launches with semiannual cadence, probing integration, and AI Copilot
+  source: Mastercam
+  sector: quality_software
+  kind: vendor_release
+  summary: Mastercam announced 2026.R2 as its next major release, introducing a semiannual update model, GPU-accelerated simulation claims, expanded multiaxis toolpath controls, Blum digital laser tool-center probing integration, and first official rollout of Mastercam Copilot for AI-assisted workflow support.
+  url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
+
+- date: 2026-02-05
+  title: Volkswagen overtook Tesla as Europe’s top EV seller in 2025
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters cites JATO data showing Volkswagen brand BEV registrations in Europe rose 56% to 274,278 in 2025 while Tesla fell 27% to 236,357, indicating a meaningful competitive and production-mix shift in the European EV manufacturing landscape.
+  url: https://www.reuters.com/business/autos-transportation/volkswagen-overtook-tesla-europes-top-ev-seller-2025-2026-02-05/
+
+- date: 2026-02-20
+  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST’s CAISI and ITL released AI 800-3, formalizing benchmark versus generalized accuracy and promoting generalized linear mixed models to improve uncertainty treatment and decision quality in AI performance measurement, extending core metrology principles into AI evaluation practice.
+  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
+
 - date: 2026-02-26
   title: Stellantis posts €20B net loss after EV writedowns and quality-related charges
   source: Reuters
