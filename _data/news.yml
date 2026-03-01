@@ -1,3 +1,35 @@
+- date: 2026-02-10
+  title: Stellantis explores exit from Samsung SDI U.S. battery JV amid EV strategy reset
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports Stellantis is evaluating options to exit its StarPlus Energy battery joint venture with Samsung SDI as it reassesses EV investment pacing after major writedowns, signaling continued volatility in North American EV production-chain planning.
+  url: https://www.reuters.com/business/autos-transportation/stellantis-seeks-exit-battery-venture-with-samsung-ev-losses-mount-bloomberg-2026-02-10/
+
+- date: 2026-02-18
+  title: LK Metrology launches North American CMM measurement services department with ISO 17025-certified lab support
+  source: Cutting Tool Engineering
+  sector: scientific_metrology
+  kind: industry_news
+  summary: LK Metrology announced a new CMM measurement services department at its North American Tech Center, combining multi-sensor CMM capacity, consultancy, and ISO 17025-certified calibration-backed operations to expand contract metrology support for aerospace, automotive, medical, and defense manufacturers.
+  url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
+
+- date: 2026-02-23
+  title: Exosens raises medium-term growth targets on sustained defense imaging demand
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Exosens lifted medium-term organic growth targets after 2025 revenue rose 22% and continued-operations profit more than doubled, reinforcing the ongoing defense manufacturing and surveillance-equipment demand cycle.
+  url: https://www.reuters.com/business/aerospace-defense/exosens-profit-soars-defence-market-booms-2026-02-23/
+
+- date: 2026-02-26
+  title: Rare earth shortages worsen for U.S. aerospace and chip supply chains despite trade truce
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports continued bottlenecks in yttrium and scandium flows from China are forcing parts of the U.S. aerospace and semiconductor supply chain to ration material and temporarily pause select output, highlighting an emerging production risk for high-temperature coatings and advanced electronics manufacturing.
+  url: https://www.reuters.com/business/aerospace-defense/rare-earth-shortages-worsen-us-aerospace-chips-despite-trade-truce-sources-say-2026-02-26/
+
 - date: 2026-02-27
   title: Hyundai Motor Group to invest $6.3B in AI data center and robot factory in South Korea
   source: Reuters
