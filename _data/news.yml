@@ -1,50 +1,10 @@
-- date: 2026-02-10
-  title: Stellantis explores exit from Samsung SDI U.S. battery JV amid EV strategy reset
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports Stellantis is evaluating options to exit its StarPlus Energy battery joint venture with Samsung SDI as it reassesses EV investment pacing after major writedowns, signaling continued volatility in North American EV production-chain planning.
-  url: https://www.reuters.com/business/autos-transportation/stellantis-seeks-exit-battery-venture-with-samsung-ev-losses-mount-bloomberg-2026-02-10/
-
-- date: 2026-02-18
+﻿- date: 2026-02-18
   title: LK Metrology launches North American CMM measurement services department with ISO 17025-certified lab support
   source: Cutting Tool Engineering
   sector: scientific_metrology
   kind: industry_news
   summary: LK Metrology announced a new CMM measurement services department at its North American Tech Center, combining multi-sensor CMM capacity, consultancy, and ISO 17025-certified calibration-backed operations to expand contract metrology support for aerospace, automotive, medical, and defense manufacturers.
   url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
-
-- date: 2026-02-23
-  title: Exosens raises medium-term growth targets on sustained defense imaging demand
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Exosens lifted medium-term organic growth targets after 2025 revenue rose 22% and continued-operations profit more than doubled, reinforcing the ongoing defense manufacturing and surveillance-equipment demand cycle.
-  url: https://www.reuters.com/business/aerospace-defense/exosens-profit-soars-defence-market-booms-2026-02-23/
-
-- date: 2026-02-26
-  title: Rare earth shortages worsen for U.S. aerospace and chip supply chains despite trade truce
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports continued bottlenecks in yttrium and scandium flows from China are forcing parts of the U.S. aerospace and semiconductor supply chain to ration material and temporarily pause select output, highlighting an emerging production risk for high-temperature coatings and advanced electronics manufacturing.
-  url: https://www.reuters.com/business/aerospace-defense/rare-earth-shortages-worsen-us-aerospace-chips-despite-trade-truce-sources-say-2026-02-26/
-
-- date: 2026-02-27
-  title: Hyundai Motor Group to invest $6.3B in AI data center and robot factory in South Korea
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Hyundai Motor Group and the South Korean government signed a 9 trillion won plan centered on a 50,000-GPU AI data center, a robot manufacturing plant, and related hydrogen/solar infrastructure in Saemangeum, signaling a major production-technology and industrial-capacity buildout in Asian automotive manufacturing.
-  url: https://www.reuters.com/business/autos-transportation/hyundai-motor-group-invest-63-bln-ai-data-centre-robot-factory-south-korea-2026-02-27/
-
-- date: 2026-02-27
-  title: Melrose flags softer 2026 aerospace sales despite strong defense demand
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports GKN owner Melrose expects 2026 revenue below consensus due to supply-chain bottlenecks and tariff uncertainty, even as defense demand remains strong, highlighting persistent throughput constraints across aerospace manufacturing tiers.
-  url: https://www.reuters.com/business/aerospace-defense/melrose-annual-revenue-up-8-defence-demand-2026-02-27/
 
 - date: 2026-02-09
   title: Mastercam 2026.R2 launches with semiannual cadence, probing integration, and AI Copilot
@@ -54,61 +14,13 @@
   summary: Mastercam announced 2026.R2 as its next major release, introducing a semiannual update model, GPU-accelerated simulation claims, expanded multiaxis toolpath controls, Blum digital laser tool-center probing integration, and first official rollout of Mastercam Copilot for AI-assisted workflow support.
   url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
 
-- date: 2026-02-05
-  title: Volkswagen overtook Tesla as Europe’s top EV seller in 2025
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters cites JATO data showing Volkswagen brand BEV registrations in Europe rose 56% to 274,278 in 2025 while Tesla fell 27% to 236,357, indicating a meaningful competitive and production-mix shift in the European EV manufacturing landscape.
-  url: https://www.reuters.com/business/autos-transportation/volkswagen-overtook-tesla-europes-top-ev-seller-2025-2026-02-05/
-
 - date: 2026-02-20
   title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
   source: NIST
   sector: scientific_metrology
   kind: standards_method
-  summary: NIST’s CAISI and ITL released AI 800-3, formalizing benchmark versus generalized accuracy and promoting generalized linear mixed models to improve uncertainty treatment and decision quality in AI performance measurement, extending core metrology principles into AI evaluation practice.
+  summary: NISTâ€™s CAISI and ITL released AI 800-3, formalizing benchmark versus generalized accuracy and promoting generalized linear mixed models to improve uncertainty treatment and decision quality in AI performance measurement, extending core metrology principles into AI evaluation practice.
   url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
-
-- date: 2026-02-26
-  title: Stellantis posts €20B net loss after EV writedowns and quality-related charges
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Stellantis disclosed a €20 billion second-half net loss tied to EV-related writedowns and quality-cost charges, with management projecting recovery while spreading roughly €6.5 billion in associated cash outflows over multiple years; the result signals continued production-mix and platform-reset pressure across major auto manufacturing groups.
-  url: https://www.reuters.com/business/stellantis-posts-20-bln-euro-net-loss-second-half-2025-after-ev-writedowns-2026-02-26/
-
-- date: 2026-02-26
-  title: Hensoldt guides 2026 growth on defense backlog despite revenue miss
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Hensoldt missed current-period revenue expectations but maintained growth guidance for 2026, citing a strong defense-order environment and backlog conversion, reinforcing ongoing European defense-manufacturing demand visibility.
-  url: https://www.reuters.com/business/aerospace-defense/hensoldt-reports-revenue-miss-defense-boom-supports-backlog-2026-02-26/
-
-- date: 2026-02-11
-  title: Chinese EV makers seek EU tariff dialogue model after Volkswagen framework
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports Chinese EV manufacturers are pursuing their own tariff-negotiation channels with the EU after a Volkswagen-related framework shift, highlighting policy risk as a core variable in 2026 EV manufacturing footprint and export planning.
-  url: https://www.reuters.com/business/autos-transportation/after-volkswagen-deal-chinese-ev-makers-eye-eu-tariff-talks-their-own-2026-02-11/
-
-- date: 2026-02-25
-  title: Aerospace startup Salient Motion wins first production contract for lie-flat seat actuation systems
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Salient Motion secured its first production contract with Aviointeriors for actuator systems that convert business-class seats from upright to lie-flat on Airbus and Boeing narrowbody aircraft, with initial deliveries slated for late 2026/early 2027 and positioning the startup for broader aerospace supply-chain participation.
-  url: https://www.reuters.com/business/aerospace-defense/aerospace-supplier-startup-lands-first-production-contract-2026-02-25/
-
-- date: 2026-02-24
-  title: Lucid guides 2026 output to 25,000-27,000 EVs while citing supply-chain and tariff risks
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports Lucid forecast 2026 production of 25,000-27,000 vehicles versus 17,840 in 2025, implying slower growth than last year as the company manages supply-chain fragility, tariff exposure, and component constraints while ramping Gravity SUV output and preparing its midsize platform launch.
-  url: https://www.reuters.com/business/autos-transportation/lucid-beats-fourth-quarter-revenue-forecasts-jump-2026-production-2026-02-24/
 
 - date: 2026-02-11
   title: International AI measurement network publishes consensus practices for automated AI evaluations
@@ -117,14 +29,6 @@
   kind: standards_method
   summary: NIST announced that the International Network for Advanced AI Measurement, Evaluation, and Science published consensus practices and open technical questions for automated AI evaluations, extending measurement-science frameworks for AI capability, reliability, and standards alignment across ten participating jurisdictions.
   url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
-
-- date: 2026-02-18
-  title: Valeo commits over €200M to expand India manufacturing footprint and localize advanced components
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Valeo will invest more than €200 million to expand in India and target roughly €700 million in sales by 2028, with strategy centered on localizing advanced automotive technologies and scaling supply for both passenger vehicles and small-mobility segments.
-  url: https://www.reuters.com/world/india/french-car-parts-maker-valeo-unveils-plans-increase-sales-india-2026-02-18/
 
 - date: 2025-10-22
   title: PC-DMIS 2025.2 release adds Calypso program conversion and reporting enhancements
@@ -163,16 +67,8 @@
   source: Electrek
   sector: ev_manufacturing
   kind: industry_news
-  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250°C heating tests, initially targeting non-automotive applications before EV integration.
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250Â°C heating tests, initially targeting non-automotive applications before EV integration.
   url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
-
-- date: 2026-02-20
-  title: New U.S. cybersecurity rules create barrier for small defense suppliers amid production push
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports the Defense Department's Cybersecurity Maturity Model Certification (CMMC) rules, which started enforcement last November, are leading some small suppliers to reconsider military work due to high compliance costs and months-long audit waits, raising production risks as the Trump administration pressures contractors to boost output and diversify the supply base.
-  url: https://www.reuters.com/business/aerospace-defense/new-cybersecurity-rules-us-defense-industry-create-barrier-for-some-small-2026-02-20/
 
 - date: 2026-02-20
   title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production inspection
@@ -197,22 +93,6 @@
   kind: industry_news
   summary: Measurement Solutions Ltd announced official UK distribution appointment for READY Metrology (manufactured at Coord3's Italy facility), expanding its portfolio into production-focused CMM and CT inspection systems; the READY RUN series features prismatic guideways without air bearings, linear motors, no clean room requirement, setup under 2 hours, and full front table extraction for robotic integration.
   url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
-
-- date: 2026-02-18
-  title: Polestar rolls out refreshed Polestar 2 and 4 models to conserve cash and boost European sales
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Polestar will launch refreshed versions of its Polestar 2 sedan and Polestar 4 SUV over the next year, opting for lower-cost updates over all-new models to stem cash burn while targeting low double-digit volume growth in 2026 and expanding its retail network by 30%.
-  url: https://www.reuters.com/business/autos-transportation/polestar-leans-revamped-models-conserve-cash-boost-european-sales-2026-02-18/
-
-- date: 2026-02-18
-  title: Italy approves production start at Rheinmetall's Sardinia explosives and missile plant
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Italy approved Rheinmetall's production start at its Domusnovas, Sardinia site after environmental clearance; the company says output will begin shortly to support EU/NATO demand after about €50 million in site investment.
-  url: https://www.reuters.com/sustainability/climate-energy/italy-approves-production-start-rheinmetalls-sardinia-island-plant-2026-02-18/
 
 - date: 2026-02-17
   title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
@@ -262,22 +142,6 @@
   summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs 450nm blue laser technology with 4th-generation ESP (enhanced sensor performance) that intelligently adjusts laser power across 2,000 points, enabling measurement of multi-material assemblies and shiny surfaces without preparation at up to 530,000 points per second with 110mm stripe width.
   url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
 
-- date: 2026-02-18
-  title: U.S. rescinds fuel-content-factor rule that had boosted EV compliance values in CAFE calculations
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports the U.S. Energy Department removed the fuel-content-factor provision used in fuel-economy calculations, reversing an EV-crediting mechanism that materially affected automaker compliance math and could influence EV production-mix planning.
-  url: https://www.reuters.com/world/trump-rescinding-rule-incentivizing-ev-production-meet-fuel-economy-requirements-2026-02-18/
-
-- date: 2026-01-06
-  title: Mercedes moves A-Class production from Germany to Hungary to rebalance plant capacity
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Mercedes-Benz will shift A-Class production from Rastatt to Kecskemét from Q2 2026, framing the move as capacity reallocation within its flexible network to free German lines for upcoming model launches.
-  url: https://www.reuters.com/business/mercedes-move-a-class-production-germany-hungary-2026-01-06/
-
 - date: 2025-04-30
   title: InnovMetric releases PolyWorks 2025 with inspection digital-thread controls and approval workflow
   source: InnovMetric
@@ -285,14 +149,6 @@
   kind: vendor_release
   summary: InnovMetric's PolyWorks 2025 release emphasizes enterprise inspection-thread governance, including project-template standardization, piece-inspection locking, view-only sharing, and web-based review/approval to improve traceability and cross-team quality execution.
   url: https://www.polyworks.com/en-ca/news/innovmetric-releases-polyworks-2025
-
-- date: 2026-02-16
-  title: SAIC-JSW MG India to invest up to $440M to expand plant capacity and launch new NEV models
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports JSW MG Motor plans up to $440 million in new investment to expand India capacity from roughly 120,000 to 300,000 units annually and launch additional hybrid/EV models, signaling a material production-scale move in one of the world's fastest-growing auto hubs.
-  url: https://www.reuters.com/world/china/saics-india-venture-invest-up-440-million-expansion-deepen-bet-hybrids-evs-2026-02-16/
 
 - date: 2026-02-16
   title: CAMIO 2026 R2 announced as first release with full REVO system support
@@ -310,38 +166,6 @@
   summary: Quality Magazine reports LK introduced the COREX 250 industrial CT platform (via Ready Metrology) with a 230 mm cube work volume and short scan cycles aimed at near-line non-destructive metrology, reflecting continued migration of volumetric inspection from labs to production environments.
   url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
 
-- date: 2026-02-06
-  title: Chinese EV exports reach record $69.6B across widening global market footprint
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters analysis highlights China's 2025 new-energy-vehicle output above 16 million units and EV exports at a record 2.6 million units ($69.6 billion), a key signal that global EV manufacturing competition is increasingly shaped by export-scale Chinese production.
-  url: https://www.reuters.com/markets/china-tightens-clean-tech-grip-with-growing-ev-export-reach-2026-02-06/
-
-- date: 2026-01-26
-  title: Airbus commercial-jet chief reiterates production ramp focus and signals openness to larger A220
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports new Airbus commercial-aircraft CEO Lars Wagner prioritized output execution and ramp management (including A350 and narrowbody programs) while indicating support for a larger A220 variant, reinforcing ongoing capacity and product-mix pressure across aerospace manufacturing.
-  url: https://www.reuters.com/business/aerospace-defense/new-airbus-commercial-ceo-focused-output-backs-bigger-a220-2026-01-26/
-
-- date: 2026-02-12
-  title: Rivian projects 2026 delivery jump as R2 rollout anchors Illinois manufacturing scale-up
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports Rivian expects a significant 2026 delivery increase tied to its lower-cost R2 launch, with initial production centered in Normal, Illinois while Georgia plant expansion continues-an important near-term EV manufacturing capacity signal.
-  url: https://www.reuters.com/business/autos-transportation/rivian-sees-2026-delivery-jump-driven-by-rollout-smaller-more-affordable-r2-suvs-2026-02-12/
-
-- date: 2026-02-11
-  title: Northrop Grumman and Niewiadow target 180,000+ artillery shells per year in Poland
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Northrop Grumman and Polish manufacturer Niewiadow are targeting annual output above 180,000 artillery rounds, signaling continued defense-manufacturing localization and scale-up in Europe.
-  url: https://www.reuters.com/business/aerospace-defense/northrop-grumman-polish-arms-maker-aim-produce-more-than-180000-artillery-shells-2026-02-11/
-
 - date: 2025-11-20
   title: ZEISS announces INSPECT 2026 software release with expanded GD&T and X-ray workflow automation
   source: ZEISS Industrial Quality Solutions
@@ -349,30 +173,6 @@
   kind: vendor_release
   summary: ZEISS announced its 2026 INSPECT release with upgraded GD&T support, faster scripting, and new X-ray workflow features (including multipart separation and broader METROTOM support), extending the software stack for high-throughput inspection teams.
   url: https://www.zeiss.com/metrology/en/about-us/newsroom/2025/software-release.html
-
-- date: 2026-02-12
-  title: BYD, Geely, and VinFast shortlisted for Nissan-Mercedes Mexico plant acquisition
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports BYD, Geely, and VinFast are among finalists bidding for a 230,000-unit-capacity Nissan-Mercedes facility in Aguascalientes, signaling a potential shift in Mexico's EV manufacturing footprint as Chinese automakers pursue Latin American production access.
-  url: https://www.reuters.com/business/autos-transportation/seeking-mexico-foothold-chinas-byd-geely-bid-buy-car-plant-2026-02-12/
-
-- date: 2026-02-10
-  title: Boeing plans fourth 737 MAX line in Everett for midsummer launch
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Boeing plans to open a fourth 737 MAX line in Everett in midsummer as part of its multi-year rate ramp, adding a concrete capacity signal for narrowbody supplier planning.
-  url: https://www.reuters.com/business/aerospace-defense/boeing-plans-open-fourth-737-production-line-mid-summer-2026-02-10/
-
-- date: 2026-02-06
-  title: Mahindra commits $1.65B to Maharashtra manufacturing expansion
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Mahindra will invest over 10 years to expand manufacturing in Maharashtra, including a large integrated auto-and-tractor plant and supplier ecosystem, reinforcing India's role in global production growth.
-  url: https://www.reuters.com/world/india/indian-automaker-mahindra-invest-165-billion-over-decade-expand-manufacturing-2026-02-06/
 
 - date: 2026-01-29
   title: NPL launches UK Centre for AI Measurement under AI assurance fund
@@ -414,22 +214,6 @@
   summary: Coverage notes January global EV sales growth was constrained by weaker momentum in China and the U.S., signaling continued volatility in near-term EV manufacturing demand planning.
   url: https://finance.yahoo.com/news/global-ev-sales-hampered-china-000308427.html
 
-- date: 2026-02-13
-  title: Stellantis resurrects diesel models across Europe amid EV retreat
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports Stellantis is bringing back diesel variants across multiple European nameplates as EV demand softens, underscoring active manufacturing mix rebalancing and capacity reprioritization.
-  url: https://www.reuters.com/business/autos-transportation/stellantis-resurrects-diesel-cars-across-europe-amid-ev-retreat-2026-02-13/
-
-- date: 2026-02-13
-  title: Safran to open landing-gear plant in Morocco to supply Airbus A320 programs
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Safran Landing Systems signed a deal with Morocco to build a 280 million euro landing-gear facility near Casablanca to support Airbus A320 demand, adding capacity in a strategically growing aerospace supplier region.
-  url: https://www.reuters.com/business/aerospace-defense/safran-open-landing-gear-plant-morocco-2026-02-13/
-
 - date: 2026-02-09
   title: NIST outlines expanding need for reference materials in orbital research and production
   source: NIST
@@ -467,7 +251,7 @@
   source: LK Metrology News
   sector: scientific_metrology
   kind: hardware_news
-  summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 m³ to 72 m³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
+  summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 mÂ³ to 72 mÂ³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 
 - date: 2026-02-07
@@ -478,22 +262,6 @@
   summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification framing to separate functional flatness from fine texture content using wavelength-based filtering, with an example for large granite surface plates. The article provides a concrete standards-to-method bridge for reducing ambiguity and measurement burden in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/
 
-- date: 2026-02-06
-  title: BYD localizes Brazil EV factory supply chain toward 50% local parts target
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports BYD is pushing local sourcing in Brazil to scale regional manufacturing and improve competitiveness, a strong global EV manufacturing signal outside China's domestic footprint.
-  url: https://www.reuters.com/sustainability/sustainable-finance-reporting/byd-shifts-local-parts-brazil-factory-bid-market-leadership-2026-02-05/
-
-- date: 2026-02-06
-  title: Global carmakers report about $55 billion in EV-related writedowns amid production-strategy resets
-  source: Reuters
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Reuters reports multiple automakers disclosed large EV-related writedowns while adjusting platform and capacity plans, reflecting slower transition pacing and changing regional market conditions.
-  url: https://www.reuters.com/business/autos-transportation/global-carmakers-book-55-billion-hit-ev-rollback-2026-02-06/
-
 - date: 2026-02-05
   title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
   source: Hexagon Manufacturing Intelligence Blog
@@ -502,22 +270,6 @@
   summary: A new Hexagon case study describes workflow consolidation around WORKNC, ESPRIT EDGE, and VISI to reduce CAD/CAM fragmentation and improve digital continuity between design and manufacturing. The report highlights practical effects on programming reliability, quotation speed, and shop-floor communication in a high-precision mouldmaking environment.
   url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
 
-- date: 2026-01-27
-  title: Boeing reports 737 MAX output at 42 per month while outlining higher-rate plans
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters coverage indicates Boeing ended the year at 42/month 737 MAX output with continued production-ramp planning, a key capacity signal for global aerospace manufacturing and suppliers.
-  url: https://www.reuters.com/business/aerospace-defense/boeing-reports-fourth-quarter-profit-2026-01-27/
-
-- date: 2025-12-16
-  title: Tesla ramps battery-cell investment at German gigafactory
-  source: Reuters
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Reuters reports Tesla is expanding battery-cell investment in Germany, highlighting a process-level manufacturing move with implications for EV localization and capacity planning in Europe.
-  url: https://www.reuters.com/business/autos-transportation/tesla-ramps-up-battery-cell-investments-german-gigafactory-2025-12-16/
-
 - date: 2025-11-06
   title: Nissan case study highlights production-scale metrology integration
   source: Renishaw
@@ -525,14 +277,6 @@
   kind: case_study
   summary: Renishaw's Nissan case study provides a practical view of production metrology deployment decisions at automotive scale, including process integration and throughput-focused quality control.
   url: https://www.renishaw.com/en/news--6854
-
-- date: 2025-10-27
-  title: Airbus adjusts A220 output timing while targeting 2026 production milestones
-  source: Reuters
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Reuters reports Airbus delayed part of A220 output, tightening the path to planned 2026 rate milestones and underscoring ongoing aerospace supply-chain constraints.
-  url: https://www.reuters.com/business/aerospace-defense/airbus-delays-some-a220-output-narrowing-window-reach-2026-target-2025-10-27/
 
 - date: 2025-09-16
   title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
