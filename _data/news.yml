@@ -1,4 +1,43 @@
-﻿- date: 2026-02-18
+﻿- date: 2026-02-25
+  title: Aerospace supplier startup Salient Motion lands first production contract for aircraft seat actuators
+  source: Reuters
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Reuters reports Salient Motion secured its first production contract with Aviointeriors to supply actuator systems for lie-flat business-class seats on Airbus and Boeing narrowbody programs, marking an early manufacturing-scale validation for a new aerospace supplier aiming to shorten qualification-to-delivery cycles.
+  url: https://www.reuters.com/business/aerospace-defense/aerospace-supplier-startup-lands-first-production-contract-2026-02-25/
+
+- date: 2026-02-12
+  title: BYD and Geely emerge as finalists to acquire Nissan-Mercedes plant in Mexico
+  source: Reuters
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Reuters reports BYD and Geely are among finalists bidding for the Aguascalientes Nissan-Mercedes facility, a potential manufacturing realignment that could shift Mexico's automotive production mix as global OEMs rebalance capacity under tariff and regional trade pressure.
+  url: https://www.reuters.com/business/autos-transportation/seeking-mexico-foothold-chinas-byd-geely-bid-buy-car-plant-2026-02-12/
+
+- date: 2026-02-05
+  title: BYD targets 50% local component sourcing at Brazil EV factory by end-2026
+  source: Reuters
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Reuters reports BYD is accelerating localization at its Bahia complex with a target of 50% local content by end-2026 and potential Mercosur export flow, signaling a transition from import-led EV volumes toward regionally integrated manufacturing.
+  url: https://www.reuters.com/sustainability/sustainable-finance-reporting/byd-shifts-local-parts-brazil-factory-bid-market-leadership-2026-02-05/
+
+- date: 2026-01-28
+  title: CMM-Manager 2026 released with Equator-X support, CSI integration, and expanded reporting controls
+  source: QxSoft
+  sector: quality_software
+  kind: vendor_release
+  summary: QxSoft announced CMM-Manager 2026 with new Renishaw Equator-X support, Hexagon CSI integration, configurable CSV/text reporting templates, ASME Y14.5.1-2019 constrained plane fitting options, and broader CAD interoperability updates through 2026 model formats.
+  url: https://qxcmm.com/cmm-manager-2026/
+
+- date: 2026-01-21
+  title: NIST requests public comment on AI 800-2 automated benchmark evaluation practices
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST CAISI released draft AI 800-2 and opened public comment through March 31, 2026, outlining measurement-practice guidance for automated benchmark evaluations of language models and AI agent systems to improve validity, transparency, and reproducibility.
+  url: https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations
+- date: 2026-02-18
   title: LK Metrology launches North American CMM measurement services department with ISO 17025-certified lab support
   source: Cutting Tool Engineering
   sector: scientific_metrology
@@ -285,3 +324,4 @@
   kind: press_release
   summary: Rivian announced its Georgia plant kickoff with construction starting in 2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing capacity expansion.
   url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
+
