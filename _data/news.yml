@@ -1,5 +1,32 @@
 ---
-- date: '2026-02-26'
+- date: 2026-03-02
+  title: Rivian details R2 manufacturing technology and quality strategy ahead of production scale-up
+  source: Rivian Stories
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Rivian published a manufacturing-focused R2 update describing plant technology, process controls, and quality execution priorities as it prepares for higher-volume output.
+  url: https://stories.rivian.com/r2-plant-technology-innovation-rivian-2026
+- date: 2026-03-02
+  title: CMM adaptation trends highlight multi-sensor workflows and software-driven data fusion in production metrology
+  source: Metrology News
+  sector: scientific_metrology
+  kind: case_study
+  summary: Metrology News outlines how multi-sensor CMM strategies and software orchestration are being used to improve inspection flexibility, feature coverage, and reporting consistency in advanced manufacturing environments.
+  url: https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/
+- date: 2026-02-24
+  title: Next-generation shopfloor CMM architecture emphasizes fixed-portal designs for production stability
+  source: Quality Magazine
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Quality Magazine reports growing adoption of fixed-portal and moving-table CMM configurations for shopfloor inspection, citing improved environmental robustness and repeatable throughput in production settings.
+  url: https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments
+- date: 2026-02-26
+  title: 2026 MBE and QIF Summit announced with focus on model-based quality across design-to-manufacturing flow
+  source: DMSC / QIF Standards
+  sector: quality_software
+  kind: standards_method
+  summary: The 2026 MBE and QIF Summit announcement highlights industry-government collaboration on model-based quality information frameworks and practical implementation lessons across engineering, manufacturing, and inspection workflows.
+  url: https://qifstandards.org/2026-mbe-qif-summit/- date: '2026-02-26'
   title: National Weights and Measures Week 2026 spotlights standards infrastructure in global metrology coordination
   source: NCWM
   sector: scientific_metrology
