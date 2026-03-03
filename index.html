@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 title: Metrology Central
 description: Practical metrology and quality engineering insights on CMM workflows, correlation, GD&T, and digital quality systems.
@@ -9,7 +9,7 @@ description: Practical metrology and quality engineering insights on CMM workflo
 <div class="home-hero">
   <div class="hero-header">
     <p class="hero-eyebrow">Metrology Central</p>
-    <h1>Evolving Quality → Digital, Data-Driven, AI-Supported</h1>
+    <h1>Evolving Quality â†’ Digital, Data-Driven, AI-Supported</h1>
   </div>
 
   <div class="hero-main">
@@ -38,7 +38,7 @@ description: Practical metrology and quality engineering insights on CMM workflo
 
 {% include adsense-unit.html slot=site.adsense.slots.home_infeed class='adsense-home' %}
 
-{% assign news_items = site.data.news | sort: 'date' | reverse %}
+{% assign news_items = site.data.news %}
 
 {% if latest_post %}
   <section class="latest-highlight" id="latest-posts">
@@ -78,7 +78,7 @@ description: Practical metrology and quality engineering insights on CMM workflo
     {% endfor %}
   </ul>
 {% else %}
-  <p class="post-list-empty">More articles are on the way—check back soon.</p>
+  <p class="post-list-empty">More articles are on the wayâ€”check back soon.</p>
 {% endif %}
 
 {% if news_items and news_items.size > 0 %}
@@ -93,4 +93,5 @@ description: Practical metrology and quality engineering insights on CMM workflo
     </article>
   </section>
 {% endif %}
+
 
