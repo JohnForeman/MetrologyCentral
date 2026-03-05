@@ -1,4 +1,14 @@
 ---
+- date: '2026-03-04'
+  title: BYD previews Blade Battery 2.0 with 1,000 km-class EV range target and fast-charge
+    focus
+  source: Electrek
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports BYD outlined second-generation Blade battery positioning
+    with 1,000 km-class CLTC range claims and high-rate charging emphasis, signaling
+    intensified scale and performance competition in EV battery manufacturing programs.
+  url: https://electrek.co/2026/03/04/byds-blade-ev-battery-2-0-unlocks-1000-km-pure-electric-range/
 - date: '2026-03-03'
   title: Measurement Solutions previews MACH 2026 zones including READY shopfloor
     CMM and CT workflows
@@ -9,35 +19,16 @@
     metrology automation, defense MRO, aerospace, and automotive with emphasis on
     READY shopfloor CMM, CT scanning, and robotic integration linked to LK group priorities.
   url: https://www.measurement-solutions.co.uk/msl-showcases-industry-focused-innovation-at-mach-2026/
-- date: '2026-02-19'
-  title: Toyota Europe launches Poland circular-factory investment for end-of-life
-    vehicle processing
-  source: Toyota Europe Newsroom
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych,
-    Poland to process end-of-life vehicles, adding industrial-scale remanufacturing
-    and materials-recovery capacity to its regional manufacturing network.
-  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
-- date: '2026-03-02'
-  title: Volkswagen solid-state partner starts in-vehicle testing of 1,000 km-class
-    battery cells
-  source: Electrek
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Electrek reports Volkswagen-backed solid-state battery programs have moved
-    into on-vehicle testing, signaling a transition from lab validation to integration-phase
-    manufacturing readiness work.
-  url: https://electrek.co/2026/03/02/volkswagen-supplier-begins-testing-solid-state-batteries-in-evs/
-- date: '2026-03-02'
-  title: Air Astana finalizes direct order for 25 Airbus A320neo Family aircraft
+- date: '2026-03-03'
+  title: Airbus publishes 2026 AGM agenda with board updates tied to aerospace leadership
+    continuity
   source: Airbus
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: Airbus announced Air Astana Group signed a firm order for 25 A320neo Family
-    aircraft, extending near-term commercial-aircraft production visibility and supplier
-    demand across the narrowbody ecosystem.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-air-astana-finalises-order-for-25-airbus-a320neo-family-aircraft
+  summary: Airbus published its 2026 AGM agenda including proposed board appointments
+    and renewals, providing governance visibility as the company manages commercial-aircraft
+    ramp execution and defense-sector leadership transitions.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-publishes-agenda-for-2026-annual-general-meeting
 - date: 2026-03-02
   title: Rivian details R2 manufacturing technology and quality strategy ahead of
     production scale-up
@@ -48,6 +39,15 @@
     process controls, and quality execution priorities as it prepares for higher-volume
     output.
   url: https://stories.rivian.com/r2-plant-technology-innovation-rivian-2026
+- date: '2026-03-02'
+  title: Air Astana finalizes direct order for 25 Airbus A320neo Family aircraft
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus announced Air Astana Group signed a firm order for 25 A320neo Family
+    aircraft, extending near-term commercial-aircraft production visibility and supplier
+    demand across the narrowbody ecosystem.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-air-astana-finalises-order-for-25-airbus-a320neo-family-aircraft
 - date: 2026-03-02
   title: CMM adaptation trends highlight multi-sensor workflows and software-driven
     data fusion in production metrology
@@ -58,16 +58,16 @@
     are being used to improve inspection flexibility, feature coverage, and reporting
     consistency in advanced manufacturing environments.
   url: https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/
-- date: 2026-02-24
-  title: Next-generation shopfloor CMM architecture emphasizes fixed-portal designs
-    for production stability
-  source: Quality Magazine
-  sector: auto_manufacturing
+- date: '2026-03-02'
+  title: Volkswagen solid-state partner starts in-vehicle testing of 1,000 km-class
+    battery cells
+  source: Electrek
+  sector: ev_manufacturing
   kind: industry_news
-  summary: Quality Magazine reports growing adoption of fixed-portal and moving-table
-    CMM configurations for shopfloor inspection, citing improved environmental robustness
-    and repeatable throughput in production settings.
-  url: https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments
+  summary: Electrek reports Volkswagen-backed solid-state battery programs have moved
+    into on-vehicle testing, signaling a transition from lab validation to integration-phase
+    manufacturing readiness work.
+  url: https://electrek.co/2026/03/02/volkswagen-supplier-begins-testing-solid-state-batteries-in-evs/
 - date: 2026-02-26
   title: 2026 MBE and QIF Summit announced with focus on model-based quality across
     design-to-manufacturing flow
@@ -78,38 +78,6 @@
     collaboration on model-based quality information frameworks and practical implementation
     lessons across engineering, manufacturing, and inspection workflows.
   url: https://qifstandards.org/2026-mbe-qif-summit/
-- date: '2026-02-26'
-  title: National Weights and Measures Week 2026 spotlights standards infrastructure
-    in global metrology coordination
-  source: NCWM
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NCWMs 2026 National Weights and Measures Week announcement highlights the
-    continuing role of consensus standards, regulator-industry coordination, and NIST-linked
-    metrology practices in maintaining measurement trust across increasingly complex
-    markets.
-  url: https://www.globenewswire.com/news-release/2026/02/26/3245345/0/en/National-Weights-and-Measures-Week-2026.html
-- date: '2026-01-31'
-  title: CAMIO 2026 R2 highlighted with first full REVO support on LK Altera M Scantek
-    5 platform
-  source: ETMM Online
-  sector: quality_software
-  kind: vendor_release
-  summary: ETMM Online coverage of LK Metrology''s Mach 2026 preview details CAMIO
-    2026 R2 as the first official full REVO-support release, emphasizing synchronized
-    probe/CMM motion and faster multi-sensor 5-axis path execution on the Altera M
-    Scantek 5 system.
-  url: https://www.etmm-online.com/lk-metrology-5-axis-metrology-breakthrough-mach-2026-a-cdd0956b00036f44f2849554626b990d/
-- date: '2026-02-19'
-  title: Airbus FY2025 results reaffirm production ramp with 793 deliveries and 2026
-    guidance
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus reported 793 commercial aircraft deliveries in 2025, a record backlog
-    of 8,754 aircraft, and issued 2026 guidance while continuing production ramp plans
-    under persistent engine and supply-chain constraints.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-reports-full-year-fy-2025-results
 - date: '2026-02-26'
   title: Stellantis FY2025 reset outlines multi-powertrain manufacturing plan for
     2026 recovery
@@ -131,92 +99,27 @@
     battery platform, a key production step as the company targets commercialization
     with OEM partners including Mercedes-Benz and Stellantis.
   url: https://electrek.co/2026/02/26/all-solid-state-ev-battery-maker-factorial-moves-toward-production/
-- date: 2026-01-28
-  title: CMM-Manager 2026 released with Equator-X support, CSI integration, and expanded
-    reporting controls
-  source: QxSoft
-  sector: quality_software
-  kind: vendor_release
-  summary: QxSoft announced CMM-Manager 2026 with new Renishaw Equator-X support,
-    Hexagon CSI integration, configurable CSV/text reporting templates, ASME Y14.5.1-2019
-    constrained plane fitting options, and broader CAD interoperability updates through
-    2026 model formats.
-  url: https://qxcmm.com/cmm-manager-2026/
-- date: 2026-01-21
-  title: NIST requests public comment on AI 800-2 automated benchmark evaluation practices
-  source: NIST
+- date: '2026-02-26'
+  title: National Weights and Measures Week 2026 spotlights standards infrastructure
+    in global metrology coordination
+  source: NCWM
   sector: scientific_metrology
   kind: standards_method
-  summary: NIST CAISI released draft AI 800-2 and opened public comment through March
-    31, 2026, outlining measurement-practice guidance for automated benchmark evaluations
-    of language models and AI agent systems to improve validity, transparency, and
-    reproducibility.
-  url: https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations
-- date: 2026-02-18
-  title: LK Metrology launches North American CMM measurement services department
-    with ISO 17025-certified lab support
-  source: Cutting Tool Engineering
-  sector: scientific_metrology
+  summary: NCWMs 2026 National Weights and Measures Week announcement highlights the
+    continuing role of consensus standards, regulator-industry coordination, and NIST-linked
+    metrology practices in maintaining measurement trust across increasingly complex
+    markets.
+  url: https://www.globenewswire.com/news-release/2026/02/26/3245345/0/en/National-Weights-and-Measures-Week-2026.html
+- date: 2026-02-24
+  title: Next-generation shopfloor CMM architecture emphasizes fixed-portal designs
+    for production stability
+  source: Quality Magazine
+  sector: auto_manufacturing
   kind: industry_news
-  summary: LK Metrology announced a new CMM measurement services department at its
-    North American Tech Center, combining multi-sensor CMM capacity, consultancy,
-    and ISO 17025-certified calibration-backed operations to expand contract metrology
-    support for aerospace, automotive, medical, and defense manufacturers.
-  url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
-- date: 2026-02-09
-  title: Mastercam 2026.R2 launches with semiannual cadence, probing integration,
-    and AI Copilot
-  source: Mastercam
-  sector: quality_software
-  kind: vendor_release
-  summary: Mastercam announced 2026.R2 as its next major release, introducing a semiannual
-    update model, GPU-accelerated simulation claims, expanded multiaxis toolpath controls,
-    Blum digital laser tool-center probing integration, and first official rollout
-    of Mastercam Copilot for AI-assisted workflow support.
-  url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
-- date: 2026-02-20
-  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NISTÃ¢â‚¬â„¢s CAISI and ITL released AI 800-3, formalizing benchmark versus
-    generalized accuracy and promoting generalized linear mixed models to improve
-    uncertainty treatment and decision quality in AI performance measurement, extending
-    core metrology principles into AI evaluation practice.
-  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
-- date: 2026-02-11
-  title: International AI measurement network publishes consensus practices for automated
-    AI evaluations
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST announced that the International Network for Advanced AI Measurement,
-    Evaluation, and Science published consensus practices and open technical questions
-    for automated AI evaluations, extending measurement-science frameworks for AI
-    capability, reliability, and standards alignment across ten participating jurisdictions.
-  url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
-- date: 2025-10-22
-  title: PC-DMIS 2025.2 release adds Calypso program conversion and reporting enhancements
-  source: Hexagon Nexus
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon's PC-DMIS 2025.2 release introduces a Calypso-to-PC-DMIS conversion
-    utility, updates to cloud-based Metrology Reporting, and freeform/strategy improvements,
-    making it the latest published PC-DMIS release line for mixed-software CMM environments.
-  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2025-2-release-available-now
-- date: 2026-02-23
-  title: Verisurf 2026 introduces workflow improvements for digital manufacturing
-    metrology
-  source: Metrology News
-  sector: quality_software
-  kind: vendor_release
-  summary: Metrology News reports Verisurf 2026 introduces numerous new features and
-    workflow improvements designed to help manufacturers reduce costs, save time,
-    and enhance repeatable process control across all stages of digital manufacturing;
-    by embedding metrology into the digital workflow, manufacturers gain faster inspection
-    with greater visibility, repeatability, and control of their entire production
-    process.
-  url: https://metrology.news/verisurf-2026-precision-meets-innovation/
+  summary: Quality Magazine reports growing adoption of fixed-portal and moving-table
+    CMM configurations for shopfloor inspection, citing improved environmental robustness
+    and repeatable throughput in production settings.
+  url: https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments
 - date: 2026-02-23
   title: SHINING 3D expands industrial metrology portfolio with OptimScan Q9 and FreeScan
     Omni Lite
@@ -230,6 +133,19 @@
     measurement integrity with consistent software capability and support across the
     portfolio.'
   url: https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/
+- date: 2026-02-23
+  title: Verisurf 2026 introduces workflow improvements for digital manufacturing
+    metrology
+  source: Metrology News
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Verisurf 2026 introduces numerous new features and
+    workflow improvements designed to help manufacturers reduce costs, save time,
+    and enhance repeatable process control across all stages of digital manufacturing;
+    by embedding metrology into the digital workflow, manufacturers gain faster inspection
+    with greater visibility, repeatability, and control of their entire production
+    process.
+  url: https://metrology.news/verisurf-2026-precision-meets-innovation/
 - date: 2026-02-22
   title: Airbus targets record 870 commercial jet deliveries in 2026, up 10% from
     2025
@@ -243,18 +159,6 @@
     8,700 aircraft despite ongoing supply chain and engine availability challenges.
   url: https://www.aeronewsjournal.com/2026/02/airbus-soars-higher-targets-record-870.html
 - date: 2026-02-20
-  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at
-    650 Wh/kg
-  source: Electrek
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer
-    (45% global market share), has begun mass-producing semi-solid-state batteries
-    with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and
-    sulfur cathode; the technology passed nail penetration and 250Ã‚Â°C heating tests,
-    initially targeting non-automotive applications before EV integration.
-  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
-- date: 2026-02-20
   title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production
     inspection
   source: 3D Printing Industry
@@ -267,18 +171,28 @@
     Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi
     6/7 and integrated battery for shopfloor deployment.
   url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
-- date: 2026-02-17
-  title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
-  source: MTDCNC
+- date: 2026-02-20
+  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at
+    650 Wh/kg
+  source: Electrek
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer
+    (45% global market share), has begun mass-producing semi-solid-state batteries
+    with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and
+    sulfur cathode; the technology passed nail penetration and 250Ã‚Â°C heating tests,
+    initially targeting non-automotive applications before EV integration.
+  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
+- date: 2026-02-20
+  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
+  source: NIST
   sector: scientific_metrology
-  kind: hardware_news
-  summary: MTDCNC reports Renishaw introduced the AGILITY Coordinate Measuring Machine
-    featuring 5-axis REVO technology designed to enhance throughput and flexibility
-    on the manufacturing shopfloor; the system streamlines multiple measurement tasks
-    on a single platform, accesses previously unreachable features, minimizes part
-    handling delays, and operates close to the point of manufacture to reduce transport-related
-    errors.
-  url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
+  kind: standards_method
+  summary: NISTÃ¢â‚¬â„¢s CAISI and ITL released AI 800-3, formalizing benchmark versus
+    generalized accuracy and promoting generalized linear mixed models to improve
+    uncertainty treatment and decision quality in AI performance measurement, extending
+    core metrology principles into AI evaluation practice.
+  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
 - date: 2026-02-19
   title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology
     brand
@@ -291,6 +205,49 @@
     prismatic guideways without air bearings, linear motors, no clean room requirement,
     setup under 2 hours, and full front table extraction for robotic integration.
   url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
+- date: '2026-02-19'
+  title: Toyota Europe launches Poland circular-factory investment for end-of-life
+    vehicle processing
+  source: Toyota Europe Newsroom
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych,
+    Poland to process end-of-life vehicles, adding industrial-scale remanufacturing
+    and materials-recovery capacity to its regional manufacturing network.
+  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
+- date: '2026-02-19'
+  title: Airbus FY2025 results reaffirm production ramp with 793 deliveries and 2026
+    guidance
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus reported 793 commercial aircraft deliveries in 2025, a record backlog
+    of 8,754 aircraft, and issued 2026 guidance while continuing production ramp plans
+    under persistent engine and supply-chain constraints.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-reports-full-year-fy-2025-results
+- date: 2026-02-18
+  title: LK Metrology launches North American CMM measurement services department
+    with ISO 17025-certified lab support
+  source: Cutting Tool Engineering
+  sector: scientific_metrology
+  kind: industry_news
+  summary: LK Metrology announced a new CMM measurement services department at its
+    North American Tech Center, combining multi-sensor CMM capacity, consultancy,
+    and ISO 17025-certified calibration-backed operations to expand contract metrology
+    support for aerospace, automotive, medical, and defense manufacturers.
+  url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
+- date: 2026-02-17
+  title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
+  source: MTDCNC
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: MTDCNC reports Renishaw introduced the AGILITY Coordinate Measuring Machine
+    featuring 5-axis REVO technology designed to enhance throughput and flexibility
+    on the manufacturing shopfloor; the system streamlines multiple measurement tasks
+    on a single platform, accesses previously unreachable features, minimizes part
+    handling delays, and operates close to the point of manufacture to reduce transport-related
+    errors.
+  url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
 - date: 2026-02-17
   title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
   source: MTDCNC
@@ -302,18 +259,16 @@
     interface, barcode-driven program switching, and robotic integration support for
     automated inspection cells.
   url: https://mtdcnc.com/news/mtdcnc/ready-metrology-launches-run-cmm-line-for-fast-shopfloor-ready-inspection/
-- date: 2026-02-17
-  title: Mach Industries and Divergent Technologies deliver Venom UAS prototype in
-    71 days
-  source: Defense Daily
+- date: '2026-02-17'
+  title: Divergent and Mach Industries announce Venom demonstrator built from concept
+    to flight in 71 days
+  source: PR Newswire
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: Defense Daily reports Mach Industries and Divergent Technologies rapidly
-    prototyped a jet-powered Venom flight demonstrator from design start to flight
-    test in 71 days using digital manufacturing and additive production of monolithic
-    3D-printed aluminum structures, showcasing hardware development at software speed
-    for defense applications.
-  url: https://www.defensedaily.com/mach-industries-advanced-manufacturer-divergent-rapidly-deliver-venom-flight-demonstrator/unmanned-systems/
+  summary: A joint release from Divergent and Mach Industries states the Venom autonomous
+    strike-aircraft demonstrator progressed from concept to flight-ready prototype
+    in 71 days using digital manufacturing and integrated airframe development workflows.
+  url: https://www.prnewswire.com/news-releases/divergent-and-mach-industries-launch-venom-302689655.html
 - date: 2026-02-17
   title: Applied Automation Technologies releases CAPPS 2026 CNC and metrology software
     suite
@@ -335,37 +290,6 @@
     and quantum technologies, including projects for SEM simulation improvements and
     SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
   url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
-- date: 2026-02-07
-  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
-  source: Modern Machine Shop
-  sector: scientific_metrology
-  kind: hardware_news
-  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs
-    450nm blue laser technology with 4th-generation ESP (enhanced sensor performance)
-    that intelligently adjusts laser power across 2,000 points, enabling measurement
-    of multi-material assemblies and shiny surfaces without preparation at up to 530,000
-    points per second with 110mm stripe width.
-  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
-- date: 2025-04-30
-  title: InnovMetric releases PolyWorks 2025 with inspection digital-thread controls
-    and approval workflow
-  source: InnovMetric
-  sector: quality_software
-  kind: vendor_release
-  summary: InnovMetric's PolyWorks 2025 release emphasizes enterprise inspection-thread
-    governance, including project-template standardization, piece-inspection locking,
-    view-only sharing, and web-based review/approval to improve traceability and cross-team
-    quality execution.
-  url: https://www.polyworks.com/en-ca/news/innovmetric-releases-polyworks-2025
-- date: 2026-02-16
-  title: CAMIO 2026 R2 announced as first release with full REVO system support
-  source: M&MT
-  sector: quality_software
-  kind: vendor_release
-  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
-    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
-    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
-  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
 - date: 2026-02-16
   title: LK Metrology introduces COREX 250 shop-floor CT system for rapid internal
     inspection
@@ -377,26 +301,15 @@
     at near-line non-destructive metrology, reflecting continued migration of volumetric
     inspection from labs to production environments.
   url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
-- date: 2025-11-20
-  title: ZEISS announces INSPECT 2026 software release with expanded GD&T and X-ray
-    workflow automation
-  source: ZEISS Industrial Quality Solutions
+- date: 2026-02-16
+  title: CAMIO 2026 R2 announced as first release with full REVO system support
+  source: M&MT
   sector: quality_software
   kind: vendor_release
-  summary: ZEISS announced its 2026 INSPECT release with upgraded GD&T support, faster
-    scripting, and new X-ray workflow features (including multipart separation and
-    broader METROTOM support), extending the software stack for high-throughput inspection
-    teams.
-  url: https://www.zeiss.com/metrology/en/about-us/newsroom/2025/software-release.html
-- date: 2026-01-29
-  title: NPL launches UK Centre for AI Measurement under AI assurance fund
-  source: NPL
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NPL announced it will establish a Centre for AI Measurement focused on
-    scientifically robust AI assurance methods, extending metrology principles into
-    risk evaluation, standards alignment, and trustworthy AI deployment.
-  url: https://www.npl.co.uk/news/npl-to-establish-new-centre-for-ai-measurement
+  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
+    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
+    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
+  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
 - date: 2026-02-13
   title: Harnessing AI to detect anomalies during aircraft wing manufacture
   source: Metrology News
@@ -408,17 +321,6 @@
     checks, aiming to scale inspection without relaxing tolerances.
   url: https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/
 - date: 2026-02-11
-  title: White-light inspection robots bring repeatable turbine-disk inspection to
-    MRO workflows
-  source: Metrology News
-  sector: aerospace_defense_manufacturing
-  kind: case_study
-  summary: An overview of GE Aerospace's AI-guided "white light" robotic inspection
-    in MRO highlights standardized scan capture, anomaly scoring, and persistent digital
-    records to reduce inspector-to-inspector variation and free human expertise for
-    disposition decisions.
-  url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
-- date: 2026-02-11
   title: Automating airbag-yarn quality control using AI defect detection and robotic
     vision
   source: Metrology News
@@ -429,16 +331,28 @@
     yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical
     rotation to keep defects in focus.
   url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
-- date: 2026-02-09
-  title: NIST outlines expanding need for reference materials in orbital research
-    and production
+- date: 2026-02-11
+  title: International AI measurement network publishes consensus practices for automated
+    AI evaluations
   source: NIST
   sector: scientific_metrology
   kind: standards_method
-  summary: NIST describes how certified reference materials are being extended into
-    space-based research workflows, emphasizing traceability and standards infrastructure
-    as low-Earth-orbit experimentation and manufacturing activity increase.
-  url: https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards
+  summary: NIST announced that the International Network for Advanced AI Measurement,
+    Evaluation, and Science published consensus practices and open technical questions
+    for automated AI evaluations, extending measurement-science frameworks for AI
+    capability, reliability, and standards alignment across ten participating jurisdictions.
+  url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
+- date: 2026-02-11
+  title: White-light inspection robots bring repeatable turbine-disk inspection to
+    MRO workflows
+  source: Metrology News
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: An overview of GE Aerospace's AI-guided "white light" robotic inspection
+    in MRO highlights standardized scan capture, anomaly scoring, and persistent digital
+    records to reduce inspector-to-inspector variation and free human expertise for
+    disposition decisions.
+  url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
 - date: 2026-02-10
   title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic
     manufacturing
@@ -449,17 +363,50 @@
     electric-vehicle manufacturing in Saudi Arabia, indicating continued regional
     investment in EV industrial capacity.
   url: https://ceermotors.com/news/ceer-signs-16-mous-worth-sar-37-billion-at-pif-private-sector-forum-2026-targeting-45percent-saudi-l/
-- date: 2026-02-07
-  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
-    AI-assisted translation
-  source: ZEISS Metrology
+- date: 2026-02-09
+  title: NIST outlines expanding need for reference materials in orbital research
+    and production
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST describes how certified reference materials are being extended into
+    space-based research workflows, emphasizing traceability and standards infrastructure
+    as low-Earth-orbit experimentation and manufacturing activity increase.
+  url: https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards
+- date: 2026-02-09
+  title: Mastercam 2026.R2 launches with semiannual cadence, probing integration,
+    and AI Copilot
+  source: Mastercam
   sector: quality_software
   kind: vendor_release
-  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
-    measurement-result context in CAD views, server-side template management refinements,
-    and AI-assisted report translation features. The update also emphasizes notification
-    customization and usability improvements for cross-team quality-data workflows.
-  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
+  summary: Mastercam announced 2026.R2 as its next major release, introducing a semiannual
+    update model, GPU-accelerated simulation claims, expanded multiaxis toolpath controls,
+    Blum digital laser tool-center probing integration, and first official rollout
+    of Mastercam Copilot for AI-assisted workflow support.
+  url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
+- date: 2026-02-07
+  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
+  source: Modern Machine Shop
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs
+    450nm blue laser technology with 4th-generation ESP (enhanced sensor performance)
+    that intelligently adjusts laser power across 2,000 points, enabling measurement
+    of multi-material assemblies and shiny surfaces without preparation at up to 530,000
+    points per second with 110mm stripe width.
+  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
+- date: 2026-02-07
+  title: ASME Y14.49 Part 3 article details functional-surface filtering strategy
+    for large plate flatness control
+  source: Digital Metrology (Surface Matters blog)
+  sector: scientific_metrology
+  kind: standards_method
+  summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification
+    framing to separate functional flatness from fine texture content using wavelength-based
+    filtering, with an example for large granite surface plates. The article provides
+    a concrete standards-to-method bridge for reducing ambiguity and measurement burden
+    in practical GD&T implementation.
+  url: https://digitalmetrology.com/asme-y14-49-surface-plate/
 - date: 2026-02-07
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail
     architectures
@@ -473,17 +420,16 @@
     workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 - date: 2026-02-07
-  title: ASME Y14.49 Part 3 article details functional-surface filtering strategy
-    for large plate flatness control
-  source: Digital Metrology (Surface Matters blog)
-  sector: scientific_metrology
-  kind: standards_method
-  summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification
-    framing to separate functional flatness from fine texture content using wavelength-based
-    filtering, with an example for large granite surface plates. The article provides
-    a concrete standards-to-method bridge for reducing ambiguity and measurement burden
-    in practical GD&T implementation.
-  url: https://digitalmetrology.com/asme-y14-49-surface-plate/
+  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
+    AI-assisted translation
+  source: ZEISS Metrology
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
+    measurement-result context in CAD views, server-side template management refinements,
+    and AI-assisted report translation features. The update also emphasizes notification
+    customization and usability improvements for cross-team quality-data workflows.
+  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: 2026-02-05
   title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
   source: Hexagon Manufacturing Intelligence Blog
@@ -495,6 +441,58 @@
     reliability, quotation speed, and shop-floor communication in a high-precision
     mouldmaking environment.
   url: https://blog.manufacturing.hexagon.com/advanced-manufacturing/cam-software/from-fragmented-workflows-to-unified-precision-in-mouldmaking/
+- date: '2026-01-31'
+  title: CAMIO 2026 R2 highlighted with first full REVO support on LK Altera M Scantek
+    5 platform
+  source: ETMM Online
+  sector: quality_software
+  kind: vendor_release
+  summary: ETMM Online coverage of LK Metrology''s Mach 2026 preview details CAMIO
+    2026 R2 as the first official full REVO-support release, emphasizing synchronized
+    probe/CMM motion and faster multi-sensor 5-axis path execution on the Altera M
+    Scantek 5 system.
+  url: https://www.etmm-online.com/lk-metrology-5-axis-metrology-breakthrough-mach-2026-a-cdd0956b00036f44f2849554626b990d/
+- date: 2026-01-29
+  title: NPL launches UK Centre for AI Measurement under AI assurance fund
+  source: NPL
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NPL announced it will establish a Centre for AI Measurement focused on
+    scientifically robust AI assurance methods, extending metrology principles into
+    risk evaluation, standards alignment, and trustworthy AI deployment.
+  url: https://www.npl.co.uk/news/npl-to-establish-new-centre-for-ai-measurement
+- date: 2026-01-28
+  title: CMM-Manager 2026 released with Equator-X support, CSI integration, and expanded
+    reporting controls
+  source: QxSoft
+  sector: quality_software
+  kind: vendor_release
+  summary: QxSoft announced CMM-Manager 2026 with new Renishaw Equator-X support,
+    Hexagon CSI integration, configurable CSV/text reporting templates, ASME Y14.5.1-2019
+    constrained plane fitting options, and broader CAD interoperability updates through
+    2026 model formats.
+  url: https://qxcmm.com/cmm-manager-2026/
+- date: 2026-01-21
+  title: NIST requests public comment on AI 800-2 automated benchmark evaluation practices
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST CAISI released draft AI 800-2 and opened public comment through March
+    31, 2026, outlining measurement-practice guidance for automated benchmark evaluations
+    of language models and AI agent systems to improve validity, transparency, and
+    reproducibility.
+  url: https://www.nist.gov/news-events/news/2026/01/towards-best-practices-automated-benchmark-evaluations
+- date: 2025-11-20
+  title: ZEISS announces INSPECT 2026 software release with expanded GD&T and X-ray
+    workflow automation
+  source: ZEISS Industrial Quality Solutions
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS announced its 2026 INSPECT release with upgraded GD&T support, faster
+    scripting, and new X-ray workflow features (including multipart separation and
+    broader METROTOM support), extending the software stack for high-throughput inspection
+    teams.
+  url: https://www.zeiss.com/metrology/en/about-us/newsroom/2025/software-release.html
 - date: 2025-11-06
   title: Nissan case study highlights production-scale metrology integration
   source: Renishaw
@@ -504,6 +502,15 @@
     deployment decisions at automotive scale, including process integration and throughput-focused
     quality control.
   url: https://www.renishaw.com/en/news--6854
+- date: 2025-10-22
+  title: PC-DMIS 2025.2 release adds Calypso program conversion and reporting enhancements
+  source: Hexagon Nexus
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon's PC-DMIS 2025.2 release introduces a Calypso-to-PC-DMIS conversion
+    utility, updates to cloud-based Metrology Reporting, and freeform/strategy improvements,
+    making it the latest published PC-DMIS release line for mixed-software CMM environments.
+  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2025-2-release-available-now
 - date: 2025-09-16
   title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
   source: Rivian Newsroom
@@ -513,3 +520,14 @@
     2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing
     capacity expansion.
   url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
+- date: 2025-04-30
+  title: InnovMetric releases PolyWorks 2025 with inspection digital-thread controls
+    and approval workflow
+  source: InnovMetric
+  sector: quality_software
+  kind: vendor_release
+  summary: InnovMetric's PolyWorks 2025 release emphasizes enterprise inspection-thread
+    governance, including project-template standardization, piece-inspection locking,
+    view-only sharing, and web-based review/approval to improve traceability and cross-team
+    quality execution.
+  url: https://www.polyworks.com/en-ca/news/innovmetric-releases-polyworks-2025
