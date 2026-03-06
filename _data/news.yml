@@ -1,5 +1,26 @@
 ---
 - date: '2026-03-04'
+  title: Airbus selected by EDA to expand multi-mission Capa-X drone capabilities
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus Helicopters announced EDA selected its Survey Copter subsidiary
+    for a 48-month M2UAS project to expand Capa-X hybrid uncrewed aircraft mission
+    capability, signaling continued defense-manufacturing demand for modular autonomous
+    air systems.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-selected-by-the-european-defence-agency-to-expand-the-capabilities-of-its-capa-x-drone
+- date: '2026-03-03'
+  title: UBB Resita adds Mitutoyo MiSTAR 555 CMM to strengthen hands-on metrology
+    training
+  source: Metrology News
+  sector: scientific_metrology
+  kind: case_study
+  summary: Metrology News reports Babes-Bolyai University Resita engineering faculty
+    deployed a Mitutoyo MiSTAR 555 through a regional development program, expanding
+    practical CMM training capacity aligned with industry-ready metrology workforce
+    development.
+  url: https://metrology.news/ubb-resita-elevates-metrology-training-with-cutting-edge-mitutoyo-cmm/
+- date: '2026-03-04'
   title: BYD previews Blade Battery 2.0 with 1,000 km-class EV range target and fast-charge
     focus
   source: Electrek
