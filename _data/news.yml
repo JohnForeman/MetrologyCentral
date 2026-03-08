@@ -1,4 +1,25 @@
 ---
+- date: '2026-03-06'
+  title: Orano and XTC New Energy approve first CAM plant investment in northern France
+    for EV battery scale-up
+  source: Orano Group
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Orano announced Neomat CAM (XTC New Energy 51% / Orano 49%) made a final
+    investment decision on 4 March 2026 to build a cathode active material plant in
+    northern France, adding upstream battery-material manufacturing capacity for European
+    EV programs.
+  url: https://www.orano.group/en/news/news-group/2026/march/xtc-new-energy-and-orano-announce-the-construction-of-their-first-battery-cathode-active-material-manufacturing-plant-in-northern-france
+- date: '2026-03-06'
+  title: NIST AI standards webinar highlights measurement priorities for manufacturing
+    and critical infrastructure
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST ITL's March 6, 2026 webinar outlined international AI standards activity
+    and U.S. measurement priorities, including manufacturing-focused evaluation challenges
+    and assurance approaches relevant to industrial AI deployment quality.
+  url: https://www.nist.gov/news-events/events/2026/03/nist-information-technology-laboratory-ai-webinar-series-international-ai
 - date: '2026-03-04'
   title: Airbus selected by EDA to expand multi-mission Capa-X drone capabilities
   source: Airbus
