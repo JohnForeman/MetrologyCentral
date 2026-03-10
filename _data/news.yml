@@ -1,5 +1,12 @@
 ---
 - date: '2026-03-09'
+  title: Volkswagen reaches 4 million EV production milestone and scales automated battery pack output in Czech plant
+  source: Assembly Magazine
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Assembly Magazine reports Volkswagen reached 4 million cumulative EVs, with 3 million built since launching the MEB platform in 2019, and highlighted Skodas new automated cell-to-pack battery facility in Mlada Boleslav rated above 1,100 packs per day (~335,000/year).
+  url: https://www.assemblymag.com/articles/99904-volkswagen-reaches-ev-production-milestone
+- date: '2026-03-09'
   title: Direct data acquisition from FARO-Creaform scanners becomes available in PolyWorks|Inspector
   source: Metrology News
   sector: quality_software
