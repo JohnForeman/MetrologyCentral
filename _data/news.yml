@@ -186,14 +186,14 @@
   source: NIST
   sector: scientific_metrology
   kind: standards_method
-  summary: NISTÃ¢â‚¬â„¢s CAISI and ITL released AI 800-3, formalizing benchmark versus generalized accuracy and promoting generalized linear mixed models to improve uncertainty treatment and decision quality in AI performance measurement, extending core metrology principles into AI evaluation practice.
+  summary: NIST's CAISI and ITL released AI 800-3, formalizing benchmark versus generalized accuracy and promoting generalized linear mixed models to improve uncertainty treatment and decision quality in AI performance measurement, extending core metrology principles into AI evaluation practice.
   url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
 - date: 2026-02-20
   title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at 650 Wh/kg
   source: Electrek
   sector: ev_manufacturing
   kind: industry_news
-  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250Ã‚Â°C heating tests, initially targeting non-automotive applications before EV integration.
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250°C heating tests, initially targeting non-automotive applications before EV integration.
   url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
 - date: 2026-02-19
   title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology brand
@@ -347,7 +347,7 @@
   source: LK Metrology News
   sector: scientific_metrology
   kind: hardware_news
-  summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 mÃ‚Â³ to 72 mÃ‚Â³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
+  summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 m³ to 72 m³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 - date: 2026-02-05
   title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking

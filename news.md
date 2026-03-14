@@ -54,8 +54,8 @@ What appears here:
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
             <p class="post-meta">
               <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-              {% if item.source %} Â· Source: {{ item.source }}{% endif %}
-              {% if item.kind %} Â· {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
               <span class="source-policy-badge">External source</span>
             </p>
           </header>
@@ -77,8 +77,8 @@ What appears here:
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
             <p class="post-meta">
               <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-              {% if item.source %} Â· Source: {{ item.source }}{% endif %}
-              {% if item.kind %} Â· {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
               <span class="source-policy-badge">External source</span>
             </p>
           </header>
@@ -100,8 +100,8 @@ What appears here:
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
             <p class="post-meta">
               <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-              {% if item.source %} Â· Source: {{ item.source }}{% endif %}
-              {% if item.kind %} Â· {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
               <span class="source-policy-badge">External source</span>
             </p>
           </header>
@@ -123,8 +123,8 @@ What appears here:
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
             <p class="post-meta">
               <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-              {% if item.source %} Â· Source: {{ item.source }}{% endif %}
-              {% if item.kind %} Â· {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
               <span class="source-policy-badge">External source</span>
             </p>
           </header>
@@ -146,8 +146,8 @@ What appears here:
             <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
             <p class="post-meta">
               <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
-              {% if item.source %} Â· Source: {{ item.source }}{% endif %}
-              {% if item.kind %} Â· {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              {% if item.source %} · Source: {{ item.source }}{% endif %}
+              {% if item.kind %} · {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
               <span class="source-policy-badge">External source</span>
             </p>
           </header>
