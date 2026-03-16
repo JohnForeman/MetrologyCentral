@@ -1,4 +1,15 @@
 ---
+- date: '2026-03-13'
+  title: Airbus prepares first two Kratos Valkyrie-based UCCA aircraft with sovereign
+    European mission system for 2026 flight tests
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus announced two Kratos Valkyrie uncrewed combat aircraft are being
+    missionized in Germany with its MARS system for first flights later in 2026, targeting
+    German operational availability by 2029; cited specs include 5,000+ km range,
+    45,000 ft ceiling, and ~3-ton MTOW.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european
 - date: '2026-03-12'
   title: Honda cancels three planned North America EV programs amid electrification
     strategy reassessment
@@ -10,6 +21,17 @@
     assumptions, recording associated losses and repositioning its medium-term automotive
     strategy.
   url: https://global.honda/en/newsroom/news/2026/c260312eng.html
+- date: '2026-03-11'
+  title: Action Plas installs LK Altera M CMM to meet Formula 1 tolerance demands
+    and scale high-value inspection
+  source: ETMM Online (LK Metrology)
+  sector: scientific_metrology
+  kind: case_study
+  summary: ETMM Online reports Action Plas deployed an LK Altera M 20.12.10 CMM with
+    Renishaw SP25M under a £1 million F1-focused investment program, citing typical
+    part-to-CAD tolerances around 10 microns, two-week machine delivery, and daily
+    use across R&D, QC, and production.
+  url: https://www.etmm-online.com/action-plas-lk-metrology-cmm-formula-1-inspection-a-1f6fe56f611a23927b0db2ec3c16bda5/
 - date: '2026-03-09'
   title: Direct data acquisition from FARO-Creaform scanners becomes available in
     PolyWorks|Inspector
@@ -44,16 +66,6 @@
     1,100 packs per day (~335,000/year).
   url: https://www.assemblymag.com/articles/99904-volkswagen-reaches-ev-production-milestone
 - date: '2026-03-06'
-  title: NIST AI standards webinar highlights measurement priorities for manufacturing
-    and critical infrastructure
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST ITL's March 6, 2026 webinar outlined international AI standards activity
-    and U.S. measurement priorities, including manufacturing-focused evaluation challenges
-    and assurance approaches relevant to industrial AI deployment quality.
-  url: https://www.nist.gov/news-events/events/2026/03/nist-information-technology-laboratory-ai-webinar-series-international-ai
-- date: '2026-03-06'
   title: Orano and XTC New Energy approve first CAM plant investment in northern France
     for EV battery scale-up
   source: Orano Group
@@ -64,16 +76,16 @@
     northern France, adding upstream battery-material manufacturing capacity for European
     EV programs.
   url: https://www.orano.group/en/news/news-group/2026/march/xtc-new-energy-and-orano-announce-the-construction-of-their-first-battery-cathode-active-material-manufacturing-plant-in-northern-france
-- date: '2026-03-04'
-  title: Airbus selected by EDA to expand multi-mission Capa-X drone capabilities
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus Helicopters announced EDA selected its Survey Copter subsidiary
-    for a 48-month M2UAS project to expand Capa-X hybrid uncrewed aircraft mission
-    capability, signaling continued defense-manufacturing demand for modular autonomous
-    air systems.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-selected-by-the-european-defence-agency-to-expand-the-capabilities-of-its-capa-x-drone
+- date: '2026-03-06'
+  title: NIST AI standards webinar highlights measurement priorities for manufacturing
+    and critical infrastructure
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST ITL's March 6, 2026 webinar outlined international AI standards activity
+    and U.S. measurement priorities, including manufacturing-focused evaluation challenges
+    and assurance approaches relevant to industrial AI deployment quality.
+  url: https://www.nist.gov/news-events/events/2026/03/nist-information-technology-laboratory-ai-webinar-series-international-ai
 - date: '2026-03-04'
   title: BYD previews Blade Battery 2.0 with 1,000 km-class EV range target and fast-charge
     focus
@@ -84,17 +96,16 @@
     with 1,000 km-class CLTC range claims and high-rate charging emphasis, signaling
     intensified scale and performance competition in EV battery manufacturing programs.
   url: https://electrek.co/2026/03/04/byds-blade-ev-battery-2-0-unlocks-1000-km-pure-electric-range/
-- date: '2026-03-03'
-  title: UBB Resita adds Mitutoyo MiSTAR 555 CMM to strengthen hands-on metrology
-    training
-  source: Metrology News
-  sector: scientific_metrology
-  kind: case_study
-  summary: Metrology News reports Babes-Bolyai University Resita engineering faculty
-    deployed a Mitutoyo MiSTAR 555 through a regional development program, expanding
-    practical CMM training capacity aligned with industry-ready metrology workforce
-    development.
-  url: https://metrology.news/ubb-resita-elevates-metrology-training-with-cutting-edge-mitutoyo-cmm/
+- date: '2026-03-04'
+  title: Airbus selected by EDA to expand multi-mission Capa-X drone capabilities
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus Helicopters announced EDA selected its Survey Copter subsidiary
+    for a 48-month M2UAS project to expand Capa-X hybrid uncrewed aircraft mission
+    capability, signaling continued defense-manufacturing demand for modular autonomous
+    air systems.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-selected-by-the-european-defence-agency-to-expand-the-capabilities-of-its-capa-x-drone
 - date: '2026-03-03'
   title: Measurement Solutions previews MACH 2026 zones including READY shopfloor
     CMM and CT workflows
@@ -106,15 +117,16 @@
     READY shopfloor CMM, CT scanning, and robotic integration linked to LK group priorities.
   url: https://www.measurement-solutions.co.uk/msl-showcases-industry-focused-innovation-at-mach-2026/
 - date: '2026-03-03'
-  title: Airbus publishes 2026 AGM agenda with board updates tied to aerospace leadership
-    continuity
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus published its 2026 AGM agenda including proposed board appointments
-    and renewals, providing governance visibility as the company manages commercial-aircraft
-    ramp execution and defense-sector leadership transitions.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-publishes-agenda-for-2026-annual-general-meeting
+  title: UBB Resita adds Mitutoyo MiSTAR 555 CMM to strengthen hands-on metrology
+    training
+  source: Metrology News
+  sector: scientific_metrology
+  kind: case_study
+  summary: Metrology News reports Babes-Bolyai University Resita engineering faculty
+    deployed a Mitutoyo MiSTAR 555 through a regional development program, expanding
+    practical CMM training capacity aligned with industry-ready metrology workforce
+    development.
+  url: https://metrology.news/ubb-resita-elevates-metrology-training-with-cutting-edge-mitutoyo-cmm/
 - date: '2026-03-02'
   title: BMW launches Leipzig humanoid-robotics pilot to extend AI-enabled production
     automation
@@ -177,6 +189,16 @@
     manufacturing readiness work.
   url: https://electrek.co/2026/03/02/volkswagen-supplier-begins-testing-solid-state-batteries-in-evs/
 - date: '2026-02-26'
+  title: Stellantis FY2025 reset outlines multi-powertrain manufacturing plan for
+    2026 recovery
+  source: Stellantis Media
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Stellantis reported FY2025 results alongside a 2026 execution plan centered
+    on broader EV, hybrid, and ICE coverage by region, positioning its manufacturing
+    footprint for volume recovery and improved profitability after 2025 disruptions.
+  url: https://www.media.stellantis.com/em-en/corporate-communications/press/stellantis-reports-full-year-2025-financial-results
+- date: '2026-02-26'
   title: Factorial signs Philenergy manufacturing partnership to scale solid-state
     EV battery production
   source: Electrek
@@ -208,16 +230,6 @@
     collaboration on model-based quality information frameworks and practical implementation
     lessons across engineering, manufacturing, and inspection workflows.
   url: https://qifstandards.org/2026-mbe-qif-summit/
-- date: '2026-02-26'
-  title: Stellantis FY2025 reset outlines multi-powertrain manufacturing plan for
-    2026 recovery
-  source: Stellantis Media
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Stellantis reported FY2025 results alongside a 2026 execution plan centered
-    on broader EV, hybrid, and ICE coverage by region, positioning its manufacturing
-    footprint for volume recovery and improved profitability after 2025 disruptions.
-  url: https://www.media.stellantis.com/em-en/corporate-communications/press/stellantis-reports-full-year-2025-financial-results
 - date: 2026-02-24
   title: Next-generation shopfloor CMM architecture emphasizes fixed-portal designs
     for production stability
@@ -276,6 +288,16 @@
     8,700 aircraft despite ongoing supply chain and engine availability challenges.
   url: https://www.aeronewsjournal.com/2026/02/airbus-soars-higher-targets-record-870.html
 - date: 2026-02-20
+  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST's CAISI and ITL released AI 800-3, formalizing benchmark versus generalized
+    accuracy and promoting generalized linear mixed models to improve uncertainty
+    treatment and decision quality in AI performance measurement, extending core metrology
+    principles into AI evaluation practice.
+  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
+- date: 2026-02-20
   title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at
     650 Wh/kg
   source: Electrek
@@ -300,16 +322,16 @@
     Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi
     6/7 and integrated battery for shopfloor deployment.
   url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
-- date: 2026-02-20
-  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST's CAISI and ITL released AI 800-3, formalizing benchmark versus generalized
-    accuracy and promoting generalized linear mixed models to improve uncertainty
-    treatment and decision quality in AI performance measurement, extending core metrology
-    principles into AI evaluation practice.
-  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
+- date: '2026-02-19'
+  title: Toyota Europe launches Poland circular-factory investment for end-of-life
+    vehicle processing
+  source: Toyota Europe Newsroom
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych,
+    Poland to process end-of-life vehicles, adding industrial-scale remanufacturing
+    and materials-recovery capacity to its regional manufacturing network.
+  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
 - date: 2026-02-19
   title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology
     brand
@@ -322,16 +344,6 @@
     prismatic guideways without air bearings, linear motors, no clean room requirement,
     setup under 2 hours, and full front table extraction for robotic integration.
   url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
-- date: '2026-02-19'
-  title: Toyota Europe launches Poland circular-factory investment for end-of-life
-    vehicle processing
-  source: Toyota Europe Newsroom
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych,
-    Poland to process end-of-life vehicles, adding industrial-scale remanufacturing
-    and materials-recovery capacity to its regional manufacturing network.
-  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
 - date: '2026-02-19'
   title: Airbus FY2025 results reaffirm production ramp with 793 deliveries and 2026
     guidance
@@ -353,6 +365,17 @@
     and ISO 17025-certified calibration-backed operations to expand contract metrology
     support for aerospace, automotive, medical, and defense manufacturers.
   url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
+- date: 2026-02-17
+  title: Applied Automation Technologies releases CAPPS 2026 CNC and metrology software
+    suite
+  source: Metrology News
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Applied Automation Technologies (AAT3D) announced
+    CAPPS 2026, the most advanced version of its CNC and metrology software suite,
+    continuing its on-machine metrology and adaptive manufacturing platform for automated
+    quality control in production environments.
+  url: https://metrology.news/driving-automotive-quality-with-automation/
 - date: 2026-02-17
   title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
   source: MTDCNC
@@ -396,17 +419,6 @@
     and quantum technologies, including projects for SEM simulation improvements and
     SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
   url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
-- date: 2026-02-17
-  title: Applied Automation Technologies releases CAPPS 2026 CNC and metrology software
-    suite
-  source: Metrology News
-  sector: quality_software
-  kind: vendor_release
-  summary: Metrology News reports Applied Automation Technologies (AAT3D) announced
-    CAPPS 2026, the most advanced version of its CNC and metrology software suite,
-    continuing its on-machine metrology and adaptive manufacturing platform for automated
-    quality control in production environments.
-  url: https://metrology.news/driving-automotive-quality-with-automation/
 - date: 2026-02-16
   title: CAMIO 2026 R2 announced as first release with full REVO system support
   source: M&MT
@@ -438,6 +450,17 @@
     checks, aiming to scale inspection without relaxing tolerances.
   url: https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/
 - date: 2026-02-11
+  title: Automating airbag-yarn quality control using AI defect detection and robotic
+    vision
+  source: Metrology News
+  sector: auto_manufacturing
+  kind: case_study
+  summary: A case-style report details a proof-of-concept using Techman Robot's TM
+    AI+ with industrial imaging hardware to detect subtle "fuzz" defects on cylindrical
+    yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical
+    rotation to keep defects in focus.
+  url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
+- date: 2026-02-11
   title: International AI measurement network publishes consensus practices for automated
     AI evaluations
   source: NIST
@@ -459,17 +482,6 @@
     records to reduce inspector-to-inspector variation and free human expertise for
     disposition decisions.
   url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
-- date: 2026-02-11
-  title: Automating airbag-yarn quality control using AI defect detection and robotic
-    vision
-  source: Metrology News
-  sector: auto_manufacturing
-  kind: case_study
-  summary: A case-style report details a proof-of-concept using Techman Robot's TM
-    AI+ with industrial imaging hardware to detect subtle "fuzz" defects on cylindrical
-    yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical
-    rotation to keep defects in focus.
-  url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
 - date: 2026-02-10
   title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic
     manufacturing
@@ -501,6 +513,17 @@
     Blum digital laser tool-center probing integration, and first official rollout
     of Mastercam Copilot for AI-assisted workflow support.
   url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
+- date: 2026-02-07
+  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
+    AI-assisted translation
+  source: ZEISS Metrology
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
+    measurement-result context in CAD views, server-side template management refinements,
+    and AI-assisted report translation features. The update also emphasizes notification
+    customization and usability improvements for cross-team quality-data workflows.
+  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: 2026-02-07
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail
     architectures
@@ -536,17 +559,6 @@
     a concrete standards-to-method bridge for reducing ambiguity and measurement burden
     in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/
-- date: 2026-02-07
-  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
-    AI-assisted translation
-  source: ZEISS Metrology
-  sector: quality_software
-  kind: vendor_release
-  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
-    measurement-result context in CAD views, server-side template management refinements,
-    and AI-assisted report translation features. The update also emphasizes notification
-    customization and usability improvements for cross-team quality-data workflows.
-  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: 2026-02-05
   title: Hexagon case study on unifying CAD/CAM workflows for precision mouldmaking
   source: Hexagon Manufacturing Intelligence Blog
