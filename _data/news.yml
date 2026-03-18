@@ -1,4 +1,15 @@
----
+﻿---
+- date: '2026-03-16'
+  title: Atlas Air places firm order for 20 Airbus A350F freighters, becoming largest
+    customer for the program
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus announced Atlas Air Worldwide placed a firm order for 20 A350F freighters,
+    the largest A350F order to date; Airbus states the aircraft is the first freighter
+    designed to fully meet ICAO enhanced 2027 CO2 standards and uses an airframe with
+    over 70% advanced materials.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-atlas-air-worldwide-becomes-airbus-largest-a350f-freighter-customer-with-an-order-for-20-aircraft
 - date: '2026-03-13'
   title: Airbus prepares first two Kratos Valkyrie-based UCCA aircraft with sovereign
     European mission system for 2026 flight tests
