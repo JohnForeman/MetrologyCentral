@@ -1,4 +1,11 @@
-﻿---
+---
+- date: '2026-03-18'
+  title: 'AerCap announces order for 100 new Airbus A320neo Family aircraft with deliveries running 2028-2034'
+  source: AerCap
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: 'AerCap announced an agreement with Airbus for 100 new A320neo Family aircraft, including exercised firm options, with deliveries scheduled from 2028 through 2034; the transaction also includes long-term SES/CFM lease agreements for 48 LEAP-1A spare engines with deliveries beginning in Q2 2026.'
+  url: https://www.aercap.com/news-media/press-releases/detail/626/aercap-announces-order-for-100-new-airbus-a320neo-family
 - date: '2026-03-16'
   title: Atlas Air places firm order for 20 Airbus A350F freighters, becoming largest
     customer for the program
