@@ -1,10 +1,37 @@
----
 - date: '2026-03-18'
-  title: 'AerCap announces order for 100 new Airbus A320neo Family aircraft with deliveries running 2028-2034'
+  title: GE Aerospace invests EUR110M+ across Europe for manufacturing capacity, test
+    infrastructure, and 1,000 hires
+  source: GE Aerospace
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: GE Aerospace said it will invest more than EUR110 million across European
+    manufacturing sites in 2026, including EUR77 million in Italy, EUR15 million in
+    Poland, EUR8 million in the Czech Republic, EUR10 million in the UK, and EUR3
+    million in Romania, alongside plans for 1,000 new hires and about EUR40 million
+    more for European MRO and component repair facilities.
+  url: https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-eu110m-european-manufacturing-boost-workforce-development
+- date: '2026-03-10'
+  title: Garuda signs for up to 18 Airbus Flexrotor UAS to expand leasing for inspection
+    and public-service missions
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus Helicopters signed a contract with Garuda Technologies for up to
+    18 Flexrotor uncrewed aerial systems, with the 25 kg platform designed for 12-14
+    hour ISTAR missions and able to launch and recover autonomously from a 3.7 m by
+    3.7 m area for infrastructure inspection, law enforcement, wildfire monitoring,
+    and disaster relief use cases.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-garuda-selects-airbus-flexrotor-to-expand-its-uas-leasing-portfolio
+- date: '2026-03-18'
+  title: AerCap announces order for 100 new Airbus A320neo Family aircraft with deliveries
+    running 2028-2034
   source: AerCap
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: 'AerCap announced an agreement with Airbus for 100 new A320neo Family aircraft, including exercised firm options, with deliveries scheduled from 2028 through 2034; the transaction also includes long-term SES/CFM lease agreements for 48 LEAP-1A spare engines with deliveries beginning in Q2 2026.'
+  summary: AerCap announced an agreement with Airbus for 100 new A320neo Family aircraft,
+    including exercised firm options, with deliveries scheduled from 2028 through
+    2034; the transaction also includes long-term SES/CFM lease agreements for 48
+    LEAP-1A spare engines with deliveries beginning in Q2 2026.
   url: https://www.aercap.com/news-media/press-releases/detail/626/aercap-announces-order-for-100-new-airbus-a320neo-family
 - date: '2026-03-16'
   title: Atlas Air places firm order for 20 Airbus A350F freighters, becoming largest
@@ -134,17 +161,6 @@
     metrology automation, defense MRO, aerospace, and automotive with emphasis on
     READY shopfloor CMM, CT scanning, and robotic integration linked to LK group priorities.
   url: https://www.measurement-solutions.co.uk/msl-showcases-industry-focused-innovation-at-mach-2026/
-- date: '2026-03-03'
-  title: UBB Resita adds Mitutoyo MiSTAR 555 CMM to strengthen hands-on metrology
-    training
-  source: Metrology News
-  sector: scientific_metrology
-  kind: case_study
-  summary: Metrology News reports Babes-Bolyai University Resita engineering faculty
-    deployed a Mitutoyo MiSTAR 555 through a regional development program, expanding
-    practical CMM training capacity aligned with industry-ready metrology workforce
-    development.
-  url: https://metrology.news/ubb-resita-elevates-metrology-training-with-cutting-edge-mitutoyo-cmm/
 - date: '2026-03-02'
   title: BMW launches Leipzig humanoid-robotics pilot to extend AI-enabled production
     automation
@@ -186,16 +202,6 @@
     aircraft, extending near-term commercial-aircraft production visibility and supplier
     demand across the narrowbody ecosystem.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-03-air-astana-finalises-order-for-25-airbus-a320neo-family-aircraft
-- date: 2026-03-02
-  title: CMM adaptation trends highlight multi-sensor workflows and software-driven
-    data fusion in production metrology
-  source: Metrology News
-  sector: scientific_metrology
-  kind: case_study
-  summary: Metrology News outlines how multi-sensor CMM strategies and software orchestration
-    are being used to improve inspection flexibility, feature coverage, and reporting
-    consistency in advanced manufacturing environments.
-  url: https://metrology.news/cmm-adaptation-to-future-manufacturing-demands/
 - date: '2026-03-02'
   title: Volkswagen solid-state partner starts in-vehicle testing of 1,000 km-class
     battery cells
