@@ -11,18 +11,19 @@
     sourcing from India has risen from US$500 million in 2019 to more than US$1.5
     billion today and is on track to exceed US$2 billion well before decade-end.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-scales-up-make-in-india-with-new-5000-seater-technology-centre-in-bengaluru
-- date: '2026-03-03'
-  title: FARO Creaform launches CUBE-R M Series automated 3D inspection cells with
-    0.025 mm accuracy and 3,000,000 measurements/s
-  source: Quality Magazine
-  sector: quality_software
-  kind: hardware_news
-  summary: Quality Magazine reports FARO Creaform introduced modular CUBE-R M2, M3,
-    and M4 automated inspection cells for parts up to 2 m, 3 m, and 4 m respectively;
-    the MetraSCAN-R BLACK+ Elite HD scanner is specified at 0.025 mm accuracy, 0.015
-    mm resolution, and 3,000,000 measurements per second, with validation to VDI/VDE
-    2634 Part 3 and ISO 10360 in ISO/IEC 17025:2017 accredited laboratories.
-  url: https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner
+- date: '2026-03-25'
+  title: Acutec pairs MiSTAR 555 shopfloor CMM with robot cell for closed-loop aerospace
+    production
+  source: Modern Machine Shop
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: Modern Machine Shop reports Acutec Precision Aerospace combined a Mitutoyo
+    MiSTAR 555 CNC CMM, FANUC 10 iA/L robot, MCOSMOS, and MeasurLink to measure finished
+    parts in seconds beside three nine-axis mill-turns; the MiSTAR is specified to
+    maintain dimensional accuracy across a 50°F to 104°F temperature range, enabling
+    automatic tool-offset correction and unattended production in a 450,000 sq ft
+    facility operating more than 20 CMMs.
+  url: https://www.mmsonline.com/articles/integrated-metrology-solution-powers-lights-out-aerospace-production-
 - date: '2026-03-26'
   title: Toyota Circular Factory turns recovered alloy wheels into new Corolla engine
     components in UK closed loop
@@ -36,18 +37,6 @@
     came off the line on 19 March and a second circular facility is due to open in
     Poland this year.
   url: https://media.toyota.co.uk/the-toyota-circular-factory-where-the-end-of-vehicle-life-is-the-beginning-of-new-opportunities/
-- date: '2026-03-18'
-  title: Fraunhofer PulLoop demonstrates inline pultrusion metrology detecting sub-100
-    µm deviations at 2 m/min
-  source: Fraunhofer IWS
-  sector: scientific_metrology
-  kind: standards_method
-  summary: Fraunhofer reported its SURFinloop demonstrator for pultrusion monitors
-    product quality in real time using low-cost scattering sensors, digital-twin comparison,
-    and AI-based analysis; the system detects deviations below 100 micrometers at
-    production speeds up to 2 meters per minute, trains in under one hour, and targets
-    SME adoption at only a few thousand euros per line.
-  url: https://www.iws.fraunhofer.de/en/newsandmedia/press_releases/2026/press-release_2026-05_PulLoop.html
 - date: '2026-03-25'
   title: Sony Honda Mobility scraps AFEELA 1 and second EV model after Honda strategy
     reset
@@ -85,6 +74,31 @@
     in Indiana to expand Grand Highlander output; the move sits within Toyotas broader
     plan to invest up to USD 10 billion more in the U.S. over five years.
   url: https://global.toyota/en/newsroom/corporate/44129928.html
+- date: '2026-03-20'
+  title: Lumafield expands industrial CT lineup with 15x faster Neptune Performance,
+    large-part Saturn, and inline Mars systems
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: 'Metrology News reports Lumafield introduced three CT platforms spanning
+    metrology, large-part inspection, and in-line screening: Neptune Performance is
+    positioned at 15x faster scans with 4x data quality, Saturn is described as the
+    largest-volume industrial CT system sized to pass through a standard double door
+    and supports AMS-2175-compliant digital radiography for castings, and Mars targets
+    high-throughput production inspection.'
+  url: https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/
+- date: '2026-03-18'
+  title: Fraunhofer PulLoop demonstrates inline pultrusion metrology detecting sub-100
+    µm deviations at 2 m/min
+  source: Fraunhofer IWS
+  sector: scientific_metrology
+  kind: standards_method
+  summary: Fraunhofer reported its SURFinloop demonstrator for pultrusion monitors
+    product quality in real time using low-cost scattering sensors, digital-twin comparison,
+    and AI-based analysis; the system detects deviations below 100 micrometers at
+    production speeds up to 2 meters per minute, trains in under one hour, and targets
+    SME adoption at only a few thousand euros per line.
+  url: https://www.iws.fraunhofer.de/en/newsandmedia/press_releases/2026/press-release_2026-05_PulLoop.html
 - date: '2026-03-18'
   title: GE Aerospace invests EUR110M+ across Europe for manufacturing capacity, test
     infrastructure, and 1,000 hires
@@ -217,15 +231,17 @@
     air systems.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-selected-by-the-european-defence-agency-to-expand-the-capabilities-of-its-capa-x-drone
 - date: '2026-03-03'
-  title: Measurement Solutions previews MACH 2026 zones including READY shopfloor
-    CMM and CT workflows
-  source: Measurement Solutions Ltd
+  title: FARO Creaform launches CUBE-R M Series automated 3D inspection cells with
+    0.025 mm accuracy and 3,000,000 measurements/s
+  source: Quality Magazine
   sector: quality_software
-  kind: industry_news
-  summary: Measurement Solutions outlined MACH 2026 demonstrations spanning industrial
-    metrology automation, defense MRO, aerospace, and automotive with emphasis on
-    READY shopfloor CMM, CT scanning, and robotic integration linked to LK group priorities.
-  url: https://www.measurement-solutions.co.uk/msl-showcases-industry-focused-innovation-at-mach-2026/
+  kind: hardware_news
+  summary: Quality Magazine reports FARO Creaform introduced modular CUBE-R M2, M3,
+    and M4 automated inspection cells for parts up to 2 m, 3 m, and 4 m respectively;
+    the MetraSCAN-R BLACK+ Elite HD scanner is specified at 0.025 mm accuracy, 0.015
+    mm resolution, and 3,000,000 measurements per second, with validation to VDI/VDE
+    2634 Part 3 and ISO 10360 in ISO/IEC 17025:2017 accredited laboratories.
+  url: https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner
 - date: '2026-03-02'
   title: BMW launches Leipzig humanoid-robotics pilot to extend AI-enabled production
     automation
@@ -318,19 +334,6 @@
     concepts for NATO NGRC studies, emphasizing modular architecture, maintainability,
     and shared systems to improve military fleet affordability and operational availability.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-unveils-next-generation-rotorcraft-concepts-for-nato-studies
-- date: '2026-02-23'
-  title: Verisurf 2026 introduces workflow improvements for digital manufacturing
-    metrology
-  source: Metrology News
-  sector: quality_software
-  kind: vendor_release
-  summary: Metrology News reports Verisurf 2026 introduces numerous new features and
-    workflow improvements designed to help manufacturers reduce costs, save time,
-    and enhance repeatable process control across all stages of digital manufacturing;
-    by embedding metrology into the digital workflow, manufacturers gain faster inspection
-    with greater visibility, repeatability, and control of their entire production
-    process.
-  url: https://metrology.news/verisurf-2026-precision-meets-innovation/
 - date: '2026-02-23'
   title: SHINING 3D expands industrial metrology portfolio with OptimScan Q9 and FreeScan
     Omni Lite
