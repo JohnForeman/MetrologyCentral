@@ -1,4 +1,3 @@
----
 - date: '2026-03-27'
   title: Airbus opens 880,000 sq ft Bengaluru technology centre built for about 5,000
     staff and $2B+ India sourcing trajectory
@@ -11,19 +10,6 @@
     sourcing from India has risen from US$500 million in 2019 to more than US$1.5
     billion today and is on track to exceed US$2 billion well before decade-end.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-scales-up-make-in-india-with-new-5000-seater-technology-centre-in-bengaluru
-- date: '2026-03-25'
-  title: Acutec pairs MiSTAR 555 shopfloor CMM with robot cell for closed-loop aerospace
-    production
-  source: Modern Machine Shop
-  sector: aerospace_defense_manufacturing
-  kind: case_study
-  summary: Modern Machine Shop reports Acutec Precision Aerospace combined a Mitutoyo
-    MiSTAR 555 CNC CMM, FANUC 10 iA/L robot, MCOSMOS, and MeasurLink to measure finished
-    parts in seconds beside three nine-axis mill-turns; the MiSTAR is specified to
-    maintain dimensional accuracy across a 50°F to 104°F temperature range, enabling
-    automatic tool-offset correction and unattended production in a 450,000 sq ft
-    facility operating more than 20 CMMs.
-  url: https://www.mmsonline.com/articles/integrated-metrology-solution-powers-lights-out-aerospace-production-
 - date: '2026-03-26'
   title: Toyota Circular Factory turns recovered alloy wheels into new Corolla engine
     components in UK closed loop
@@ -49,6 +35,31 @@
     no longer had a viable path to market and will fully refund current California
     AFEELA 1 reservation holders.
   url: https://www.shm-afeela.com/en/news/2026-03-25/
+- date: '2026-03-25'
+  title: Acutec pairs MiSTAR 555 shopfloor CMM with robot cell for closed-loop aerospace
+    production
+  source: Modern Machine Shop
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: Modern Machine Shop reports Acutec Precision Aerospace combined a Mitutoyo
+    MiSTAR 555 CNC CMM, FANUC 10 iA/L robot, MCOSMOS, and MeasurLink to measure finished
+    parts in seconds beside three nine-axis mill-turns; the MiSTAR is specified to
+    maintain dimensional accuracy across a 50°F to 104°F temperature range, enabling
+    automatic tool-offset correction and unattended production in a 450,000 sq ft
+    facility operating more than 20 CMMs.
+  url: https://www.mmsonline.com/articles/integrated-metrology-solution-powers-lights-out-aerospace-production-
+- date: '2026-03-24'
+  title: Toyota invests USD 1 billion in Kentucky and Indiana plants for BEV readiness
+    and U.S. capacity growth
+  source: Toyota
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Toyota Motor North America announced a USD 1 billion investment in two
+    U.S. plants, allocating USD 800 million in Kentucky to prepare for battery-electric
+    vehicle production and increase Camry and RAV4 capacity, plus USD 200 million
+    in Indiana to expand Grand Highlander output; the move sits within Toyotas broader
+    plan to invest up to USD 10 billion more in the U.S. over five years.
+  url: https://global.toyota/en/newsroom/corporate/44129928.html
 - date: '2026-03-24'
   title: GM invests USD 4 billion in U.S. plants to lift domestic vehicle output above
     2 million units per year
@@ -62,18 +73,6 @@
     keeping 2027 Bolt EV launch on track by year-end, and adds Chevrolet Blazer production
     at Spring Hill in 2027 alongside Cadillac EV programs.
   url: https://investor.gm.com/news-releases/news-release-details/gm-invest-4-billion-its-us-manufacturing-plants/
-- date: '2026-03-24'
-  title: Toyota invests USD 1 billion in Kentucky and Indiana plants for BEV readiness
-    and U.S. capacity growth
-  source: Toyota
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Toyota Motor North America announced a USD 1 billion investment in two
-    U.S. plants, allocating USD 800 million in Kentucky to prepare for battery-electric
-    vehicle production and increase Camry and RAV4 capacity, plus USD 200 million
-    in Indiana to expand Grand Highlander output; the move sits within Toyotas broader
-    plan to invest up to USD 10 billion more in the U.S. over five years.
-  url: https://global.toyota/en/newsroom/corporate/44129928.html
 - date: '2026-03-20'
   title: Lumafield expands industrial CT lineup with 15x faster Neptune Performance,
     large-part Saturn, and inline Mars systems
@@ -87,18 +86,19 @@
     and supports AMS-2175-compliant digital radiography for castings, and Mars targets
     high-throughput production inspection.'
   url: https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/
-- date: '2026-03-18'
-  title: Fraunhofer PulLoop demonstrates inline pultrusion metrology detecting sub-100
-    µm deviations at 2 m/min
-  source: Fraunhofer IWS
+- date: '2026-03-20'
+  title: ActionPlas deploys LK Altera M CMM for Formula 1 inspection work with 10-micron
+    part-to-CAD tolerances
+  source: LK Metrology
   sector: scientific_metrology
-  kind: standards_method
-  summary: Fraunhofer reported its SURFinloop demonstrator for pultrusion monitors
-    product quality in real time using low-cost scattering sensors, digital-twin comparison,
-    and AI-based analysis; the system detects deviations below 100 micrometers at
-    production speeds up to 2 meters per minute, trains in under one hour, and targets
-    SME adoption at only a few thousand euros per line.
-  url: https://www.iws.fraunhofer.de/en/newsandmedia/press_releases/2026/press-release_2026-05_PulLoop.html
+  kind: case_study
+  summary: LK Metrology reports ActionPlas installed an Altera M 20.12.10 CMM with
+    a 2.0 x 1.2 x 1.0 m working volume and Renishaw SP25M scanning probe as part of
+    a £1 million Formula 1-focused investment program; ActionPlas cited typical part-to-CAD
+    tolerances of 10 microns, two-week machine delivery from stock, and daily use
+    across R&D, quality control, and production for complex machined and additively
+    manufactured parts.
+  url: https://www.lkmetrology.com/news/cmm-fulfills-f1-requirements-contract-manufacturer-actionplas-secures-future-growth/
 - date: '2026-03-18'
   title: GE Aerospace invests EUR110M+ across Europe for manufacturing capacity, test
     infrastructure, and 1,000 hires
@@ -111,6 +111,18 @@
     million in Romania, alongside plans for 1,000 new hires and about EUR40 million
     more for European MRO and component repair facilities.
   url: https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-eu110m-european-manufacturing-boost-workforce-development
+- date: '2026-03-18'
+  title: Fraunhofer PulLoop demonstrates inline pultrusion metrology detecting sub-100
+    µm deviations at 2 m/min
+  source: Fraunhofer IWS
+  sector: scientific_metrology
+  kind: standards_method
+  summary: Fraunhofer reported its SURFinloop demonstrator for pultrusion monitors
+    product quality in real time using low-cost scattering sensors, digital-twin comparison,
+    and AI-based analysis; the system detects deviations below 100 micrometers at
+    production speeds up to 2 meters per minute, trains in under one hour, and targets
+    SME adoption at only a few thousand euros per line.
+  url: https://www.iws.fraunhofer.de/en/newsandmedia/press_releases/2026/press-release_2026-05_PulLoop.html
 - date: '2026-03-18'
   title: AerCap announces order for 100 new Airbus A320neo Family aircraft with deliveries
     running 2028-2034
@@ -155,28 +167,17 @@
     assumptions, recording associated losses and repositioning its medium-term automotive
     strategy.
   url: https://global.honda/en/newsroom/news/2026/c260312eng.html
-- date: '2026-03-11'
-  title: Action Plas installs LK Altera M CMM to meet Formula 1 tolerance demands
-    and scale high-value inspection
-  source: ETMM Online (LK Metrology)
-  sector: scientific_metrology
-  kind: case_study
-  summary: ETMM Online reports Action Plas deployed an LK Altera M 20.12.10 CMM with
-    Renishaw SP25M under a £1 million F1-focused investment program, citing typical
-    part-to-CAD tolerances around 10 microns, two-week machine delivery, and daily
-    use across R&D, QC, and production.
-  url: https://www.etmm-online.com/action-plas-lk-metrology-cmm-formula-1-inspection-a-1f6fe56f611a23927b0db2ec3c16bda5/
 - date: '2026-03-09'
-  title: Direct data acquisition from FARO-Creaform scanners becomes available in
-    PolyWorks|Inspector
-  source: Metrology News
-  sector: quality_software
-  kind: vendor_release
-  summary: Metrology News reports FARO-Creaform and InnovMetric integrated direct
-    scanner data capture into PolyWorks|Inspector, enabling real-time visualization,
-    scan-to-CAD guidance, and template-driven inspection continuity without separate
-    acquisition software.
-  url: https://metrology.news/direct-data-acquisition-from-faro-creaform-scanners-now-available-in-polyworksinspector/
+  title: Volkswagen reaches 4 million EV production milestone and scales automated
+    battery pack output in Czech plant
+  source: Assembly Magazine
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Assembly Magazine reports Volkswagen reached 4 million cumulative EVs,
+    with 3 million built since launching the MEB platform in 2019, and highlighted
+    Skodas new automated cell-to-pack battery facility in Mlada Boleslav rated above
+    1,100 packs per day (~335,000/year).
+  url: https://www.assemblymag.com/articles/99904-volkswagen-reaches-ev-production-milestone
 - date: '2026-03-09'
   title: GE Aerospace commits another $1B to U.S. manufacturing with defense-capacity
     and test infrastructure expansion
@@ -189,16 +190,16 @@
     plans to hire 5,000 U.S. workers.
   url: https://www.geaerospace.com/news/press-releases/ge-aerospace-invest-another-1b-us-manufacturing
 - date: '2026-03-09'
-  title: Volkswagen reaches 4 million EV production milestone and scales automated
-    battery pack output in Czech plant
-  source: Assembly Magazine
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Assembly Magazine reports Volkswagen reached 4 million cumulative EVs,
-    with 3 million built since launching the MEB platform in 2019, and highlighted
-    Skodas new automated cell-to-pack battery facility in Mlada Boleslav rated above
-    1,100 packs per day (~335,000/year).
-  url: https://www.assemblymag.com/articles/99904-volkswagen-reaches-ev-production-milestone
+  title: Direct data acquisition from FARO-Creaform scanners becomes available in
+    PolyWorks|Inspector
+  source: Metrology News
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports FARO-Creaform and InnovMetric integrated direct
+    scanner data capture into PolyWorks|Inspector, enabling real-time visualization,
+    scan-to-CAD guidance, and template-driven inspection continuity without separate
+    acquisition software.
+  url: https://metrology.news/direct-data-acquisition-from-faro-creaform-scanners-now-available-in-polyworksinspector/
 - date: '2026-03-06'
   title: Orano and XTC New Energy approve first CAM plant investment in northern France
     for EV battery scale-up
@@ -243,17 +244,6 @@
     2634 Part 3 and ISO 10360 in ISO/IEC 17025:2017 accredited laboratories.
   url: https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner
 - date: '2026-03-02'
-  title: BMW launches Leipzig humanoid-robotics pilot to extend AI-enabled production
-    automation
-  source: Metrology News
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Metrology News reports BMW is piloting humanoid robotics at its Leipzig
-    plant with Hexagon to evaluate physically embodied AI for repetitive and ergonomically
-    demanding production tasks, following earlier Spartanburg trials and unified factory
-    data-model work.
-  url: https://metrology.news/humanoid-robotics-complements-existing-automation-at-bmw/
-- date: '2026-03-02'
   title: Nearfield adds inline sidewall imaging mode for 3D semiconductor metrology
     process control
   source: Metrology News
@@ -264,6 +254,17 @@
     for advanced logic and memory structures, aiming to improve high-volume process
     control versus destructive sampling methods.
   url: https://metrology.news/nearfield-instruments-launches-sidewall-imaging-mode-for-inline-3d-semiconductor-metrology/
+- date: '2026-03-02'
+  title: BMW launches Leipzig humanoid-robotics pilot to extend AI-enabled production
+    automation
+  source: Metrology News
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Metrology News reports BMW is piloting humanoid robotics at its Leipzig
+    plant with Hexagon to evaluate physically embodied AI for repetitive and ergonomically
+    demanding production tasks, following earlier Spartanburg trials and unified factory
+    data-model work.
+  url: https://metrology.news/humanoid-robotics-complements-existing-automation-at-bmw/
 - date: '2026-03-02'
   title: Air Astana finalizes direct order for 25 Airbus A320neo Family aircraft
   source: Airbus
@@ -295,17 +296,6 @@
     with OEM partners including Mercedes-Benz and Stellantis.
   url: https://electrek.co/2026/02/26/all-solid-state-ev-battery-maker-factorial-moves-toward-production/
 - date: '2026-02-26'
-  title: National Weights and Measures Week 2026 spotlights standards infrastructure
-    in global metrology coordination
-  source: NCWM
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NCWMs 2026 National Weights and Measures Week announcement highlights the
-    continuing role of consensus standards, regulator-industry coordination, and NIST-linked
-    metrology practices in maintaining measurement trust across increasingly complex
-    markets.
-  url: https://www.globenewswire.com/news-release/2026/02/26/3245345/0/en/National-Weights-and-Measures-Week-2026.html
-- date: '2026-02-26'
   title: 2026 MBE and QIF Summit announced with focus on model-based quality across
     design-to-manufacturing flow
   source: DMSC / QIF Standards
@@ -326,15 +316,6 @@
     and repeatable throughput in production settings.
   url: https://www.qualitymag.com/articles/99429-next-generation-shopfloor-cmm-technology-engineering-solutions-for-production-environments
 - date: '2026-02-23'
-  title: Airbus unveils next-generation rotorcraft concepts for NATO NGRC studies
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus Helicopters presented conventional and high-speed compound rotorcraft
-    concepts for NATO NGRC studies, emphasizing modular architecture, maintainability,
-    and shared systems to improve military fleet affordability and operational availability.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-unveils-next-generation-rotorcraft-concepts-for-nato-studies
-- date: '2026-02-23'
   title: SHINING 3D expands industrial metrology portfolio with OptimScan Q9 and FreeScan
     Omni Lite
   source: Metrology News
@@ -347,6 +328,15 @@
     measurement integrity with consistent software capability and support across the
     portfolio.'
   url: https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/
+- date: '2026-02-23'
+  title: Airbus unveils next-generation rotorcraft concepts for NATO NGRC studies
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus Helicopters presented conventional and high-speed compound rotorcraft
+    concepts for NATO NGRC studies, emphasizing modular architecture, maintainability,
+    and shared systems to improve military fleet affordability and operational availability.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-unveils-next-generation-rotorcraft-concepts-for-nato-studies
 - date: '2026-02-22'
   title: Airbus targets record 870 commercial jet deliveries in 2026, up 10% from
     2025
@@ -370,18 +360,6 @@
     principles into AI evaluation practice.
   url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
 - date: '2026-02-20'
-  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at
-    650 Wh/kg
-  source: Electrek
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer
-    (45% global market share), has begun mass-producing semi-solid-state batteries
-    with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and
-    sulfur cathode; the technology passed nail penetration and 250°C heating tests,
-    initially targeting non-automotive applications before EV integration.
-  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
-- date: '2026-02-20'
   title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production
     inspection
   source: 3D Printing Industry
@@ -394,6 +372,18 @@
     Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi
     6/7 and integrated battery for shopfloor deployment.
   url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
+- date: '2026-02-20'
+  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at
+    650 Wh/kg
+  source: Electrek
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer
+    (45% global market share), has begun mass-producing semi-solid-state batteries
+    with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and
+    sulfur cathode; the technology passed nail penetration and 250°C heating tests,
+    initially targeting non-automotive applications before EV integration.
+  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
 - date: '2026-02-19'
   title: Toyota Europe launches Poland circular-factory investment for end-of-life
     vehicle processing
@@ -438,28 +428,6 @@
     support for aerospace, automotive, medical, and defense manufacturers.
   url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
 - date: '2026-02-17'
-  title: Applied Automation Technologies releases CAPPS 2026 CNC and metrology software
-    suite
-  source: Metrology News
-  sector: quality_software
-  kind: vendor_release
-  summary: Metrology News reports Applied Automation Technologies (AAT3D) announced
-    CAPPS 2026, the most advanced version of its CNC and metrology software suite,
-    continuing its on-machine metrology and adaptive manufacturing platform for automated
-    quality control in production environments.
-  url: https://metrology.news/driving-automotive-quality-with-automation/
-- date: '2026-02-17'
-  title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
-  source: MTDCNC
-  sector: quality_software
-  kind: hardware_news
-  summary: Ready Metrology (LK Metrology holding group) introduced its Run line of
-    CMMs engineered for metrology-grade precision directly on the shopfloor, featuring
-    linear motor technology for maintenance-free operation, Easy Runner single-touch
-    interface, barcode-driven program switching, and robotic integration support for
-    automated inspection cells.
-  url: https://mtdcnc.com/news/mtdcnc/ready-metrology-launches-run-cmm-line-for-fast-shopfloor-ready-inspection/
-- date: '2026-02-17'
   title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
   source: MTDCNC
   sector: scientific_metrology
@@ -472,15 +440,16 @@
     errors.
   url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
 - date: '2026-02-17'
-  title: Divergent and Mach Industries announce Venom demonstrator built from concept
-    to flight in 71 days
-  source: PR Newswire
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: A joint release from Divergent and Mach Industries states the Venom autonomous
-    strike-aircraft demonstrator progressed from concept to flight-ready prototype
-    in 71 days using digital manufacturing and integrated airframe development workflows.
-  url: https://www.prnewswire.com/news-releases/divergent-and-mach-industries-launch-venom-302689655.html
+  title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
+  source: MTDCNC
+  sector: quality_software
+  kind: hardware_news
+  summary: Ready Metrology (LK Metrology holding group) introduced its Run line of
+    CMMs engineered for metrology-grade precision directly on the shopfloor, featuring
+    linear motor technology for maintenance-free operation, Easy Runner single-touch
+    interface, barcode-driven program switching, and robotic integration support for
+    automated inspection cells.
+  url: https://mtdcnc.com/news/mtdcnc/ready-metrology-launches-run-cmm-line-for-fast-shopfloor-ready-inspection/
 - date: '2026-02-17'
   title: NIST allocates $3.19M in SBIR funding for AI, biotech, and measurement technologies
   source: NIST
@@ -491,15 +460,17 @@
     and quantum technologies, including projects for SEM simulation improvements and
     SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
   url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
-- date: '2026-02-16'
-  title: CAMIO 2026 R2 announced as first release with full REVO system support
-  source: M&MT
+- date: '2026-02-17'
+  title: Applied Automation Technologies releases CAPPS 2026 CNC and metrology software
+    suite
+  source: Metrology News
   sector: quality_software
   kind: vendor_release
-  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
-    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
-    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
-  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
+  summary: Metrology News reports Applied Automation Technologies (AAT3D) announced
+    CAPPS 2026, the most advanced version of its CNC and metrology software suite,
+    continuing its on-machine metrology and adaptive manufacturing platform for automated
+    quality control in production environments.
+  url: https://metrology.news/driving-automotive-quality-with-automation/
 - date: '2026-02-16'
   title: LK Metrology introduces COREX 250 shop-floor CT system for rapid internal
     inspection
@@ -511,6 +482,15 @@
     at near-line non-destructive metrology, reflecting continued migration of volumetric
     inspection from labs to production environments.
   url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
+- date: '2026-02-16'
+  title: CAMIO 2026 R2 announced as first release with full REVO system support
+  source: M&MT
+  sector: quality_software
+  kind: vendor_release
+  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
+    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
+    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
+  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
 - date: '2026-02-13'
   title: Harnessing AI to detect anomalies during aircraft wing manufacture
   source: Metrology News
@@ -522,16 +502,16 @@
     checks, aiming to scale inspection without relaxing tolerances.
   url: https://metrology.news/harnessing-ai-to-detect-anomalies-during-aircraft-wing-manufacture/
 - date: '2026-02-11'
-  title: Automating airbag-yarn quality control using AI defect detection and robotic
-    vision
+  title: White-light inspection robots bring repeatable turbine-disk inspection to
+    MRO workflows
   source: Metrology News
-  sector: auto_manufacturing
+  sector: aerospace_defense_manufacturing
   kind: case_study
-  summary: A case-style report details a proof-of-concept using Techman Robot's TM
-    AI+ with industrial imaging hardware to detect subtle "fuzz" defects on cylindrical
-    yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical
-    rotation to keep defects in focus.
-  url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
+  summary: An overview of GE Aerospace's AI-guided "white light" robotic inspection
+    in MRO highlights standardized scan capture, anomaly scoring, and persistent digital
+    records to reduce inspector-to-inspector variation and free human expertise for
+    disposition decisions.
+  url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
 - date: '2026-02-11'
   title: International AI measurement network publishes consensus practices for automated
     AI evaluations
@@ -544,16 +524,16 @@
     capability, reliability, and standards alignment across ten participating jurisdictions.
   url: https://www.nist.gov/news-events/news/2026/02/international-network-advanced-ai-measurement-evaluation-and-science
 - date: '2026-02-11'
-  title: White-light inspection robots bring repeatable turbine-disk inspection to
-    MRO workflows
+  title: Automating airbag-yarn quality control using AI defect detection and robotic
+    vision
   source: Metrology News
-  sector: aerospace_defense_manufacturing
+  sector: auto_manufacturing
   kind: case_study
-  summary: An overview of GE Aerospace's AI-guided "white light" robotic inspection
-    in MRO highlights standardized scan capture, anomaly scoring, and persistent digital
-    records to reduce inspector-to-inspector variation and free human expertise for
-    disposition decisions.
-  url: https://metrology.news/dance-of-the-white-light-robots-a-closer-look-at-the-newest-inspection-technology-in-mro/
+  summary: A case-style report details a proof-of-concept using Techman Robot's TM
+    AI+ with industrial imaging hardware to detect subtle "fuzz" defects on cylindrical
+    yarn rolls, emphasizing negative-sample mining (Auto AI Training) and mechanical
+    rotation to keep defects in focus.
+  url: https://metrology.news/automating-airbag-yarn-quality-control-with-ai-defect-detection/
 - date: '2026-02-10'
   title: Saudi EV brand Ceer signs localization deals valued at $986 million for domestic
     manufacturing
@@ -662,6 +642,19 @@
     scientifically robust AI assurance methods, extending metrology principles into
     risk evaluation, standards alignment, and trustworthy AI deployment.
   url: https://www.npl.co.uk/news/npl-to-establish-new-centre-for-ai-measurement
+- date: '2026-01-29'
+  title: NIST convenes roadmap workshop for in-situ metrology in metal additive manufacturing
+    qualification
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST announced an April 29-May 1 workshop to define a community roadmap
+    for in-situ metrology in metal alloy additive manufacturing, targeting measurement
+    gaps that block qualification and certification; the agenda spans microstructure,
+    residual stress, thermal/optical sensing, process monitoring, data and AI infrastructure,
+    and standards, with outcomes intended to feed a NIST Special Publication on qualification-ready
+    metal AM.
+  url: https://www.nist.gov/news-events/events/2026/04/roadmapping-situ-metrology-metal-alloy-additive-manufacturing
 - date: '2026-01-28'
   title: CMM-Manager 2026 released with Equator-X support, CSI integration, and expanded
     reporting controls
