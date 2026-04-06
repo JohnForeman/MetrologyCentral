@@ -875,6 +875,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 4px solid var(--brand-accent);
   box-shadow: var(--shadow-md);
   object-fit: cover;
+  object-position: center 18%;
 }
 
 .author-box .author-info h3 {
@@ -1056,6 +1057,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 5px solid var(--brand-accent);
   box-shadow: var(--shadow-lg);
   object-fit: cover;
+  object-position: center 18%;
 }
 
 .about-intro .bio h2 {
