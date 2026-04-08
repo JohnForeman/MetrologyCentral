@@ -1,3 +1,26 @@
+- date: '2026-04-02'
+  title: Rivian produces 10,236 EVs and delivers 10,365 in Q1 while reaffirming 62,000-67,000
+    2026 guidance
+  source: Rivian
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Rivian said it produced 10,236 vehicles at its Normal, Illinois plant and
+    delivered 10,365 vehicles in the quarter ended March 31, 2026; the company said
+    results were in line with outlook and reaffirmed full-year 2026 delivery guidance
+    of 62,000 to 67,000 vehicles.
+  url: https://rivian.com/newsroom/article/rivian-releases-q1-2026-production-and-delivery-figures
+- date: '2026-04-01'
+  title: GM invests over USD 150 million in Saginaw casting plant for sixth-generation
+    V-8 blocks and heads
+  source: General Motors
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: GM said it will invest more than USD 150 million in Saginaw Metal Casting
+    Operations for new equipment and tooling to support sixth-generation V-8 engine
+    blocks and cylinder heads used in full-size pickup trucks; the plant will keep
+    producing fifth-generation blocks while preparing for next-generation production
+    in 2027, and GM said the site has more than 300 employees across three shifts.
+  url: https://news.gm.com/home.detail.html/Pages/news/us/en/2026/apr/0401-GM-invest-150-million-Saginaw-Metal-Casting.html
 - date: '2026-03-27'
   title: Airbus opens 880,000 sq ft Bengaluru technology centre built for about 5,000
     staff and $2B+ India sourcing trajectory
