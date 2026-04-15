@@ -1,4 +1,11 @@
 ---
+- date: '2026-04-14'
+  title: Boeing delivers 143 commercial aircraft and 30 defense, space, and satellite units in Q1 2026
+  source: Boeing
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Boeing reported first-quarter 2026 deliveries of 143 commercial aircraft, including 114 737s, 15 787s, 8 777s, and 6 767s, plus 30 defense, space, and security units spanning Apache, Chinook, F-15, F/A-18, KC-46, MH-139, P-8, and satellite programs, providing a direct read on current aerospace production throughput across major platforms.
+  url: https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Announces-First-Quarter-Deliveries/default.aspx
 - date: '2026-04-02'
   title: Rivian produces 10,236 EVs and delivers 10,365 in Q1 while reaffirming 62,000-67,000 2026 guidance
   source: Rivian
@@ -203,6 +210,13 @@
   summary: AeroNews Journal reports Airbus raised its 2026 delivery forecast to approximately 870 aircraft, a 10% increase over 793 delivered in 2025 and surpassing the pre-pandemic high of 863 in 2019; the company plans to stabilize A320neo narrowbody production at 70-75 aircraft per month by end of 2026, supported by an order backlog exceeding 8,700 aircraft despite ongoing supply chain and engine availability challenges.
   url: https://www.aeronewsjournal.com/2026/02/airbus-soars-higher-targets-record-870.html
 - date: '2026-02-20'
+  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at 650 Wh/kg
+  source: Electrek
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250°C heating tests, initially targeting non-automotive applications before EV integration.
+  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
+- date: '2026-02-20'
   title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
   source: NIST
   sector: scientific_metrology
@@ -216,20 +230,6 @@
   kind: hardware_news
   summary: 3D Printing Industry reports Hexagon introduced a portable HYPERSCAN 3D scanner certified to VDI/VDE 2634-3 and validated by ISO 17025 accredited laboratory, eliminating reference targets that typically add 15-30 minutes per setup; the system operates in handheld or robotic configurations, integrates with PC-DMIS, Inspire, and SpatialAnalyzer, and supports components up to 7 metres with Wi-Fi 6/7 and integrated battery for shopfloor deployment.
   url: https://3dprintingindustry.com/news/hexagon-launches-new-certified-marker-free-hyperscan-3d-scanner-249109/
-- date: '2026-02-20'
-  title: Ganfeng Lithium begins mass production of semi-solid-state EV batteries at 650 Wh/kg
-  source: Electrek
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Electrek reports Ganfeng Lithium, the world's largest lithium metal producer (45% global market share), has begun mass-producing semi-solid-state batteries with 400-650 Wh/kg energy density using a zero-strain lithium alloy anode and sulfur cathode; the technology passed nail penetration and 250°C heating tests, initially targeting non-automotive applications before EV integration.
-  url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
-- date: '2026-02-19'
-  title: Toyota Europe launches Poland circular-factory investment for end-of-life vehicle processing
-  source: Toyota Europe Newsroom
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych, Poland to process end-of-life vehicles, adding industrial-scale remanufacturing and materials-recovery capacity to its regional manufacturing network.
-  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
 - date: '2026-02-19'
   title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology brand
   source: Measurement Solutions Ltd
@@ -237,6 +237,13 @@
   kind: industry_news
   summary: Measurement Solutions Ltd announced official UK distribution appointment for READY Metrology (manufactured at Coord3's Italy facility), expanding its portfolio into production-focused CMM and CT inspection systems; the READY RUN series features prismatic guideways without air bearings, linear motors, no clean room requirement, setup under 2 hours, and full front table extraction for robotic integration.
   url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
+- date: '2026-02-19'
+  title: Toyota Europe launches Poland circular-factory investment for end-of-life vehicle processing
+  source: Toyota Europe Newsroom
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Toyota Motor Europe announced a new circular-factory operation in Walbrzych, Poland to process end-of-life vehicles, adding industrial-scale remanufacturing and materials-recovery capacity to its regional manufacturing network.
+  url: https://newsroom.toyota.eu/toyota-announces-a-new-investment-in-a-circular-factory-in-poland/
 - date: '2026-02-19'
   title: Airbus FY2025 results reaffirm production ramp with 793 deliveries and 2026 guidance
   source: Airbus
@@ -252,12 +259,12 @@
   summary: LK Metrology announced a new CMM measurement services department at its North American Tech Center, combining multi-sensor CMM capacity, consultancy, and ISO 17025-certified calibration-backed operations to expand contract metrology support for aerospace, automotive, medical, and defense manufacturers.
   url: https://ctemag.com/news/lk-metrology-launches-cmm-measurement-services-department/
 - date: '2026-02-17'
-  title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
-  source: MTDCNC
+  title: NIST allocates $3.19M in SBIR funding for AI, biotech, and measurement technologies
+  source: NIST
   sector: scientific_metrology
-  kind: hardware_news
-  summary: MTDCNC reports Renishaw introduced the AGILITY Coordinate Measuring Machine featuring 5-axis REVO technology designed to enhance throughput and flexibility on the manufacturing shopfloor; the system streamlines multiple measurement tasks on a single platform, accesses previously unreachable features, minimizes part handling delays, and operates close to the point of manufacture to reduce transport-related errors.
-  url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
+  kind: standards_method
+  summary: NIST announced Phase II SBIR awards totaling $3.19 million to eight small businesses for R&D in AI, medical diagnostics, biotechnology, semiconductors, and quantum technologies, including projects for SEM simulation improvements and SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
+  url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
 - date: '2026-02-17'
   title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
   source: MTDCNC
@@ -266,12 +273,12 @@
   summary: Ready Metrology (LK Metrology holding group) introduced its Run line of CMMs engineered for metrology-grade precision directly on the shopfloor, featuring linear motor technology for maintenance-free operation, Easy Runner single-touch interface, barcode-driven program switching, and robotic integration support for automated inspection cells.
   url: https://mtdcnc.com/news/mtdcnc/ready-metrology-launches-run-cmm-line-for-fast-shopfloor-ready-inspection/
 - date: '2026-02-17'
-  title: NIST allocates $3.19M in SBIR funding for AI, biotech, and measurement technologies
-  source: NIST
+  title: Renishaw launches AGILITY CMM with REVO 5-axis measurement technology
+  source: MTDCNC
   sector: scientific_metrology
-  kind: standards_method
-  summary: NIST announced Phase II SBIR awards totaling $3.19 million to eight small businesses for R&D in AI, medical diagnostics, biotechnology, semiconductors, and quantum technologies, including projects for SEM simulation improvements and SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
-  url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
+  kind: hardware_news
+  summary: MTDCNC reports Renishaw introduced the AGILITY Coordinate Measuring Machine featuring 5-axis REVO technology designed to enhance throughput and flexibility on the manufacturing shopfloor; the system streamlines multiple measurement tasks on a single platform, accesses previously unreachable features, minimizes part handling delays, and operates close to the point of manufacture to reduce transport-related errors.
+  url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
 - date: '2026-02-16'
   title: LK Metrology introduces COREX 250 shop-floor CT system for rapid internal inspection
   source: Quality Magazine
@@ -301,26 +308,19 @@
   summary: CEER says it signed 16 agreements valued at 3.7 billion riyals to localize electric-vehicle manufacturing in Saudi Arabia, indicating continued regional investment in EV industrial capacity.
   url: https://ceermotors.com/news/ceer-signs-16-mous-worth-sar-37-billion-at-pif-private-sector-forum-2026-targeting-45percent-saudi-l/
 - date: '2026-02-09'
-  title: NIST outlines expanding need for reference materials in orbital research and production
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST describes how certified reference materials are being extended into space-based research workflows, emphasizing traceability and standards infrastructure as low-Earth-orbit experimentation and manufacturing activity increase.
-  url: https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards
-- date: '2026-02-09'
   title: Mastercam 2026.R2 launches with semiannual cadence, probing integration, and AI Copilot
   source: Mastercam
   sector: quality_software
   kind: vendor_release
   summary: Mastercam announced 2026.R2 as its next major release, introducing a semiannual update model, GPU-accelerated simulation claims, expanded multiaxis toolpath controls, Blum digital laser tool-center probing integration, and first official rollout of Mastercam Copilot for AI-assisted workflow support.
   url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
-- date: '2026-02-07'
-  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and AI-assisted translation
-  source: ZEISS Metrology
-  sector: quality_software
-  kind: vendor_release
-  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional measurement-result context in CAD views, server-side template management refinements, and AI-assisted report translation features. The update also emphasizes notification customization and usability improvements for cross-team quality-data workflows.
-  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
+- date: '2026-02-09'
+  title: NIST outlines expanding need for reference materials in orbital research and production
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST describes how certified reference materials are being extended into space-based research workflows, emphasizing traceability and standards infrastructure as low-Earth-orbit experimentation and manufacturing activity increase.
+  url: https://www.nist.gov/news-events/news/2026/02/space-final-frontier-standards
 - date: '2026-02-07'
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail architectures
   source: LK Metrology News
@@ -329,12 +329,12 @@
   summary: LK announced MAXIMA and MAXIMA R bridge CMM ranges targeting large, heavy components, with stated measurement volumes from 12 m³ to 72 m³ and probe-head readiness spanning PH10MQ, REVO2, and SP80 configurations. The twin-rail variant is positioned for floor-level loading and automated transfer integration in heavy-industry workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 - date: '2026-02-07'
-  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
-  source: Modern Machine Shop
-  sector: scientific_metrology
-  kind: hardware_news
-  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs 450nm blue laser technology with 4th-generation ESP (enhanced sensor performance) that intelligently adjusts laser power across 2,000 points, enabling measurement of multi-material assemblies and shiny surfaces without preparation at up to 530,000 points per second with 110mm stripe width.
-  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
+  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and AI-assisted translation
+  source: ZEISS Metrology
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional measurement-result context in CAD views, server-side template management refinements, and AI-assisted report translation features. The update also emphasizes notification customization and usability improvements for cross-team quality-data workflows.
+  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: '2026-02-07'
   title: ASME Y14.49 Part 3 article details functional-surface filtering strategy for large plate flatness control
   source: Digital Metrology (Surface Matters blog)
@@ -342,6 +342,13 @@
   kind: standards_method
   summary: A standards-focused post outlines applying ASME Y14.49 supplemental specification framing to separate functional flatness from fine texture content using wavelength-based filtering, with an example for large granite surface plates. The article provides a concrete standards-to-method bridge for reducing ambiguity and measurement burden in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/
+- date: '2026-02-07'
+  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
+  source: Modern Machine Shop
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs 450nm blue laser technology with 4th-generation ESP (enhanced sensor performance) that intelligently adjusts laser power across 2,000 points, enabling measurement of multi-material assemblies and shiny surfaces without preparation at up to 530,000 points per second with 110mm stripe width.
+  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
 - date: '2026-01-31'
   title: CAMIO 2026 R2 highlighted with first full REVO support on LK Altera M Scantek 5 platform
   source: ETMM Online
