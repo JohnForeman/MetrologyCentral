@@ -1,4 +1,11 @@
 ---
+- date: '2026-04-15'
+  title: Stellantis reports Q1 2026 estimated consolidated shipments of 1.4 million units, up 12% year over year
+  source: Stellantis
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Stellantis said Q1 2026 estimated consolidated shipments were 1.361 million units, up 12% from 1.217 million a year earlier, with North America up 17% to 379,000 units and Enlarged Europe up 12% to 637,000 units; the release gives a direct production-demand read across major regional vehicle programs and launch activity.
+  url: https://www.stellantis.com/en/news/press-releases/2026/april/stellantis-reports-q1-2026-estimated-consolidated-shipments-of-1-4-million-units-12-percent-y-o-y
 - date: '2026-04-14'
   title: Boeing delivers 143 commercial aircraft and 30 defense, space, and satellite units in Q1 2026
   source: Boeing
