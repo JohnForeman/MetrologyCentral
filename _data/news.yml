@@ -1,3 +1,27 @@
+- date: '2026-04-27'
+  title: Toyota global production rises 3.9% in March 2026 to 1,018,926 vehicles as
+    Q1 output reaches 2,735,314
+  source: Toyota
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Toyota Motor Corporation reported March 2026 global production of 1,018,926
+    vehicles, up 3.9% year over year, with Japan up 4.2% to 381,361 and overseas output
+    up 3.8% to 637,565; cumulative January-March production reached 2,735,314 vehicles,
+    down 0.7% year over year, giving a direct current-volume read across one of the
+    largest global manufacturing networks.
+  url: https://global.toyota/en/company/profile/production-sales-figures/202603.html
+- date: '2026-04-24'
+  title: Airbus delivers first Air Canada A321XLR with 4,700 nm range and 30% lower
+    fuel burn per seat
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus delivered the first of 30 A321XLR aircraft for Air Canada, marking
+    the first Canadian operator entry for the type; Airbus says the Pratt & Whitney-powered
+    aircraft offers up to 4,700 nautical miles of range, 30% lower fuel burn per seat
+    than previous-generation competitor aircraft, 14 lie-flat business seats, 168
+    economy seats, and more than 500 total orders as of end-March 2026.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-04-airbus-delivers-first-a321xlr-for-air-canada
 - date: '2026-04-23'
   title: Airbus completes first A350F freighter main deck cargo door in Spain for
     2026-2027 flight-test aircraft
