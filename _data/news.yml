@@ -1,3 +1,4 @@
+---
 - date: '2026-04-30'
   title: Stellantis Q1 2026 revenue rises 6% to EUR 38.1 billion as shipments reach
     1.361 million and profitability returns
@@ -330,17 +331,6 @@
     strategy.
   url: https://global.honda/en/newsroom/news/2026/c260312eng.html
 - date: '2026-03-09'
-  title: Volkswagen reaches 4 million EV production milestone and scales automated
-    battery pack output in Czech plant
-  source: Assembly Magazine
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Assembly Magazine reports Volkswagen reached 4 million cumulative EVs,
-    with 3 million built since launching the MEB platform in 2019, and highlighted
-    Skodas new automated cell-to-pack battery facility in Mlada Boleslav rated above
-    1,100 packs per day (~335,000/year).
-  url: https://www.assemblymag.com/articles/99904-volkswagen-reaches-ev-production-milestone
-- date: '2026-03-09'
   title: GE Aerospace commits another $1B to U.S. manufacturing with defense-capacity
     and test infrastructure expansion
   source: GE Aerospace
@@ -468,18 +458,6 @@
     measurement integrity with consistent software capability and support across the
     portfolio.'
   url: https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/
-- date: '2026-02-22'
-  title: Airbus targets record 870 commercial jet deliveries in 2026, up 10% from
-    2025
-  source: AeroNews Journal
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: AeroNews Journal reports Airbus raised its 2026 delivery forecast to approximately
-    870 aircraft, a 10% increase over 793 delivered in 2025 and surpassing the pre-pandemic
-    high of 863 in 2019; the company plans to stabilize A320neo narrowbody production
-    at 70-75 aircraft per month by end of 2026, supported by an order backlog exceeding
-    8,700 aircraft despite ongoing supply chain and engine availability challenges.
-  url: https://www.aeronewsjournal.com/2026/02/airbus-soars-higher-targets-record-870.html
 - date: '2026-02-20'
   title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production
     inspection
@@ -515,18 +493,6 @@
     treatment and decision quality in AI performance measurement, extending core metrology
     principles into AI evaluation practice.
   url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
-- date: '2026-02-19'
-  title: Measurement Solutions Ltd appointed UK distributor for READY shopfloor metrology
-    brand
-  source: Measurement Solutions Ltd
-  sector: quality_software
-  kind: industry_news
-  summary: Measurement Solutions Ltd announced official UK distribution appointment
-    for READY Metrology (manufactured at Coord3's Italy facility), expanding its portfolio
-    into production-focused CMM and CT inspection systems; the READY RUN series features
-    prismatic guideways without air bearings, linear motors, no clean room requirement,
-    setup under 2 hours, and full front table extraction for robotic integration.
-  url: https://www.measurement-solutions.co.uk/msl-appointed-uk-distributor-for-ready-metrology-brand/
 - date: '2026-02-19'
   title: Toyota Europe launches Poland circular-factory investment for end-of-life
     vehicle processing
@@ -699,17 +665,6 @@
     a concrete standards-to-method bridge for reducing ambiguity and measurement burden
     in practical GD&T implementation.
   url: https://digitalmetrology.com/asme-y14-49-surface-plate/
-- date: '2026-01-31'
-  title: CAMIO 2026 R2 highlighted with first full REVO support on LK Altera M Scantek
-    5 platform
-  source: ETMM Online
-  sector: quality_software
-  kind: vendor_release
-  summary: ETMM Online coverage of LK Metrology''s Mach 2026 preview details CAMIO
-    2026 R2 as the first official full REVO-support release, emphasizing synchronized
-    probe/CMM motion and faster multi-sensor 5-axis path execution on the Altera M
-    Scantek 5 system.
-  url: https://www.etmm-online.com/lk-metrology-5-axis-metrology-breakthrough-mach-2026-a-cdd0956b00036f44f2849554626b990d/
 - date: '2026-01-29'
   title: NPL launches UK Centre for AI Measurement under AI assurance fund
   source: NPL
