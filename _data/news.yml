@@ -1,4 +1,16 @@
 ---
+- date: '2026-05-06'
+  title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
+    and ASME/Creo/Teamcenter updates
+  source: Hexagon
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon published PC-DMIS 2026.1, adding PC-DMIS FUSION for inspection-program
+    analytics, one-click reporting workflows, and enhanced metrology support for ASME,
+    Creo, and Teamcenter environments; the release is relevant for CMM teams standardizing
+    reporting, CAD interoperability, and production-quality data review across existing
+    PC-DMIS deployments.
+  url: https://hexagon.com/products/product-groups/measurement-inspection-software/metrology-software/pc-dmis/pc-dmis-2026-1
 - date: '2026-04-30'
   title: Stellantis Q1 2026 revenue rises 6% to EUR 38.1 billion as shipments reach
     1.361 million and profitability returns
@@ -126,6 +138,18 @@
     the company also said total engine deliveries increased 43% and reaffirmed plans
     to invest USD 1 billion in U.S. manufacturing and suppliers in 2026.
   url: https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-first-quarter-2026-results
+- date: '2026-04-21'
+  title: Hexagon launches QUINDOS 2026.1 with CMM Check 3.0 support, variable high-speed
+    scanning, and drivetrain analysis updates
+  source: Hexagon
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon announced QUINDOS 2026.1 for special-geometry metrology, adding
+    full support for the CMM Check 3.0 machine-monitoring standard, simplified variable
+    high-speed scanning, rotary-table CAD programming, E57 point-cloud support, improved
+    mesh handling, and gear/drivetrain tools including Hirth serration runout, gear
+    tooth thickness visualization, and cylindrical worm tip relief evaluation.
+  url: https://hexagon.com/company/newsroom/press-releases/2026/hexagon-launches-quindos-2026-1-to-accelerate-inspection-workflows-and-enhance-metrology-performance
 - date: '2026-04-16'
   title: Toyota Europe Q1 2026 BEV sales rise 79% to 318,103 vehicles as regional
     volume reaches 321,067 electrified units
