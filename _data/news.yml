@@ -1,5 +1,56 @@
 ---
 - date: '2026-05-06'
+  title: AirAsia orders 150 Airbus A220-300 aircraft, pushing A220 above 1,000 firm
+    orders
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus said AirAsia placed a firm order for 150 A220-300 aircraft, the
+    largest single firm A220 order to date and enough to push the program beyond 1,000
+    firm orders; AirAsia becomes launch customer for a 160-seat A220 cabin configuration
+    enabled by added overwing exits, while Airbus cited 501 A220 deliveries to 25
+    operators as of end-March 2026 and 3,600 nautical miles of range for the type.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-05-airasia-places-landmark-order-for-150-a220s
+- date: '2026-05-05'
+  title: GM details AI manufacturing quality tools cutting missed-weld review from
+    5,600 vehicles to under 10 suspects
+  source: General Motors
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: GM described production-quality AI and analytics deployments including
+    Device Level Analytics, WeldBrAIn, and paint-shop vision systems; at Fort Wayne,
+    DLA data narrowed a missed-weld containment review from 5,600 vehicles to fewer
+    than 10 suspects and kept nine affected vehicles from leaving the plant, while
+    Factory ZERO is piloting WeldBrAIn to move from manual checks of four parts per
+    shift to real-time checking of every weld on every body.
+  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0505-smarterAItoolsbuildvehicles.html
+- date: '2026-05-05'
+  title: Renishaw to show U.S. Robot Calibration System cell and Equator-X dual-method
+    gauging at Automate 2026
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Renishaw will demonstrate its Robot Calibration
+    System cell at Automate 2026 booth 3853, emphasizing in-field robot calibration
+    and cell recovery after collisions or process interruptions; the same exhibit
+    will include Equator-X dual-method gauging for high-throughput manufacturing,
+    supporting both absolute and comparative measurement strategies for tighter automated
+    process control.
+  url: https://metrology.news/renishaw-to-showcase-advanced-robot-performance-and-measurement-solutions-at-automate-2026/
+- date: '2026-05-01'
+  title: Deva adds native CNC touch-probe control to PolyWorks|Inspector 2026 for
+    automated CMM workflows
+  source: Metrology News
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Deva Electronic Controls integrated its CMM controller
+    technology natively with PolyWorks|Inspector 2026, enabling direct CNC touch-probe
+    control, no-code measurement-sequence creation, stable low-latency communication,
+    PTB-certified algorithmic calculations, and always-on collision avoidance; Deva
+    and InnovMetric said tactile and laser scanning capabilities are planned for future
+    updates.
+  url: https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/
+- date: '2026-05-06'
   title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
     and ASME/Creo/Teamcenter updates
   source: Hexagon
