@@ -1,5 +1,17 @@
 ---
 - date: '2026-05-06'
+  title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
+    and ASME/Creo/Teamcenter updates
+  source: Hexagon
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon published PC-DMIS 2026.1, adding PC-DMIS FUSION for inspection-program
+    analytics, one-click reporting workflows, and enhanced metrology support for ASME,
+    Creo, and Teamcenter environments; the release is relevant for CMM teams standardizing
+    reporting, CAD interoperability, and production-quality data review across existing
+    PC-DMIS deployments.
+  url: https://hexagon.com/products/product-groups/measurement-inspection-software/metrology-software/pc-dmis/pc-dmis-2026-1
+- date: '2026-05-06'
   title: AirAsia orders 150 Airbus A220-300 aircraft, pushing A220 above 1,000 firm
     orders
   source: Airbus
@@ -11,19 +23,6 @@
     enabled by added overwing exits, while Airbus cited 501 A220 deliveries to 25
     operators as of end-March 2026 and 3,600 nautical miles of range for the type.
   url: https://www.airbus.com/en/newsroom/press-releases/2026-05-airasia-places-landmark-order-for-150-a220s
-- date: '2026-05-05'
-  title: GM details AI manufacturing quality tools cutting missed-weld review from
-    5,600 vehicles to under 10 suspects
-  source: General Motors
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: GM described production-quality AI and analytics deployments including
-    Device Level Analytics, WeldBrAIn, and paint-shop vision systems; at Fort Wayne,
-    DLA data narrowed a missed-weld containment review from 5,600 vehicles to fewer
-    than 10 suspects and kept nine affected vehicles from leaving the plant, while
-    Factory ZERO is piloting WeldBrAIn to move from manual checks of four parts per
-    shift to real-time checking of every weld on every body.
-  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0505-smarterAItoolsbuildvehicles.html
 - date: '2026-05-05'
   title: Renishaw to show U.S. Robot Calibration System cell and Equator-X dual-method
     gauging at Automate 2026
@@ -37,6 +36,33 @@
     supporting both absolute and comparative measurement strategies for tighter automated
     process control.
   url: https://metrology.news/renishaw-to-showcase-advanced-robot-performance-and-measurement-solutions-at-automate-2026/
+- date: '2026-05-05'
+  title: NIST AI for Manufacturing workshop targets standards gaps across agentic
+    AI, digital twins, data infrastructure, and process control
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST updated its May 27-28 AI for Manufacturing Workshop page on May 5,
+    noting registration is full for the 60-attendee event and that discussions will
+    assess standards gaps across generative and agentic AI, multi-agent coordination,
+    physical AI and digital-twin integration, data infrastructure, interoperability,
+    and cross-SDO roadmap prioritization; outputs are intended to feed a forthcoming
+    NIST Advanced Manufacturing Series report with prioritized gaps, actions, and
+    suggested standards-development homes.
+  url: https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop
+- date: '2026-05-05'
+  title: GM details AI manufacturing quality tools cutting missed-weld review from
+    5,600 vehicles to under 10 suspects
+  source: General Motors
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: GM described production-quality AI and analytics deployments including
+    Device Level Analytics, WeldBrAIn, and paint-shop vision systems; at Fort Wayne,
+    DLA data narrowed a missed-weld containment review from 5,600 vehicles to fewer
+    than 10 suspects and kept nine affected vehicles from leaving the plant, while
+    Factory ZERO is piloting WeldBrAIn to move from manual checks of four parts per
+    shift to real-time checking of every weld on every body.
+  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0505-smarterAItoolsbuildvehicles.html
 - date: '2026-05-01'
   title: Deva adds native CNC touch-probe control to PolyWorks|Inspector 2026 for
     automated CMM workflows
@@ -50,18 +76,6 @@
     and InnovMetric said tactile and laser scanning capabilities are planned for future
     updates.
   url: https://metrology.news/deva-electronic-controls-announces-native-cnc-integration-with-polyworksinspector-2026/
-- date: '2026-05-06'
-  title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
-    and ASME/Creo/Teamcenter updates
-  source: Hexagon
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon published PC-DMIS 2026.1, adding PC-DMIS FUSION for inspection-program
-    analytics, one-click reporting workflows, and enhanced metrology support for ASME,
-    Creo, and Teamcenter environments; the release is relevant for CMM teams standardizing
-    reporting, CAD interoperability, and production-quality data review across existing
-    PC-DMIS deployments.
-  url: https://hexagon.com/products/product-groups/measurement-inspection-software/metrology-software/pc-dmis/pc-dmis-2026-1
 - date: '2026-04-30'
   title: Stellantis Q1 2026 revenue rises 6% to EUR 38.1 billion as shipments reach
     1.361 million and profitability returns
@@ -177,6 +191,18 @@
     and 777-9 are anticipated in 2027.
   url: https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Reports-First-Quarter-Results/default.aspx
 - date: '2026-04-21'
+  title: Hexagon launches QUINDOS 2026.1 with CMM Check 3.0 support, variable high-speed
+    scanning, and drivetrain analysis updates
+  source: Hexagon
+  sector: quality_software
+  kind: vendor_release
+  summary: Hexagon announced QUINDOS 2026.1 for special-geometry metrology, adding
+    full support for the CMM Check 3.0 machine-monitoring standard, simplified variable
+    high-speed scanning, rotary-table CAD programming, E57 point-cloud support, improved
+    mesh handling, and gear/drivetrain tools including Hirth serration runout, gear
+    tooth thickness visualization, and cylindrical worm tip relief evaluation.
+  url: https://hexagon.com/company/newsroom/press-releases/2026/hexagon-launches-quindos-2026-1-to-accelerate-inspection-workflows-and-enhance-metrology-performance
+- date: '2026-04-21'
   title: GE Aerospace Q1 2026 orders jump 87% to USD 23.0 billion as engine deliveries
     rise 43% and services backlog reaches USD 170 billion
   source: GE Aerospace
@@ -189,18 +215,6 @@
     the company also said total engine deliveries increased 43% and reaffirmed plans
     to invest USD 1 billion in U.S. manufacturing and suppliers in 2026.
   url: https://www.geaerospace.com/news/press-releases/ge-aerospace-announces-first-quarter-2026-results
-- date: '2026-04-21'
-  title: Hexagon launches QUINDOS 2026.1 with CMM Check 3.0 support, variable high-speed
-    scanning, and drivetrain analysis updates
-  source: Hexagon
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon announced QUINDOS 2026.1 for special-geometry metrology, adding
-    full support for the CMM Check 3.0 machine-monitoring standard, simplified variable
-    high-speed scanning, rotary-table CAD programming, E57 point-cloud support, improved
-    mesh handling, and gear/drivetrain tools including Hirth serration runout, gear
-    tooth thickness visualization, and cylindrical worm tip relief evaluation.
-  url: https://hexagon.com/company/newsroom/press-releases/2026/hexagon-launches-quindos-2026-1-to-accelerate-inspection-workflows-and-enhance-metrology-performance
 - date: '2026-04-16'
   title: Toyota Europe Q1 2026 BEV sales rise 79% to 318,103 vehicles as regional
     volume reaches 321,067 electrified units
@@ -214,18 +228,6 @@
     and more than EUR 12 billion invested since 1990.
   url: https://newsroom.toyota.eu/toyota-motor-europe-battery-electric-vehicle-sales-up-79-in-the-first-quarter-of-2026/
 - date: '2026-04-14'
-  title: Boeing delivers 143 commercial aircraft and 30 defense, space, and satellite
-    units in Q1 2026
-  source: Boeing
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Boeing reported first-quarter 2026 deliveries of 143 commercial aircraft,
-    including 114 737s, 15 787s, 8 777s, and 6 767s, plus 30 defense, space, and security
-    units spanning Apache, Chinook, F-15, F/A-18, KC-46, MH-139, P-8, and satellite
-    programs, providing a direct read on current aerospace production throughput across
-    major platforms.
-  url: https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Announces-First-Quarter-Deliveries/default.aspx
-- date: '2026-04-14'
   title: Rivian and Redwood deploy 10 MWh second-life battery system at Normal plant
     using 100+ retired packs
   source: Rivian
@@ -237,6 +239,44 @@
     second-life Rivian battery packs to provide 10 MWh of dispatchable energy for
     peak-load reduction and manufacturing-site grid support.
   url: https://rivian.com/newsroom/article/rivian-and-redwood-materials-announce-energy-storage-partnership-for-manufacturing
+- date: '2026-04-14'
+  title: Boeing delivers 143 commercial aircraft and 30 defense, space, and satellite
+    units in Q1 2026
+  source: Boeing
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Boeing reported first-quarter 2026 deliveries of 143 commercial aircraft,
+    including 114 737s, 15 787s, 8 777s, and 6 767s, plus 30 defense, space, and security
+    units spanning Apache, Chinook, F-15, F/A-18, KC-46, MH-139, P-8, and satellite
+    programs, providing a direct read on current aerospace production throughput across
+    major platforms.
+  url: https://investors.boeing.com/investors/news/press-release-details/2026/Boeing-Announces-First-Quarter-Deliveries/default.aspx
+- date: '2026-04-13'
+  title: Hexagon to acquire Waygate Technologies for $1.45B, combining CMM, CT, radiography,
+    and NDT inspection workflows
+  source: Hexagon
+  sector: scientific_metrology
+  kind: industry_news
+  summary: Hexagon announced a cash acquisition of Waygate Technologies for approximately
+    USD 1.45 billion, expected to close in the second half of 2026; Waygate brings
+    roughly USD 630 million in annual revenue, 1,500 employees, 25 locations, CT and
+    radiography systems for internal dimensional metrology and defect detection, and
+    remote visual inspection for aerospace MRO, giving Hexagon a surface-to-interior
+    inspection platform alongside CMM, Volume Graphics, and production-quality software.
+  url: https://hexagon.com/company/newsroom/press-releases/2026/hexagon-to-acquire-waygate-technologies-expanding-into-nondestructive-testing
+- date: '2026-04-08'
+  title: NPL spin-out K3 Metrology raises ?2.75M to commercialize Metralis real-time
+    large-volume measurement platform
+  source: NPL
+  sector: scientific_metrology
+  kind: industry_news
+  summary: NPL said K3 Metrology launched with ?2.75 million in seed investment to
+    commercialize Metralis, a real-time traceable metrology platform for advanced
+    manufacturing; the AMRC Cymru-based spin-out targets aerospace, defense, nuclear,
+    and other high-value sectors, builds on more than 12 years of NPL development,
+    and NPL cited a customer timing study showing 60% efficiency gains versus legacy
+    large-volume measurement workflows.
+  url: https://www.npl.co.uk/news/next-generation-metrology-platform-for-advanced-manufacturing
 - date: '2026-04-01'
   title: GM invests over USD 150 million in Saginaw casting plant for sixth-generation
     V-8 blocks and heads
@@ -287,6 +327,18 @@
     AFEELA 1 reservation holders.
   url: https://www.shm-afeela.com/en/news/2026-03-25/
 - date: '2026-03-24'
+  title: Toyota invests USD 1 billion in Kentucky and Indiana plants for BEV readiness
+    and U.S. capacity growth
+  source: Toyota
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Toyota Motor North America announced a USD 1 billion investment in two
+    U.S. plants, allocating USD 800 million in Kentucky to prepare for battery-electric
+    vehicle production and increase Camry and RAV4 capacity, plus USD 200 million
+    in Indiana to expand Grand Highlander output; the move sits within Toyotas broader
+    plan to invest up to USD 10 billion more in the U.S. over five years.
+  url: https://global.toyota/en/newsroom/corporate/44129928.html
+- date: '2026-03-24'
   title: GM invests USD 4 billion in U.S. plants to lift domestic vehicle output above
     2 million units per year
   source: General Motors
@@ -299,31 +351,6 @@
     keeping 2027 Bolt EV launch on track by year-end, and adds Chevrolet Blazer production
     at Spring Hill in 2027 alongside Cadillac EV programs.
   url: https://investor.gm.com/news-releases/news-release-details/gm-invest-4-billion-its-us-manufacturing-plants/
-- date: '2026-03-24'
-  title: Toyota invests USD 1 billion in Kentucky and Indiana plants for BEV readiness
-    and U.S. capacity growth
-  source: Toyota
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Toyota Motor North America announced a USD 1 billion investment in two
-    U.S. plants, allocating USD 800 million in Kentucky to prepare for battery-electric
-    vehicle production and increase Camry and RAV4 capacity, plus USD 200 million
-    in Indiana to expand Grand Highlander output; the move sits within Toyotas broader
-    plan to invest up to USD 10 billion more in the U.S. over five years.
-  url: https://global.toyota/en/newsroom/corporate/44129928.html
-- date: '2026-03-20'
-  title: ActionPlas deploys LK Altera M CMM for Formula 1 inspection work with 10-micron
-    part-to-CAD tolerances
-  source: LK Metrology
-  sector: scientific_metrology
-  kind: case_study
-  summary: LK Metrology reports ActionPlas installed an Altera M 20.12.10 CMM with
-    a 2.0 x 1.2 x 1.0 m working volume and Renishaw SP25M scanning probe as part of
-    a £1 million Formula 1-focused investment program; ActionPlas cited typical part-to-CAD
-    tolerances of 10 microns, two-week machine delivery from stock, and daily use
-    across R&D, quality control, and production for complex machined and additively
-    manufactured parts.
-  url: https://www.lkmetrology.com/news/cmm-fulfills-f1-requirements-contract-manufacturer-actionplas-secures-future-growth/
 - date: '2026-03-20'
   title: Lumafield expands industrial CT lineup with 15x faster Neptune Performance,
     large-part Saturn, and inline Mars systems
@@ -337,6 +364,19 @@
     and supports AMS-2175-compliant digital radiography for castings, and Mars targets
     high-throughput production inspection.'
   url: https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/
+- date: '2026-03-20'
+  title: ActionPlas deploys LK Altera M CMM for Formula 1 inspection work with 10-micron
+    part-to-CAD tolerances
+  source: LK Metrology
+  sector: scientific_metrology
+  kind: case_study
+  summary: LK Metrology reports ActionPlas installed an Altera M 20.12.10 CMM with
+    a 2.0 x 1.2 x 1.0 m working volume and Renishaw SP25M scanning probe as part of
+    a £1 million Formula 1-focused investment program; ActionPlas cited typical part-to-CAD
+    tolerances of 10 microns, two-week machine delivery from stock, and daily use
+    across R&D, quality control, and production for complex machined and additively
+    manufactured parts.
+  url: https://www.lkmetrology.com/news/cmm-fulfills-f1-requirements-contract-manufacturer-actionplas-secures-future-growth/
 - date: '2026-03-18'
   title: GE Aerospace invests EUR110M+ across Europe for manufacturing capacity, test
     infrastructure, and 1,000 hires
@@ -428,16 +468,6 @@
     acquisition software.
   url: https://metrology.news/direct-data-acquisition-from-faro-creaform-scanners-now-available-in-polyworksinspector/
 - date: '2026-03-06'
-  title: NIST AI standards webinar highlights measurement priorities for manufacturing
-    and critical infrastructure
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST ITL's March 6, 2026 webinar outlined international AI standards activity
-    and U.S. measurement priorities, including manufacturing-focused evaluation challenges
-    and assurance approaches relevant to industrial AI deployment quality.
-  url: https://www.nist.gov/news-events/events/2026/03/nist-information-technology-laboratory-ai-webinar-series-international-ai
-- date: '2026-03-06'
   title: Orano and XTC New Energy approve first CAM plant investment in northern France
     for EV battery scale-up
   source: Orano Group
@@ -448,6 +478,16 @@
     northern France, adding upstream battery-material manufacturing capacity for European
     EV programs.
   url: https://www.orano.group/en/news/news-group/2026/march/xtc-new-energy-and-orano-announce-the-construction-of-their-first-battery-cathode-active-material-manufacturing-plant-in-northern-france
+- date: '2026-03-06'
+  title: NIST AI standards webinar highlights measurement priorities for manufacturing
+    and critical infrastructure
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST ITL's March 6, 2026 webinar outlined international AI standards activity
+    and U.S. measurement priorities, including manufacturing-focused evaluation challenges
+    and assurance approaches relevant to industrial AI deployment quality.
+  url: https://www.nist.gov/news-events/events/2026/03/nist-information-technology-laboratory-ai-webinar-series-international-ai
 - date: '2026-03-04'
   title: Airbus selected by EDA to expand multi-mission Capa-X drone capabilities
   source: Airbus
@@ -471,15 +511,6 @@
     2634 Part 3 and ISO 10360 in ISO/IEC 17025:2017 accredited laboratories.
   url: https://www.qualitymag.com/articles/99448-faro-creafom-cube-r-m-series-3d-scanner
 - date: '2026-03-02'
-  title: Air Astana finalizes direct order for 25 Airbus A320neo Family aircraft
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus announced Air Astana Group signed a firm order for 25 A320neo Family
-    aircraft, extending near-term commercial-aircraft production visibility and supplier
-    demand across the narrowbody ecosystem.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-air-astana-finalises-order-for-25-airbus-a320neo-family-aircraft
-- date: '2026-03-02'
   title: Nearfield adds inline sidewall imaging mode for 3D semiconductor metrology
     process control
   source: Metrology News
@@ -490,6 +521,25 @@
     for advanced logic and memory structures, aiming to improve high-volume process
     control versus destructive sampling methods.
   url: https://metrology.news/nearfield-instruments-launches-sidewall-imaging-mode-for-inline-3d-semiconductor-metrology/
+- date: '2026-03-02'
+  title: Air Astana finalizes direct order for 25 Airbus A320neo Family aircraft
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus announced Air Astana Group signed a firm order for 25 A320neo Family
+    aircraft, extending near-term commercial-aircraft production visibility and supplier
+    demand across the narrowbody ecosystem.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-03-air-astana-finalises-order-for-25-airbus-a320neo-family-aircraft
+- date: '2026-02-26'
+  title: Stellantis FY2025 reset outlines multi-powertrain manufacturing plan for
+    2026 recovery
+  source: Stellantis Media
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Stellantis reported FY2025 results alongside a 2026 execution plan centered
+    on broader EV, hybrid, and ICE coverage by region, positioning its manufacturing
+    footprint for volume recovery and improved profitability after 2025 disruptions.
+  url: https://www.media.stellantis.com/em-en/corporate-communications/press/stellantis-reports-full-year-2025-financial-results
 - date: '2026-02-26'
   title: Factorial signs Philenergy manufacturing partnership to scale solid-state
     EV battery production
@@ -501,25 +551,6 @@
     battery platform, a key production step as the company targets commercialization
     with OEM partners including Mercedes-Benz and Stellantis.
   url: https://electrek.co/2026/02/26/all-solid-state-ev-battery-maker-factorial-moves-toward-production/
-- date: '2026-02-26'
-  title: Stellantis FY2025 reset outlines multi-powertrain manufacturing plan for
-    2026 recovery
-  source: Stellantis Media
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: Stellantis reported FY2025 results alongside a 2026 execution plan centered
-    on broader EV, hybrid, and ICE coverage by region, positioning its manufacturing
-    footprint for volume recovery and improved profitability after 2025 disruptions.
-  url: https://www.media.stellantis.com/em-en/corporate-communications/press/stellantis-reports-full-year-2025-financial-results
-- date: '2026-02-23'
-  title: Airbus unveils next-generation rotorcraft concepts for NATO NGRC studies
-  source: Airbus
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Airbus Helicopters presented conventional and high-speed compound rotorcraft
-    concepts for NATO NGRC studies, emphasizing modular architecture, maintainability,
-    and shared systems to improve military fleet affordability and operational availability.
-  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-unveils-next-generation-rotorcraft-concepts-for-nato-studies
 - date: '2026-02-23'
   title: SHINING 3D expands industrial metrology portfolio with OptimScan Q9 and FreeScan
     Omni Lite
@@ -533,6 +564,25 @@
     measurement integrity with consistent software capability and support across the
     portfolio.'
   url: https://metrology.news/shining-3d-expands-industrial-3d-scanning-range-with-new-metrology-systems/
+- date: '2026-02-23'
+  title: Airbus unveils next-generation rotorcraft concepts for NATO NGRC studies
+  source: Airbus
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Airbus Helicopters presented conventional and high-speed compound rotorcraft
+    concepts for NATO NGRC studies, emphasizing modular architecture, maintainability,
+    and shared systems to improve military fleet affordability and operational availability.
+  url: https://www.airbus.com/en/newsroom/press-releases/2026-02-airbus-unveils-next-generation-rotorcraft-concepts-for-nato-studies
+- date: '2026-02-20'
+  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST's CAISI and ITL released AI 800-3, formalizing benchmark versus generalized
+    accuracy and promoting generalized linear mixed models to improve uncertainty
+    treatment and decision quality in AI performance measurement, extending core metrology
+    principles into AI evaluation practice.
+  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
 - date: '2026-02-20'
   title: Hexagon launches certified marker-free HYPERSCAN 3D scanner for production
     inspection
@@ -558,16 +608,6 @@
     sulfur cathode; the technology passed nail penetration and 250°C heating tests,
     initially targeting non-automotive applications before EV integration.
   url: https://electrek.co/2026/02/20/lithium-metal-giant-begins-semi-solid-state-ev-battery-production/
-- date: '2026-02-20'
-  title: NIST publishes AI 800-3 statistical framework for benchmark evaluation rigor
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST's CAISI and ITL released AI 800-3, formalizing benchmark versus generalized
-    accuracy and promoting generalized linear mixed models to improve uncertainty
-    treatment and decision quality in AI performance measurement, extending core metrology
-    principles into AI evaluation practice.
-  url: https://www.nist.gov/news-events/news/2026/02/new-report-expanding-ai-evaluation-toolbox-statistical-models
 - date: '2026-02-19'
   title: Toyota Europe launches Poland circular-factory investment for end-of-life
     vehicle processing
@@ -612,16 +652,6 @@
     errors.
   url: https://mtdcnc.com/news/renishaw-plc/renishaw-launches-advanced-agility-cmm-system/
 - date: '2026-02-17'
-  title: NIST allocates $3.19M in SBIR funding for AI, biotech, and measurement technologies
-  source: NIST
-  sector: scientific_metrology
-  kind: standards_method
-  summary: NIST announced Phase II SBIR awards totaling $3.19 million to eight small
-    businesses for R&D in AI, medical diagnostics, biotechnology, semiconductors,
-    and quantum technologies, including projects for SEM simulation improvements and
-    SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
-  url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
-- date: '2026-02-17'
   title: Ready Metrology launches Run CMM line for fast shopfloor-ready inspection
   source: MTDCNC
   sector: quality_software
@@ -632,15 +662,16 @@
     interface, barcode-driven program switching, and robotic integration support for
     automated inspection cells.
   url: https://mtdcnc.com/news/mtdcnc/ready-metrology-launches-run-cmm-line-for-fast-shopfloor-ready-inspection/
-- date: '2026-02-16'
-  title: CAMIO 2026 R2 announced as first release with full REVO system support
-  source: M&MT
-  sector: quality_software
-  kind: vendor_release
-  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
-    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
-    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
-  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
+- date: '2026-02-17'
+  title: NIST allocates $3.19M in SBIR funding for AI, biotech, and measurement technologies
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST announced Phase II SBIR awards totaling $3.19 million to eight small
+    businesses for R&D in AI, medical diagnostics, biotechnology, semiconductors,
+    and quantum technologies, including projects for SEM simulation improvements and
+    SWIR hyperspectral imaging with AI for biopharmaceutical cell culture monitoring.
+  url: https://www.nist.gov/news-events/news/2026/02/nist-allocates-over-3-million-small-businesses-advancing-ai-biotechnology
 - date: '2026-02-16'
   title: LK Metrology introduces COREX 250 shop-floor CT system for rapid internal
     inspection
@@ -652,6 +683,15 @@
     at near-line non-destructive metrology, reflecting continued migration of volumetric
     inspection from labs to production environments.
   url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
+- date: '2026-02-16'
+  title: CAMIO 2026 R2 announced as first release with full REVO system support
+  source: M&MT
+  sector: quality_software
+  kind: vendor_release
+  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
+    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
+    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
+  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
 - date: '2026-02-11'
   title: International AI measurement network publishes consensus practices for automated
     AI evaluations
@@ -695,16 +735,16 @@
     of Mastercam Copilot for AI-assisted workflow support.
   url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
 - date: '2026-02-07'
-  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
-  source: Modern Machine Shop
-  sector: scientific_metrology
-  kind: hardware_news
-  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs
-    450nm blue laser technology with 4th-generation ESP (enhanced sensor performance)
-    that intelligently adjusts laser power across 2,000 points, enabling measurement
-    of multi-material assemblies and shiny surfaces without preparation at up to 530,000
-    points per second with 110mm stripe width.
-  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
+  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
+    AI-assisted translation
+  source: ZEISS Metrology
+  sector: quality_software
+  kind: vendor_release
+  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
+    measurement-result context in CAD views, server-side template management refinements,
+    and AI-assisted report translation features. The update also emphasizes notification
+    customization and usability improvements for cross-team quality-data workflows.
+  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: '2026-02-07'
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail
     architectures
@@ -718,16 +758,16 @@
     workflows.
   url: https://www.lkmetrology.com/news/large-volume-cmm-new-maxima-table-and-twin-rail-version-available/
 - date: '2026-02-07'
-  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
-    AI-assisted translation
-  source: ZEISS Metrology
-  sector: quality_software
-  kind: vendor_release
-  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
-    measurement-result context in CAD views, server-side template management refinements,
-    and AI-assisted report translation features. The update also emphasizes notification
-    customization and usability improvements for cross-team quality-data workflows.
-  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
+  title: LK Metrology L100NX blue laser scanner enhances CMM inspection accuracy
+  source: Modern Machine Shop
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Modern Machine Shop reports LK Metrology's L100NX laser scanner employs
+    450nm blue laser technology with 4th-generation ESP (enhanced sensor performance)
+    that intelligently adjusts laser power across 2,000 points, enabling measurement
+    of multi-material assemblies and shiny surfaces without preparation at up to 530,000
+    points per second with 110mm stripe width.
+  url: https://www.mmsonline.com/products/lk-metrology-blue-laser-scanner-enhances-inspection-accuracy
 - date: '2026-02-07'
   title: ASME Y14.49 Part 3 article details functional-surface filtering strategy
     for large plate flatness control
