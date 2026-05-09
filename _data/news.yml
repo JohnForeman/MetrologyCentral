@@ -1,4 +1,45 @@
 ---
+- date: '2026-05-07'
+  title: Howmet Q1 2026 revenue rises 19% to USD 2.31 billion as aerospace engine
+    products sales jump 29%
+  source: Howmet Aerospace
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Howmet Aerospace reported first-quarter 2026 revenue of USD 2.31 billion,
+    up 19% year over year, with adjusted EBITDA of USD 740 million, up 32%, and 32.0%
+    adjusted EBITDA margin; commercial aerospace revenue rose 20%, defense aerospace
+    rose 10%, gas turbines rose 39%, Engine Products sales reached USD 1.25 billion,
+    up 29%, and the company completed the approximately USD 1.8 billion CAM acquisition
+    for precision fasteners, fluid fittings, and other aerospace and defense components.
+  url: https://www.howmet.com/press-release/2026-05-07/howmet-aerospace-reports-first-quarter-2026-results/
+- date: '2026-05-05'
+  title: Moment Energy secures USD 40M Series B to scale certified second-life EV
+    battery storage manufacturing
+  source: Moment Energy
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Moment Energy announced an oversubscribed Series B of more than USD 40
+    million, bringing total capital raised above USD 100 million, to expand second-life
+    EV battery storage manufacturing across the U.S. and Canada; the company says
+    its commercial BESS systems have UL 1974 and UL 9540A safety milestones, target
+    industrial, utility, data-center, hospital, factory, and microgrid customers,
+    and use a pack-swapping architecture intended to extend system life to 30 years
+    with up to 164 MWh of storage per acre.
+  url: https://www.momentenergy.com/news/series-b
+- date: '2026-05-04'
+  title: Siemens reaches USD 1B in U.S. manufacturing investments across power, rail,
+    data-center, and automation infrastructure
+  source: Siemens
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Siemens said it has reached USD 1 billion in U.S. manufacturing investments
+    over five years, with projects coming online in 2026 including USD 165 million
+    across Carolinas electrical-equipment sites, a USD 190 million 500,000 sq ft Fort
+    Worth data-center infrastructure plant, a USD 220 million Lexington passenger-rail
+    manufacturing hub, and a USD 95 million Pomona electrical-infrastructure expansion;
+    Siemens expects more than 2,200 jobs by 2028 and cited use of digital twins, Technomatix,
+    and Insights Hub for factory design and operations visibility.
+  url: https://news.siemens.com/en-us/siemens-achieves-1-billion-us-manufacturing-investments/
 - date: '2026-05-06'
   title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
     and ASME/Creo/Teamcenter updates
