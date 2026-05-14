@@ -1,4 +1,30 @@
 ---
+- date: '2026-05-13'
+  title: GM Fairfax batch-builds 2027 Chevrolet Bolt in 30-vehicle groups to reduce
+    launch variation and improve EFTQ
+  source: General Motors
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: GM said Fairfax Assembly & Stamping is using batch builds of 30 similarly
+    equipped 2027 Chevrolet Bolt vehicles to simplify scheduling, supplier flow, and
+    line execution; the plant tracks electrical first-time quality, holds two bodies
+    for each roof and color configuration so a matching clone can replace any vehicle
+    pulled for a quality concern, and plans to carry the method into Chevrolet Equinox
+    and a new Buick compact SUV production.
+  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0513-building-chevy-bolts.html
+- date: '2026-05-11'
+  title: GM Defiance uses 3D Metra Scan at 1.8 million data points/s for foundry component
+    quality feedback
+  source: General Motors
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: GM described use of a 3D Metra Scan tool at its Defiance, Ohio metal foundry
+    for engine blocks and cylinder-head castings, replacing point-only CMM checks
+    in some investigations with full-surface scanning at 1.8 million data points per
+    second; GM says the process helps reveal grooves, internal channels, and surface
+    conditions faster, giving plant teams earlier feedback before parts leave the
+    shop.
+  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0511-smart-3D-scanner-spots-problems.html
 - date: '2026-05-07'
   title: Howmet Q1 2026 revenue rises 19% to USD 2.31 billion as aerospace engine
     products sales jump 29%
@@ -12,34 +38,6 @@
     up 29%, and the company completed the approximately USD 1.8 billion CAM acquisition
     for precision fasteners, fluid fittings, and other aerospace and defense components.
   url: https://www.howmet.com/press-release/2026-05-07/howmet-aerospace-reports-first-quarter-2026-results/
-- date: '2026-05-05'
-  title: Moment Energy secures USD 40M Series B to scale certified second-life EV
-    battery storage manufacturing
-  source: Moment Energy
-  sector: ev_manufacturing
-  kind: industry_news
-  summary: Moment Energy announced an oversubscribed Series B of more than USD 40
-    million, bringing total capital raised above USD 100 million, to expand second-life
-    EV battery storage manufacturing across the U.S. and Canada; the company says
-    its commercial BESS systems have UL 1974 and UL 9540A safety milestones, target
-    industrial, utility, data-center, hospital, factory, and microgrid customers,
-    and use a pack-swapping architecture intended to extend system life to 30 years
-    with up to 164 MWh of storage per acre.
-  url: https://www.momentenergy.com/news/series-b
-- date: '2026-05-04'
-  title: Siemens reaches USD 1B in U.S. manufacturing investments across power, rail,
-    data-center, and automation infrastructure
-  source: Siemens
-  sector: industrial_manufacturing
-  kind: industry_news
-  summary: Siemens said it has reached USD 1 billion in U.S. manufacturing investments
-    over five years, with projects coming online in 2026 including USD 165 million
-    across Carolinas electrical-equipment sites, a USD 190 million 500,000 sq ft Fort
-    Worth data-center infrastructure plant, a USD 220 million Lexington passenger-rail
-    manufacturing hub, and a USD 95 million Pomona electrical-infrastructure expansion;
-    Siemens expects more than 2,200 jobs by 2028 and cited use of digital twins, Technomatix,
-    and Insights Hub for factory design and operations visibility.
-  url: https://news.siemens.com/en-us/siemens-achieves-1-billion-us-manufacturing-investments/
 - date: '2026-05-06'
   title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
     and ASME/Creo/Teamcenter updates
@@ -92,6 +90,20 @@
     suggested standards-development homes.
   url: https://www.nist.gov/news-events/events/2026/05/artificial-intelligence-ai-manufacturing-workshop
 - date: '2026-05-05'
+  title: Moment Energy secures USD 40M Series B to scale certified second-life EV
+    battery storage manufacturing
+  source: Moment Energy
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Moment Energy announced an oversubscribed Series B of more than USD 40
+    million, bringing total capital raised above USD 100 million, to expand second-life
+    EV battery storage manufacturing across the U.S. and Canada; the company says
+    its commercial BESS systems have UL 1974 and UL 9540A safety milestones, target
+    industrial, utility, data-center, hospital, factory, and microgrid customers,
+    and use a pack-swapping architecture intended to extend system life to 30 years
+    with up to 164 MWh of storage per acre.
+  url: https://www.momentenergy.com/news/series-b
+- date: '2026-05-05'
   title: GM details AI manufacturing quality tools cutting missed-weld review from
     5,600 vehicles to under 10 suspects
   source: General Motors
@@ -104,6 +116,20 @@
     Factory ZERO is piloting WeldBrAIn to move from manual checks of four parts per
     shift to real-time checking of every weld on every body.
   url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/may/0505-smarterAItoolsbuildvehicles.html
+- date: '2026-05-04'
+  title: Siemens reaches USD 1B in U.S. manufacturing investments across power, rail,
+    data-center, and automation infrastructure
+  source: Siemens
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Siemens said it has reached USD 1 billion in U.S. manufacturing investments
+    over five years, with projects coming online in 2026 including USD 165 million
+    across Carolinas electrical-equipment sites, a USD 190 million 500,000 sq ft Fort
+    Worth data-center infrastructure plant, a USD 220 million Lexington passenger-rail
+    manufacturing hub, and a USD 95 million Pomona electrical-infrastructure expansion;
+    Siemens expects more than 2,200 jobs by 2028 and cited use of digital twins, Technomatix,
+    and Insights Hub for factory design and operations visibility.
+  url: https://news.siemens.com/en-us/siemens-achieves-1-billion-us-manufacturing-investments/
 - date: '2026-05-01'
   title: Deva adds native CNC touch-probe control to PolyWorks|Inspector 2026 for
     automated CMM workflows
@@ -875,15 +901,6 @@
     broader METROTOM support), extending the software stack for high-throughput inspection
     teams.
   url: https://www.zeiss.com/metrology/en/about-us/newsroom/2025/software-release.html
-- date: '2025-10-22'
-  title: PC-DMIS 2025.2 release adds Calypso program conversion and reporting enhancements
-  source: Hexagon Nexus
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon's PC-DMIS 2025.2 release introduces a Calypso-to-PC-DMIS conversion
-    utility, updates to cloud-based Metrology Reporting, and freeform/strategy improvements,
-    making it the latest published PC-DMIS release line for mixed-software CMM environments.
-  url: https://nexus.hexagon.com/community/public/pc-dmis/b/news-and-announcements/posts/pc-dmis-2025-2-release-available-now
 - date: '2025-09-16'
   title: Rivian breaks ground on Georgia plant to scale next-generation EV manufacturing
   source: Rivian Newsroom
@@ -893,14 +910,3 @@
     2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing
     capacity expansion.
   url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
-- date: '2025-04-30'
-  title: InnovMetric releases PolyWorks 2025 with inspection digital-thread controls
-    and approval workflow
-  source: InnovMetric
-  sector: quality_software
-  kind: vendor_release
-  summary: InnovMetric's PolyWorks 2025 release emphasizes enterprise inspection-thread
-    governance, including project-template standardization, piece-inspection locking,
-    view-only sharing, and web-based review/approval to improve traceability and cross-team
-    quality execution.
-  url: https://www.polyworks.com/en-ca/news/innovmetric-releases-polyworks-2025
