@@ -1,4 +1,30 @@
 ---
+- date: '2026-05-14'
+  title: UMC releases 14nm eHV FinFET platform for display-driver ICs with 40% lower
+    power and 35% smaller chip area
+  source: UMC
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: UMC announced its 14nm embedded high-voltage FinFET platform for display-driver
+    ICs, with the process design kit available for customer designs and validation
+    completed at Fab 12A; compared with its 22nm display-driver process, UMC cites
+    up to 40% lower power consumption and 35% smaller chip area, a high-voltage process
+    range spanning 0.6 µm to 14 nm, 12 production fabs with more than 400,000 12-inch-equivalent
+    wafers per month of capacity, and IATF 16949 certification across all fabs.
+  url: https://www.umc.com/en/News/press_release/Content/technology_related/20260514
+- date: '2026-05-11'
+  title: RTX Collins invests USD 26.5M in Largo radar production, adding 100+ aerospace
+    and defense jobs
+  source: RTX
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: RTX said Collins Aerospace is investing USD 26.5 million to expand its
+    Largo, Florida facility for commercial aviation radar and multi-domain defense
+    security production; the project adds more than 100 engineering and factory-operations
+    jobs, supports FAA Radar System Replacement Program work including Condor Mk3
+    and ASR-XM radar production, and is expected to make the new radar production
+    area fully operational by late 2026.
+  url: https://www.rtx.com/news/news-center/2026/05/11/rtxs-collins-aerospace-accelerates-production-with-26-5-million-investment-in-l
 - date: '2026-05-13'
   title: GM Fairfax batch-builds 2027 Chevrolet Bolt in 30-vehicle groups to reduce
     launch variation and improve EFTQ
