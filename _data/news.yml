@@ -1,4 +1,32 @@
 ---
+- date: '2026-05-11'
+  title: Cognex launches In-Sight 6900 edge-AI vision controller with 157 TOPS and
+    10-20 image training modes
+  source: Metrology News
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports Cognex launched the In-Sight 6900 Vision Controller,
+    a modular machine-vision controller powered by NVIDIA Jetson technology for edge
+    AI inspection without external PCs; cited capabilities include interchangeable
+    cameras, lenses, optics and lighting, few-sample classification with as few as
+    10-20 training images, pixel-level segmentation for challenging surfaces, OneVision
+    deployment across plants and lines, up to 157 TOPS of AI performance, and TensorRT-supported
+    real-time inference for high-speed production lines.
+  url: https://metrology.news/cognex-launches-in-sight-vision-controller-powered-by-nvidia/
+- date: '2026-05-11'
+  title: Horse Powertrain deploys Siemens Inspekto AI cobot inspection at Skövde engine
+    plant with two-hour go/no-go setup
+  source: Metrology News
+  sector: auto_manufacturing
+  kind: case_study
+  summary: Metrology News reports Horse Powertrain deployed Siemens Inspekto Visual
+    Inspection through Aurobay Technologies at its Skövde engine production plant,
+    replacing manual engine-station defect checks with a vision camera on a collaborative
+    robot; engines arrive by automated guided vehicle, defect analysis runs in seconds,
+    images are stored for traceable searchable production records, the system connects
+    through Siemens TIA Portal to Simatic S7 and HMI panels, and teams can evaluate
+    a live-product go/no-go decision within two hours of installation.
+  url: https://metrology.news/ai-cobot-inspection-system-automate-engine-quality-checks/
 - date: '2026-05-14'
   title: UMC releases 14nm eHV FinFET platform for display-driver ICs with 40% lower
     power and 35% smaller chip area
