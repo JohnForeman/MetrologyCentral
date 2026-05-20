@@ -1,17 +1,57 @@
 ---
+- date: '2026-05-19'
+  title: GelSight Mobile 4.4 adds guided calibration, offset statistics, and stacked
+    routines for production surface inspection
+  source: Metrology News
+  sector: scientific_metrology
+  kind: vendor_release
+  summary: Metrology News reports GelSight released Mobile 4.4 for surface-analysis
+    inspection workflows, adding average/minimum/maximum offset output statistics
+    for multi-profile analysis, animated step-by-step Modulus sensor calibration guidance,
+    customizable PDF report templates, stacked routines in Operator mode, and PLY
+    export; the update targets reduced training, inspection, and post-processing time
+    while keeping laboratory-grade surface metrology usable by production inspectors.
+  url: https://metrology.news/gelsight-mobile-4-4-release-advances-guided-surface-inspection/
 - date: '2026-05-18'
-  title: Ford Energy and EDF sign five-year framework for up to 20 GWh of U.S.-assembled DC Block battery storage systems
+  title: Nikon launches NEXIV VMF-K6561 large-stage optical measurement system for
+    600 x 600 mm panel-level packages
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Nikon introduced the NEXIV VMF-K6561, a 3D confocal
+    optical measurement system with a 650 x 610 mm stage sized to inspect complete
+    600 x 600 mm panel-level packages in a single setup; Nikon also increased stage-glass
+    thickness for stability and positions the system for high-speed 2D/3D dimensional
+    inspection of reflective, transparent, and high-contrast semiconductor packaging
+    surfaces without multiple repositioning steps.
+  url: https://metrology.news/nikon-introduces-large-stage-optical-measurement-system-for-advanced-packaging/
+- date: '2026-05-18'
+  title: Ford Energy and EDF sign five-year framework for up to 20 GWh of U.S.-assembled
+    DC Block battery storage systems
   source: Business Wire
   sector: ev_manufacturing
   kind: industry_news
-  summary: Ford Energy and EDF power solutions North America announced a five-year framework agreement under which EDF can procure up to 4 GWh per year of Ford Energy DC Block battery energy storage systems, for up to 20 GWh total; the systems are described as U.S.-assembled products for utility, data-center, industrial, and commercial customers, giving a measurable demand signal for Ford Energy battery-storage manufacturing after its announced entry into the BESS market.
+  summary: Ford Energy and EDF power solutions North America announced a five-year
+    framework agreement under which EDF can procure up to 4 GWh per year of Ford Energy
+    DC Block battery energy storage systems, for up to 20 GWh total; the systems are
+    described as U.S.-assembled products for utility, data-center, industrial, and
+    commercial customers, giving a measurable demand signal for Ford Energy battery-storage
+    manufacturing after its announced entry into the BESS market.
   url: https://www.businesswire.com/news/home/20260518144315/en/Ford-Energy-and-EDF-power-solutions-North-America-Announce-Five-Year-Framework-Agreement-for-Up-to-20-GWh-of-Battery-Energy-Storage-Systems
 - date: '2026-05-18'
-  title: GE Aerospace invests INR 100 crore in Pune for welding, inspection, tooling, and GE90/GEnx/GE9X/LEAP capacity
+  title: GE Aerospace invests INR 100 crore in Pune for welding, inspection, tooling,
+    and GE90/GEnx/GE9X/LEAP capacity
   source: GE Aerospace
   sector: aerospace_defense_manufacturing
   kind: industry_news
-  summary: GE Aerospace announced an INR 100 crore investment in its Pune, India manufacturing facility for new welding technologies, advanced inspection equipment, precision tools, gauges, fixtures, and infrastructure to increase production capacity and process precision; the company says this brings Pune investment to more than INR 510 crore over three years, supports GE90, GEnx, GE9X, and CFM LEAP engine components, works through more than 300 local suppliers within a broader 2,200-supplier India network, and trains more than 500 apprentices annually through a two-year program and Weld School.
+  summary: GE Aerospace announced an INR 100 crore investment in its Pune, India manufacturing
+    facility for new welding technologies, advanced inspection equipment, precision
+    tools, gauges, fixtures, and infrastructure to increase production capacity and
+    process precision; the company says this brings Pune investment to more than INR
+    510 crore over three years, supports GE90, GEnx, GE9X, and CFM LEAP engine components,
+    works through more than 300 local suppliers within a broader 2,200-supplier India
+    network, and trains more than 500 apprentices annually through a two-year program
+    and Weld School.
   url: https://www.geaerospace.com/news/press-releases/india/ge-aerospace-accelerates-india-manufacturing-growth-100-crore-pune-investment
 - date: '2026-05-11'
   title: Cognex launches In-Sight 6900 edge-AI vision controller with 157 TOPS and
