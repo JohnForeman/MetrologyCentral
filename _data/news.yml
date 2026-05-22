@@ -1,4 +1,46 @@
 ---
+- date: '2026-05-22'
+  title: Mahr Mar4D PLQ 4200 combines optical and tactile cylinder metrology for 210
+    mm by 1,000 mm parts
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Mahr launched the Mar4D PLQ 4200 cylinder coordinate
+    measuring machine line for rotationally symmetrical parts, combining optical and
+    tactile measurement close to production; cited capabilities include workpieces
+    up to 210 mm diameter, 1,000 mm length, and 50 kg weight, CNC-controlled centering/tilting
+    with 1 micron residual eccentricity, optional Renishaw SP25-2/5 probing, real-time
+    temperature and vibration compensation, and one-run inspection of length, diameter,
+    form, position, contour, roundness, roughness, and 3D geometries.
+  url: https://metrology.news/multisensor-cylinder-coordinate-measuring-machine-range-launched/
+- date: '2026-05-22'
+  title: Photoneo MotionCam-3D Color Blue raises in-motion 3D scanning performance
+    50% for reflective and transparent parts
+  source: Metrology News
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports Photoneo launched MotionCam-3D Color (Blue), a blue-laser
+    3D vision camera for moving-part robotic automation and inspection; cited figures
+    include 50% higher 3D scanning performance, 25% better reconstruction of transparent
+    and reflective objects, 97% logistics-item pickability without pre-sorting, in-motion
+    scanning up to 40 m/s, scan-time reduction from 1.5 s to 0.7 s at 4 m, up to 2.5x
+    throughput versus static scanning, and 30% cycle-time reduction in multi-camera
+    setups.
+  url: https://metrology.news/robotic-vision-reimaged-3d-camera-tackles-long-standing-automation-hurdles/
+- date: '2026-05-22'
+  title: Bowers Group cuts bore-gauge anvil inspection from 90 to 20 minutes with
+    automated vision metrology
+  source: Metrology News
+  sector: scientific_metrology
+  kind: case_study
+  summary: Metrology News reports Bowers Group integrated a Baty Venture FV 2020 automated
+    non-contact vision measurement system at its Bradford, UK bore-gauge manufacturing
+    facility to reduce operator-dependent anvil inspection variability; the system
+    batch-inspects multiple anvils for XT3 digital internal micrometers, classifies
+    components into tolerance bands, and cuts inspection time from 90 minutes to 20
+    minutes while making repeatable shopfloor operation less dependent on specialist
+    fit-testing experience.
+  url: https://metrology.news/bowers-group-enhances-bore-gauge-production-with-automated-vision-metrology/
 - date: '2026-05-19'
   title: GelSight Mobile 4.4 adds guided calibration, offset statistics, and stacked
     routines for production surface inspection
@@ -95,11 +137,21 @@
     wafers per month of capacity, and IATF 16949 certification across all fabs.
   url: https://www.umc.com/en/News/press_release/Content/technology_related/20260514
 - date: '2026-05-14'
-  title: Honda redirects Ohio auto capacity to gasoline and hybrid vehicles while targeting 15 next-generation hybrids by FY2030
+  title: Honda redirects Ohio auto capacity to gasoline and hybrid vehicles while
+    targeting 15 next-generation hybrids by FY2030
   source: Honda Global
   sector: auto_manufacturing
   kind: industry_news
-  summary: Honda said it will rebuild its automobile business around resource reallocation, manufacturing-structure strengthening, and external-resource use, targeting more than JPY 1.4 trillion in consolidated operating profit for the fiscal year ending March 2029; the plan shifts excess Ohio auto-plant capacity to gasoline and hybrid vehicles, makes all North American auto plants hybrid-capable, converts part of the L-H Battery Company EV battery lines to hybrid-battery production, raises local motor and inverter assembly/component content by more than four times, launches 15 next-generation hybrid models globally by FY2030, and targets more than 30% lower hybrid-system cost plus more than 10% better fuel economy versus the 2023 hybrid system.
+  summary: Honda said it will rebuild its automobile business around resource reallocation,
+    manufacturing-structure strengthening, and external-resource use, targeting more
+    than JPY 1.4 trillion in consolidated operating profit for the fiscal year ending
+    March 2029; the plan shifts excess Ohio auto-plant capacity to gasoline and hybrid
+    vehicles, makes all North American auto plants hybrid-capable, converts part of
+    the L-H Battery Company EV battery lines to hybrid-battery production, raises
+    local motor and inverter assembly/component content by more than four times, launches
+    15 next-generation hybrid models globally by FY2030, and targets more than 30%
+    lower hybrid-system cost plus more than 10% better fuel economy versus the 2023
+    hybrid system.
   url: https://global.honda/en/newsroom/news/2026/c260514beng.html
 - date: '2026-05-13'
   title: Moment Energy to build 1 GWh second-life EV battery repurposing megafactory
