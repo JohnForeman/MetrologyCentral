@@ -41,6 +41,19 @@
     minutes while making repeatable shopfloor operation less dependent on specialist
     fit-testing experience.
   url: https://metrology.news/bowers-group-enhances-bore-gauge-production-with-automated-vision-metrology/
+- date: '2026-05-21'
+  title: Stellantis STLA One targets 30+ models, 2M+ units, and 70% component reuse
+    by 2035
+  source: Stellantis
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: Stellantis introduced STLA One, a global modular vehicle architecture launching
+    in 2027 for B, C, and D segments across multiple powertrains; cited targets include
+    consolidating five platforms into one scalable architecture, 20% cost efficiency,
+    30-plus models, more than 2 million units by 2035, 50% of company volume on three
+    global platforms by 2030, up to 70% component reuse, STLA Brain/SmartCockpit/steer-by-wire
+    integration, cell-to-body battery integration, LFP scaling, and 800-volt capability.
+  url: https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-unveils-stla-one-global-modular-vehicle-architecture
 - date: '2026-05-19'
   title: GelSight Mobile 4.4 adds guided calibration, offset statistics, and stacked
     routines for production surface inspection
