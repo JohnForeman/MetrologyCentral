@@ -54,6 +54,21 @@
     global platforms by 2030, up to 70% component reuse, STLA Brain/SmartCockpit/steer-by-wire
     integration, cell-to-body battery integration, LFP scaling, and 800-volt capability.
   url: https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-unveils-stla-one-global-modular-vehicle-architecture
+- date: '2026-05-21'
+  title: NIST draft SP 1800-41 gives manufacturing ICS response/recovery guide with
+    11 collaborators and July 8 comments
+  source: NIST NCCoE
+  sector: industrial_manufacturing
+  kind: standards_method
+  summary: 'NIST NCCoE released initial public draft SP 1800-41, Responding to and
+    Recovering from a Cyber Attack: Cybersecurity for the Manufacturing Sector, with
+    comments open through July 8, 2026; the guide targets industrial-control-system
+    response and recovery in manufacturing environments, was developed with 11 industry
+    collaborators including AWS, Cisco, Dragos, Google Cloud, Rockwell Automation,
+    Siemens, Tenable, and others, and provides reference architectures and recovery
+    scenarios for operational resilience as OT/ICS systems become more connected to
+    IT networks.'
+  url: https://csrc.nist.gov/pubs/sp/1800/41/ipd
 - date: '2026-05-19'
   title: GelSight Mobile 4.4 adds guided calibration, offset statistics, and stacked
     routines for production surface inspection
