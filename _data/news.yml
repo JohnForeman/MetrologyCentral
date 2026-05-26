@@ -1,4 +1,61 @@
 ---
+- date: '2026-05-25'
+  title: Bruker Alicona micro-CMM NEO doubles optical coordinate-measurement speed
+    with 0.7 + L/600 micron axis accuracy
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Bruker Alicona unveiled the micro-CMM NEO optical
+    coordinate measuring machine, combining Advanced Focus-Variation, Vertical Focus
+    Probing, Focus Probing, and Real3D in one platform for dimensional, positional,
+    form, and surface analysis without changing setups; cited capabilities include
+    full-surface 3D capture within seconds, up to twice the predecessor measurement
+    speed, EUni:Tr:ODS,MPE axis accuracy of (0.7 + L/600) microns, five-axis kinematics,
+    wear-free axes, first customer order placed, and initial deliveries planned for
+    Q4 2026.
+  url: https://metrology.news/new-%c2%b5cmm-neo-combines-dimensional-form-and-surface-analysis-in-one-optical-platform/
+- date: '2026-05-25'
+  title: Hexagon HYPERPROBE adds 0.05 mm wireless contact probing to HYPERSCAN workflows
+    up to 7 m volume
+  source: Metrology News
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports Hexagon added the Bluetooth-connected HYPERPROBE
+    wireless contact probe to its HYPERSCAN target-free laser-scanning workflow, letting
+    users switch between scanning and probing in the same coordinate frame for hidden
+    features, fixture alignment, composite moulds, and transmission casings; cited
+    specifics include probing accuracy down to 0.05 mm, supported measurement volumes
+    up to 5.5 m with HYPERSCAN Ultra and 7 m with HYPERSCAN Super, 0.72 kg handheld
+    weight, up to four hours of continuous-probing battery life, and support in HHscan,
+    Geomagic Control X, and selected third-party metrology software.
+  url: https://metrology.news/hexagon-adds-wireless-contact-probing-to-hyperscan-laser-scanning-workflow/
+- date: '2026-05-25'
+  title: SHINING 3D OptimScan Q12 HD optical scanner reaches 0.004 mm accuracy and
+    0.02 mm point distance
+  source: Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports SHINING 3D launched the OptimScan Q12 HD four-camera
+    fringe-projection scanner for high-resolution industrial metrology; cited capabilities
+    include accuracy up to 0.004 mm, minimum point distance of 0.02 mm, high-resolution
+    capture of turbine-blade edges, complex aerospace surfaces, miniature electronics
+    and injection-molded features, batch-inspection integration with robotic automation,
+    and non-contact digitization for medical-device and cultural-heritage geometries.
+  url: https://metrology.news/four-camera-optimscan-q12-hd-advances-high-resolution-optical-metrology/
+- date: '2026-05-25'
+  title: Argonne-linked AM research detects LPBF keyhole pores from thermal images
+    on sub-millisecond timescales
+  source: Metrology News
+  sector: scientific_metrology
+  kind: standards_method
+  summary: Metrology News reports researchers used Advanced Photon Source X-ray imaging
+    synchronized with melt-pool thermal monitoring to train a machine-learning model
+    that detects laser-powder-bed-fusion keyhole pore formation from thermal images
+    alone; the work targets real-time qualification of metal additive manufacturing
+    by identifying pore formation on timescales below one millisecond, reducing reliance
+    on post-process CT or destructive testing, and moving toward closed-loop defect
+    detection and repair for aerospace, automotive, medical, and energy components.
+  url: https://metrology.news/scientists-develop-new-approach-for-defect-detection-in-am-metal-parts/
 - date: '2026-05-22'
   title: Mahr Mar4D PLQ 4200 combines optical and tactile cylinder metrology for 210
     mm by 1,000 mm parts
