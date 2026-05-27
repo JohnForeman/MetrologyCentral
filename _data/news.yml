@@ -1,4 +1,45 @@
 ---
+- date: '2026-05-27'
+  title: NIST notice tees up Manufacturing USA roadmap competition to de-risk pilot-to-commercial
+    scale-up
+  source: Federal Register / NIST
+  sector: industrial_manufacturing
+  kind: standards_method
+  summary: The Federal Register published a NIST Office of Advanced Manufacturing
+    notice of intent for a Manufacturing USA Institute competition focused on technology-transition
+    roadmaps; NIST says eligible institutes will document capabilities and resources
+    needed to de-risk scale-up of advanced manufacturing technologies from pilot operation
+    to full commercial integration in the U.S. industrial base, giving institutes
+    and industry partners early notice to form stakeholder collaborations before the
+    expected Summer 2026 competition.
+  url: https://www.federalregister.gov/documents/2026/05/27/2026-10515/manufacturing-usa-institute-competition-technology-transition-roadmaps
+- date: '2026-05-26'
+  title: Stellantis and Dongfeng plan 51/49 Europe JV covering NEV sales, engineering,
+    purchasing, and potential Rennes production
+  source: Stellantis
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Stellantis and Dongfeng signed a non-binding memorandum of understanding
+    for a Stellantis-led 51/49 Europe-based joint venture covering sales, distribution,
+    manufacturing, purchasing, and engineering for Dongfeng Voyah new-energy vehicles
+    in selected European markets; the companies also cite potential Dongfeng NEV production
+    at Stellantis' Rennes plant in France under Made-in-Europe requirements, following
+    related plans for Peugeot and Jeep NEV production in Wuhan for China and export.
+  url: https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-and-dongfeng-announce-their-intention-to-form-a-european-joint-venture-for-shared-sales-and-distribution-manufacturing-purchasing-and-engineering-activities
+- date: '2026-05-21'
+  title: GlobalFoundries launches quantum manufacturing business with $375M Commerce
+    LOI for cryogenic CMOS, QPUs, and packaging
+  source: GlobalFoundries
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: GlobalFoundries launched Quantum Technology Solutions to scale U.S. manufacturing
+    for quantum computing hardware, citing production coverage from quantum processor
+    units to cryogenic read-out/control ICs, advanced packaging, and superconducting
+    interconnects; GF says the effort is backed by existing quantum customer engagements
+    and a U.S. Department of Commerce letter of intent for a $375 million award, plus
+    a separate strategic equity investment representing about 1% ownership as of the
+    announcement date.
+  url: https://gf.com/gf-press-release/globalfoundries-launches-quantum-technology-solutions-to-scale-us-quantum-manufacturing/
 - date: '2026-05-25'
   title: Bruker Alicona micro-CMM NEO doubles optical coordinate-measurement speed
     with 0.7 + L/600 micron axis accuracy
