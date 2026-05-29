@@ -1245,3 +1245,47 @@
     2026 and future R2/R3 production plans, offering a direct read on U.S. EV manufacturing
     capacity expansion.
   url: https://rivian.com/newsroom/article/rivian-holds-kickoff-ceremony-for-georgia-plant-accelerating-american-manufacturing-growth
+- date: '2026-05-28'
+  title: BMW Leipzig scales inline terahertz paint-thickness metrology for plastic
+    exterior parts
+  source: Metrology News / BMW
+  sector: auto_manufacturing
+  kind: case_study
+  summary: Metrology News reports BMW Plant Leipzig introduced das-Nano Irys terahertz
+    measurement for automated, non-destructive paint-layer thickness inspection on
+    plastic exterior components in series production; sensors mounted on two robots
+    in the existing end-of-line measurement cell measure individual paint layers in
+    seconds with micrometre-level accuracy, replacing destructive scalpel-and-microscopy
+    checks, enabling earlier process-deviation detection, and creating digital data
+    for future AI-based paint-shop process optimization across colours, skids, other
+    BMW plants, and suppliers.
+  url: https://metrology.news/bmw-inline-terahertz-paint-thickness-measurement/
+- date: '2026-05-28'
+  title: Hexagon ATS800 FeatureDetect targets large-scale inspection setup cuts from
+    days to hours
+  source: Metrology News / Hexagon
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Hexagon added FeatureDetect AI computer vision to
+    the Leica Absolute Tracker ATS800 ecosystem, automatically locating circular features
+    such as bolt holes and mating points before direct laser scanning; cited details
+    include high-resolution direct scanning from up to 40 m, portable six-to-12-hour
+    battery operation, PowerLock reflector tracking for robot, rail, or AMR-mounted
+    workflows, ARGON-reported five-to-10-times efficiency gains, and inspection-cycle
+    reductions from multiple days to hours for aircraft, shipbuilding, wind-energy,
+    MRO, and large-casting applications.
+  url: https://metrology.news/ai-and-laser-tracking-drive-new-era-of-industrial-inspection/
+- date: '2026-05-28'
+  title: RESONIKS QCFlex brings AI acoustic defect testing inline for 800 mm and 200
+    kg parts
+  source: Metrology News / RESONIKS
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports RESONIKS moved QCFlex from pilot work to an industrial
+    inline acoustic-test product for 100% inspection of structural defects; the system
+    combines calibrated MP2 microphones with 20 Hz to 80 kHz bandwidth, a precision
+    hammer on a SCARA robot, auditable AI pass/fail models, automated environmental
+    protection against vibration, temperature, humidity, and dust, interchangeable
+    robotic fixtures, and part capacity up to 800 mm and 200 kg for metal, composite,
+    ceramic, and other rigid components.
+  url: https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/
