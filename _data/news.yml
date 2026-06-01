@@ -1289,3 +1289,18 @@
     robotic fixtures, and part capacity up to 800 mm and 200 kg for metal, composite,
     ceramic, and other rigid components.
   url: https://metrology.news/qcflex-offers-fully-automated-ai-powered-acoustic-testing/
+- date: '2026-05-27'
+  title: preML and IDS plug-and-play AI inspection kit uses 13 MP autofocus camera
+    for shopfloor QC
+  source: Metrology News / preML / IDS
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports preML and IDS detailed a modular plug-and-play AI
+    visual-inspection system combining preML Vision Lab software, edge computing,
+    lighting, and an IDS uEye XC industrial camera for users without image-processing
+    expertise; cited specifics include a 13-megapixel onsemi AR1335 sensor, autofocus
+    for changing component heights and surfaces, 20 fps at full resolution, one-cable
+    installation, real-time on-device model teaching and evaluation, and production
+    examples for plastic parts, electronic assemblies, and manually assembled printed
+    circuit boards.
+  url: https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/
