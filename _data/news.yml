@@ -1333,3 +1333,47 @@
     examples for plastic parts, electronic assemblies, and manually assembled printed
     circuit boards.
   url: https://metrology.news/plug-and-play-ai-inspection-system-simplifies-industrial-quality-control/
+- date: '2026-06-03'
+  title: NVIDIA and TSMC bring vision AI into fabs for nanometer-scale defect inspection
+    and process control
+  source: NVIDIA / TSMC
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: NVIDIA said TSMC is using NVIDIA CUDA-X libraries, AI models, Metropolis,
+    and TAO Toolkit across semiconductor design and manufacturing workloads including
+    computational lithography, transistor and process simulation, advanced process
+    control, fab operations optimization, and automated defect inspection; cited specifics
+    include 20-50% cost-effectiveness or cycle-time improvement for cuLitho versus
+    CPU-based computational lithography, average 50x faster chemistry simulations
+    with cuEST, and vision-AI workflows aimed at nanometer-scale defect detection
+    while reducing repeated labeling and retraining.
+  url: https://nvidianews.nvidia.com/news/nvidia-and-tsmc-bring-ai-into-fabs-to-advance-semiconductor-design-and-manufacturing
+- date: '2026-06-03'
+  title: MetrologicDCS Manufacturing Quality Pack closes CMM-to-CNC loop with deviation
+    decomposition and machining correction
+  source: MetrologicDCS
+  sector: quality_software
+  kind: vendor_release
+  summary: MetrologicDCS announced Manufacturing Quality Pack for users of the Metrolog
+    software ecosystem, connecting CMM inspection results to machining corrections
+    without replacing inspection hardware; the three-module package includes Deformation
+    Simulator for CAD-based distortion analysis before machining, Machining Corrector
+    to convert measured deviations into CNC adjustments such as tool offsets, work-coordinate
+    changes, and axis compensation values, and Decomposition Analyzer to separate
+    dimensional deviations into form, size, orientation, and position contributors
+    for root-cause analysis.
+  url: https://www.metrologicdcs.com/manufacturing-quality-pack-close-the-loop-between-measurement-and-machining/
+- date: '2026-06-03'
+  title: Zaber DMA focus stage targets optical metrology and semiconductor inspection
+    with 50 nm repeatability
+  source: Metrology News / Zaber Technologies
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Zaber Technologies announced the DMA Objective Focus
+    Stage for microscope OEMs and optical metrology systems, citing 50 nm repeatability,
+    10 nm minimum incremental moves, sub-15 ms move-and-settle time, 1 nm resolution
+    optical encoders, integrated controller and counterbalance, a 77 mm x 100 mm x
+    30.5 mm footprint, two-cable plug-and-play setup, integrated I/O and encoder outputs,
+    and daisy-chain support for XY stages and other modules in high-duty-cycle semiconductor
+    inspection and optical measurement applications.
+  url: https://metrology.news/compact-dma-focus-stage-targets-optical-metrology-and-semiconductor-inspection/
