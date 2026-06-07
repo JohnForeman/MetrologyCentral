@@ -1404,3 +1404,45 @@
     the U.S. 10%, while average battery prices fell 8% in 2025 and LFP packs were
     more than 40% cheaper on average than NMC packs.
   url: https://www.iea.org/reports/global-ev-outlook-2026/electric-vehicle-batteries
+- date: '2026-06-05'
+  title: LK Metrology brings four CMMs, 320 kV CT, CAMIO 2026, and REVO-equipped inspection
+    to IMTS 2026
+  source: ETMM / LK Metrology
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: ETMM reports LK Metrology will demonstrate a multi-sensor inspection portfolio
+    at IMTS 2026, including ISF 04.04.04 and ISF 07.06.05 shop-floor CMMs with Renishaw
+    MH20i heads, an Altera M 10.10.8 with PH10MQ, TP20, SP25, LC15DX, LC12DX, and
+    L100NX laser scanning, an Altera M 15.12.10 with Scantek 5 and Renishaw REVO-2
+    5-axis scanning, the PXR-CT Alpha 320KV CT system, CAMIO 2026 measurement/programming/simulation/reporting
+    software, Industry 4 Metrology Gate remote monitoring, Touch DMIS, and Focus point-cloud
+    inspection software.
+  url: https://www.etmm-online.com/lk-metrology-imts-2026-cmms-ct-system-software-a-8bd79a4b716cb7f46cb8f34e5affbaaf/
+- date: '2026-06-02'
+  title: RTX Collins opens USD 69M Poland landing-gear expansion, raising capacity
+    nearly 25%
+  source: RTX / Collins Aerospace
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: RTX said Collins Aerospace opened an expanded 22,000 square-meter manufacturing
+    facility in Tajecina, Poland after a USD 69 million investment; the project is
+    expected to increase landing-gear system production capacity by nearly 25% for
+    commercial and defense aircraft programs and create about 190 jobs in 2026, while
+    related RTX Poland capacity work includes a USD 100 million Pratt & Whitney Rzeszow
+    investment targeting 30% higher output for GTF, F135, and F100 engine components
+    by 2028.
+  url: https://www.rtx.com/news/news-center/2026/06/02/rtxs-collins-aerospace-opens-expanded-manufacturing-facility-in-tajecina-poland
+- date: '2026-06-01'
+  title: Geomagic Control X 2026.1 adds HYPERPROBE support, scanner integrations,
+    scripting, and DMIS reporting updates
+  source: Metrology News / Hexagon
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Hexagon released Geomagic Control X 2026.1 for scan-based
+    inspection, adding ZG handheld scanner control inside the Control X environment,
+    HYPERPROBE support, DefinSight integration for Scantech devices, grayscale line
+    scanning, enhanced text and visual scripting, automated mesh cleanup, boundary-feature
+    inspection from scan data, Leica Geosystems file import, latest CAD and PMI import,
+    and updates to 3D comparison and DMIS report generation for more repeatable automated
+    inspection workflows.
+  url: https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/
