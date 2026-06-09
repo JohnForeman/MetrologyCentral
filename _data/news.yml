@@ -1447,9 +1447,33 @@
     inspection workflows.
   url: https://metrology.news/geomagic-control-x-2026-1-advances-scan-based-inspection-and-metrology-automation/
 - date: '2026-06-05'
-  title: Meca-Precis automates aerospace and space-part inspection with Mitutoyo robotic CMM cell
+  title: Meca-Precis automates aerospace and space-part inspection with Mitutoyo robotic
+    CMM cell
   source: Robotics & Automation News / Meca-Precis
   sector: scientific_metrology
   kind: case_study
-  summary: Robotics & Automation News reports Meca-Precis deployed a robotic measurement cell combining a Mitutoyo MiSTAR shop-floor CMM, multi-axis articulated robot, automated storage for up to 20 pallets, and automated loading/unloading to remove an inspection bottleneck for aerospace and space-sector parts requiring 100% dimensional checks before and after surface treatment; cited specifics include 45 employees, 25 machine tools including 18 CNC machines, simple pin inspections that take one minute each but may involve 300 parts, complex satellite components requiring up to 80 hours of inspection, installation within a year plus six months of commissioning, and unattended day/night inspection capacity.
+  summary: Robotics & Automation News reports Meca-Precis deployed a robotic measurement
+    cell combining a Mitutoyo MiSTAR shop-floor CMM, multi-axis articulated robot,
+    automated storage for up to 20 pallets, and automated loading/unloading to remove
+    an inspection bottleneck for aerospace and space-sector parts requiring 100% dimensional
+    checks before and after surface treatment; cited specifics include 45 employees,
+    25 machine tools including 18 CNC machines, simple pin inspections that take one
+    minute each but may involve 300 parts, complex satellite components requiring
+    up to 80 hours of inspection, installation within a year plus six months of commissioning,
+    and unattended day/night inspection capacity.
   url: https://roboticsandautomationnews.com/2026/06/05/meca-precis-utilizes-robotic-measurement-cell-to-eliminate-inspection-bottlenecks/102297/
+- date: '2026-06-05'
+  title: Willrich and VICIVISION bring shop-floor optical shaft inspection for 1-250
+    mm diameters and 2,000 mm lengths
+  source: Metrology News / Willrich Precision / VICIVISION
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Willrich Precision partnered with VICIVISION America
+    to offer optical shaft measurement systems for shop-floor dimensional inspection;
+    cited capabilities include measurement of diameters from 1 mm to 250 mm and part
+    lengths up to 2,000 mm, single-scan checks for lengths, diameters, radii, angles,
+    thread characteristics, straightness, roundness, cylindricity, concentricity,
+    symmetry, and runout, optional confocal and tactile sensors for splines, gears,
+    keyways, and undercuts, and reported savings of five to 15 minutes per complex
+    shaft inspection in medium-volume production.
+  url: https://metrology.news/willrich-precision-partners-with-vicivision-to-expand-shop-floor-optical-measurement-solutions/
