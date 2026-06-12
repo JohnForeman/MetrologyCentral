@@ -1522,3 +1522,17 @@
     output up 30% in 2025 without added headcount under its FLIGHT DECK operating
     model.
   url: https://www.geaerospace.com/news/investor-relations/ir-updates/2q26-recent-events-recap
+- date: '2026-06-04'
+  title: NIST laser-whisking method improves high-entropy alloy mixing during metal
+    3D printing
+  source: NIST
+  sector: scientific_metrology
+  kind: standards_method
+  summary: NIST reported a metal additive-manufacturing method that uses controlled
+    laser motion to stir molten pools during 3D printing so high-entropy alloy elements
+    mix more uniformly before solidification; the work used Advanced Photon Source
+    X-ray imaging to observe melting and solidification in fractions of a second,
+    targets hard-to-cast alloys with near-equal multi-metal compositions, and is relevant
+    to qualification of heat-resistant materials for jet-engine, nuclear, and other
+    advanced-manufacturing applications.
+  url: https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers
