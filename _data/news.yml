@@ -1536,3 +1536,18 @@
     to qualification of heat-resistant materials for jet-engine, nuclear, and other
     advanced-manufacturing applications.
   url: https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers
+
+- date: '2026-06-09'
+  title: Mitutoyo MPP-002 and MTP-002 CMM probes target higher-accuracy automated scanning and touch-trigger workflows
+  source: Metrology News / Mitutoyo
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Mitutoyo announced two new CMM probes, the MPP-002 small high-accuracy scanning probe and MTP-002 small high-accuracy touch-trigger probe, with deliveries scheduled to begin in September 2026; cited specifics include high-speed scanning control, proprietary sensing technology, independent XY and Z-axis detection springs to reduce mechanical wear, support for multiple stylus lengths from one probe body, an ultra-compact 13.5 mm diameter touch-trigger probe, software-based sensitivity adjustment to reduce false triggering with long styli or vibration, and automatic stylus-change compatibility for unattended inspection routines.
+  url: https://metrology.news/mitutoyo-unveils-advanced-scanning-and-touch-trigger-probes-for-cmms/
+- date: '2026-06-09'
+  title: Royma Cellink and DieCast add scalable 2D X-ray and 450 kV CT inspection for batteries, castings, and electronics
+  source: Metrology News / Royma Industrial CT
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Royma Industrial CT launched two X-ray inspection systems for battery, die-casting, and electronics quality control; Cellink targets long flat components such as large PCBs and die-cast parts with configurations from a compact 1 m by 1 m footprint to systems inspecting parts up to 5 m long, while DieCast combines 2D X-ray and full 3D CT inspection using a large flat-panel detector, C-arm architecture, and an open microfocus X-ray tube up to 450 kV for dense castings and complex geometries in automotive, aerospace, and industrial manufacturing.
+  url: https://metrology.news/royma-industrial-ct-launches-new-x-ray-inspection-systems/
