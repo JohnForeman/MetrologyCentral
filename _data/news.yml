@@ -1536,18 +1536,81 @@
     to qualification of heat-resistant materials for jet-engine, nuclear, and other
     advanced-manufacturing applications.
   url: https://www.nist.gov/news-events/news/2026/06/nist-researchers-discover-new-way-whisk-alloys-together-lasers
-
 - date: '2026-06-09'
-  title: Mitutoyo MPP-002 and MTP-002 CMM probes target higher-accuracy automated scanning and touch-trigger workflows
+  title: Mitutoyo MPP-002 and MTP-002 CMM probes target higher-accuracy automated
+    scanning and touch-trigger workflows
   source: Metrology News / Mitutoyo
   sector: scientific_metrology
   kind: hardware_news
-  summary: Metrology News reports Mitutoyo announced two new CMM probes, the MPP-002 small high-accuracy scanning probe and MTP-002 small high-accuracy touch-trigger probe, with deliveries scheduled to begin in September 2026; cited specifics include high-speed scanning control, proprietary sensing technology, independent XY and Z-axis detection springs to reduce mechanical wear, support for multiple stylus lengths from one probe body, an ultra-compact 13.5 mm diameter touch-trigger probe, software-based sensitivity adjustment to reduce false triggering with long styli or vibration, and automatic stylus-change compatibility for unattended inspection routines.
+  summary: Metrology News reports Mitutoyo announced two new CMM probes, the MPP-002
+    small high-accuracy scanning probe and MTP-002 small high-accuracy touch-trigger
+    probe, with deliveries scheduled to begin in September 2026; cited specifics include
+    high-speed scanning control, proprietary sensing technology, independent XY and
+    Z-axis detection springs to reduce mechanical wear, support for multiple stylus
+    lengths from one probe body, an ultra-compact 13.5 mm diameter touch-trigger probe,
+    software-based sensitivity adjustment to reduce false triggering with long styli
+    or vibration, and automatic stylus-change compatibility for unattended inspection
+    routines.
   url: https://metrology.news/mitutoyo-unveils-advanced-scanning-and-touch-trigger-probes-for-cmms/
 - date: '2026-06-09'
-  title: Royma Cellink and DieCast add scalable 2D X-ray and 450 kV CT inspection for batteries, castings, and electronics
+  title: Royma Cellink and DieCast add scalable 2D X-ray and 450 kV CT inspection
+    for batteries, castings, and electronics
   source: Metrology News / Royma Industrial CT
   sector: scientific_metrology
   kind: hardware_news
-  summary: Metrology News reports Royma Industrial CT launched two X-ray inspection systems for battery, die-casting, and electronics quality control; Cellink targets long flat components such as large PCBs and die-cast parts with configurations from a compact 1 m by 1 m footprint to systems inspecting parts up to 5 m long, while DieCast combines 2D X-ray and full 3D CT inspection using a large flat-panel detector, C-arm architecture, and an open microfocus X-ray tube up to 450 kV for dense castings and complex geometries in automotive, aerospace, and industrial manufacturing.
+  summary: Metrology News reports Royma Industrial CT launched two X-ray inspection
+    systems for battery, die-casting, and electronics quality control; Cellink targets
+    long flat components such as large PCBs and die-cast parts with configurations
+    from a compact 1 m by 1 m footprint to systems inspecting parts up to 5 m long,
+    while DieCast combines 2D X-ray and full 3D CT inspection using a large flat-panel
+    detector, C-arm architecture, and an open microfocus X-ray tube up to 450 kV for
+    dense castings and complex geometries in automotive, aerospace, and industrial
+    manufacturing.
   url: https://metrology.news/royma-industrial-ct-launches-new-x-ray-inspection-systems/
+- date: '2026-06-15'
+  title: COREX ONE brings self-shielded industrial CT inspection onto the production
+    floor
+  source: Metrology News / COREX
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports COREX ONE is designed to move industrial computed
+    tomography from specialist labs directly beside production lines using a compact
+    self-shielded top-loading system that avoids dedicated bunkers, shielded rooms,
+    or extra radiation-protection infrastructure; cited workflow details include physical-button
+    operation, automated results within seconds, 2D section views familiar to profile-projector
+    users, traffic-light pass/fail output, trend monitoring, instant reports, internal
+    and external dimensional checks from one scan, automated porosity/cavity/blowhole
+    detection, and surface-comparison color maps for plastics, light-alloy castings,
+    rubber, glass, carbon-fiber, titanium, extrusion, sealing, injection-molding,
+    and die-casting applications.
+  url: https://metrology.news/corex-one-brings-industrial-ct-inspection-directly-to-the-production-floor/
+- date: '2026-06-15'
+  title: AT Sensors C7 XCS 3070 inline laser profiler reaches 0.13 µm Z resolution
+    and 94 kHz profile rate
+  source: Metrology News / AT Sensors
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports AT Sensors developed the C7 XCS 3070 compact 3D
+    laser profile sensor for high-resolution inline metrology in semiconductor, electronics,
+    advanced-packaging, solder-joint, and microstructure inspection; cited specifications
+    include 7.8 µm X-axis resolution across a 24 mm field of view, 0.13 µm Z resolution
+    from a homogeneous 405 nm laser line, NBASE-T data transmission up to 5 Gbit/s,
+    simultaneous profile/intensity/reflection data transfer, WARP on-sensor processing,
+    and profile rates up to 94 kHz for time-critical production inspection.
+  url: https://metrology.news/at-sensors-advances-inline-metrology-with-ultra-high-resolution-c7-xcs-3070/
+- date: '2026-06-15'
+  title: Octave quality survey finds 47% of manufacturers already use AI in quality
+    and 71% plan higher 2026 quality spend
+  source: Metrology News / Octave
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Metrology News reports Octave released its 2026 Pulse of Quality in Manufacturing
+    survey covering 2,263 managers and directors at 1,000-to-50,000-plus employee
+    manufacturers in the U.S., U.K., and Germany; cited findings include 47% currently
+    using AI in quality processes versus 33% in 2025, 43% planning AI deployment within
+    two years, 51% of AI users applying generative AI or LLMs, top quality use cases
+    of document automation at 48%, defect detection at 44%, and training at 46%, plus
+    71% expecting quality spending to rise in 2026, 75% reporting a product recall
+    in the past five years, and 85% saying skills shortages negatively affect product
+    quality.
+  url: https://metrology.news/pulse-of-quality-in-manufacturing-2026-survey-reveals-surge-in-ai-adoption/
