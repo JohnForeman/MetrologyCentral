@@ -1645,9 +1645,50 @@
     savings.
   url: https://news.gm.com/home.detail.html/Pages/news/us/en/2026/jun/0609-sodium-ion-batteries-grid-scale-energy-storage.html
 - date: '2026-06-12'
-  title: AMT April manufacturing technology orders reach USD 593.6M as automation lifts order values
+  title: AMT April manufacturing technology orders reach USD 593.6M as automation
+    lifts order values
   source: Metrology News / AMT
   sector: industrial_manufacturing
   kind: industry_news
-  summary: Metrology News reports AMT's U.S. Manufacturing Technology Orders totaled USD 593.6 million in April 2026, down 12.5% from March but up 33.2% from April 2025, with first-four-month orders reaching USD 2.19 billion, up 28.9% year over year; AMT said unit growth is lagging order-value growth because customers are adding more automation to increasingly sophisticated machinery, contract machine shops have recently matched broader market growth, aerospace order value rose more slowly than units for the second time in 2026, and rising machinery-maker capacity utilization may lengthen delivery times if demand stays elevated.
+  summary: Metrology News reports AMT's U.S. Manufacturing Technology Orders totaled
+    USD 593.6 million in April 2026, down 12.5% from March but up 33.2% from April
+    2025, with first-four-month orders reaching USD 2.19 billion, up 28.9% year over
+    year; AMT said unit growth is lagging order-value growth because customers are
+    adding more automation to increasingly sophisticated machinery, contract machine
+    shops have recently matched broader market growth, aerospace order value rose
+    more slowly than units for the second time in 2026, and rising machinery-maker
+    capacity utilization may lengthen delivery times if demand stays elevated.
   url: https://metrology.news/automation-fuels-strong-start-to-2026-us-manufacturing-technology-orders/
+- date: '2026-06-17'
+  title: Cognex OneVision scales edge AI inspection after 100+ beta customers and
+    up to 50% lower scaling costs
+  source: Metrology News / Cognex
+  sector: quality_software
+  kind: vendor_release
+  summary: Metrology News reports Cognex made OneVision generally available as a cloud-to-edge
+    AI vision development environment for enterprise inspection deployment; cited
+    specifics include more than 100 beta customers since June 2025, customers moving
+    from single-line applications to multi-site rollouts in days instead of months,
+    central cloud management of image collection, labeling, model refinement, version
+    control, and deployment while runtime inspection remains edge-based on systems
+    such as In-Sight 3900 and In-Sight 6900, stated scaling-cost reductions up to
+    50%, Essity reducing sealing-inspection development from more than one year to
+    less than one day, and Schneider Electric reporting doubled yield and fewer false
+    rejects from centralized standards deployment.
+  url: https://metrology.news/cognex-onevision-adoption-ramps-as-manufacturers-scale-ai-vision-globally/
+- date: '2026-06-17'
+  title: Inbolt closes CAD-to-robot loop with vision-guided programming for moving-line
+    automation
+  source: Metrology News / Inbolt
+  sector: industrial_manufacturing
+  kind: vendor_release
+  summary: Metrology News reports Inbolt launched Robot Programming and expanded Robot
+    Control for vision-enabled robot deployment, using CAD-based programs in the part
+    reference frame and an AI vision model to locate the real part at runtime so motion
+    can adapt without teach-pendant touchups; cited specifics include eliminating
+    weeks of point-by-point commissioning caused by digital-twin-to-floor mismatch,
+    compensating for examples such as robots anchored 2 mm off or parts arriving in
+    variable positions, support for stationary and moving-line applications, and initial
+    availability for FANUC, Universal Robots, and Yaskawa dynamic applications with
+    broader robot-brand coverage planned.
+  url: https://metrology.news/inbolt-launches-vision-enabled-robot-programming-closing-the-loop-from-cad-to-factory-floor/
