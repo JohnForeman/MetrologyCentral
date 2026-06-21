@@ -1724,3 +1724,10 @@
     and advanced networks, strengthening domestic photonics production and creating
     high-skilled manufacturing jobs.
   url: https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50
+- date: '2026-06-19'
+  title: Collective Mind and IDS deploy AI label-reading vision system with 20.44 MP imaging and 30% goods-in efficiency gain
+  source: Metrology News / Collective Mind / IDS
+  sector: quality_software
+  kind: case_study
+  summary: Metrology News reports Collective Mind's Vision AI Label Reader uses IDS uEye CP industrial imaging to automate goods-in label capture for electronics manufacturing and logistics workflows; cited specifics include recognition of printed text plus 1D and 2D codes without predefined label standards, optional handwritten-entry processing, ERP validation against SAP or proALPHA, a 29 mm magnesium-housed uEye CP camera with Sony IMX183 BSI CMOS sensor, 20.44 megapixel resolution at nearly 20 fps, stable operation on reflective dry packs and damaged codes, 100% traceability for item movements, and about 30% higher item-capture efficiency versus conventional multi-label readers.
+  url: https://metrology.news/machine-vision-advances-automated-label-inspection-and-identification/
