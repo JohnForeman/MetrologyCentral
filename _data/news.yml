@@ -1725,9 +1725,34 @@
     high-skilled manufacturing jobs.
   url: https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50
 - date: '2026-06-19'
-  title: Collective Mind and IDS deploy AI label-reading vision system with 20.44 MP imaging and 30% goods-in efficiency gain
+  title: Collective Mind and IDS deploy AI label-reading vision system with 20.44
+    MP imaging and 30% goods-in efficiency gain
   source: Metrology News / Collective Mind / IDS
   sector: quality_software
   kind: case_study
-  summary: Metrology News reports Collective Mind's Vision AI Label Reader uses IDS uEye CP industrial imaging to automate goods-in label capture for electronics manufacturing and logistics workflows; cited specifics include recognition of printed text plus 1D and 2D codes without predefined label standards, optional handwritten-entry processing, ERP validation against SAP or proALPHA, a 29 mm magnesium-housed uEye CP camera with Sony IMX183 BSI CMOS sensor, 20.44 megapixel resolution at nearly 20 fps, stable operation on reflective dry packs and damaged codes, 100% traceability for item movements, and about 30% higher item-capture efficiency versus conventional multi-label readers.
+  summary: Metrology News reports Collective Mind's Vision AI Label Reader uses IDS
+    uEye CP industrial imaging to automate goods-in label capture for electronics
+    manufacturing and logistics workflows; cited specifics include recognition of
+    printed text plus 1D and 2D codes without predefined label standards, optional
+    handwritten-entry processing, ERP validation against SAP or proALPHA, a 29 mm
+    magnesium-housed uEye CP camera with Sony IMX183 BSI CMOS sensor, 20.44 megapixel
+    resolution at nearly 20 fps, stable operation on reflective dry packs and damaged
+    codes, 100% traceability for item movements, and about 30% higher item-capture
+    efficiency versus conventional multi-label readers.
   url: https://metrology.news/machine-vision-advances-automated-label-inspection-and-identification/
+- date: '2026-06-18'
+  title: KU Leuven LPBF study links 20,000 fps optical signatures to CT-confirmed
+    subsurface porosity
+  source: Metrology News / Allied Vision / KU Leuven
+  sector: scientific_metrology
+  kind: standards_method
+  summary: Metrology News reports KU Leuven researchers used an Allied Vision EoSens
+    3CL high-speed camera to monitor laser powder bed fusion in real time and correlate
+    optical process signatures with X-ray CT-confirmed subsurface porosity; cited
+    specifics include 20,000 fps imaging, 30 µs exposure, 975 nm short-wave-pass filtering,
+    316L stainless-steel single-track tests, a 12 mm by 12 mm field of view at roughly
+    100 µm per pixel, five extracted process-signature classes including spatter count
+    and speed, droplet spatter velocities from 0.4 m/s to 7.8 m/s, and synchronization
+    with controller data at 100 kHz, giving AM teams a quantifiable path from in-situ
+    monitoring to volumetric defect prediction without changing the LPBF optical path.
+  url: https://metrology.news/camera-captures-the-physics-of-metal-3d-printing-at-20000-frames-per-second/
