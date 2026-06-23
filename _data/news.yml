@@ -1756,3 +1756,10 @@
     with controller data at 100 kHz, giving AM teams a quantifiable path from in-situ
     monitoring to volumetric defect prediction without changing the LPBF optical path.
   url: https://metrology.news/camera-captures-the-physics-of-metal-3d-printing-at-20000-frames-per-second/
+- date: '2026-06-18'
+  title: GM virtual-first development cuts roof-crush simulation from 8-40 hours to under 5 minutes
+  source: General Motors
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: GM described a virtual-first vehicle-development system that connects AI, simulation, co-simulation, XR manufacturing reviews, and decades of engineering data across design, validation, and launch readiness; cited specifics include using AI from early sketches to generate image and animation variations in less than a day instead of months, real-time AI-powered virtual wind-tunnel feedback instead of days-to-weeks aerodynamic cycles, machine-learning roof-crush analysis reduced from 8-40 hours to less than 5 minutes, and XR manufacturing reviews that validate tooling position, clearance, access, ergonomics, maintenance, and operations before installation to shave weeks from traditional mean time to commission.
+  url: https://news.gm.com/home.detail.html/Pages/topic/us/en/2026/jun/0618-ai-virtual-labs.html
