@@ -1,3 +1,31 @@
+﻿- date: '2026-06-26'
+  title: NIST launches MEP pilot program targeting additive manufacturing for aerospace and critical minerals supply chain
+  source: NIST / Manufacturing Dive
+  sector: industrial_manufacturing
+  kind: standards_method
+  summary: NIST's Manufacturing Extension Partnership launched a competitive pilot program committing approximately USD 20 million per project over two years for existing MEP centers to accelerate adoption and commercialization of advanced manufacturing technologies; the two initial technology topics are additive manufacturing for aerospace components and establishing a domestic critical minerals supply chain, with centers expected to develop and validate shared technology frameworks that help small and medium-sized manufacturers adopt advanced manufacturing methods and enter new markets.
+  url: https://www.manufacturingdive.com/news/nist-launches-mep-pilot-program-additive-manufacturing-critical-minerals/823797/
+- date: '2026-06-25'
+  title: IBM unveils world's first sub-1 nm chip technology with 7Å nanostack 3D transistor architecture
+  source: IBM
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: IBM unveiled the world's first sub-1 nanometer chip technology at the 7 angstrom (0.7 nm) node, featuring a nanostack 3D transistor architecture that vertically stacks and staggers nanosheet transistors; cited results include nearly 100 billion transistors on a fingernail-sized chip, up to 50 percent higher performance or 70 percent greater energy efficiency versus the 2 nm node, 40 percent improvement in SRAM scaling, and a roadmap projecting at least a decade of continued semiconductor scaling with mass production slated for approximately 2031.
+  url: https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology
+- date: '2026-06-25'
+  title: I-Pulse signs USD 250M CHIPS Act definitive agreement for silicon-carbide semiconductor R&D and pulsed-power manufacturing
+  source: NIST / Business Wire
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: The U.S. Department of Commerce signed a definitive CHIPS and Science Act agreement with I-Pulse for a USD 250 million R&D award to develop novel silicon-carbide power semiconductors capable of operating in extreme high-temperature, high-current, and high-voltage environments; cited applications include pulsed-power systems for geothermal and critical-minerals drilling, advanced manufacturing, medical devices, and fusion power, with the Department receiving a minority non-controlling equity stake in I-Pulse.
+  url: https://www.businesswire.com/news/home/20260625994248/en/I-Pulse-Signs-Definitive-Agreement-with-the-U.S.-Department-of-Commerce-for-250-Million-CHIPS-R-D-Award
+- date: '2026-06-24'
+  title: EU approves EUR 76M German state aid for QuantumDiamonds to build first quantum-sensor semiconductor metrology and inspection facility
+  source: European Commission / Evertiq
+  sector: scientific_metrology
+  kind: industry_news
+  summary: The European Commission approved EUR 76 million in German state aid for QuantumDiamonds GmbH to establish the EU's first production facility for semiconductor metrology and inspection systems based on novel quantum diamond sensors in Munich; the company's total facility investment is EUR 152 million, the IPF-ATEST project targets high-resolution 3D testing of modern chips using quantum sensing, QuantumDiamonds has completed proof-of-concept projects with nine of the ten largest global chipmakers, and the facility is applying for Integrated Production Facility status under the EU Chips Act.
+  url: https://evertiq.com/design/2026-06-24-eu-clears-76-million-german-state-aid-for-quantumdiamonds
 - date: '2026-06-25'
   title: Nearfield Instruments raises USD 380M Series D at USD 1.6B valuation for AI-era semiconductor metrology and inspection
   source: Nearfield Instruments / Metrology News
