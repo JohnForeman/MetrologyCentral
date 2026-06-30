@@ -1466,6 +1466,20 @@
     and cleanroom capacity for InP photonic devices used in high-speed optical interconnects for AI data centers, telecommunications,
     and advanced networks, strengthening domestic photonics production and creating high-skilled manufacturing jobs.
   url: https://www.nist.gov/news-events/news/2026/06/department-commerces-chips-program-announces-letter-intent-coherent-50
+- date: '2026-06-22'
+  title: SiLC Eyeonic Edge brings sub-millimeter 4D inspection to large objects up to 10 m away
+  source: SiLC Technologies / Metrology News
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports SiLC Technologies launched Eyeonic Edge, a 4D area scanner for automated inspection of large stationary objects in manufacturing, warehouse automation, robotics, construction, automotive, aerospace, and shipbuilding environments; cited specifications include sub-millimeter range resolution, operating distance from 0.25 m to 10 m, 40 by 40 degree field of view, real-time region-of-interest and zooming capability, performance on dark or shiny surfaces and in dusty or outdoor lighting conditions, plus gap-and-flush, panel alignment, dent, joint, dimensional-verification, and defect-detection applications for large assemblies.
+  url: https://metrology.news/silc-technologies-announce-eyeonic-edge-for-high-precision-4d-inspection-of-large-objects/
+- date: '2026-06-18'
+  title: IFR preliminary data shows U.S. industrial robot installations rebounded 11% to 38,000 units in 2025
+  source: International Federation of Robotics
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: The International Federation of Robotics reported preliminary 2025 U.S. industrial robot installations rose 11% year over year to 38,000 units after two years of declines; automotive remained the largest sector at 13,500 installations, food-industry adoption surged 30% to roughly 3,000 installations, U.S. robot density reached 307 robots per 10,000 manufacturing employees and 8th place globally, and China remained far larger with 295,000 installations in 2024 and roughly ten times the U.S. 2025 volume, giving manufacturers a quantified automation-demand and reshoring benchmark.
+  url: https://ifr.org/ifr-press-releases/news/us-robot-industry-returns-to-double-digit-growth
 - date: '2026-06-19'
   title: Collective Mind and IDS deploy AI label-reading vision system with 20.44 MP imaging and 30% goods-in efficiency gain
   source: Metrology News / Collective Mind / IDS
