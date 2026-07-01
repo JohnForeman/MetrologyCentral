@@ -1,4 +1,11 @@
-﻿- date: '2026-06-26'
+- date: '2026-06-29'
+  title: FDA selects seven PreCheck pilot participants to accelerate domestic drug manufacturing facility readiness
+  source: FDA
+  sector: industrial_manufacturing
+  kind: standards_method
+  summary: FDA selected seven companies for its PreCheck Pilot Program to strengthen U.S. pharmaceutical manufacturing capacity and drug-supply resilience after receiving more than 80 participation requests between February 1 and March 1, 2026; selected facilities include Amneal in Long Island, Cellares in Bridgewater, Eli Lilly in Lebanon, FUJIFILM Biotechnologies in Holly Springs, Kriya Therapeutics in Durham, Kyowa Kirin in Sanford, and Regeneron in Saratoga Springs, covering sterile small-molecule products, APIs, cell-based and AAV gene therapies, commercial-scale cell-culture biomanufacturing, biotechnology drug substance, sterile injectables, and novel protein therapeutics, with two-phase FDA engagement on facility readiness, Drug Master File review, pre-submission meetings, and earlier inspection timing intended to resolve manufacturing issues before they delay approvals.
+  url: https://www.fda.gov/news-events/press-announcements/fda-selects-seven-participants-precheck-pilot-program-advance-us-drug-manufacturing
+- date: '2026-06-26'
   title: NIST launches MEP pilot program targeting additive manufacturing for aerospace and critical minerals supply chain
   source: NIST / Manufacturing Dive
   sector: industrial_manufacturing
