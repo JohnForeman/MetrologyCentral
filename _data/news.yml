@@ -1,3 +1,81 @@
+- date: '2026-07-02'
+  title: Kawasaki and Fives DyAG robotic weld inspection uses Pulseboard synchronization
+    for up to 10x faster 3D laser scanning
+  source: Metrology News / Kawasaki Robotics / Fives DyAG
+  sector: industrial_manufacturing
+  kind: hardware_news
+  summary: Metrology News reports Kawasaki Robotics and Fives DyAG developed a robotic
+    weld-inspection solution combining a Kawasaki RS013N robot, high-resolution laser
+    3D profile camera, and Kawasaki Pulseboard tool-tip displacement output to synchronize
+    image acquisition with real robot motion instead of stop-and-inspect timing; cited
+    impact includes weld inspection speeds up to ten times faster than conventional
+    robotic inspection, continuous high-resolution scanning during acceleration, deceleration,
+    and curved weld paths, plus more accurate defect localization for bead geometry,
+    undercut, porosity indicators, surface irregularities, and dimensional deviations
+    in automotive, heavy equipment, energy, aerospace, and metal-fabrication production.
+  url: https://metrology.news/patented-pulseboard-technology-enables-faster-robotic-weld-inspection/
+- date: '2026-07-01'
+  title: ISM June Manufacturing PMI stays expansionary at 53.3% as orders and production
+    grow while exports contract
+  source: Institute for Supply Management / PRNewswire
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: ISM reported the U.S. Manufacturing PMI at 53.3% in June 2026, down 0.7
+    percentage point from May but still the sixth straight month of manufacturing
+    expansion; measurable subindexes included New Orders at 56.0%, Production at 52.2%,
+    Employment still contracting at 49.7%, Supplier Deliveries at 57.4%, Inventories
+    returning to expansion at 51.4%, Prices easing 9.1 points to 73.0%, Backlog of
+    Orders at 50.5%, New Export Orders falling back to contraction at 48.5%, and 14
+    industries reporting growth, giving manufacturers a current demand, pricing, labor,
+    supply-chain, and export-risk read.
+  url: https://www.prnewswire.com/news-releases/manufacturing-pmi-at-53-3-june-2026-ism-manufacturing-pmi-report-302814991.html
+- date: '2026-06-30'
+  title: HIKMICRO acoustic imaging targets automotive compressed-air leaks down to
+    0.0047 l/min and 90% faster inspections
+  source: Metrology News / HIKMICRO
+  sector: auto_manufacturing
+  kind: hardware_news
+  summary: Metrology News reports HIKMICRO AI Series acoustic imaging cameras support
+    data-driven maintenance in automotive production by localizing compressed-air
+    leaks and abnormal sound sources during live operations; cited specifications
+    include up to 136 low-noise MEMS microphones, adjustable 2-96 kHz bandwidth, leak
+    detection as small as 0.0047 l/min at 6 bar from 0.5 m, real-time visualization
+    on a 4.3 inch touchscreen, integrated leak-rate, cost, and energy-impact analysis,
+    inspection-time reductions up to 90%, and long-range operation up to about 150
+    m for welding, paint, final assembly, machining, casting, molding, and utility
+    systems.
+  url: https://metrology.news/acoustic-imaging-supports-data-driven-maintenance-across-automotive-production/
+- date: '2026-06-30'
+  title: Techman Robot high-speed AI Flying Trigger inspection cuts vision cycle time
+    40-50% without stopping production flow
+  source: Metrology News / Techman Robot
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports Techman Robot highlighted its High-Speed AI Flying
+    Trigger Inspection system at Automate 2026, combining synchronized image acquisition,
+    real-time AI defect analysis, and TMscene codeless virtual planning so parts can
+    be inspected while moving instead of stopping at a vision station; cited impact
+    includes inspection cycle-time reductions of 40-50% versus conventional methods,
+    virtual validation of inspection paths and camera coverage before deployment,
+    and target use in electronics, automotive, precision engineering, and industrial
+    manufacturing where inline AI inspection must preserve throughput.
+  url: https://metrology.news/robot-solution-targets-zero-downtime-quality-inspection-with-high-speed-ai-vision-technology/
+- date: '2026-06-29'
+  title: Gen Precision GTK-OSI1 dual-CCD platform reaches 3-sigma 0.05 micron repeatability
+    for passive optical component inspection
+  source: Metrology News / Gen Precision
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Gen Precision announced the GTK-OSI1 Automated Passive
+    Optical Component Inspection Machine for fiber arrays, V-grooves, MT ferrules,
+    and MMC ferrules used in silicon photonics and co-packaged optics; cited capabilities
+    include an 18 megapixel dual-CCD vision system separating feature recognition
+    from precision measurement, 3-sigma repeatability up to +/-0.05 micron for fiber
+    arrays and V-grooves and +/-0.1 micron for MT and MMC ferrules, semiconductor-grade
+    three-axis positioning, Smart-Point Configuration, a Geo-Trajectory Algorithm,
+    batch inspection of up to 20 ferrules per cycle, and less than one second per
+    hole or groove measurement.
+  url: https://metrology.news/dual-ccd-inspection-platform-achieves-sub-micron-measurement-accuracy-for-passive-optical-components/
 - date: '2026-06-29'
   title: FDA selects seven PreCheck pilot participants to accelerate domestic drug manufacturing facility readiness
   source: FDA
