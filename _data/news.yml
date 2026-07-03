@@ -1,4 +1,39 @@
 - date: '2026-07-02'
+  title: Nova WMC selected as tool of record for advanced-packaging metrology across multiple foundry layers
+  source: Nova / PRNewswire
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Nova announced that a leading global foundry selected its Nova WMC platform as tool of record for multiple-layer measurement in advanced packaging production flows after a competitive evaluation; cited capabilities include modular and customizable metrology for high warpage, non-symmetric shapes, and varied surface conditions in one tool, high-throughput repeatable scanning, large-area mapping at nanometer-level fidelity, and broader adoption across memory, foundry, advanced-packaging, and HBM applications where package-level dimensional control is becoming a bottleneck.
+  url: https://www.prnewswire.com/news-releases/nova-wmc-expanding-adoption-across-the-most-advanced-packaging-processes-302816846.html
+- date: '2026-06-30'
+  title: Velo3D triples aerospace and defense AM capacity with 289,000 sq ft Livermore production campus
+  source: Velo3D / PRNewswire
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Velo3D announced a new 288,747 square foot Livermore, California advanced manufacturing facility that will become its primary production campus later in 2026, adding roughly 270,000 square feet of production space with 36 foot clear heights and nearly 10 million cubic feet of manufacturing volume; the site is designed for more than 40 large-format metal additive systems at launch, infrastructure for more than 100 systems over the next few years, in-house post-processing, production-scale mission-critical component manufacturing, and a combined two-campus footprint of 125 machines supporting aerospace, defense, and energy customers moving from qualification into scaled production.
+  url: https://www.prnewswire.com/news-releases/velo3d-triples-production-capacity-to-meet-strong-defense-and-aerospace-demand-302814468.html
+- date: '2026-07-01'
+  title: Phase3D raises USD 2.9M to scale structured-light in-situ inspection for metal additive manufacturing
+  source: Metrology News / Phase3D
+  sector: scientific_metrology
+  kind: industry_news
+  summary: Metrology News reports Phase3D closed an oversubscribed USD 2.9 million funding round led by Quest Venture Partners to expand manufacturing capacity, software, data science, and customer support for its Fringe Inspection platform; the system uses structured-light metrology to create quantitative layer-by-layer height maps during metal powder bed fusion builds, helping detect process anomalies before post-build inspection, and the company cites roughly 25 enterprise customers across aerospace, defense, and industrial sectors including NASA, the U.S. Air Force, and the U.S. Navy as it moves from custom builds toward standardized product manufacturing.
+  url: https://metrology.news/phase3d-secures-2-9-million-to-scale-in-situ-inspection-for-metal-am/
+- date: '2026-07-02'
+  title: Hexagon VGSTUDIO MAX 2026.2 cuts CT metrology setup time up to 50% with multi-part measurement synchronization
+  source: Hexagon / Design Solutions
+  sector: quality_software
+  kind: vendor_release
+  summary: Design Solutions reports Hexagon Manufacturing Intelligence released VGSTUDIO MAX 2026.2 with a multi-part coordinate-measurement workflow for high-volume CT inspection; cited capabilities include loading entire CT scan batches into one project, defining measurements once, automatic synchronization of CM objects across parts, single-scene batch management, cross-part deviation analysis, integrated CM overview and reporting with quality-control charts and SPC values, up to 50% lower inspection-preparation and project-creation time, ISO 5459:2024 datum-fit compliance, ASTM E57 point-cloud support, faster porosity and inclusion analysis, and a five-edition NextGen portfolio for aerospace, automotive, medical-device, electronics, casting, material-science, and battery workflows.
+  url: https://designsolutionsmag.co.uk/hexagon-manufacturing-vgstudio/
+- date: '2026-06-30'
+  title: Faro Creaform DTEX update improves Laser Line Probe time to data up to 60% on difficult surfaces
+  source: Quality Magazine / Faro Creaform
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Quality Magazine reports Faro Creaform updated its Laser Line Probe portfolio for Quantum X FaroArm and Quantum Max FaroArm systems with DTEX image-processing improvements aimed at dark, shiny, reflective, and high-contrast surfaces; cited specifics include up to 60% improvement in time to data on representative challenging parts, cleaner and more consistent point clouds with less acquisition-parameter tuning, support across FAROBlu xR, xS, and xP probes, and integration with the FARO 8 Axis Max rotary worktable using encoded part rotation for larger or more complex portable-CMM inspection, reverse engineering, and CAD-comparison workflows traceable to ISO 17025 accredited calibration.
+  url: https://www.qualitymag.com/articles/99705-faro-creaform-laser-line-probe
+- date: '2026-07-02'
   title: Kawasaki and Fives DyAG robotic weld inspection uses Pulseboard synchronization
     for up to 10x faster 3D laser scanning
   source: Metrology News / Kawasaki Robotics / Fives DyAG
