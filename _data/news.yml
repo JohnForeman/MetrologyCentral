@@ -1,3 +1,36 @@
+- date: '2026-07-03'
+  title: AIAG and VDA publish first harmonized SPC manual for global automotive process
+    control
+  source: Quality Magazine / AIAG / VDA
+  sector: auto_manufacturing
+  kind: standards_method
+  summary: Quality Magazine reports AIAG and VDA jointly published the AIAG-VDA SPC
+    Manual, giving the global automotive supply chain a harmonized Statistical Process
+    Control reference for machine performance, process performance, process capability,
+    production-equipment qualification, process approval, and ongoing process monitoring;
+    the manual is the second AIAG-VDA Core Tool harmonization after FMEA, aligns terminology
+    and statistical-method application across regional supplier requirements, links
+    SPC with FMEA, Control Plan, and MSA/VDA 5, and became available July 1, 2026
+    for manufacturers trying to reduce parallel quality processes and improve comparability
+    of capability evidence across global production networks.
+  url: https://www.qualitymag.com/articles/99718-vda-aiag-publish-joint-standard-for-statistical-process-control-in-the-automotive-industry
+- date: '2026-07-02'
+  title: KEYENCE VS-G vision system adds 32-core AI processing and 100x image compression
+    for full inline traceability
+  source: Metrology News / KEYENCE
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports KEYENCE launched the VS-G Series AI-powered high-performance
+    vision system for inline appearance inspection, citing a custom 32-core processor
+    with built-in AI engine delivering up to 13x faster processing than conventional
+    VS-L/S/C systems on a 5 megapixel AI segmentation task, dedicated image storage
+    with 100x visual compression to retain OK and NG production images for 100% visual
+    traceability, automated parameter tuning and historical-image back-testing to
+    reduce false-positive risk after inspection changes, support for up to 8 independent
+    cameras from one controller, and more than 30 area-scan camera models for electronics,
+    semiconductor, automotive adhesive and sealant, logistics, and material-handling
+    inspection.
+  url: https://metrology.news/data-driven-quality-keyences-vs-g-series-implements-100-visual-traceability/
 - date: '2026-07-02'
   title: Nova WMC selected as tool of record for advanced-packaging metrology across multiple foundry layers
   source: Nova / PRNewswire
