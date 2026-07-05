@@ -1,4 +1,18 @@
 - date: '2026-07-03'
+  title: 'Aerospace quality systems face IA9100 and CMMC convergence as digital inspection records become controlled data'
+  source: 'Quality Magazine'
+  sector: aerospace_defense_manufacturing
+  kind: standards_method
+  summary: 'Quality Magazine analyzes the convergence of aerospace quality management and cybersecurity as AS9100 transitions toward IA9100 and CMMC contractual enforcement moves into supplier flowdown; cited specifics include IA9100 final release expected in late 2026 with a two- to three-year transition window, anticipated Clause 7.1.7 emphasis on digital and infrastructure security, CMMC 2.0 Level 2 third-party assessments beginning November 10, 2026, more than 200,000 aerospace and defense suppliers affected, more than 80,000 likely requiring Level 2 certification, and direct implications for quality records systems, manufacturing execution systems, engineering data management, supplier communication platforms, and inspection data workflows.'
+  url: 'https://www.qualitymag.com/articles/99720-the-demand-for-integrating-cybersecurity-into-aerospace-quality'
+- date: '2026-07-02'
+  title: 'LK Metrology moves CMM laser scanners to Ethernet across LC15DX, L100NX, SLK25, XC65DX, and XC65DXLS sensors'
+  source: 'ETMM / LK Metrology'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: 'ETMM reports LK Metrology introduced Ethernet-ready CMM laser scanners and supporting sensor-interface hardware for automated dimensional inspection and 3D surface digitization; cited specifics include LC15DX, L100NX, and SLK25 line scanners plus XC65DX and XC65DXLS cross scanners, high-speed industry-standard Ethernet communication replacing SDI for new deployments, retained measurement specifications from prior scanner generations, 19-inch rack-mount and desktop interface-controller options for retrofit to many CMM brands while retaining the original controller, integration with LK Focus point-cloud inspection software for CAD comparison and color-map reporting, Ethernet probe-ready configurations across Altera C, S, M, SF, SL, Maxima, and HC90 CMM lines, and immediate worldwide availability.'
+  url: 'https://www.etmm-online.com/lk-metrology-ethernet-laser-scanners-for-cmms-a-249018ab8487a80f37c41be5c2e9d222/'
+- date: '2026-07-03'
   title: AIAG and VDA publish first harmonized SPC manual for global automotive process
     control
   source: Quality Magazine / AIAG / VDA
