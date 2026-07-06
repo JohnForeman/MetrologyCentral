@@ -1,3 +1,17 @@
+- date: '2026-07-02'
+  title: 'SPECTROPORT LIBS PXL01 portable OES analyzer brings 2-6 second field metals checks with C, P, and S coverage'
+  source: 'Quality Magazine / SPECTRO'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: 'Quality Magazine reports SPECTRO introduced the SPECTROPORT LIBS PXL01 portable optical-emission metals analyzer for field alloy identification and concentration checks; cited specifics include LIBS-based OES with split-body dual optical systems for VUV and non-VUV wavelengths, reliable on-site measurement of carbon, phosphorus, and sulfur beyond typical handheld LIBS/XRF limitations, 2-6 second measurement times, optional UV probe, operation with or without argon, two replaceable batteries supporting up to 120 measurements per hour for up to 4.5 hours, iCAL 2.0 single-sample daily standardization, WLAN/LAN-to-USB data access, and grade identification, grade control, and pass/fail sorting workflows for worksite, receiving, and shipment verification.'
+  url: 'https://www.qualitymag.com/articles/99716-spectro-spectroport-libs-pxl01-portable-oes-metals-analyzer'
+- date: '2026-06-30'
+  title: 'U.S. machinery orders outpace shipments by USD 3.9B as semiconductor and construction equipment demand rebuilds backlog'
+  source: 'Quality Magazine / Interact Analysis'
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: 'Quality Magazine reports Interact Analysis sees U.S. machinery entering a new investment cycle as inflation-adjusted orders grew from about USD 37.1 billion in January 2025 to USD 45.3 billion in March 2026, more than 13% annual growth, while shipments rose more slowly to USD 41.5 billion; the resulting nearly USD 3.9 billion orders-versus-shipments gap is described as the largest backlog-building signal since the post-pandemic recovery, with semiconductor machinery as the primary driver, construction machinery as a secondary growth source, material-handling stabilization adding support, and regional production exposure called out for Texas, Michigan, Ohio, Wisconsin, Massachusetts, and Oregon as fabs, automation, reshoring, infrastructure, and construction equipment demand reshape capacity planning.'
+  url: 'https://www.qualitymag.com/articles/99708-us-machinery-orders-outstripping-shipments-what-happens-next'
 - date: '2026-07-03'
   title: 'Aerospace quality systems face IA9100 and CMMC convergence as digital inspection records become controlled data'
   source: 'Quality Magazine'
