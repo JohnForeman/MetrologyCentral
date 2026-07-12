@@ -1,3 +1,84 @@
+- date: '2026-07-08'
+  title: Detection Technology X-Panel XL detector reaches 430 x 860 mm active area
+    and 90 fps binning for industrial CT
+  source: Metrology News / Detection Technology
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Detection Technology launched the X-Panel 4386a
+    FPI, a large-area a-Si TFT flat-panel X-ray detector for high-throughput industrial
+    CT and digital radiography; cited specifications include a 430 x 860 mm active
+    area, 140 micron pixel size, 3072 x 6144 matrix, dual-side readout, up to 15 fps
+    full-resolution imaging, 45 fps in 3 x 3 binning, 90 fps in 6 x 6 binning, 10G
+    BASE-T data transfer, DRZ-Plus and CsI scintillator options, and target use in
+    automotive battery inspection, aerospace composites, heavy castings, defense and
+    ammunition inspection, and conveyor-based production systems where fewer scans
+    and reduced stitching artifacts can raise inspection throughput.
+  url: https://metrology.news/detection-technology-raises-the-bar-for-large-area-industrial-x-ray-detection/
+- date: '2026-07-08'
+  title: PMT SMARTSCAN handheld scanner captures up to 5.5M measurements/s with 51-line
+    blue-laser mode
+  source: Metrology News / PMT Technologies
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports PMT Technologies introduced the SMARTSCAN handheld
+    3D scanner for on-site dimensional inspection, reverse engineering, and digital
+    manufacturing workflows; cited specifications include a roughly 530 gram scanner
+    body excluding battery, 4.8 W power consumption to limit thermal drift, 51-line
+    cross-laser mode for rapid surface capture, 7-line parallel mode for fine details,
+    single-line mode for deep holes and slots, capture rates up to 5.5 million measurements
+    per second, maximum scan area of 700 x 600 mm, integrated RGB texture capture,
+    SkyForm mesh processing, PMT Inspect GD&T evaluation and automated reporting,
+    and optional robot or photogrammetry integration for automated inspection cells.
+  url: https://metrology.news/pmt-expands-portable-metrology-portfolio-with-smartscan-handheld-scanner/
+- date: '2026-07-08'
+  title: AI ultrasonic IC inspection case targets 95-98% FPY using 3% single-bubble
+    and 5% total-defect thresholds
+  source: Metrology News / Techman Robot
+  sector: quality_software
+  kind: case_study
+  summary: Metrology News reports a semiconductor packaging case study where TM AI
+    Vision was added to ultrasonic IC inspection after the line produced only about
+    50% first-pass yield and required heavy manual reinspection to reach a 95-98%
+    production target; cited inspection rules include rejecting a single air bubble
+    above 3% of total IC area or combined bubbles above 5%, evaluating separate IC-bubble
+    and solder-joint ultrasonic layers, distinguishing solder-layer mapping reflections
+    from true defects, using semantic segmentation to calculate irregular defect areas,
+    pulling ultrasonic images over the network through TM AI+ AOI Edge, and using
+    server-based auto-labeling and retraining to reduce operator review over successive
+    shifts.
+  url: https://metrology.news/ai-vision-transforms-ultrasonic-inspection-for-semiconductor-manufacturing/
+- date: '2026-07-10'
+  title: U.S. cutting-tool shipments hit USD 239.8M in May as year-to-date demand
+    runs 16.8% above 2025
+  source: Quality Magazine / AMT / USCTI
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Quality Magazine reports the AMT and USCTI Cutting Tool Market Report measured
+    U.S. cutting-tool shipments at USD 239.8 million in May 2026, down 7.4% from April
+    but up 15.2% from May 2025, with year-to-date shipments reaching USD 1.2 billion,
+    up 16.8% over the same period in 2025; AMT also noted units shipped declined for
+    a second consecutive month while carbide-based tool cost per unit increased as
+    tungsten supply constraints and machined-part demand from construction machinery,
+    defense, and aerospace manufacturers put pressure on tooling efficiency, tool
+    life, and second-half manufacturing capacity planning.
+  url: https://www.qualitymag.com/articles/99739-may-2026-us-cutting-tool-shipments-totaled-2398m-year-to-date-up-168-from-2025
+- date: '2026-07-09'
+  title: NIST RGTM 10279 gives textile sorters five 4-inch fabric standards for AI
+    and NIR fiber identification validation
+  source: NIST
+  sector: industrial_manufacturing
+  kind: standards_method
+  summary: NIST released Research Grade Test Material 10279, Textiles for Feedstock
+    Identification, to help validate fiber-identification methods used in textile
+    recycling and domestic supply-chain recovery; cited specifics include five 4 inch
+    by 4 inch fabric squares made from different dyed and undyed fibers, use with
+    near-infrared spectroscopy, computer vision, and hyperspectral imaging sorters,
+    comparison of measurements across recycling centers and laboratories, support
+    for production quality control on blends and mislabeled fabric composition, free
+    distribution through the NIST Store until July 30, 2026 in exchange for feedback,
+    and a study period ending September 30, 2026 to determine whether the RGTM should
+    become a more fully analyzed reference material.
+  url: https://www.nist.gov/news-events/news/2026/07/new-fabric-reference-material-could-help-strengthen-domestic-supply-chain
 - date: '2026-07-02'
   title: 'SPECTROPORT LIBS PXL01 portable OES analyzer brings 2-6 second field metals checks with C, P, and S coverage'
   source: 'Quality Magazine / SPECTRO'
