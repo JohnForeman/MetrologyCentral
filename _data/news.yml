@@ -1,4 +1,11 @@
 - date: '2026-07-08'
+  title: Pleora iPORT GEV-TB converts GigE Vision 2.x camera streams to 22.5 Gbps Thunderbolt/USB4 PCIe video
+  source: Quality Magazine / Pleora Technologies
+  sector: quality_software
+  kind: hardware_news
+  summary: Quality Magazine reports Pleora launched the iPORT GEV-TB External Frame Grabber for machine-vision systems that need high-bandwidth GigE Vision cameras on laptops, embedded PCs, industrial computers, or single-board systems without internal PCIe slots; cited specifications include GigE Vision 2.x camera output converted into a PCIe stream, video transmission up to 22.5 Gbps over a standard Ethernet cable to Thunderbolt 3/4 or USB4 USB-C ports, low predictable latency, direct-memory-access transfer into host memory to reduce CPU overhead, hardware packet-resend management, an integrated frame buffer for burst or high-throughput conditions, GigE Vision 2.2 and GenICam compliance, and support through Pleora's eBUS SDK for portable inspection, embedded imaging, and compact metrology system integration.
+  url: https://www.qualitymag.com/articles/99731-pleora-iport-gev-tb-external-frame-grabber
+- date: '2026-07-08'
   title: Detection Technology X-Panel XL detector reaches 430 x 860 mm active area
     and 90 fps binning for industrial CT
   source: Metrology News / Detection Technology
