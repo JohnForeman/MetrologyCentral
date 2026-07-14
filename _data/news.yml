@@ -1,3 +1,35 @@
+- date: '2026-07-14'
+  title: Renishaw RUP60 brings 2-second, better-than-10-micron ultrasonic thickness checks onto CNC machine tools
+  source: Renishaw
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Renishaw announced the RUP60 ultrasonic thickness-measurement probe for machine tools, targeting automated single-sided inspection of large metal workpieces directly on the CNC machine instead of moving parts to separate equipment or relying on manual ultrasonic checks; cited specifications include 0.7 mm to 30 mm material-thickness coverage with one stylus, measurement in two seconds per point, accuracy better than 10 microns, 2 micron repeatability, operation with or without coupling fluid, QE radio communication through the RMM-QE receiver, a Universal Sensor Interface for data-rich processing, and compatibility with Inspection Plus, Set and Inspect, and Renishaw Central for adaptive cut-measure-cut machining and traceable in-process verification.
+  url: https://www.renishaw.com/en/transforming-inspection-on-machine-tools-renishaws-first-on-machine-ultrasonic-thickness-measurement-probe-for-machine-tools--50145
+- date: '2026-07-14'
+  title: Renishaw RMP400S combines touch-trigger probing, scanning, and Ra 0.5 micron surface-finish verification in one spindle probe
+  source: Renishaw
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Renishaw announced the RMP400S multi-purpose machine-tool spindle probe for IMTS 2026 and AMB 2026, combining touch-trigger probing, high-density scanning, and surface-finish verification in a single on-machine sensor; cited specifications include patented RENGAGE strain-gauge technology, 0.25 micron 2 sigma repeatability, Ra 0.5 micron surface-finish capability, lower trigger forces to reduce part marking, support for run-out, form, flatness, roughness, and waviness measurements, single-probe bore and boss workflows, enhanced Inspection Plus scanning cycles, Set and Inspect programming without extensive G-code knowledge, and Renishaw Central reporting integration for in-process control and traceability.
+  url: https://www.renishaw.com/en/rmp400s-renishaws-new-all-in-one-machine-tool-probing-solution-for-smart-manufacturing--50136
+- date: '2026-07-14'
+  title: EyeVision automates 100 percent inline thread inspection using camera-based gap, pitch, length, and defect checks
+  source: Quality Magazine / EVT
+  sector: quality_software
+  kind: hardware_news
+  summary: >-
+    Quality Magazine reports EVT's EyeVision software can automate non-contact inline inspection of internal and external threads with industrial cameras and image-processing tools; cited inspection outputs include thread presence, usable thread length, pitch and spacing, number of visible thread turns, missing or interrupted sections, largest gaps, irregular thread segments, burrs, contamination, damaged edges, particles, gap count, longest segment, configurable tolerance thresholds, OK/NOK decisions, PLC rejection or reporting, and 100 percent production-process inspection as an alternative to random checks or mechanical gauges for screws, nuts, connectors, machined components, and precision parts.
+  url: https://www.qualitymag.com/articles/99736-every-thread-counts-eyevision-automated-inspection
+- date: '2026-07-14'
+  title: Automate 2026 reaches 50000-plus registrants and 1230 exhibitors as robotics, AI, and machine vision adoption expands
+  source: Metrology News / A3
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: >-
+    Metrology News reports A3's Automate 2026 drew more than 50000 registrants and 1230 exhibitors to 425000 square feet at McCormick Place, giving manufacturers a quantified demand signal for robotics, AI, machine vision, motion control, and industrial automation; cited specifics include more than 1600 conference registrants, more than 140 sessions, a new NVIDIA-sponsored Humanoid Robot Pavilion, more than 1100 registrants for the Humanoid Robot Forum, a USD 10000 Startup Challenge won by Mbodi for natural-language robot teaching, and 2026 innovation awards for CeiliX InfinityCrane and SkyRunner, Standard Bots Flux AI, and Synapticon ACTILINK-JD with POSITRON Safety AI.
+  url: https://metrology.news/automate-2026-breaks-records-as-robotics-and-ai-drive-industry-growth/
 - date: '2026-07-08'
   title: Pleora iPORT GEV-TB converts GigE Vision 2.x camera streams to 22.5 Gbps Thunderbolt/USB4 PCIe video
   source: Quality Magazine / Pleora Technologies
