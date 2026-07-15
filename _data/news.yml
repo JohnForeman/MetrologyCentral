@@ -1,4 +1,55 @@
 - date: '2026-07-14'
+  title: U.S. manufacturing technology orders reach USD 583.4M in May, up 47.8% year
+    over year
+  source: Quality Magazine / AMT
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Quality Magazine reports AMT's U.S. Manufacturing Technology Orders measured
+    USD 583.4 million in new metalworking-machinery orders for May 2026, down 1.8%
+    from April but up 47.8% from May 2025, with first-five-month orders totaling USD
+    2.77 billion, up 31.9% year over year; cited demand signals include unit growth
+    lagging order-value growth as manufacturers buy more automation, nearly half a
+    million current manufacturing job openings, contract machine-shop orders nearly
+    10% below the prior three-month average, aerospace capacity investment as a major
+    growth source, industrial-machinery manufacturer orders reaching their highest
+    value since November 2017, and IMTS expected to support second-half order activity.
+  url: https://www.qualitymag.com/articles/99745-5834m-in-new-machinery-orders-highlight-us-economic-strengths
+- date: '2026-07-09'
+  title: Hexagon VGSTUDIO MAX 2026.2 cuts CT multi-part measurement setup time up
+    to 50 percent
+  source: Instrumentation Monthly / Hexagon
+  sector: quality_software
+  kind: software_news
+  summary: Instrumentation Monthly reports Hexagon Manufacturing Intelligence released
+    VGSTUDIO MAX 2026.2 for high-throughput CT inspection, adding multi-part coordinate-measurement
+    workflows where teams load entire batches of CT scans, define measurements once,
+    and automatically synchronize CM objects across every part in a single project;
+    cited specifics include up to 50 percent reduction in inspection-preparation and
+    project-creation time, single-scene batch management for cross-part deviation
+    analysis, CM Overview reporting with quality-control charts and SPC values, five
+    NextGen editions spanning Essential, Dimensions, Analysis, Battery, and Pro, expanded
+    GelSight profile roughness analysis, ASTM E57 point-cloud support, a redesigned
+    displacement-analysis interface, ISO 5459:2024 datum-fit compliance, and a fast
+    mode for porosity and inclusion analysis on large datasets.
+  url: https://instrumentation.co.uk/hexagon-vgstudio-max-2026-2/
+- date: '2026-07-08'
+  title: FARO CREAFORM expands HandySCAN 3D with MAX EVO Elite accuracy of 0.075 mm
+    plus 0.010 mm/m
+  source: FARO CREAFORM
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: FARO CREAFORM announced four additions to the HandySCAN 3D family, pairing
+    new HandySCAN EVO and EVO Plus models for everyday inspection with HandySCAN MAX
+    EVO and MAX EVO Elite models for large-part portable metrology; cited specifics
+    include wireless cable-free measurement when paired with the Mobility Kit, embedded-screen
+    guided workflows, ISO/IEC 17025-accredited calibration and VDI/VDE 2634 testing,
+    MAX EVO volumetric accuracy of 0.150 mm plus 0.020 mm/m, MAX EVO Elite volumetric
+    accuracy of 0.075 mm plus 0.010 mm/m for inspection and NDT workflows, QR-code
+    reading on Elite models to launch inspection programs faster, and integration
+    with Creaform Metrology Suite for scan-to-report workflows across small parts
+    and large complex components.
+  url: https://www.creaform3d.com/en/about-us/press-releases/faro-creaform-strengthens-handyscan-3d-portfolio-with-next-generation-max-series-and-new-evo-series-models
+- date: '2026-07-14'
   title: Renishaw RUP60 brings 2-second, better-than-10-micron ultrasonic thickness checks onto CNC machine tools
   source: Renishaw
   sector: scientific_metrology
