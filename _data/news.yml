@@ -1,3 +1,11 @@
+- date: '2026-07-15'
+  title: General Atomics EXCALIBUR calibrates X-ray optics with 1 micron stage repeatability and 0.64 mdeg crystal control
+  source: General Atomics
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    General Atomics detailed its EXCALIBUR Experimental X-ray CALIBration UseR facility for laboratory X-ray metrology, combining X-ray sources, precision detectors, cameras, automated stages, and analysis tools to non-destructively characterize thin films, foils, filters, X-ray crystals, and diagnostic optics used in fusion, semiconductor, sensor, space, and advanced-manufacturing research; cited specifications include Mo, W, Cu, and Cr windowless sources plus Cu, Ti, and Pt windowed sources at 30 kV and up to 10 mA, silicon-drift detection from 1 keV to 30 keV, X-ray CCD coverage from 30 eV to 10 keV, photon-counting camera coverage from 5.4 keV to 22 keV, a motorized stage with 200 mm travel and 1 micron repeatability, motorized slit adjustment from 1 micron to 8 mm, goniometer crystal control from 0 degrees to 15 degrees with 0.64 mdeg repeatability, and measurement workflows for areal density, thickness mapping, filter calibration, opacity database revision, integrated reflectivity, and topographic crystal calibration.
+  url: https://www.ga.com/excalibur
 - date: '2026-07-14'
   title: U.S. manufacturing technology orders reach USD 583.4M in May, up 47.8% year
     over year
