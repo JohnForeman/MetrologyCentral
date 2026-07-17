@@ -1,4 +1,28 @@
 - date: '2026-07-15'
+  title: Hamar Laser L-703SP update cuts surface-plate lapping line checks to 2-4 minutes
+  source: Metrology News / Hamar Laser
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Hamar Laser Instruments enhanced its L-703SP Surface Plate Calibration System with an optional Lapping Line View module in Plane6 software and a mirrored A-703SP-LM-M surface-plate mounting fixture for calibration and resurfacing workflows; cited specifics include single-line flatness checks in about 2-4 minutes during lapping, laser-based geometry calibration intended to reduce reliance on slower electronic levels, flexible measuring increments, high-resolution repeatable data collection, use where wall or obstruction clearance requires reversed fixture orientation, and a USD 2.6 million U.S. Air Force contract covering up to 84 L-703SP systems over four years for Air Force and Air National Guard bases.
+  url: https://metrology.news/hamar-laser-introduces-rapid-flatness-verification-for-surface-plate-resurfacing/
+- date: '2026-07-15'
+  title: FIM standardizes WorldSBK homologation checks with Hexagon Absolute Arm 7-Axis and AS1 scanning
+  source: Cycle News / FIM / Hexagon
+  sector: scientific_metrology
+  kind: case_study
+  summary: >-
+    Cycle News published an FIM release detailing a multi-year FIM and Hexagon partnership to modernize WorldSBK motorcycle homologation and technical-compliance checks using portable dimensional metrology instead of slower traditional methods; cited workflow specifics include Hexagon Absolute Arm 7-Axis portable measuring arms, Absolute Scanner AS1 laser scanning, Inspire software comparison of scan data against homologated CAD and tolerances, portable deployment at FIM headquarters, manufacturer sites, and trackside pits, checks ranging from small engine parts to frames, chassis, and full aerodynamic packages, spot checks through the remaining four 2026 WorldSBK rounds, and planned expansion to 2027 homologation plus FIM Endurance World Championship and World Supersport workflows.
+  url: https://www.cyclenews.com/2026/07/article/fim-and-hexagon-partner-to-streamline-racing-motorcycle-measurement-and-compliance-checks/
+- date: '2026-07-14'
+  title: Commerce signs USD 225M CHIPS award supporting Bosch USD 2B silicon-carbide fab conversion in California
+  source: NIST / U.S. Department of Commerce
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Department of Commerce CHIPS Program Office announced a direct funding agreement with Robert Bosch Semiconductor for up to USD 225 million to support Bosch's USD 2 billion conversion of its Roseville, California facility into a silicon-carbide semiconductor production site for automotive, industrial, energy, appliance, and defense supply chains; cited specifics include new cleanroom space, an advanced SiC manufacturing line, sample production already started, commercial production expected in 2026, Bosch's first U.S. semiconductor production site, Bosch plans to invest USD 7.5 billion in U.S. operations over five years, and more than 60 million SiC chips produced and delivered globally by Bosch since first-generation production began in 2021.
+  url: https://www.nist.gov/news-events/news/2026/07/department-commerce-announces-direct-funding-agreement-bosch-225-million
+- date: '2026-07-15'
   title: General Atomics EXCALIBUR calibrates X-ray optics with 1 micron stage repeatability and 0.64 mdeg crystal control
   source: General Atomics
   sector: scientific_metrology
