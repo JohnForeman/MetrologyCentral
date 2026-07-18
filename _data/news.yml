@@ -30,6 +30,22 @@
   summary: >-
     General Atomics detailed its EXCALIBUR Experimental X-ray CALIBration UseR facility for laboratory X-ray metrology, combining X-ray sources, precision detectors, cameras, automated stages, and analysis tools to non-destructively characterize thin films, foils, filters, X-ray crystals, and diagnostic optics used in fusion, semiconductor, sensor, space, and advanced-manufacturing research; cited specifications include Mo, W, Cu, and Cr windowless sources plus Cu, Ti, and Pt windowed sources at 30 kV and up to 10 mA, silicon-drift detection from 1 keV to 30 keV, X-ray CCD coverage from 30 eV to 10 keV, photon-counting camera coverage from 5.4 keV to 22 keV, a motorized stage with 200 mm travel and 1 micron repeatability, motorized slit adjustment from 1 micron to 8 mm, goniometer crystal control from 0 degrees to 15 degrees with 0.64 mdeg repeatability, and measurement workflows for areal density, thickness mapping, filter calibration, opacity database revision, integrated reflectivity, and topographic crystal calibration.
   url: https://www.ga.com/excalibur
+- date: '2026-07-15'
+  title: PI A-123 air-bearing linear stage combines 1 nm encoder resolution with +/-0.25 micron straightness
+  source: Metrology News / PI
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports PI introduced the A-123 PIglide Air Bearing Linear Slide for nanometer-class scanning, metrology, inspection, precision automation, optics, photonics, semiconductor, aerospace-test, and cleanroom applications; cited specifications include a direct-drive 3-phase brushless linear motor, actively preloaded noncontact air bearings, closed-loop encoder feedback to 1 nm resolution, 50 mm to 750 mm travel options, a 210 mm x 210 mm motion platform, payload capacity up to 40 kg, straightness and flatness errors as low as +/-0.25 micron, 3 g peak acceleration equal to 30 m/s2 unloaded, 1000 mm/s maximum velocity, horizontal, vertical, and inverted mounting, XY, XY-Theta, and XYZ assemblies, and A-800 ACS-based EtherCAT motion controllers for synchronized high-speed scanning and contouring.
+  url: https://metrology.news/pi-introduces-a-123-air-bearing-linear-stage-for-nanometre-precision-motion/
+- date: '2026-07-15'
+  title: Revopoint Trackit SR wireless scanner specifies 0.02 mm single-frame accuracy and marker-free optical tracking
+  source: Metrology News / Revopoint
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Revopoint launched the Trackit SR wireless optical-tracking 3D scanner for aerospace, automotive, quality-control, reverse-engineering, field-inspection, mold, casting, and complex-component workflows where markers, cables, sprays, or inspection-room-only setups add time; cited specifications include marker-free real-time optical tracking, three blue-laser modes with 30 cross lines for fine scanning, 17 parallel lines for larger surfaces, and a single line for deep holes, single-frame accuracy of 0.02 mm, volumetric accuracy of 0.02 mm + 0.04 mm x L(m), integrated temperature sensors to limit drift, a CMM Edition certified ball plate for on-site accuracy validation, Wi-Fi 6 communication from both scanner and tracker to the PC, up to 2.5 hours of handheld battery operation, operation in ambient light up to 100000 lux, and Revo Measure GD&T, deviation-inspection, reporting, STEP, IGES, and STL workflow support.
+  url: https://metrology.news/revopoint-introduces-wireless-marker-free-trackit-sr-3d-scanner/
 - date: '2026-07-14'
   title: U.S. manufacturing technology orders reach USD 583.4M in May, up 47.8% year
     over year
