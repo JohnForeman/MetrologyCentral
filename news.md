@@ -21,6 +21,7 @@ What appears here:
 ---
 
 <div class="news-filters" role="navigation" aria-label="Jump to news category">
+  <a class="news-filter-btn" href="#imts-2026">IMTS 2026</a>
   <a class="news-filter-btn" href="#ev-manufacturing">EV Manufacturing</a>
   <a class="news-filter-btn" href="#auto-manufacturing">Auto Manufacturing</a>
   <a class="news-filter-btn" href="#aerospace-defense-manufacturing">Aerospace & Defense</a>
@@ -29,6 +30,32 @@ What appears here:
 </div>
 
 {% assign items = site.data.news %}
+
+{% assign imts_items = items | where: 'event', 'imts_2026' %}
+{% if imts_items and imts_items.size > 0 %}
+  <section id="imts-2026" class="news-category-section">
+    <h2>IMTS 2026</h2>
+    <p class="section-intro">IMTS 2026 runs September 14&ndash;19 in Chicago. This section tracks CMM, inspection software, and quality-related announcements, product launches, and demonstrations tied to the show.</p>
+    <div class="post-list" id="news-list-imts">
+      {% for item in imts_items %}
+        <article class="post-preview news-item" data-kind="{{ item.kind | default: 'uncategorized' }}">
+          <header>
+            <h2><a href="{{ item.url }}" target="_blank" rel="noopener">{{ item.title }}</a></h2>
+            <p class="post-meta">
+              <time datetime="{{ item.date }}">{{ item.date | date: "%B %-d, %Y" }}</time>
+              {% if item.source %} &middot; Source: {{ item.source }}{% endif %}
+              {% if item.kind %} &middot; {{ item.kind | replace: '_', ' ' | replace: '-', ' ' | capitalize }}{% endif %}
+              <span class="source-policy-badge">External source</span>
+            </p>
+          </header>
+          {% if item.summary %}<div class="excerpt"><p>{{ item.summary }}</p></div>{% endif %}
+          <a href="{{ item.url }}" class="read-more" target="_blank" rel="noopener">Read original source</a>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+{% endif %}
+
 {% assign cutoff_ts = 'now' | date: '%s' | plus: 0 | minus: 2592000 %}
 {% assign recent_items = '' | split: '' %}
 {% for item in items %}

@@ -19,6 +19,7 @@
   source: Metrology News / AMT / IMTS
   sector: industrial_manufacturing
   kind: industry_news
+  event: imts_2026
   summary: >-
     Metrology News reports that IMTS 2026 (Sept. 14-19, Chicago) will be the first major industry event where industrial AI is demonstrated across the full manufacturing technology stack, from cloud platforms and AI-native applications to embedded AI inside machine controls, inspection systems, automation, and digital thread solutions; cited specifics include 1.2 million sq ft of exhibit space, more than 1800 exhibitors, 89000-plus expected attendees, a new Industrial AI Arena featuring 32 exhibitors plus Sandia National Laboratories, a full-day Industrial AI Conference, and hyperscaler participation from AWS, Google Cloud, and Microsoft showing cloud-to-factory-floor AI deployment; contextual demand signals include U.S. manufacturing technology orders of USD 2.19 billion through the first four months of 2026 (up 28.9% year over year), ISM Manufacturing PMI at 53.3 percent with six consecutive months of new-order expansion, and manufacturing labor productivity up 3.2 percent in Q1 2026 with no growth in hours worked.
   url: https://metrology.news/imts-2026-to-showcase-the-ai-powered-future-of-manufacturing/
@@ -110,6 +111,7 @@
   source: Renishaw
   sector: scientific_metrology
   kind: hardware_news
+  event: imts_2026
   summary: >-
     Renishaw announced the RUP60 ultrasonic thickness-measurement probe for machine tools, targeting automated single-sided inspection of large metal workpieces directly on the CNC machine instead of moving parts to separate equipment or relying on manual ultrasonic checks; cited specifications include 0.7 mm to 30 mm material-thickness coverage with one stylus, measurement in two seconds per point, accuracy better than 10 microns, 2 micron repeatability, operation with or without coupling fluid, QE radio communication through the RMM-QE receiver, a Universal Sensor Interface for data-rich processing, and compatibility with Inspection Plus, Set and Inspect, and Renishaw Central for adaptive cut-measure-cut machining and traceable in-process verification.
   url: https://www.renishaw.com/en/transforming-inspection-on-machine-tools-renishaws-first-on-machine-ultrasonic-thickness-measurement-probe-for-machine-tools--50145
@@ -118,6 +120,7 @@
   source: Renishaw
   sector: scientific_metrology
   kind: hardware_news
+  event: imts_2026
   summary: >-
     Renishaw announced the RMP400S multi-purpose machine-tool spindle probe for IMTS 2026 and AMB 2026, combining touch-trigger probing, high-density scanning, and surface-finish verification in a single on-machine sensor; cited specifications include patented RENGAGE strain-gauge technology, 0.25 micron 2 sigma repeatability, Ra 0.5 micron surface-finish capability, lower trigger forces to reduce part marking, support for run-out, form, flatness, roughness, and waviness measurements, single-probe bore and boss workflows, enhanced Inspection Plus scanning cycles, Set and Inspect programming without extensive G-code knowledge, and Renishaw Central reporting integration for in-process control and traceability.
   url: https://www.renishaw.com/en/rmp400s-renishaws-new-all-in-one-machine-tool-probing-solution-for-smart-manufacturing--50136
@@ -1635,6 +1638,7 @@
   source: ETMM / LK Metrology
   sector: scientific_metrology
   kind: hardware_news
+  event: imts_2026
   summary: ETMM reports LK Metrology will demonstrate a multi-sensor inspection portfolio at IMTS 2026, including ISF 04.04.04
     and ISF 07.06.05 shop-floor CMMs with Renishaw MH20i heads, an Altera M 10.10.8 with PH10MQ, TP20, SP25, LC15DX, LC12DX,
     and L100NX laser scanning, an Altera M 15.12.10 with Scantek 5 and Renishaw REVO-2 5-axis scanning, the PXR-CT Alpha 320KV
