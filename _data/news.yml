@@ -1,3 +1,19 @@
+- date: '2026-07-20'
+  title: Hexagon SpatialAnalyzer 2026.1 adds OPC UA for laser-tracker-driven robot and PLC workflows
+  source: DailyCADCAM / Hexagon
+  sector: scientific_metrology
+  kind: software_news
+  summary: >-
+    DailyCADCAM published Hexagon Manufacturing Intelligence's SpatialAnalyzer 2026.1 release, adding OPC UA support so large-scale laser measurement can exchange data securely with industrial control systems, robots, and automated production lines for metrology-assisted manufacturing and alignment; cited specifics include encryption and authentication for OPC UA data exchange, 25 new MP/SDK commands for automated workflows, support for all common metrology devices, SARCA robot calibration using multi-zone and multi-tool calibration to improve robot accuracy by up to 10x, full SpatialAnalyzer support for the Leica Absolute Tracker ATS800 across room scanning, reflector tracking, and high-precision direct feature scanning, and expanded support for API LADAR, Leica RTC360, Nikon LR, RDS 6.6, and Leica TS20.
+  url: https://dailycadcam.com/hexagon-mi-adds-opc-ua-support-in-spatialanalyzer-for-large-scale-metrology-analysis/
+- date: '2026-07-20'
+  title: Rockwell survey finds 93% MES adoption but only 23% full ERP, PLM, quality, and OT integration
+  source: Quality Magazine / Rockwell Automation
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: >-
+    Quality Magazine reports Rockwell Automation released Scaling MES Across the Enterprise, based on responses from 1560 manufacturing and industrial operations decision makers across 17 countries, showing that MES adoption is broad but enterprise integration remains the bottleneck; cited findings include 93% of manufacturers having MES in at least one facility, only 28% deploying MES enterprise-wide, 23% reporting full integration across ERP, PLM, quality, and OT systems, 44% ranking integration as the top MES buying requirement, 33% citing MES as their biggest data-integration problem, expectations that 42% of processes will be AI-supported within a year and 54% by 2030, 43% saying collected data is not used effectively, and 46% reporting a cyber incident in the past year.
+  url: https://www.qualitymag.com/articles/99758-93-of-manufacturers-have-mes-but-only-23-have-fully-integrated-it-new-rockwell-automation-report-finds
 - date: '2026-07-15'
   title: Hamar Laser L-703SP update cuts surface-plate lapping line checks to 2-4 minutes
   source: Metrology News / Hamar Laser
