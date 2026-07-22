@@ -1,3 +1,133 @@
+- date: '2026-07-22'
+  title: API Optical CMM pairs 9D LADAR with automated motion for 20000-point/s non-contact
+    inspection
+  source: Metrology News / API
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Automated Precision Inc. introduced a next-generation
+    Optical CMM that combines API 9D LADAR with automated motion control for inline,
+    nearline, and standalone dimensional inspection; cited specifications include
+    volumetric data collection up to 20000 points per second with micron-level accuracy,
+    inspection of reflective and translucent surfaces at incidence angles up to 87
+    degrees, single-point and raster-scanning modes, CAD- or machine-vision-guided
+    automated routines, MeasurePro or compatible third-party metrology software support,
+    an OPM1 configuration for parts up to 1.5 x 1.5 x 1.5 m with 1.0 m vertical lift
+    and 2 micron lift accuracy, and an OPM2 configuration for parts up to 2 x 2 x
+    2 m with configurable 8 m to 25 m measurement ranges for turbine blades, prismatic
+    parts, automotive body panels, body-in-white structures, and EV components.
+  url: https://metrology.news/api-introduces-next-generation-optical-cmm-for-automated-non-contact-inspection/
+- date: '2026-07-22'
+  title: Vision Engineering PicoZoom adds 0.7x-4.5x motorized zoom, focus stacking,
+    and 1080p/60 fps inspection reporting
+  source: Metrology News / Vision Engineering
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Vision Engineering launched PicoZoom, an autofocus
+    digital inspection microscope positioned between low-cost USB microscopes and
+    higher-end digital inspection platforms for production quality teams needing documented,
+    repeatable inspection; cited specifications include one-click autofocus, motorized
+    0.7x to 4.5x optical zoom equivalent to 18.9x to 121.8x system magnification,
+    focus stacking for solder joints, stepped surfaces, and threaded components, quadrant-controlled
+    LED lighting with automatic exposure, built-in dimensioning, annotation, and custom
+    reporting tools, HDMI, USB 3.0, and LAN connectivity, a 2 MP CMOS sensor delivering
+    1080p resolution at 60 fps, a 320 x 308.6 mm benchtop footprint, and applications
+    across PCB, solder-joint, medical-device, incoming-goods, defect-analysis, aerospace,
+    motorsport, welding, and automotive inspection.
+  url: https://metrology.news/picozoom-delivers-autofocus-digital-microscopy-for-modern-manufacturing-inspection/
+- date: '2026-07-22'
+  title: Alpha Manufacturing deploys Creaform MetraSCAN 3D to move fabrication inspection
+    upstream
+  source: Metrology News / Alpha Manufacturing / Creaform
+  sector: industrial_manufacturing
+  kind: case_study
+  summary: Metrology News reports UK sheet-metal fabrication specialist Alpha Manufacturing
+    is deploying a Creaform MetraSCAN 3D optical scanner as part of a broader digital-quality
+    strategy for high-mix fabrication, CNC machining, welding, assembly, and systems-integration
+    work; cited specifics include planned inspection of large fabricated assemblies,
+    CAD-to-part dimensional comparison, digital data capture for repeat production
+    programs, in-process verification after punching and welding, metrology-grade
+    accuracy up to 0.025 mm, scanning speeds up to 1.8 million measurement points
+    per second, dynamic referencing to maintain accuracy when the scanner or component
+    moves, TRUaccuracy compensation for operator technique, vibration, and temperature
+    effects, dedicated internal champions, standardized reporting procedures, and
+    a target to have a dedicated scanning facility and repeatable workflows operating
+    by the end of 2026.
+  url: https://metrology.news/alpha-manufacturing-builds-a-digital-quality-strategy-with-creaform-metrascan-3d/
+- date: '2026-07-21'
+  title: GBS smartWLI firebolt2 reaches 2.57 kfps and 2.4 MP for production white-light
+    interferometry
+  source: Metrology News / GBS Metrology
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports GBS Metrology introduced the smartWLI firebolt2
+    high-speed optical 3D sensor for non-contact surface measurement using white-light
+    interferometry and coherence scanning interferometry; cited specifications include
+    operation up to 2.57 kfps, 2.4 megapixel sensor resolution, PCIe high-speed camera
+    acquisition, internal processing for data rates about five times higher than the
+    fastest previous 10 GigE-camera implementations, real-time calculation of complete
+    3D datasets without raw-image storage, ICCE image correction and contrast enhancement,
+    FFT-based AQC quality control for every measurement point, sub-angstrom roughness
+    characterization, steep microgeometry and cutting-edge measurement, SDK support
+    for automated sequences, up to 15x the measurement speed of smartWLI compact,
+    and about 2.5x the speed of the prior smartWLI firebolt.
+  url: https://metrology.news/high-speed-white-light-interferometry-sensor-accelerates-3d-surface-measurement/
+- date: '2026-07-21'
+  title: Rohde & Schwarz IMAGER brings non-ionizing millimeter-wave 3D inspection
+    to packaged products
+  source: Metrology News / Rohde & Schwarz
+  sector: quality_software
+  kind: hardware_news
+  summary: Metrology News reports Rohde & Schwarz introduced the R&S IMAGER, a real-time
+    millimeter-wave inspection system for non-destructive quality checks of packaged
+    products in pharmaceutical, logistics, food, beverage, and manufacturing applications;
+    cited specifics include non-ionizing inspection through cardboard cartons, multilayer
+    packaging, sealed containers, multipacks, and glass containers, three-dimensional
+    volumetric imaging using reflected millimeter-wave signals and sensor-array reconstruction,
+    AI-driven defect detection for missing, misplaced, incorrectly assembled, damaged,
+    or concealed components, verification of syringes, needles, autoinjectors, sterile
+    medical devices, and packaged medicines without X-ray exposure, conveyor integration
+    for continuous real-time inspection, interfaces to production-control and quality-management
+    software, and digital records for traceability and regulatory compliance.
+  url: https://metrology.news/millimeter-wave-imaging-advances-industrial-quality-inspection/
+- date: '2026-07-21'
+  title: Hexagon targets aircraft MRO replacement parts with portable scanning and
+    Geomagic reverse engineering
+  source: Metrology News / Hexagon
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: Metrology News reports Hexagon's Portable Metrology Division is positioning
+    ATLASCAN Pro handheld scanners with Geomagic Design X for aircraft maintenance,
+    repair, and overhaul teams that need replacement parts when CAD data is missing
+    or obsolete; cited workflow specifics include reverse engineering cracked, delaminated,
+    or obsolete interior parts such as seat shrouds, armrests, tray tables, galley
+    doors, latches, and hinges, customer interest in mobile defense units combining
+    a scanning arm, reverse-engineering software, and a 3D printer, Geomagic Design
+    X reducing accurate model rebuild time by 3x to 8x versus non-specialist CAD workflows,
+    direct scanner control, Region Segmentation, Modelling Wizards, Auto Sketch, NURBS
+    surfacing, Accuracy Analyzer comparison against scan data at each construction
+    stage, LiveTransfer to SOLIDWORKS, Siemens NX, Autodesk Inventor, or PTC Creo,
+    and global availability with vendor-agnostic support for third-party scanners,
+    software, and file formats.
+  url: https://metrology.news/hexagon-enables-on-demand-aircraft-parts-replacement-with-portable-reverse-engineering/
+- date: '2026-07-21'
+  title: Beehive plans USD 70M Southwest Ohio expansion to scale 3D-printed defense
+    jet engines toward 8000 units annually
+  source: GlobeNewswire / Beehive Industries / JobsOhio
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Beehive Industries, Ohio Governor Mike DeWine, JobsOhio, and REDI Cincinnati
+    announced at Farnborough that Beehive plans to expand in Southwest Ohio with more
+    than 200 new jobs and USD 70 million of regional investment to scale additively
+    manufactured jet engines for uncrewed aerial defense applications; cited specifics
+    include the Frenzy engine entering full-rate production, a USD 29.7 million U.S.
+    Air Force contract to advance the Frenzy engine family, a June plan to more than
+    double metal additive manufacturing capacity through the largest publicly disclosed
+    purchase of EOS metal printers, acquisitions of Able Tool Corporation and Planet
+    Products Corporation to create a Cincinnati-area Production Machining Center of
+    Excellence, a target manufacturing system capable of more than 8000 engines annually,
+    and a regional aerospace base described by REDI Cincinnati as more than USD 6
+    billion.
+  url: https://www.globenewswire.com/news-release/2026/07/21/3330462/0/en/Beehive-Industries-to-Expand-in-Southwest-Ohio-Creating-Over-200-New-Jobs-and-Investing-70-Million-to-Scale-Production-of-3D-Printed-Jet-Engines.html
 - date: '2026-07-20'
   title: Hexagon SpatialAnalyzer 2026.1 adds OPC UA for laser-tracker-driven robot and PLC workflows
   source: DailyCADCAM / Hexagon
