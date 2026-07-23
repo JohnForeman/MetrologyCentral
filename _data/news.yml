@@ -1,4 +1,32 @@
 - date: '2026-07-22'
+  title: Digital Metrology TraceBossPro adds configurable ISO 21920 and ASME surface-texture setups for production roughness checks
+  source: Quality Magazine / Digital Metrology Solutions
+  sector: scientific_metrology
+  kind: software_news
+  summary: Quality Magazine reports Digital Metrology Solutions released TraceBossPro for production measurement of surface roughness and crosshatch, extending handheld roughness-gage workflows beyond locked-down parameter sets; cited specifics include one-click switching between customized measurement configurations, per-setup scaling, filtering, and display options, selectable ISO 21920 and ASME surface-texture parameters with optional user specification limits, locked configurations for consistency and traceability, ISO 16610 spline filtering for full-length surface measurement and waviness analysis, and use across repeated high-volume production checks as well as prototype environments with varied part families.
+  url: https://www.qualitymag.com/articles/99767-digital-metrology-tracebosspro-surface-gauge-software
+- date: '2026-07-21'
+  title: Mettler Toledo X56 DXD+ combines photon-counting dual-energy X-ray, AI inspection, and 500 product/min throughput
+  source: Quality Magazine / Mettler Toledo
+  sector: quality_software
+  kind: hardware_news
+  summary: Quality Magazine reports Mettler Toledo introduced the X56 DXD+ dual-energy photon-counting X-ray inspection system for packaged food and complex product formats where single-energy systems struggle with low-density contaminants; cited specifics include DXD+ detector technology, Advanced Material Discrimination Pro software, AI-assisted inspection to reduce unnecessary rejects, detection of rubber and plastic contaminants in variable-density or overlapping products such as multipacks and bags, 500 mm system width, single- or multi-lane configurations, throughput up to 500 products per minute, completeness checks, clip detection, trapped-in-seal inspection, toolless belt removal, hygienic design, image-database traceability, ProdX integration, real-time monitoring, and common network-protocol support.
+  url: https://www.qualitymag.com/articles/99763-mettler-toledo-x56-dxd-dual-energy-photon-counting-x-ray-system
+- date: '2026-07-20'
+  title: AMRC opens GBP 54M COMPASS facility with 2400-tonne RTM press and five-robot aerospace composites cell
+  source: Metrology News / AMRC / Boeing
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Metrology News reports the University of Sheffield AMRC opened the GBP 54 million open-access COMPASS facility for high-rate, large-scale aerospace composite production, with Boeing as first user through the Isothermic High-Rate Sustainable Structures program; cited specifics include a target to reduce large-component manufacturing time from about 40 hours to four, GBP 29.5 million of ATI Programme equipment funding, TRL 6 de-risking for supply chains, closed-loop machine vision and digital twin modeling, Langzauner resin-transfer-moulding press capacity of 2400 tonnes with tooling up to 10 m x 3 m, a 21.4 m Zund cutting table, Loop Technology FibreLINE deposition, two 5 m FibreFORM grippers, two large FANUC robots plus three additional FANUC robots on an 85 m track, and transfer relevance to defence, renewable energy, transport, and urban air mobility.
+  url: https://metrology.news/amrc-unveils-compass-facility-for-next-generation-aerospace-production/
+- date: '2026-07-21'
+  title: CRP UniqTrust gives Windform additive parts NFC-verifiable digital identity for aerospace and defence traceability
+  source: Metrology News / CRP Group
+  sector: aerospace_defense_manufacturing
+  kind: quality_software
+  summary: Metrology News reports CRP Group launched CRP UniqTrust, a digital identity and anti-counterfeiting system for Windform composite additive-manufactured components used in aerospace, motorsport, and defence supply chains; cited specifics include a concealed physically non-replicable microchip embedded in component packaging, military-grade encryption, NFC smartphone verification without a dedicated app, real-time validation of the correct component version, rejection of unauthorized verification attempts, lifecycle traceability from manufacture through deployment, support for EU Digital Product Passport readiness, and controlled access to certificates of conformity, engineering drawings, quality inspection reports, and customer-specific documentation.
+  url: https://metrology.news/crp-group-launches-digital-identity-system-for-windform-components/
+- date: '2026-07-22'
   title: API Optical CMM pairs 9D LADAR with automated motion for 20000-point/s non-contact
     inspection
   source: Metrology News / API
