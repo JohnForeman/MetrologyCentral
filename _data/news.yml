@@ -1,3 +1,56 @@
+- date: '2026-07-23'
+  title: NIST MEP funding opportunity targets 14 centers with 50% cost share for advanced-manufacturing adoption
+  source: NIST / U.S. Department of Commerce
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: NIST announced a Notice of Funding Opportunity for 14 Manufacturing Extension Partnership centers intended
+    to help small and medium-sized manufacturers adopt advanced manufacturing technologies such as robotics, AI,
+    automation, advanced materials, additive manufacturing, and biotechnology; cited specifics include centers planned
+    for Alabama, Alaska, Arkansas, California, Georgia, Louisiana, Massachusetts, Missouri, Montana, Ohio, Pennsylvania,
+    Puerto Rico, Utah, and Vermont, nonfederal matching funds of at least 50%, a network context of nearly 1400
+    manufacturing advisers at more than 450 MEP service locations, applications due Aug. 21, 2026, and state award
+    ceilings including USD 15.64 million for California, USD 6.11 million for Pennsylvania, and USD 6.08 million
+    for Ohio.
+  url: https://www.nist.gov/news-events/news/2026/07/nist-announces-funding-opportunity-14-mep-centers-advance-small-and-medium
+- date: '2026-07-23'
+  title: AIA and PwC survey finds A&D ramp confidence drops sharply beyond 2x current production rates
+  source: PwC / Aerospace Industries Association
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: PwC published AIA and PwC survey findings on aerospace and defense production ramp readiness, based on
+    senior executives across defense, commercial aviation, space, primes, sub-tier suppliers, and services or MRO
+    providers; cited findings include 85% confidence in delivering 1.25x current production rates within 18 months,
+    confidence falling by nearly half beyond 2x, 33% to 42% of the industrial base unable or unwilling to deliver
+    at 3x to 4x current rates on any timeline, demand-signal distortion with 36% of top-of-chain companies reporting
+    under-forecasting versus 72% of bottom-of-chain companies reporting over-forecasting, and constrained sub-tiers
+    needing capital and risk sharing because volume forecasts alone cannot underwrite 2x-plus capacity.
+  url: https://www.pwc.com/us/en/industries/industrial-products/library/aerospace-and-defense-production-ramp-readiness.html
+- date: '2026-07-23'
+  title: Park Aerospace selects Tulsa airport for USD 65M advanced composite-materials facility opening in 2028
+  source: Quality Magazine / Park Aerospace / Tulsa International Airport
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Quality Magazine reports Park Aerospace selected Tulsa International Airport's North Development Area
+    for an aerospace composites manufacturing expansion serving commercial aerospace and defense applications; cited
+    specifics include about USD 65 million of investment, an 18-acre airport site, construction expected to begin
+    soon, completion anticipated in 2028, more than 100 jobs when operational, selection announced with the State
+    of Oklahoma during the Farnborough International Airshow, and fit within Tulsa International Airport's aerospace
+    campus that also added Agile Space propulsion testing and manufacturing, Quantum Space spacecraft manufacturing,
+    and Lufthansa Technik Component Services growth during 2026.
+  url: https://www.qualitymag.com/articles/99769-park-aerospace-chooses-tulsa-international-airport-for-new-advanced-composite-materials-facility
+- date: '2026-07-23'
+  title: Bruker Alicona microCMM Neo combines four optical measurement modes for dense 3D inspection data
+  source: MTDCNC / Bruker Alicona
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: MTDCNC reports Bruker Alicona introduced the microCMM Neo optical coordinate measuring machine for manufacturers
+    needing non-contact dimensional inspection, form analysis, positional measurement, and surface characterization
+    without moving parts between instruments; cited specifics include dense complete-geometry 3D data capture within
+    seconds instead of selected tactile probe points, integration of advanced focus variation, vertical focus probing,
+    focus probing, and Real3D measurement technology in one platform, a five-axis kinematic system intended to maintain
+    precision across the measuring volume, and relevance to micro-scale features in medical technology, aerospace,
+    electronics, precision engineering, and semiconductor manufacturing.
+  url: https://mtdcnc.com/news/mtdcnc/bruker-alicona-introduces-%CE%BCcmm-neo-optical-cmm-for-high-precision-3d-measurement-and-multi-technology-inspection/
 - date: '2026-07-22'
   title: Digital Metrology TraceBossPro adds configurable ISO 21920 and ASME surface-texture setups for production roughness checks
   source: Quality Magazine / Digital Metrology Solutions
