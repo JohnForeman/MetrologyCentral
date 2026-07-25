@@ -1,3 +1,27 @@
+- date: '2026-07-24'
+  title: IMTS quality preview highlights Lumafield CT at 10x-15x speed boost, Zeiss 4K/60 fps optics, and Keyence AI programming
+  source: SME / Advanced Manufacturing / Keyence / Zeiss / Lumafield
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    Advanced Manufacturing previewed IMTS 2026 Quality Assurance Pavilion launches and demonstrations focused on prevention-oriented inspection rather than post-process sorting; cited specifics include Keyence IM-X1000 instant measurement with Smart Assist that imports a drawing or file and automatically adjusts focus, lighting, and edge extraction, Zeiss ScanPort semi-automated 3D scanning for small- to medium-sized parts, Zeiss ScanBox Series 4 automated 3D scanning cell, Zeiss Smartzoom 100 digital microscope with 4K live images at 60 fps and automatic focus, Spectrum CMMs combining tactile and optical scanning, Lumafield Neptune Performance and Triton Performance industrial X-ray CT with NIST-traceable calibration, reported CT speed boosts of 10x to 15x depending on application, a Lumafield Cost of Quality benchmark that more than 40% of North American manufacturers spend over 5% of revenue on quality-related costs, Mars as a 100% inline scanner for hundreds of parts per minute, and Saturn for parts as large as a 50-gallon oil drum.
+  url: https://www.advancedmanufacturing.org/news-desk/events/imts/imts-2026-quality-assurance-emphasizes-prevention/article_8b663d25-6c37-43fd-9174-b9b1249de241.html
+- date: '2026-07-24'
+  title: Wistron opens USD 700M Fort Worth AI-systems plant with Nvidia GB300 production and AI quality-inspection stack
+  source: Manufacturing Dive / Wistron / Nvidia
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports Wistron opened its first U.S. manufacturing plant in Fort Worth, Texas, to assemble and test Nvidia AI systems, making it a quantified electronics-manufacturing and factory-digitalization signal rather than a generic AI announcement; cited specifics include USD 700 million investment, a 324000-square-foot facility, 500 jobs already created with plans for 1000 by year-end, production of Nvidia GB300 Grace Blackwell Ultra Superchips with Vera Rubin Superchip production planned, use of Nvidia accelerated computing, Nemotron and Cosmos models, Omniverse and Metropolis libraries, digital-twin technology to optimize factory design and workflows, and related Wistron deployments of Nvidia Cosmos open world foundation models for AI-driven quality inspection on production lines.
+  url: https://www.manufacturingdive.com/news/wistron-opens-advanced-manufacturing-plant-nvidia-ai-systems/826042/
+- date: '2026-07-24'
+  title: Electra plans USD 850M Ohio hybrid-electric aircraft plant with 400-aircraft initial annual capacity
+  source: Manufacturing Dive / Electra / JobsOhio
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports Electra will build its first U.S. manufacturing plant in Springfield, Ohio, adding another measurable aerospace-manufacturing signal from Farnborough alongside supplier and defense-production investments already tracked this week; cited specifics include USD 850 million investment, a 96-acre Airpark Ohio site near Springfield-Beckley Municipal Airport, 1975 planned jobs, design work beginning immediately, construction planned for 2027, initial annual capacity up to 400 nine-passenger EL9 Ultra Short hybrid-electric aircraft, FAA certification work for aircraft carrying 19 passengers or fewer ahead of first flight expected in late 2027 or early 2028, proximity to the National Advanced Air Mobility Center of Excellence and SkyVision systems, and a July 15 Safran agreement for the TG600 turbogenerator with an initial order for 250 units.
+  url: https://www.manufacturingdive.com/news/electra-beehive-ohio-gkn-rtx-doncasters-farnborough-air-show-2026/826082/
 - date: '2026-07-23'
   title: NIST MEP funding opportunity targets 14 centers with 50% cost share for advanced-manufacturing adoption
   source: NIST / U.S. Department of Commerce
