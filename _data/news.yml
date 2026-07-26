@@ -75,6 +75,14 @@
     precision across the measuring volume, and relevance to micro-scale features in medical technology, aerospace,
     electronics, precision engineering, and semiconductor manufacturing.
   url: https://mtdcnc.com/news/mtdcnc/bruker-alicona-introduces-%CE%BCcmm-neo-optical-cmm-for-high-precision-3d-measurement-and-multi-technology-inspection/
+- date: '2026-07-23'
+  title: MISTRAS LA aerospace lab adds automated UT, CMM inspection, and 3-ton machining capacity
+  source: MISTRAS Group
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    MISTRAS Group announced expanded Los Angeles aerospace and defense lab capabilities aimed at inspection and production bottlenecks for commercial and military aerospace components; cited specifics include welding, grinding, and rework services, two CNC machines and vertical turning centers capable of running parts up to 3 tons, automated ultrasonic testing systems for plate and bar inspection, coordinate measuring machine dimensional inspection, existing radiographic testing, automated ultrasonic testing, plate UT, composites UT, magnetic-particle testing, penetrant testing, chemical processing including etch and passivation, NADCAP accreditation for NDT and chemical processing, ITAR compliance, expected NADCAP welding accreditation, and planned upgrades to additional facilities after the Houston lab expansion already tracked in June.
+  url: https://www.mistrasgroup.com/resources/newsroom/2026/07/23/mistras-group-continues-strategic-investments-aerospace-defense/
 - date: '2026-07-22'
   title: Digital Metrology TraceBossPro adds configurable ISO 21920 and ASME surface-texture setups for production roughness checks
   source: Quality Magazine / Digital Metrology Solutions
@@ -89,6 +97,22 @@
   kind: hardware_news
   summary: Quality Magazine reports Mettler Toledo introduced the X56 DXD+ dual-energy photon-counting X-ray inspection system for packaged food and complex product formats where single-energy systems struggle with low-density contaminants; cited specifics include DXD+ detector technology, Advanced Material Discrimination Pro software, AI-assisted inspection to reduce unnecessary rejects, detection of rubber and plastic contaminants in variable-density or overlapping products such as multipacks and bags, 500 mm system width, single- or multi-lane configurations, throughput up to 500 products per minute, completeness checks, clip detection, trapped-in-seal inspection, toolless belt removal, hygienic design, image-database traceability, ProdX integration, real-time monitoring, and common network-protocol support.
   url: https://www.qualitymag.com/articles/99763-mettler-toledo-x56-dxd-dual-energy-photon-counting-x-ray-system
+- date: '2026-07-21'
+  title: Metrolog V25 adds CAD-free CMM programming, AI help, Revo/PH20 groundwork, and blade-section compensation
+  source: Metrologic DCS
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Metrologic DCS released Metrolog V25 as a production metrology software update focused on CMM programming, inspection digital twins, and scanner compatibility; cited specifics include CAD-free programming by probing nominal values directly, a clearance mode for collision-free trajectories, an AI chat assistant inside Planner, Silma, and Metrolog, real-time head-axis position tracking through the UCC server, Clearance Box support with I++, DMIS management of SNSLCT and HEADCS, path-planning extension to additional heads as groundwork for Revo and PH20 use cases, native manual scanning with Scanology tracked and handheld devices, Creaform API support for Handyscan Evo, confocal-sensor support on ESPI CMMs, 3D Envelope ball compensation using two or three measured sections for thin blade measurements, Proj On CAD projection options, flow-direction handling for leading-edge and trailing-edge calculations, and Threshold or Canny sub-pixel algorithms for point-cloud generation from image data.
+  url: https://www.metrologicdcs.com/new-metrolog-v25-release-faster-simpler-more-reliable-quality-control/
+- date: '2026-07-21'
+  title: Sonaca automated CMM cell reports 3x faster aerospace inspection and tenfold precision gain
+  source: Metrologic DCS / Sonaca Group
+  sector: aerospace_defense_manufacturing
+  kind: case_study
+  summary: >-
+    Metrologic DCS published a Sonaca Group case study on moving aerospace part inspection into a fully automated 3D CMM cell with offline programming and simulation; cited specifics include a stated 3x faster aerospace-part measurement result, a measuring unit intended to run safely 24/7, Silma offline programming and simulation to optimize measurement paths while freeing machine time, secured programs executed through Metrolog, direct CMM linkage to SAP, barcode-driven operator loading and automatic program execution, serial 3D measurement by production teams at the line, a reported tenfold precision improvement versus the previous process, automated anomaly detection and alarms, and shortened correction loops for machining deviations.
+  url: https://www.metrologicdcs.com/customers/sonaca-group-automated-3d-inspection-cmm-aerospace/
 - date: '2026-07-20'
   title: AMRC opens GBP 54M COMPASS facility with 2400-tonne RTM press and five-robot aerospace composites cell
   source: Metrology News / AMRC / Boeing
@@ -754,6 +778,14 @@
     intensifies in software, analytics, hybrid metrology, and application-specific process-control segments, giving metrology-equipment
     manufacturers a current market-sizing and growth-trajectory reference.
   url: https://www.electronicsweekly.com/news/business/metrology-and-inspection-equipment-market-tops-18bn-2026-06/
+- date: '2026-06-10'
+  title: Nature Communications study measures lithium-ion battery electrode thickness to 7.8 nm with THz-comb metrology
+  source: Nature Communications / KAIST
+  sector: ev_manufacturing
+  kind: standards_method
+  summary: >-
+    Nature Communications published KAIST-led research on calibration-free, non-destructive lithium-ion battery electrode metrology using terahertz Fabry-Perot interferometry referenced to a photonic frequency comb; cited specifics include SI-traceable frequency accuracy, sub-10 MHz Fabry-Perot mode detection at sweep rates above 12 THz/s, simultaneous complex-refractive-index measurement, 50 um to 150 um electrode thickness coverage, 70.1 nm anode and 465.5 nm cathode precision at 0.2 s measurement time, 7.8 nm anode and 25.2 nm cathode precision at 25.6 s, one-to-two orders of magnitude improvement over temporal-analysis methods, support for 3D profiling and dynamic thickness monitoring, and relevance to inline quality control for lithium-ion and solid-state battery production.
+  url: https://www.nature.com/articles/s41467-026-74193-8
 - date: '2026-06-01'
   title: ISM May 2026 Manufacturing PMI reaches 54%, highest since May 2022, with orders and production expanding
   source: Institute for Supply Management / PRNewswire
