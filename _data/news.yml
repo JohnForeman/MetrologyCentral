@@ -1,3 +1,11 @@
+- date: '2026-07-27'
+  title: NVIDIA Agent Toolkit adds PhysicsNeMo and CUDA-X for agentic chip and engineering simulation workflows
+  source: Advanced Manufacturing / NVIDIA / Cadence / Synopsys / Siemens
+  sector: industrial_manufacturing
+  kind: software_news
+  summary: >-
+    Advanced Manufacturing reports NVIDIA expanded Agent Toolkit for engineering with PhysicsNeMo and CUDA-X libraries, making it a semiconductor-design and industrial-simulation workflow signal rather than generic AI tooling; cited specifics include PhysicsNeMo libraries exposed as AI physics skills, new cuISS iterative sparse solvers, cuDSS direct sparse solvers, cuEST quantum-chemistry capability, Nemotron 3 Ultra leading open models on NVIDIA's comprehensive Verilog design-problems benchmark for agentic RTL coding, Cadence reporting up to 20x faster multiphysics performance, Siemens reporting more than 10x faster library characterization with more than 10x lower token costs, Samsung applying PhysicsNeMo to chip-scale thermal-stress analysis across domains up to 10 billion cells, Silvaco completing a 3.2-billion-mesh-node photonic edge-coupler simulation in under four hours on 32 NVIDIA GPUs, Keysight reporting up to 10x electromagnetic-simulation acceleration, and cuEST integrations targeting up to 50x speedups for quantum-chemistry workloads.
+  url: https://www.advancedmanufacturing.org/news-desk/nvidia-expands-agent-toolkit-with-physicsnemo-cuda-x/article_049923ef-cfc5-4f84-bf58-66bd853c420f.html
 - date: '2026-07-25'
   title: Phillips Federal adds 12 hybrid and 12 composite AM systems to Navy Danville training pipeline
   source: Advanced Manufacturing / Phillips Federal / U.S. Navy
