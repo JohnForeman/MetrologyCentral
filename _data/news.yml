@@ -1,3 +1,11 @@
+- date: '2026-07-28'
+  title: L3Harris seven-year PAC-3 and THAAD agreements tie missile ramp to automated X-ray inspection capacity
+  source: Manufacturing Dive / L3Harris / Department of War / Lockheed Martin
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports L3Harris signed two seven-year framework agreements with the Department of War and Lockheed Martin to expand propulsion production for Patriot PAC-3 MSE and THAAD missile systems, making it a quantified defense-manufacturing capacity signal rather than generic contract news; cited specifics include nearly tripling PAC-3 MSE propulsion-product output, quadrupling THAAD propulsion production, PAC-3 work covering the two-pulse solid rocket motor, Attitude Control Motors, and Lethality Enhancer, THAAD work covering Solid Rocket Boost Motors and Liquid Divert and Attitude Control Systems, production across Camden, Arkansas, Huntsville, Alabama, and Los Angeles, automated digital X-ray equipment at the Camden PAC-3 motor facility that has lowered inspection and cycle times, about 60 facilities being constructed or upgraded, nearly 1 million square feet of manufacturing and office space being added or upgraded across Alabama, Virginia, and Arkansas solid-rocket-motor sites, and a related June Camden expansion adding AI-enabled automated X-ray inspection for defect detection.
+  url: https://www.manufacturingdive.com/news/l3harris-lockheed-defense-dod-war-pac-3-thaad-quadruple-production/826294/
 - date: '2026-07-27'
   title: NVIDIA Agent Toolkit adds PhysicsNeMo and CUDA-X for agentic chip and engineering simulation workflows
   source: Advanced Manufacturing / NVIDIA / Cadence / Synopsys / Siemens
