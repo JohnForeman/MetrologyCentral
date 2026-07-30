@@ -6,6 +6,22 @@
   summary: >-
     Manufacturing Dive reports L3Harris signed two seven-year framework agreements with the Department of War and Lockheed Martin to expand propulsion production for Patriot PAC-3 MSE and THAAD missile systems, making it a quantified defense-manufacturing capacity signal rather than generic contract news; cited specifics include nearly tripling PAC-3 MSE propulsion-product output, quadrupling THAAD propulsion production, PAC-3 work covering the two-pulse solid rocket motor, Attitude Control Motors, and Lethality Enhancer, THAAD work covering Solid Rocket Boost Motors and Liquid Divert and Attitude Control Systems, production across Camden, Arkansas, Huntsville, Alabama, and Los Angeles, automated digital X-ray equipment at the Camden PAC-3 motor facility that has lowered inspection and cycle times, about 60 facilities being constructed or upgraded, nearly 1 million square feet of manufacturing and office space being added or upgraded across Alabama, Virginia, and Arkansas solid-rocket-motor sites, and a related June Camden expansion adding AI-enabled automated X-ray inspection for defect detection.
   url: https://www.manufacturingdive.com/news/l3harris-lockheed-defense-dod-war-pac-3-thaad-quadruple-production/826294/
+- date: '2026-07-28'
+  title: RoboCT scales robot-assisted industrial CT to 30 m components using software calibration
+  source: Metrology News / X-RAYLAB / Fraunhofer EZRT
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports X-RAYLAB's RoboCT moves high-resolution computed tomography for large components out of fixed lab systems by using industrial robots to position the X-ray source and detector, with patented software algorithms compensating robot positioning errors during acquisition and reconstruction; cited specifics include a standard tube-robot, detector-robot, and X-ray-booth turnkey system, geometric calibration, 3D CT reconstruction, 2D radiography and 3D visualization software, optional rotary-table and multi-robot configurations, a minimum footprint of about 5 m x 6 m x 3 m supporting objects up to 5 m x 3 m x 3 m, scale-up to about 30 m x 10 m x 5 m for components up to 30 m long and 6 m wide, and relevance to full vehicles, aircraft structures, energy-storage systems, aerospace, automotive, energy, and heavy industrial NDT.
+  url: https://metrology.news/roboct-brings-large-scale-computed-tomography-out-of-the-lab/
+- date: '2026-07-28'
+  title: MICRONITE paper flags configuration-dependent CMM bias with more than 5x variation across probe setups
+  source: Metrology News / Expert Manufacturing Systems / MICRONITE
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    Metrology News reports Dr. Stephen Birman's MICRONITE framework argues that conventional Gage R&R and repeatability checks can miss configuration-dependent CMM bias in multi-machine production environments; cited specifics include controlled sphere studies and production-part investigations across six production CMMs and five probe locations, some probe configurations producing more than five times the variation observed in others despite calibrated machines, decomposition of measurement error into configuration-dependent calibration error, inter-CMM systematic bias, reference-related bias, and production-phase measurement error, a proposed Minimum Measurable Tolerance concept for deciding whether a CMM setup can support a tolerance band, and linkage of dimensional data to cutting tools, machining operations, corrective actions, and process outcomes for closed-loop process control.
+  url: https://metrology.news/micronite-aims-to-redefine-the-role-of-cmm-metrology-for-proactive-process-control/
 - date: '2026-07-27'
   title: NVIDIA Agent Toolkit adds PhysicsNeMo and CUDA-X for agentic chip and engineering simulation workflows
   source: Advanced Manufacturing / NVIDIA / Cadence / Synopsys / Siemens
@@ -14,6 +30,14 @@
   summary: >-
     Advanced Manufacturing reports NVIDIA expanded Agent Toolkit for engineering with PhysicsNeMo and CUDA-X libraries, making it a semiconductor-design and industrial-simulation workflow signal rather than generic AI tooling; cited specifics include PhysicsNeMo libraries exposed as AI physics skills, new cuISS iterative sparse solvers, cuDSS direct sparse solvers, cuEST quantum-chemistry capability, Nemotron 3 Ultra leading open models on NVIDIA's comprehensive Verilog design-problems benchmark for agentic RTL coding, Cadence reporting up to 20x faster multiphysics performance, Siemens reporting more than 10x faster library characterization with more than 10x lower token costs, Samsung applying PhysicsNeMo to chip-scale thermal-stress analysis across domains up to 10 billion cells, Silvaco completing a 3.2-billion-mesh-node photonic edge-coupler simulation in under four hours on 32 NVIDIA GPUs, Keysight reporting up to 10x electromagnetic-simulation acceleration, and cuEST integrations targeting up to 50x speedups for quantum-chemistry workloads.
   url: https://www.advancedmanufacturing.org/news-desk/nvidia-expands-agent-toolkit-with-physicsnemo-cuda-x/article_049923ef-cfc5-4f84-bf58-66bd853c420f.html
+- date: '2026-07-27'
+  title: Lumafield Mars brings 2.5D inline X-ray to 2.5 ft/sec conveyor-speed inspection
+  source: Metrology News / Lumafield
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Lumafield launched Mars, an inline arrayed X-ray inspection system tied to its Voyager cloud quality platform for production-line feedback rather than isolated pass/fail screening; cited specifics include inspection speeds up to 2.5 ft/s or 760 mm/s, 2D and multilinear 2.5D arrayed configurations that capture depth information in a single pass, configurable integrated-conveyor or wrap-around installation over existing conveyors, overhead or side-view source and detector configurations, compatibility with major PLCs, automated sorting and rejection options, feature-distribution tracking across production runs for drift and outlier detection, automatic routing of flagged batches to Triton Performance for full 3D CT, finished-package scanning for counterfeit or defective returns, and Lumafield's 2026 Cost of Quality Report finding 77% of manufacturers still rely on manual visual inspection.
+  url: https://metrology.news/lumafield-introduces-in-line-arrayed-x-ray-system/
 - date: '2026-07-25'
   title: Phillips Federal adds 12 hybrid and 12 composite AM systems to Navy Danville training pipeline
   source: Advanced Manufacturing / Phillips Federal / U.S. Navy
