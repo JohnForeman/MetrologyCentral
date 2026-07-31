@@ -1,3 +1,27 @@
+- date: '2026-07-31'
+  title: Fraunhofer IPM integrates HoloTop NX digital holography into Hexagon Leitz CMM for dense submicrometer surface data
+  source: Metrology News / Fraunhofer IPM / Hexagon Manufacturing Intelligence
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Fraunhofer IPM fully integrated its HoloTop NX digital holographic sensor into Hexagon's PMM-C series Leitz Infinity 12.10.7 coordinate measuring machine, making it a concrete CMM multisensor signal rather than a generic optical-inspection announcement; cited specifics include digital multi-wavelength holography for large-area surface-topography measurement, HoloTop family accuracies down to the submicrometer range, coin-sized technical surfaces measured in about one-tenth of a second with up to nine million 3D points, wireless CMM integration through Hexagon's SENMATION automated sensor-change interface, fusion of optical and tactile measurement data, a 75 mm by 75 mm test object producing more than 700 million 3D points in under two minutes versus 729 tactile CMM points in about four minutes, comparable accuracy below 1 micrometer, 120 mm working distance, and several-centimeter measurement range outside the focal plane for future optical-probe or mirror-optic approaches.
+  url: https://metrology.news/world-first-combines-digital-holography-with-coordinate-measuring-machines/
+- date: '2026-07-30'
+  title: BMW Woodruff battery plant ties Gen6 cell-to-pack launch to AI agents, 250 robots, and 100% EOL inspection
+  source: Metrology News / BMW Group
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Metrology News reports BMW Group Plant Woodruff will begin series production of Gen6 high-voltage batteries for the fully electric BMW iX5 in December 2026, making it a measurable EV-manufacturing quality signal rather than a generic plant preview; cited specifics include cell-to-pack assembly of cylindrical round cells, inline monitoring and real-time documentation across all production steps, in-house AI assistants and agents working with more than 300 employees and 250 robots, digital twins and VR training before commissioning, construction starting in September 2023, equipment installation beginning in September 2024, test and pre-series batteries running since summer 2025, Gen6 battery cells with about 28% lower CO2e emissions per watt-hour than Gen5, normal operations without fossil fuels, laser cleaning and precision welding of cell clusters and contact systems, real-time inline inspection of every weld seam, 100% end-of-line inspection for each high-voltage battery, and a 15-mile logistics link to BMW Plant Spartanburg.
+  url: https://metrology.news/bmws-smart-battery-factory-combines-ai-digital-twins-and-inline-inspection/
+- date: '2026-07-30'
+  title: Boeing Q2 update shows 737 rate recovery path, 787 engine constraint, and Mesa carbon-parts expansion
+  source: Manufacturing Dive / Boeing
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports Boeing's second-quarter recovery update with quantified production-rate and supply-chain details that matter to aerospace manufacturing capacity planning; cited specifics include USD 24.6 billion Q2 revenue, about USD 47 billion first-half 2026 revenue, USD 631 million free cash flow in the quarter, a 2026 cash-flow target of USD 1 billion to USD 3 billion, 2026 delivery goals of 500 737 aircraft and 90 to 100 787 aircraft, current 737 capacity of 47 aircraft per month with a target of 52 after the new Everett line and an ultimate goal of 57 per month, the FAA's 38-per-month 737 cap context, a planned increase in 787 production from eight to 10 per month, GE Aerospace GEnx-1B engine-delivery recovery as a gating factor for rate 10 timing, a proposed 263386-square-foot Mesa fabrication facility for specialized carbon military parts, doubling of the Mesa central utility plant, and a related USD 4.7 billion Army AH-64E Apache contract running through May 2032.
+  url: https://www.manufacturingdive.com/news/boeing-q2-earnings-2026-bca-bds-speea-arizona/826382/
 - date: '2026-07-28'
   title: L3Harris seven-year PAC-3 and THAAD agreements tie missile ramp to automated X-ray inspection capacity
   source: Manufacturing Dive / L3Harris / Department of War / Lockheed Martin
