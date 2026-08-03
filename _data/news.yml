@@ -1,4 +1,23 @@
 ---
+- date: '2026-08-03'
+  title: LK CAMIO 2026 R1 adds Renishaw REVO 5-axis support through I++/DME
+  source: Metrology News / LK Metrology
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports LK Metrology released CAMIO 2026 R1 with comprehensive
+    Renishaw REVO 5-axis scanning-probe integration, making it a direct LK-priority
+    CMM software signal rather than a generic metrology-software update; cited specifics
+    include programming and execution of REVO routines directly inside CAMIO, support
+    for sweep scanning and head-touches, motion and path optimization to reduce inspection
+    time while preserving measurement accuracy, offline programming for routine creation,
+    verification, and optimization before CMM deployment, use across bridge, horizontal-arm,
+    and gantry CMMs, continued support for touch-trigger probes, analogue scanning
+    probes, laser scanners, and REVO, plug-and-play interoperability on REVO-equipped
+    CMMs for mixed-brand fleets, and standards-based communication through I++/DME
+    over TCP/IP with CAMIO as the I++ client communicating with the UCC controller
+    server without proprietary hardware modifications.
+  url: https://metrology.news/lk-metrology-unveils-camio-2026-with-renishaw-revo-5-axis-integration/
 - date: '2026-07-31'
   title: Fraunhofer IPM integrates HoloTop NX digital holography into Hexagon Leitz
     CMM for dense submicrometer surface data
