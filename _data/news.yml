@@ -19,6 +19,22 @@
     server without proprietary hardware modifications.
   url: https://metrology.news/lk-metrology-unveils-camio-2026-with-renishaw-revo-5-axis-integration/
 - date: '2026-07-31'
+  title: Blum-Novotest LC54-Digilog targets micromachining tool measurement from 5 micrometers to 16 mm
+  source: Modern Machine Shop / Blum-Novotest
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Modern Machine Shop reports Blum-Novotest highlighted the LC54-Digilog compact
+    laser measuring system for tool measurement and monitoring in micromachining,
+    making it a measurable shopfloor inspection signal rather than a generic IMTS
+    preview; cited specifics include LaserControl Digilog functionality for tools
+    from 5 micrometers to 16 mm diameter, several thousand measured values per second,
+    dynamic adjustment of measurement speed to the nominal tool speed, individual
+    cutting-edge measurement for comparing shortest and longest cutting edges, 0.2
+    micrometer repeat accuracy, and automatic detection of concentricity errors caused
+    by contamination on the toolholder.
+  url: https://www.mmsonline.com/products/blum-novotest-laser-measuring-system-supports-micromachining-precision
+- date: '2026-07-31'
   title: Fraunhofer IPM integrates HoloTop NX digital holography into Hexagon Leitz
     CMM for dense submicrometer surface data
   source: Metrology News / Fraunhofer IPM / Hexagon Manufacturing Intelligence
