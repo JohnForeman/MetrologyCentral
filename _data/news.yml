@@ -1,4 +1,59 @@
 ---
+- date: '2026-08-05'
+  title: FARO CREAFORM MetraSCAN BLACK2 combines C-Track, stand-alone scanning, and probing for shop-floor inspection
+  source: Metrology News / FARO CREAFORM
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports FARO CREAFORM launched MetraSCAN BLACK2, making it a measurable
+    portable-CMM and shop-floor dimensional-inspection signal rather than a generic
+    scanner announcement; cited specifics include a 3-in-1 architecture covering C-Track
+    scanning, stand-alone scanning, and HandyPROBE probing in one workflow, 46 blue
+    laser lines, up to 2.8 million measurements per second, about 56% faster data
+    acquisition than the prior generation, a 46.7 m3 C-Track Flex Volume that is
+    three times larger than before, support for large-part inspection with fewer setups,
+    parallel scanning and probing, automatic shutter functionality, single-cable connectivity,
+    setup-assistance tools, and acceptance testing based on ISO 10360 and VDI/VDE
+    2634 Part 3 in ISO/IEC 17025-accredited calibration laboratories.
+  url: https://metrology.news/faro-creaform-launches-metrascan-black2-to-enhance-flexibility-for-shop-floor-shop-floor-dimensional-inspection/
+- date: '2026-08-05'
+  title: Overview AI defect studio cuts inspection-training data generation from weeks to 20 seconds per image
+  source: Metrology News / Overview
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Metrology News reports Overview launched OV Auto-Defect Creator Studio for generating
+    synthetic manufacturing defects from clean part images, making it a production-inspection
+    training-data signal rather than broad AI-vision marketing; cited specifics include
+    user-painted defect regions with sub-pixel placement, plain-language control of
+    defect type, severity, and texture, synthesis that preserves surface curvature,
+    lighting, material reflectance, and shadow geometry, style transfer of a real
+    defect from one part geometry to another, internal benchmark claims of 13.6x faster
+    training-data creation across electronics, automotive, and aerospace use cases,
+    roughly 20-second generation per synthetic image, unlimited generations with no
+    per-defect fees or quotas, 100% zoom annotation for bounding-box alignment, and
+    camera-native output presets for OV10i, OV20i, and OV80i systems.
+  url: https://metrology.news/overview-unveils-generative-ai-studio-to-accelerate-ai-vision-training/
+- date: '2026-08-05'
+  title: MP Materials Project Swarm reserves rare-earth magnet capacity for up to 2M drones per year
+  source: Manufacturing Dive / MP Materials / Department of Defense
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports MP Materials launched Project Swarm to reserve domestic
+    rare-earth magnet production capacity for drone and motor manufacturers, making
+    it a quantified defense-manufacturing supply-chain signal rather than generic
+    critical-minerals coverage; cited specifics include reservations at MP's upcoming
+    USD 1.3 billion 10X magnet facility in Northlake, Texas, development with the
+    Department of Defense, non-binding capacity reservations while manufacturers refine
+    requirements, capacity for up to 2 million drones per year for domestic or allied
+    manufacturers, startup tied to 10X plant operations in 2028, vertical integration
+    from MP's Mountain Pass, California rare-earth mine and processing site through
+    Fort Worth and Northlake rare-earth metals, alloys, and NdFeB magnet production,
+    2021 China share of 75% of U.S. sintered NdFeB magnet imports versus 60% in 2016,
+    and the related China export-control context for drones, components, and related
+    technologies.
+  url: https://www.manufacturingdive.com/news/mp-materials-critical-minerals-initiative-project-swarm-james-litinsky/827021/
 - date: '2026-08-04'
   title: PDW lands USD 820M DOD loan commitment to scale domestic drone component
     production
