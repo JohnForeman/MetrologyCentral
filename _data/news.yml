@@ -1,4 +1,25 @@
 ---
+- date: '2026-08-06'
+  title: Hadrian raises USD 1.37B to scale AI-powered defense manufacturing factories and workforce
+  source: Manufacturing Dive / Hadrian
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Manufacturing Dive reports Hadrian raised USD 1.37 billion in Series D equity financing at an approximately USD 7.9 billion valuation, making it a quantified defense-manufacturing capacity signal rather than broad AI-factory hype; cited specifics include expansion from 700 to 2000 employees over the next year, plans for three more AI-powered U.S. factories, continued buildout of research and development and production capabilities, an Opus software platform used in a factories-as-a-service model, technician training targeted at 30 days or less, a USD 200 million Mesa, Arizona Factory 3 opened in January, a USD 2.4 billion Cherokee, Alabama submarine-program facility partly funded by the U.S. Navy, an Army automation-manufacturing contract valued up to USD 80 million with a Texarkana, Texas facility phase, and Lockheed Martin deployment for PAC-3 MSE and THAAD-related parts production.
+  url: https://www.manufacturingdive.com/news/hadrian-automation-1-4b-funding-manufacturing-workforce-growth/827136/
+- date: '2026-08-06'
+  title: Steris commits USD 600M to North Carolina formulated-chemistries manufacturing hub
+  source: Manufacturing Dive / Steris / North Carolina Department of Commerce
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: Manufacturing Dive reports Steris will invest USD 600 million to build a formulated-chemistries manufacturing and distribution hub in Sanford, North Carolina, making it a quantified medical and pharmaceutical manufacturing capacity signal rather than generic reshoring coverage; cited specifics include relocating existing operations from St. Louis and Plymouth, Minnesota, a planned 600000-square-foot campus, 335 new jobs, operations expected in two to three years, the company's largest single-site investment, a state Job Development Investment Grant allowing up to USD 3.2 million reimbursement over 12 years, advanced manufacturing, R&D, lab, warehouse, and distribution operations, average salary of USD 68704, more than USD 23 million expected annual payroll impact, and a projected 325% public-dollar return on investment.
+  url: https://www.manufacturingdive.com/news/steris-invest-600m-sanford-north-carolina-manufacturing-hub/827205/
+- date: '2026-08-06'
+  title: IDS rugged uEye FA GigE cameras add 2 to 12.5 MP STARVIS 2 sensors for harsh-environment inspection
+  source: Metrology News / IDS Imaging Development Systems
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports IDS Imaging Development Systems expanded its uEye FA rugged GigE Vision camera series for factory automation and quality inspection, making it a practical machine-vision hardware signal rather than a generic camera announcement; cited specifics include IP69K protection for high-pressure washdown, dust, and heavy-contamination environments, operation down to minus 20 C, added 2 MP, 4 MP, 5 MP, 8 MP, and 12.5 MP Sony STARVIS 2 sensor variants, GigE Vision compliance for integration into existing industrial systems, near-infrared sensitivity, low-noise imaging, Clear HDR for expanded dynamic range, asynchronous exposure trigger support, protected housing, lens tube, and cabling, and intended use across manufacturing automation and inspection tasks with difficult lighting conditions.
+  url: https://metrology.news/ids-introduces-next-generation-rugged-gige-vision-cameras-for-factory-automation/
 - date: '2026-08-05'
   title: FARO CREAFORM MetraSCAN BLACK2 combines C-Track, stand-alone scanning, and probing for shop-floor inspection
   source: Metrology News / FARO CREAFORM
