@@ -1,4 +1,81 @@
 ---
+- date: '2026-08-13'
+  title: SEMI sees testing and metrology as a new front in the AI chip race with test equipment up 31% to USD 15.3B in 2026
+  source: EE Times Asia / SEMI
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    EE Times Asia reports SEMI convened its first Semiconductor Testing and Metrology in the AI Era press conference and
+    survey of the semiconductor value chain, framing testing and metrology as a strategic determinant of yield, cost, and
+    time-to-volume as AI chips rise in value and complexity; cited specifics include SEMI forecasting global semiconductor
+    equipment sales to rise from USD 135 billion in 2025 to nearly USD 230 billion by 2028, test equipment surging 31% in 2026
+    to USD 15.3 billion and reaching USD 20.8 billion by 2028, Taiwan metrology industry output hitting a record NT 193.6 billion
+    in 2025 with the first five months of 2026 up 32.8% year over year, more than 90% of survey respondents expecting AI-related
+    test and metrology business to grow over three years, advanced packaging test for CoWoS and SoIC plus silicon-photonics
+    optoelectronic measurement ranked as top technology priorities, about half of respondents wanting testing integrated earlier
+    into DFT and DFM, and more than 60% ranking talent as the top industry challenge with optical metrology and cross-disciplinary
+    integration among the hardest roles to fill.
+  url: https://www.eetasia.com/testing-and-metrology-emerge-as-a-new-front-in-the-ai-race/
+- date: '2026-08-11'
+  title: AMT June 2026 manufacturing technology orders reach USD 672.7M as first-half orders set record
+  source: Quality Magazine / AMT
+  sector: industrial_manufacturing
+  kind: industry_news
+  summary: >-
+    Quality Magazine reports AMT's U.S. Manufacturing Technology Orders totaled USD 672.7 million in June 2026, up 15.6%
+    from May and 56.8% from June 2025, with first-half 2026 orders of USD 3.44 billion up 36.0% year over year and the strongest
+    half-year by value since USMTO data collection began in 1998; cited specifics include unit counts 2.6% lower than the second
+    half of 2025 as customers add automation, contract machine shops posting their highest first-half value since 1998, the
+    aerospace sector ordering the most machinery in the first half of 2026 on record in both value and units with value nearly
+    one-third higher than the latter half of 2025, engines, turbines, and power-transmission manufacturers accelerating orders in
+    response to AI-infrastructure energy demand with June 2026 orders more than double the monthly average since January 2000, a
+    Europe-and-Iran-war and tariff context, and an Oxford Economics forecast of a 1.5% second-half increase bringing full-year
+    orders to nearly USD 7 billion.
+  url: https://www.qualitymag.com/articles/99826-2026-manufacturing-technology-orders-set-half-year-record
+- date: '2026-08-11'
+  title: ePropelled expands domestic drone-propulsion manufacturing footprint 4x with USD 60M DoD funding
+  source: ePropelled / Department of War
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    ePropelled announced a major expansion of its Laconia, New Hampshire manufacturing operations supported by USD 60 million
+    in government funding through the Department of War's Industrial Base Analysis and Sustainment program, making it a
+    quantified U.S. drone-propulsion supply-chain signal rather than a generic defense expansion; cited specifics include the
+    production footprint growing from 20,000 to 80,000 square feet, propulsion-system production capacity rising more than 4x,
+    coverage of motors, electronic speed controllers, and complete propulsion systems, added automated production lines, precision
+    motor manufacturing, controller assembly, automated testing, and integrated quality assurance, dual-use products for government
+    and commercial programs, over 40 patents across 13 categories, and relevance to uncrewed aircraft, aerospace, defense, and
+    commercial applications.
+  url: https://epropelled.com/blogs/press-releases/epropelled-to-increase-manufacturing-footprint-with-60-million-in-u-s-government-funding-to-strengthen-u-s-drone-propulsion-supply-chain
+- date: '2026-08-08'
+  title: WENZEL expands portfolio with PMS multisensor bridge CMMs from Dr. Heinrich Schneider
+  source: Metrology News / WENZEL
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports WENZEL Group added the PMS series from Dr. Heinrich Schneider Messtechnik to its sales program,
+    expanding its industrial-metrology portfolio with high-precision 3D multisensor bridge measuring machines, making it a
+    concrete optical-and-tactile CMM ecosystem signal rather than a generic partnership announcement; cited specifics include the
+    PMS 400, PMS 500, PMS 600, and PMS 700 plus air-bearing Long Length versions PMS 500 LL, PMS 700 LL, PMS 900 LL, and PMS 1200
+    LL, workpieces up to 1,200 mm in length, combining optical and tactile measurement on one platform, modular precision-granite
+    construction suited to both climate-controlled labs and production environments, and integration with WENZEL's WM Quartis
+    metrology software and global sales and service network.
+  url: https://metrology.news/wenzel-expands-portfolio-with-pms-multisensor-measuring-machines-from-dr-heinrich-schneider/
+- date: '2026-08-07'
+  title: Aberlink Horizon CMM with SP25M supports FeTu sub-10 micron turbine component inspection
+  source: Metrology News / Aberlink / FeTu
+  sector: scientific_metrology
+  kind: case_study
+  summary: >-
+    Metrology News reports UK turbine developer FeTu is using an Aberlink Horizon CNC CMM fitted with a Renishaw SP25M tactile
+    scanning probe for R&D inspection of its novel positive-displacement low-velocity turbine, making it a concrete tight-tolerance
+    CMM and dense-scanning signal rather than generic case-study coverage; cited specifics include component profile tolerances down
+    to sub-10 micron levels, Aberlink's most accurate 1.5 micron base-specification CMM configuration, SP25M dense tactile scanning to
+    characterize surfaces without losing accuracy margin, Aberlink 3D graphical reporting for immediate visual feedback when trialling
+    machining methods or adjusting tool offsets, two-moving-part turbine architecture validated with the University of Bath, the
+    Manufacturing Technology Centre, and Innovate UK, and applications across power generation, pumping, compression, expansion, and
+    thermal propulsion.
+  url: https://metrology.news/aberlink-cmm-supports-fetus-next-generation-turbine-development/
 - date: '2026-08-06'
   title: Hadrian raises USD 1.37B to scale AI-powered defense manufacturing factories and workforce
   source: Manufacturing Dive / Hadrian
