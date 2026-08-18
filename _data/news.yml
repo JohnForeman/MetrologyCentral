@@ -1,4 +1,36 @@
 ---
+- date: '2026-08-17'
+  title: Artec Point II handheld laser scanner doubles data capture to 5.8M points/s with certified 0.02 mm accuracy
+  source: Metrology News / Artec 3D
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Artec 3D introduced Artec Point II, the successor to its target-based handheld laser scanner,
+    doubling capture speed while keeping the certified accuracy that established the original Point as a portable-metrology
+    tool, making it a measurable shop-floor dimensional-inspection and reverse-engineering signal rather than a generic
+    scanner announcement; cited specifics include data capture up to 5.8 million points per second, more than double the
+    original, 0.02 mm certified accuracy, an expanded laser configuration with 54 laser lines in ultra-fast scanning and
+    17 parallel lines in hyperfine mode, three switchable modes covering ultra-fast capture, hyperfine parallel scanning,
+    and single-laser scanning of deep holes and hard-to-reach features, scanning from small components to large assemblies,
+    accuracy and repeatability verified in an ISO-certified lab with VDI/VDE 2634 and JJF 1951 compliance, palm-sized
+    one-handed operation, IP50 dust protection, a -10 to 40 C operating range, and integration with Artec Studio for
+    reverse-engineering and quality-inspection workflows.
+  url: https://metrology.news/new-artec-point-ii-combines-faster-data-capture-with-certified-metrology-accuracy/
+- date: '2026-08-17'
+  title: SICK adds AI-powered 3D machine vision to Nova platform for on-device inspection model training
+  source: Metrology News / SICK
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Metrology News reports SICK extended its Nova machine vision platform with AI-powered 3D inspection that combines deep
+    learning with precise height-data analysis, delivering configurable quality control for industrial manufacturing without
+    specialist programming expertise or additional computing hardware, making it a practical AI-inspection signal rather
+    than generic machine-vision marketing; cited specifics include example-based model training using representative good
+    and defective parts with training performed directly on the inspection device, AI combined with metrology-grade 3D height
+    information to identify subtle surface defects, assembly errors, and dimensional anomalies while reducing false rejects,
+    a configurable software architecture for custom inspection workflows, and applicability across automotive, battery,
+    electronics, logistics, and consumer-goods production.
+  url: https://metrology.news/sick-brings-ai-powered-3d-machine-vision-to-industrial-inspection-with-nova/
 - date: '2026-08-13'
   title: SEMI sees testing and metrology as a new front in the AI chip race with test equipment up 31% to USD 15.3B in 2026
   source: EE Times Asia / SEMI
