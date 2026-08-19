@@ -1,4 +1,20 @@
 ---
+- date: '2026-08-18'
+  title: Raytheon wins USD 22.9B seven-year Navy contract to ramp Tomahawk missile production
+  source: Manufacturing Dive / RTX / U.S. Navy
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports the U.S. Navy awarded RTX subsidiary Raytheon a USD 22.9 billion seven-year contract
+    to accelerate Tomahawk missile production, making it a quantified defense-manufacturing capacity and supply-chain
+    signal rather than a generic contract notice; cited specifics include funds directed to workforce expansion, faster
+    missile output, and supply-chain stabilization, support for Raytheon's established rate of more than 1,000 Tomahawks
+    per year, RTX reporting three times more Tomahawk deliveries in the first half of 2026 versus the same period in
+    2025, a January USD 380.8 million recertification and upgrade award with most work at the Tucson, Arizona facility,
+    related RTX and Boeing agreements to accelerate SM-3 Block IIA and IIB component manufacturing, and work with small
+    and midsized U.S. suppliers to scale output; the Department of Defense did not disclose where the new production
+    work will be completed.
+  url: https://www.manufacturingdive.com/news/us-navy-raytheon-23b-contract-rtx-tomahawk-missile-production/828047/
 - date: '2026-08-17'
   title: Artec Point II handheld laser scanner doubles data capture to 5.8M points/s with certified 0.02 mm accuracy
   source: Metrology News / Artec 3D
@@ -1348,23 +1364,6 @@
     semiconductor, automotive adhesive and sealant, logistics, and material-handling
     inspection.
   url: https://metrology.news/data-driven-quality-keyences-vs-g-series-implements-100-visual-traceability/
-- date: '2026-07-02'
-  title: Hexagon VGSTUDIO MAX 2026.2 cuts CT metrology setup time up to 50% with multi-part
-    measurement synchronization
-  source: Hexagon / Design Solutions
-  sector: quality_software
-  kind: vendor_release
-  summary: Design Solutions reports Hexagon Manufacturing Intelligence released VGSTUDIO
-    MAX 2026.2 with a multi-part coordinate-measurement workflow for high-volume CT
-    inspection; cited capabilities include loading entire CT scan batches into one
-    project, defining measurements once, automatic synchronization of CM objects across
-    parts, single-scene batch management, cross-part deviation analysis, integrated
-    CM overview and reporting with quality-control charts and SPC values, up to 50%
-    lower inspection-preparation and project-creation time, ISO 5459:2024 datum-fit
-    compliance, ASTM E57 point-cloud support, faster porosity and inclusion analysis,
-    and a five-edition NextGen portfolio for aerospace, automotive, medical-device,
-    electronics, casting, material-science, and battery workflows.
-  url: https://designsolutionsmag.co.uk/hexagon-manufacturing-vgstudio/
 - date: '2026-07-01'
   title: Phase3D raises USD 2.9M to scale structured-light in-situ inspection for
     metal additive manufacturing
