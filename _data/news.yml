@@ -15,6 +15,28 @@
     and midsized U.S. suppliers to scale output; the Department of Defense did not disclose where the new production
     work will be completed.
   url: https://www.manufacturingdive.com/news/us-navy-raytheon-23b-contract-rtx-tomahawk-missile-production/828047/
+- date: '2026-08-18'
+  title: NASA Marshall and Phase3D launch born-qualified AM program capturing 50,000+ in-situ build layers
+  source: Metrology News / NASA Marshall Space Flight Center / Phase3D
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    Metrology News reports NASA Marshall Space Flight Center selected Phase3D to demonstrate a born-qualified metal
+    additive-manufacturing approach on a production-scale EOS M300-4 quad-laser system, making it a quantified
+    in-situ-inspection and qualification signal rather than generic AM coverage; cited specifics include NASA estimates
+    that qualifying a single metal AM part for spaceflight can take more than 18 months with industry rejection rates as
+    high as 30 percent for some applications, Phase3D Fringe Inspection projecting structured green light across the build
+    surface to capture calibrated 3D height measurements after each powder-layer deposition and laser exposure and flag
+    powder-spreading irregularities, recoater-blade interactions, layer shifts, melt-pool abnormalities, spatter
+    accumulation, delamination, and unexpected surface-height variation, Fringe Qualification unifying build data into
+    traceable qualification workflows across machines, sites, and programs, work alongside a confidential U.S. aerospace
+    prime and space-propulsion manufacturer on topology-optimized Invar 36 brackets representative of structural
+    spaceflight components, capture of more than 50,000 individual build layers as one of the largest in-situ datasets
+    assembled for production-scale qualification research, correlation of layer-wise measurements with post-build CT
+    scanning to define quantitative go/no-go thresholds, and alignment with NASA Civil Space Shortfalls 1490-1494 plus
+    NASA-STD-6030, NASA-STD-6033, and SAE AMS7032.
+  url: https://metrology.news/how-nasa-is-advancing-born-qualified-additive-manufacturing-with-real-time-in-situ-inspection/
+
 - date: '2026-08-17'
   title: Artec Point II handheld laser scanner doubles data capture to 5.8M points/s with certified 0.02 mm accuracy
   source: Metrology News / Artec 3D
