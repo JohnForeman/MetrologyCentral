@@ -1,4 +1,36 @@
 ---
+- date: '2026-08-21'
+  title: Cognex reports record Q2 2026 revenue of USD 291M as AI-enabled machine vision demand broadens
+  source: Metrology News / Cognex
+  sector: quality_software
+  kind: industry_news
+  summary: >-
+    Metrology News reports Cognex posted record second-quarter 2026 revenue of USD 291 million for the quarter ended
+    July 5, 2026, up 17% from USD 249 million a year earlier, making it a quantified demand signal for AI-enabled
+    industrial machine vision and inspection rather than a generic earnings notice; cited specifics include 16% growth
+    on a constant-currency basis, operating income doubling year over year to USD 86 million with operating margin
+    rising from 17.4% to 29.4%, adjusted EBITDA up 81% to USD 94 million at a 32.2% margin, gross margin of 70.6%, net
+    income up 78% to USD 73 million, diluted earnings per share up 79% to USD 0.43, an eighth consecutive quarter of
+    both margin expansion and adjusted earnings-per-share growth, operating expenses down 3% to USD 120 million, and
+    the general availability of the OneVision cloud-to-edge AI vision platform alongside broad-based strength across
+    most major end markets.
+  url: https://metrology.news/cognex-reports-record-q2-revenue-as-ai-enabled-machine-vision-drives-growth/
+- date: '2026-08-20'
+  title: WENZEL WM Quartis R2026-2 adds ISO GPS parallelism and line-profile evaluation plus JSON feature export
+  source: Metrology News / WENZEL
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports WENZEL released WM Quartis R2026-2, the latest version of its CMM measurement software,
+    making it a concrete metrology-software release signal rather than generic update coverage; cited specifics include
+    a new standard-compliant parallelism evaluation with orientation indicator under ISO GPS principles, line-profile
+    evaluation with a variable tolerance-zone width, a more robust circle calculation for incomplete measurement data,
+    spline filters applied during measurement and improved filtering of interrupted measurement sequences, direct report
+    editing in thumbnail view, export of feature data into customer-specific JSON structures for downstream digital
+    quality workflows, new region-of-interest methods and point-cloud functions, and improved CAD, accessory-management,
+    and 3D-visualization support.
+  url: https://metrology.news/wenzel-wm-quartis-r2026-2-enhances-measurement-evaluation-reporting-and-digital-integration/
+
 - date: '2026-08-18'
   title: Raytheon wins USD 22.9B seven-year Navy contract to ramp Tomahawk missile production
   source: Manufacturing Dive / RTX / U.S. Navy
