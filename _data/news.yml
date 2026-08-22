@@ -31,6 +31,41 @@
     and 3D-visualization support.
   url: https://metrology.news/wenzel-wm-quartis-r2026-2-enhances-measurement-evaluation-reporting-and-digital-integration/
 
+- date: '2026-08-20'
+  title: Ursa Major opens Longmont avionics and in-space propulsion facility, freeing Berthoud floor for hypersonics and SRMs
+  source: Ursa Major / PRNewswire
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Ursa Major opened a new manufacturing facility in Longmont, Colorado for avionics and in-space propulsion
+    production, making it a concrete aerospace-and-defense manufacturing-capacity signal rather than a generic
+    ribbon-cutting; cited specifics include capacity for more than 125 employees, dedicated welding and manufacturing
+    labs, an ISO 7 hard-walled clean room with an ISO 8 gowning room, and an environmental test lab, consolidation of
+    avionics and in-space propulsion (tanks, thrusters, and full systems) in Longmont to free Berthoud headquarters
+    floor space for Hadley and Draper liquid engines, HAVOC Missile System vehicle integration and all-up-round
+    assembly, and a solid-rocket-motor portfolio built in Berthoud and Galeton, Colorado; the opening follows a March
+    Phase 1 manufacturing scale that added machining capacity, solid-rocket-motor test-stand operations, and additive
+    manufacturing, bringing Ursa Major to six sites across Colorado, Ohio, and Washington, D.C.
+  url: https://www.prnewswire.com/news-releases/ursa-major-opens-new-longmont-manufacturing-facility-302856619.html
+
+- date: '2026-08-19'
+  title: LG Energy Solution starts production at Lansing 226-acre battery plant targeting 35 GWh for ESS and Toyota EVs
+  source: LG Energy Solution
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    LG Energy Solution announced the start of production at its 226-acre Lansing, Michigan battery plant, making it a
+    quantified U.S. EV and energy-storage battery-manufacturing capacity signal rather than a generic plant opening;
+    cited specifics include more than USD 2 billion invested since 2022, a target of more than 35 GWh of annual capacity
+    at full-scale production, large-format cells split between lithium-iron-phosphate cells for energy-storage systems
+    integrated by LG Energy Solution Vertech and more energy-dense nickel-manganese-cobalt cells for the 2027 Toyota
+    Highlander EV assembled at Toyota Motor Manufacturing Kentucky, employment of about 900 team members today growing to
+    1,700 at full capacity, more than USD 5 billion invested in Michigan since 2010 with a statewide workforce expected
+    to exceed 3,300 by end-2026, DTE Energy among the utilities using Lansing-built cells, and plans for more than 50 GWh
+    of North American lithium-iron-phosphate cell capacity by end-2026 with 80 percent of the company's global
+    energy-storage capacity in North America.
+  url: https://news.lgensol.com/company-news/press-releases/5163/
+
 - date: '2026-08-18'
   title: Raytheon wins USD 22.9B seven-year Navy contract to ramp Tomahawk missile production
   source: Manufacturing Dive / RTX / U.S. Navy
@@ -3367,15 +3402,6 @@
     at near-line non-destructive metrology, reflecting continued migration of volumetric
     inspection from labs to production environments.
   url: https://www.qualitymag.com/articles/99404-lk-metrology-ct-system
-- date: '2026-02-16'
-  title: CAMIO 2026 R2 announced as first release with full REVO system support
-  source: M&MT
-  sector: quality_software
-  kind: vendor_release
-  summary: M&MT coverage of LK Metrology's MACH 2026 plans says CAMIO 2026 R2 is the
-    first official release with full Renishaw REVO support, adding synchronized CMM/probe-head
-    motion and multi-sensor workflow integration for faster 5-axis inspection programming.
-  url: https://www.mmt-online.co.uk/lk-to-present-new-metrology-software-and-hardware/
 - date: '2026-02-11'
   title: International AI measurement network publishes consensus practices for automated
     AI evaluations
