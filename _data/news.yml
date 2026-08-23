@@ -15,6 +15,22 @@
     the general availability of the OneVision cloud-to-edge AI vision platform alongside broad-based strength across
     most major end markets.
   url: https://metrology.news/cognex-reports-record-q2-revenue-as-ai-enabled-machine-vision-drives-growth/
+- date: '2026-08-21'
+  title: Anthro Energy breaks ground on Louisville polymer-electrolyte plant supporting up to 25 GWh of battery output
+  source: Electrek / Anthro Energy
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Electrek reports Anthro Energy broke ground on a Louisville, Kentucky battery-materials factory that will be the
+    first large-scale U.S.-owned and operated plant producing advanced polymer electrolytes, making it a quantified
+    domestic battery supply-chain signal rather than generic battery news; cited specifics include roughly 12,000 metric
+    tons of polymer electrolyte per year supporting up to 25 GWh of lithium-ion battery output when the plant opens in
+    late 2027, a USD 42 million-plus project backed by a USD 24.9 million U.S. Department of Energy award and USD 18.4
+    million in 48C investment tax credits, about 110 permanent manufacturing and technical jobs plus nearly 390
+    construction jobs, inputs immediately free of Foreign Entity of Concern restrictions, and target use across
+    transportation, defense, robotics, consumer electronics, and grid-scale storage with claimed gains in energy density
+    and cycle life without replacing existing battery production equipment.
+  url: https://electrek.co/2026/08/21/us-factory-grid-batteries-safer-anthro-energy/
 - date: '2026-08-20'
   title: WENZEL WM Quartis R2026-2 adds ISO GPS parallelism and line-profile evaluation plus JSON feature export
   source: Metrology News / WENZEL
@@ -47,6 +63,22 @@
     Phase 1 manufacturing scale that added machining capacity, solid-rocket-motor test-stand operations, and additive
     manufacturing, bringing Ursa Major to six sites across Colorado, Ohio, and Washington, D.C.
   url: https://www.prnewswire.com/news-releases/ursa-major-opens-new-longmont-manufacturing-facility-302856619.html
+- date: '2026-08-20'
+  title: Hyundai eyes Georgia Metaplant expansion to 700,000-800,000 units by 2028 within USD 26B U.S. investment plan
+  source: CNBC / Hyundai Motor
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    CNBC reports Hyundai Motor CEO Jose Munoz said the automaker is considering increasing planned production capacity
+    at its Georgia Metaplant from 500,000 to between 700,000 and 800,000 units by 2028 as part of a USD 26 billion U.S.
+    investment plan through 2028, making it a quantified U.S. auto-manufacturing capacity signal rather than generic
+    expansion coverage; cited specifics include a goal of producing at least 80 percent of U.S.-sold vehicles
+    domestically by decade-end versus roughly 40 percent in 2024, the USD 7.6 billion plant producing hybrid and
+    all-electric vehicles for Hyundai, Genesis, and Kia, more than 8,500 plant jobs plus about 6,900 supplier jobs at the
+    current 500,000-unit plan, a 15 percent U.S. tariff on South Korean imports cited as accelerating reshoring, Hyundai
+    clarifying the higher capacity is under consideration but not yet confirmed, and the resulting facility described as
+    the largest U.S. vehicle assembly operation by capacity if realized.
+  url: https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html
 
 - date: '2026-08-19'
   title: LG Energy Solution starts production at Lansing 226-acre battery plant targeting 35 GWh for ESS and Toyota EVs
