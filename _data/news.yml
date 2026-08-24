@@ -1,4 +1,23 @@
 ---
+- date: '2026-08-22'
+  title: Raytheon invests nearly USD 25M in Andover to more than double AN/SPY-6 radar output by 2028 after USD 1.8B Navy production extension
+  source: Naval News / Raytheon / RTX
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Naval News reports Raytheon is scaling AN/SPY-6 air and missile defense radar production at its Andover,
+    Massachusetts facility while expanding global export and sustainment efforts, making it a quantified
+    defense-radar manufacturing-capacity signal rather than generic export coverage; cited specifics include
+    full-rate production at about one array per month, a USD 1.8 billion U.S. Navy contract signed weeks earlier
+    for a two-year production extension, nearly USD 25 million of additional capital invested in the Radar
+    Development Facility to more than double SPY-6 output by 2028 on top of about USD 800 million already invested
+    there for automation and capacity, radars installed on two commissioned U.S. Navy ships and 11 others in
+    testing, a June NAVSEA design-agent-services contract worth over USD 500 million covering U.S. and German Navy
+    work, Germany selecting SPY-6 for its F127 frigates with Japan's upgraded Mogami-class radar competition
+    expected to conclude in early 2027, Mitsubishi Electric and Sampa Kogyo producing SPY-6 subsystems for the
+    U.S. and global fleets, and plans for a global manufacturing and sustainment ecosystem modeled on the Patriot
+    family.
+  url: https://www.navalnews.com/naval-news/2026/08/raytheon-global-push-spy-6-radar-germany-japan-denmark/
 - date: '2026-08-21'
   title: Cognex reports record Q2 2026 revenue of USD 291M as AI-enabled machine vision demand broadens
   source: Metrology News / Cognex
@@ -168,6 +187,23 @@
     a configurable software architecture for custom inspection workflows, and applicability across automotive, battery,
     electronics, logistics, and consumer-goods production.
   url: https://metrology.news/sick-brings-ai-powered-3d-machine-vision-to-industrial-inspection-with-nova/
+- date: '2026-08-14'
+  title: Stellantis raises Belvidere investment above USD 800M as first U.S. STLA One launch site for next-gen Jeep Cherokee
+  source: Rock River Current / Stellantis
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Rock River Current reports Stellantis raised its Belvidere Assembly Plant investment to more than USD 800 million, up
+    from the USD 600 million announced in October 2025, and named the plant the first U.S. launch site for its STLA One
+    modular platform to build the next-generation Jeep Cherokee, making it a quantified U.S. auto-manufacturing capacity
+    signal rather than generic reopening coverage; cited specifics include more than USD 60 million already spent through
+    July on stamping, body, paint, and general assembly to prepare for a restart, pilot production expected in the first
+    half of 2028 and retail production in the second half of 2029, pushing the timeline back from a prior 2027 target,
+    all-powertrain capability on two shifts, the plant idled since February 2023 with roughly 1,300 workers laid off,
+    continued supplemental unemployment benefits, healthcare, and future pension credits plus temporary relocation work
+    for laid-off employees, and positioning of Belvidere as the launch site for a platform Stellantis aims to extend across
+    more than 30 models globally by 2035.
+  url: https://www.rockrivercurrent.com/2026/08/stellantis-says-800m-investment-in-belvidere-assembly-plant-will-prepare-it-for-next-generation-jeep-cherokee/
 - date: '2026-08-13'
   title: SEMI sees testing and metrology as a new front in the AI chip race with test equipment up 31% to USD 15.3B in 2026
   source: EE Times Asia / SEMI
