@@ -1,4 +1,38 @@
 ---
+- date: '2026-08-24'
+  title: Kratos allocates Spartan J85 engine capacity to Boeing JDAM Long Range after USD 75M U.S. Air Force award
+  source: Kratos Defense / GlobeNewswire
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Kratos Defense announced it is allocating part of its expanded Spartan engine production capacity to Boeing's
+    Joint Direct Attack Munition Long Range (JDAM LR) program, powering the weapon with TDI-J85 (J85) engines, making
+    it a quantified defense-propulsion manufacturing-capacity signal rather than generic munitions coverage; cited
+    specifics include a USD 75 million Undefinitized Contract Action from the U.S. Air Force this month to Boeing for
+    the BSU-111/B Payload Delivery Unit, a precision-guided munition traveling over 300 nautical miles with a
+    500-pound-class payload, production at Kratos' 22,500-square-foot Propulsion Manufacturing Facility in Auburn
+    Hills, Michigan that is fully operational and optimized for full-rate production, procurement of long-lead
+    components for a large Spartan engine production run in 2027 spanning multiple customers and applications, and a
+    three-phase manufacturing infrastructure plan to expand output in support of the Department of War's effort to
+    grow the U.S. jet-engine industrial base.
+  url: https://www.kratosdefense.com/newsroom/kratos-providing-spartan-j85-engines-to-support-boeing-jdam-lr-production-contract
+- date: '2026-08-23'
+  title: Northrop sees B-21 production ramp accelerating as U.S. Air Force weighs a larger sixth-generation bomber fleet
+  source: Defence Industry Europe / Northrop Grumman
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports the U.S. Air Force's B-21 Raider program is running ahead of schedule toward first
+    operational delivery in 2027 while the service reviews whether to accelerate output and grow the sixth-generation
+    stealth bomber fleet beyond its current plan of at least 100 aircraft, making it a quantified defense-manufacturing
+    capacity signal rather than generic program coverage; cited specifics include the B-21 acquisition accelerating
+    roughly 25% after a one-time USD 4.5 billion funding increase through 2025 reconciliation legislation, a USD 6.1
+    billion Pentagon request for fiscal 2027 to support the transition into production and fielding, an eventual rate
+    of seven operational B-21s per year, a second aircraft added to flight testing at Edwards Air Force Base,
+    Aeronautics Systems sales up 13% in Q2 2026 at a 10.3% operating margin with the full-year forecast raised to
+    about USD 14 billion, and 2026 capital expenditures of USD 1.85 billion plus spending of about 4.5% of sales in
+    2027 and 2028 tied to B-21 production infrastructure.
+  url: https://defence-industry.eu/northrop-grumman-ceo-says-b-21-production-could-accelerate-as-u-s-air-force-reviews-larger-sixth-generation-stealth-bomber-fleet/
 - date: '2026-08-22'
   title: Raytheon invests nearly USD 25M in Andover to more than double AN/SPY-6 radar output by 2028 after USD 1.8B Navy production extension
   source: Naval News / Raytheon / RTX
@@ -99,6 +133,22 @@
     the largest U.S. vehicle assembly operation by capacity if realized.
   url: https://www.cnbc.com/2026/08/20/hyundai-georgia-metaplant-us-production.html
 
+- date: '2026-08-20'
+  title: DOE selects seven projects for USD 500M in battery-materials processing, manufacturing, and recycling capacity
+  source: U.S. Department of Energy
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Department of Energy's Office of Critical Minerals and Energy Innovation announced USD 500 million for
+    seven selected projects to expand domestic critical-mineral and battery-materials processing, manufacturing, and
+    recycling capacity, making it a quantified battery supply-chain signal rather than generic funding coverage; cited
+    specifics include the third round of DOE's Battery Materials Processing and Battery Manufacturing and Recycling
+    programs, a USD 100 million award to Lilac Solutions for a direct lithium extraction facility on Utah's Great Salt
+    Lake targeting 5,000 metric tons of battery-grade lithium carbonate per year by 2028, USD 100 million to Jervois
+    for a domestic cobalt refinery in Idaho, USD 100 million to Nth Cycle for a black-mass battery-recycling facility,
+    and USD 50 million each to Coreshell for metallurgical silicon anode material, Princeton NuEnergy for cathode
+    reprocessing, and Arcanum Ventures for battery-electrolyte chemicals, with the awards subject to final negotiations.
+  url: https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery
 - date: '2026-08-19'
   title: LG Energy Solution starts production at Lansing 226-acre battery plant targeting 35 GWh for ESS and Toyota EVs
   source: LG Energy Solution
@@ -187,6 +237,22 @@
     a configurable software architecture for custom inspection workflows, and applicability across automotive, battery,
     electronics, logistics, and consumer-goods production.
   url: https://metrology.news/sick-brings-ai-powered-3d-machine-vision-to-industrial-inspection-with-nova/
+- date: '2026-08-17'
+  title: Conmed Labmet automated laser-scanning cells cut large-part inspection time more than 50% at Safran, CIE PEMSA, and Gestamp
+  source: Metrology News / Conmed Labmet
+  sector: scientific_metrology
+  kind: case_study
+  summary: >-
+    Metrology News reports Mexico-based Conmed Labmet is deploying automated robotic laser-scanning cells for
+    dimensional inspection of large stamped, molded, forged, and machined components, making it a concrete shop-floor
+    optical-metrology signal rather than generic automation coverage; cited specifics include inspection-time reductions
+    of more than 50% versus conventional CMM and structured-light methods, a first integration at Safran Queretaro using
+    a 5-meter linear guide, ABB robot, and red-laser line scanner to inspect long aircraft landing-gear components with
+    results validated against a gantry CMM, a CIE PEMSA Celaya cell built on a Vention 4-meter gantry with a Universal
+    Robots UR10 collaborative robot and 3DInfotech STREAMLINE software feeding PolyWorks, and a Gestamp II Puebla cell
+    with a 7-meter inspection volume using Scantech TrackScan Sharp's 25-megapixel Tri-Laser scanning at up to 5.4
+    million points per second with 48-micrometer volumetric accuracy.
+  url: https://metrology.news/automated-scanning-cuts-large-part-inspection-times/
 - date: '2026-08-14'
   title: Stellantis raises Belvidere investment above USD 800M as first U.S. STLA One launch site for next-gen Jeep Cherokee
   source: Rock River Current / Stellantis
