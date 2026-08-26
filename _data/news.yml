@@ -1,5 +1,22 @@
 ---
 - date: '2026-08-24'
+  title: Boeing wins USD 131.23B ceiling F-15 Eagle Crest IDIQ contract covering production, upgrades, and organic depot sustainment through 2037
+  source: Defence Blog / U.S. Department of War
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Blog reports the U.S. Department of War awarded Boeing a USD 131.23 billion ceiling
+    indefinite-delivery/indefinite-quantity contract for the F-15 Eagle Crest program, making it a quantified
+    defense-manufacturing capacity and sustainment signal rather than a generic contract notice; cited specifics
+    include aircraft production, systems integration, modernization, upgrades, retrofits, sustainment, and
+    establishment of organic depot maintenance at Boeing's St. Louis, Missouri facility, an ordering period through
+    August 24, 2031 with an option to extend to August 24, 2036 and work completing by August 2037, Foreign Military
+    Sales to Japan, Israel, Saudi Arabia, South Korea, Singapore, Indonesia, and Poland, a sole-source acquisition
+    with USD 343,740 in fiscal 2026 research, development, test, and evaluation funds obligated at award, and the Air
+    Force Life Cycle Management Center at Wright-Patterson Air Force Base, Ohio as the contracting activity under
+    award FA8634-26-D-B001.
+  url: https://defence-blog.com/pentagon-awards-boeing-131-23-billion-f-15-eagle-crest-deal/
+- date: '2026-08-24'
   title: Kratos allocates Spartan J85 engine capacity to Boeing JDAM Long Range after USD 75M U.S. Air Force award
   source: Kratos Defense / GlobeNewswire
   sector: aerospace_defense_manufacturing
@@ -149,6 +166,23 @@
     and USD 50 million each to Coreshell for metallurgical silicon anode material, Princeton NuEnergy for cathode
     reprocessing, and Arcanum Ventures for battery-electrolyte chemicals, with the awards subject to final negotiations.
   url: https://www.energy.gov/articles/energy-department-announces-500-million-secure-americas-critical-mineral-and-battery
+- date: '2026-08-19'
+  title: Forge Nano breaks ground on Morrisville battery gigafactory expansion targeting 3 GWh of defense and aerospace cells with Samsung SDI support
+  source: WRAL News / Forge Nano
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    WRAL News reports Forge Nano broke ground on a Morrisville, North Carolina expansion of its lithium-ion battery
+    plant into a nearly 315,000-square-foot manufacturing campus for defense, aerospace, and critical-market cells,
+    making it a quantified domestic battery-manufacturing capacity signal rather than generic battery news; cited
+    specifics include roughly 3 GWh of annual cell capacity (about 150 million cells per year) at full production,
+    more than 250 manufacturing, engineering, and operations jobs, up to USD 100 million in non-dilutive U.S.
+    Department of Energy funding within a total investment of up to USD 330 million, Samsung SDI providing
+    manufacturing expertise and supply-chain support while planning to purchase cells produced there, production
+    expected to begin in 2028 aligned with new 2028 NDAA battery sourcing requirements, and output scenarios spanning
+    10-20 million drone batteries, 34,000 electric military vehicles, 6 million BB-2590 radio batteries, or about 275
+    energy-storage containers annually.
+  url: https://www.wral.com/news/nccapitol/forge-nano-rtp-area-250-jobs-boost-national-security-august-2026/
 - date: '2026-08-19'
   title: LG Energy Solution starts production at Lansing 226-acre battery plant targeting 35 GWh for ESS and Toyota EVs
   source: LG Energy Solution
