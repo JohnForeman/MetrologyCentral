@@ -1,4 +1,28 @@
 ---
+- date: '2026-08-26'
+  title: Nature Communications study pairs knowledge-informed graph attention networks with uncertainty quantification for defect-free alloy design in laser additive manufacturing
+  source: Nature Communications
+  sector: scientific_metrology
+  kind: standards_method
+  summary: Nature Communications published research from Northeastern University, A*STAR, the Chinese Academy of Sciences, TU Delft, and the Max Planck Institute introducing a machine-learning framework that combines knowledge-informed graph attention networks with data uncertainty quantification to design defect-free alloys for laser additive manufacturing from small experimental datasets; cited specifics include balancing physical-metallurgy knowledge against the stochasticity of measured defect distributions, validation through a new defect-free nickel superalloy with strong laser printability, thermal stability, and mechanical strength plus a new laser-printable aluminum alloy, mechanism mining confirmed by atom probe tomography, and characterization supported by neutron diffraction and X-ray computed tomography.
+  url: https://www.nature.com/articles/s41467-026-77119-6
+
+- date: '2026-08-25'
+  title: Honda considers eighth North American assembly plant to expand hybrid production as capacity nears full
+  source: Mainichi / Kyodo / Honda Motor
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: The Mainichi reports Honda Motor Executive Vice President Noriya Kaihara said the automaker is considering building a new assembly plant in the United States to boost hybrid production, making it a concrete North American auto-manufacturing capacity signal rather than generic expansion coverage; cited specifics include the company being close to full North American production capacity, plans to localize more hybrid powertrain production, a target of 15 new hybrid models primarily in North America by fiscal 2029, a final investment decision expected within a few years and operations targeted around 2030, a possible eighth North American plant producing hybrid sport utility vehicles, and a caveat that the plan could change depending on the outcome of USMCA renegotiation.
+  url: https://mainichi.jp/english/articles/20260826/p2g/00m/0bu/012000c
+
+- date: '2026-08-25'
+  title: Poland's Mesko signs EUR 1.9B Piorun air-defence deal with four NATO countries as production capacity grows 2.5x
+  source: Notes From Poland / Mesko
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Notes From Poland reports Polish state defence firm Mesko signed an 8 billion zloty (EUR 1.9 billion) agreement to supply Piorun man-portable air-defence systems to Poland, Norway, Lithuania, and Latvia, making it a quantified defense-manufacturing capacity signal rather than a generic export notice; cited specifics include the largest-ever Piorun order covering several hundred launchers and several thousand missiles, more than 80 percent of the volume for Poland's armed forces, financing through the European Union SAFE mechanism, and Mesko production capacity now 2.5 times larger than in December 2023 with staffing above 3,200.
+  url: https://www.notesfrompoland.com/2026/08/25/polands-mesko-signs-e1-9bn-deal-to-supply-piorun-air-defence-systems-to-four-nato-countries/
+
 - date: '2026-08-24'
   title: Boeing wins USD 131.23B ceiling F-15 Eagle Crest IDIQ contract covering production, upgrades, and organic depot sustainment through 2037
   source: Defence Blog / U.S. Department of War
