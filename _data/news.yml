@@ -1,4 +1,36 @@
 ---
+- date: '2026-08-27'
+  title: Raytheon completes USD 50M Forest Mississippi expansion for NGJ-MB jammer and airborne radar production
+  source: RTX / PRNewswire
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    RTX business Raytheon completed a 17,000-square-foot expansion of its Forest, Mississippi manufacturing
+    facility backed by a USD 50 million capital investment, adding production, test, and integration capacity for
+    the Next Generation Jammer Mid-Band (NGJ-MB) pod serving the U.S. Navy and Australian government plus other
+    airborne radar programs, making it a quantified defense-electronics manufacturing-capacity signal rather than
+    a generic ribbon-cutting; cited specifics include 100 high-skill jobs expected by 2028, the Forest site now
+    encompassing 445,000 square feet as one of the largest defense manufacturing plants in Mississippi, three
+    facility expansions totaling USD 280 million in capital over the past decade, a 20,000-square-foot addition in
+    2013, a 50,000-square-foot radar production and testing facility completed in 2020, and the site's role as a
+    hub for electronic warfare and radar systems.
+  url: https://www.prnewswire.com/news-releases/rtxs-raytheon-completes-50-million-expansion-of-mississippi-manufacturing-facility-302859721.html
+- date: '2026-08-26'
+  title: Fraunhofer EMI and PowerCo industrialize 1000 fps in-situ X-ray imaging of EV battery thermal runaway
+  source: Metrology News / Fraunhofer EMI / PowerCo
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Fraunhofer Institute for High-Speed Dynamics, Ernst-Mach-Institut (EMI) and Volkswagen
+    Group battery maker PowerCo are industrializing a high-speed X-ray system that images dynamic processes inside
+    large-format prismatic lithium-ion cells in real time, making it a concrete in-situ battery-metrology signal
+    rather than generic X-ray coverage; cited specifics include recording up to 1,000 images per second to reveal
+    gas formation, material displacement, and crack propagation during failure, a specially designed protective
+    test chamber shielding X-ray components during thermal runaway, simultaneous capture of temperature, pressure,
+    voltage, and gas flow, prior use for VW and Audi to characterize material ejection and multi-cell propagation
+    behavior, and planned installation at PowerCo's Salzgitter site in 2028 with early results already feeding
+    optimized production-cell development.
+  url: https://metrology.news/high-speed-x-ray-reveals-ev-battery-failure-in-real-time/
 - date: '2026-08-26'
   title: Nature Communications study pairs knowledge-informed graph attention networks with uncertainty quantification for defect-free alloy design in laser additive manufacturing
   source: Nature Communications
