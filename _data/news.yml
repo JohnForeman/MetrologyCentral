@@ -1,4 +1,36 @@
 ---
+- date: '2026-09-01'
+  title: Hexagon launches METRICAL automated CMM loading system for autonomous 24/7 inspection
+  source: Metrology News / Hexagon
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Hexagon launched METRICAL, an automated part-queuing, loading, and unloading system for coordinate measuring machines, making it a concrete CMM-automation signal rather than a generic robotics announcement; cited specifics include unattended measurement across multiple shifts to raise CMM utilization and overall equipment effectiveness, three scalable configurations with three, five, or seven preparation bays, integration with the new Hexagon MAESTRO CMM and installed GLOBAL CMMs, and off-shift unattended inspection aimed at the skilled-inspection-labor shortage.
+  url: https://metrology.news/hexagon-launches-metrical-for-fully-autonomous-cmm-inspection/
+
+- date: '2026-08-31'
+  title: U.S. Department of War signs seven-year GD-OTS and Lockheed agreements to triple PAC-3 MSE and quadruple THAAD interceptor production
+  source: Defence Industry Europe / U.S. Department of War
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Defence Industry Europe reports the U.S. Department of War signed seven-year framework agreements with General Dynamics Ordnance and Tactical Systems and Lockheed Martin to expand air-and-missile-defense manufacturing, making it a quantified defense-manufacturing capacity signal rather than a generic contract notice; cited specifics include tripling PAC-3 Missile Segment Enhancement interceptor output and quadrupling Terminal High Altitude Area Defense interceptor production, General Dynamics leading accelerated output of motor cases, seeker housings, midsections, and shroud deployment systems, guaranteed minimum annual quantities giving suppliers a seven-year demand outlook, and funding remaining subject to annual congressional appropriations.
+  url: https://defence-industry.eu/u-s-department-of-war-signs-seven-year-deals-with-general-dynamics-and-lockheed-martin-to-triple-pac-3-mse-and-quadruple-thaad-interceptor-production/
+
+- date: '2026-08-31'
+  title: LK Metrology Altera C CMM with CAMIO 2026 lifts Don Whitley Scientific productivity 30 percent and cuts scrap 90 percent
+  source: Metrology News / LK Metrology
+  sector: scientific_metrology
+  kind: case_study
+  summary: Metrology News reports UK medical-equipment maker Don Whitley Scientific deployed an LK Metrology Altera C 15.9.7 bridge CMM with CAMIO 2026 software, making it a concrete LK CMM-and-CAMIO deployment signal rather than a generic case-study notice; cited specifics include components machined to 0.01 mm tolerances, a move from manual micrometers and bore gauges to repeatable CMM inspection with in-process sampling, adoption of ASME GD&T true-position tolerances via CAMIO plus PMI-based automated programming, a roughly 30 percent production-efficiency gain, and an approximately 90 percent reduction in scrap and rework.
+  url: https://metrology.news/cmm-transforms-quality-and-raises-productivity-30-percent/
+
+- date: '2026-08-28'
+  title: Wolfram Europa plans EUR 200M Latvian explosives complex for 300 t/yr RDX and 200,000 warheads annually
+  source: Defence Industry Europe / Wolfram Europa
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Defence Industry Europe reports Wolfram Europa plans a EUR 200 million vertically integrated explosives manufacturing complex near Jekabpils, Latvia, making it a quantified European defense-manufacturing capacity signal rather than a generic rearmament notice; cited specifics include a 40-hectare site producing in three phases from 2027, synthesis of 300 metric tons of RDX or 100 metric tons of HMX annually with room for expansion, end-use compositions spanning Composition B, H, A-3, A-4, A-5, C-4, and PBX, filling and assembly of 100,000 anti-tank mines and 200,000 warheads per year, storage of up to 1,200 metric tons of net explosive quantity, and about 200 high-skill jobs at full operation.
+  url: https://defence-industry.eu/wolfram-europa-plans-e200-million-latvian-explosives-complex-to-produce-rdx-hmx-warheads-and-anti-tank-mines/
+
 - date: '2026-08-27'
   title: Rolls-Royce completes USD 1B Indiana investment to modernize Indianapolis engine manufacturing and add West Lafayette altitude test capacity
   source: Rolls-Royce
