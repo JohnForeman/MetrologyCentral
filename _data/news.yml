@@ -7,6 +7,38 @@
   summary: Metrology News reports Hexagon launched METRICAL, an automated part-queuing, loading, and unloading system for coordinate measuring machines, making it a concrete CMM-automation signal rather than a generic robotics announcement; cited specifics include unattended measurement across multiple shifts to raise CMM utilization and overall equipment effectiveness, three scalable configurations with three, five, or seven preparation bays, integration with the new Hexagon MAESTRO CMM and installed GLOBAL CMMs, and off-shift unattended inspection aimed at the skilled-inspection-labor shortage.
   url: https://metrology.news/hexagon-launches-metrical-for-fully-autonomous-cmm-inspection/
 
+- date: '2026-09-01'
+  title: Astemo Americas plans USD 112M Berea, Kentucky expansion to add EV-motor production with 114 jobs
+  source: The Lane Report / Astemo Americas
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: The Lane Report reports Astemo Americas plans to invest more than USD 112 million to expand its Berea, Kentucky automotive manufacturing operations and increase electric-vehicle component output, making it a quantified U.S. electric-drivetrain manufacturing signal rather than a generic expansion notice; cited specifics include 114 new jobs in the first phase of a project that could reach USD 379 million and 282 jobs, nearly 300,000 square feet of added operational space across the company's two Berea plants, facility upgrades and new manufacturing equipment, production of EV motors, and Astemo Americas' footprint of more than 15,000 employees across 23 manufacturing sites including 12 U.S. operations and three Kentucky locations supported by the Kentucky Economic Development Finance Authority.
+  url: https://www.lanereport.com/189200/2026/09/astemo-americas-berea-kentucky-expansion-114-jobs/
+
+- date: '2026-09-01'
+  title: SK On to supply NeoVolta Power 9 GWh of US-made LFP cells as Georgia storage plant ramps toward 8 GWh
+  source: Electrek / SK On / NeoVolta Power
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Electrek reports NeoVolta Power signed a five-year supply agreement for SK On to deliver 9 GWh of U.S.-made lithium-iron-phosphate pouch cells from 2027 through 2031 for battery energy storage assembly at NeoVolta's Pendergrass, Georgia plant, making it a quantified U.S. battery-cell manufacturing and assembly signal rather than generic battery coverage; cited specifics include SK On becoming primary cell supplier for NeoVolta's LFP pouch-cell storage products, a second non-binding 9 GWh framework under which NeoVolta would assemble packs that SK On buys back for a combined up to 18 GWh, the Pendergrass plant's first line producing 2 GWh annually with a second line raising targeted capacity to 8 GWh by 2028, and commissioning and ramp-up of the first production line now underway.
+  url: https://electrek.co/2026/09/01/neovoltas-us-battery-factory-gets-a-9-gwh-boost-from-sk-on/
+
+- date: '2026-09-01'
+  title: Pentagon and Boeing sign seven-year framework to scale SM-3 interceptor components from 100 toward 250 units annually
+  source: Aviation News / Boeing / U.S. Department of War
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Aviation News reports Boeing and the U.S. Department of War established a seven-year framework agreement to expand manufacturing capacity for critical Standard Missile-3 components, making it a quantified missile-defense manufacturing-capacity signal rather than a generic contract notice; cited specifics include acceleration of avionics and canister ejection mechanisms for the SM-3 Block IB and Block IIA variants, RTX leading final assembly with Mitsubishi Heavy Industries as a Japanese industrial partner, defense planners intending to scale SM-3 annual deliveries from 100 toward a target of 250 units over the agreement, support for U.S. Navy warships and land-based Aegis Ashore sites in Romania and Poland, and coordination ahead of formalized multi-year procurement contracts.
+  url: https://aviationnews.eu/news/2026/09/pentagon-and-boeing-partner-to-ramp-up-critical-standard-missile-3-production-for-exo-atmospheric-defense/
+
+- date: '2026-09-01'
+  title: U.S. Navy awards Castelion USD 90M for Blackbeard hypersonic weapon Early Operational Capability
+  source: Global Defense Corp / Castelion / U.S. Navy
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: Global Defense Corp reports the U.S. Navy awarded Castelion a USD 89,997,162 firm-fixed-price order to advance the Blackbeard hypersonic strike weapon toward Early Operational Capability by 2028, making it a quantified hypersonic-weapon manufacturing signal rather than a generic contract notice; cited specifics include engineering, technical, logistics, and manufacturing services supporting 50 EOC weapons and Blackbeard's transition to a Navy Program of Record, Defense Exportability Features design modifications to accelerate allied export, work in Torrance, California completed by August 2028, a design target of production cost below USD 500,000 per round, speeds above Mach 5 with up to 500 nautical miles of range, and integration priority on the F/A-18E/F Super Hornet fleet.
+  url: https://www.globaldefensecorp.com/2026/09/01/us-navy-awards-castelion-90-million-for-blackbeard-hypersonic-weapon-eoc/
+
 - date: '2026-08-31'
   title: U.S. Department of War signs seven-year GD-OTS and Lockheed agreements to triple PAC-3 MSE and quadruple THAAD interceptor production
   source: Defence Industry Europe / U.S. Department of War
