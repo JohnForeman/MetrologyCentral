@@ -1,4 +1,44 @@
 ---
+- date: '2026-09-03'
+  title: QuantumDiamonds demonstrates contact-free electrical current imaging for inline semiconductor inspection
+  source: Semiconductor Digest / QuantumDiamonds
+  sector: scientific_metrology
+  kind: industry_news
+  summary: 'Semiconductor Digest reports QuantumDiamonds demonstrated a contact-free method for imaging electrical current inside semiconductor structures using diamond quantum sensors, moving quantum-sensing current imaging from the failure-analysis lab toward inline high-volume inspection; cited specifics include electromagnetic microwave excitation in place of a galvanic bias, direct measurement of induced magnetic fields with the same sensor head shipped in the QDm.1 failure-analysis system, whole-field current maps that reveal pathways invisible to optical inspection, relevance to hybrid-bonding process control on unpowered mid-process wafer stacks where contactless excitation is the only option, evaluation by foundry and packaging customers on die- and package-level samples, and filed patent applications alongside work toward production throughput.'
+  url: https://metrology.news/quantumdiamonds-brings-contactless-current-imaging-closer-to-inline-inspection/
+
+- date: '2026-09-02'
+  title: Hyundai Mobis opens Slovakia power-electric system plant with 280,000-unit annual EV powertrain capacity
+  source: PRNewswire / Hyundai Mobis
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: 'Hyundai Mobis reports it began full-scale mass production of power-electric systems at a new plant in Novaky, Slovakia, its first European PE-system site, making it a quantified European EV-powertrain manufacturing signal rather than a generic plant opening; cited specifics include annual capacity of up to 280,000 PE systems combining an electric motor, inverter, and reduction gear, total investment of approximately KRW 250 billion, a roughly 106,000-square-meter site with about 8,500 square meters of floor space, production lines for stators, inverters, and other components, a position as the third European electrification base after battery-system-assembly plants in the Czech Republic and Spain, and a company goal of lifting global-customer revenue share to 40 percent by 2033.'
+  url: https://www.prnewswire.com/news-releases/hyundai-mobis-accelerates-electrification-push-in-europe-with-opening-of-new-plant-in-slovakia-302868354.html
+
+- date: '2026-09-02'
+  title: AeroVironment wins USD 464.8M Army E-HEL contract for first-ever production of directed-energy laser weapons
+  source: Business Wire / AeroVironment / U.S. Army
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: 'AeroVironment reports the U.S. Army awarded a USD 464.8 million contract for the Enduring-High Energy Laser program of record, the first-ever production contract for directed-energy systems in U.S. history, making it a quantified transition from prototype to production in directed-energy manufacturing rather than a generic contract notice; cited specifics include delivery of dozens of 30-kilowatt LOCUST X3 counter-drone laser systems over the next few years under an Other Transaction Authority agreement, integration with the Joint Light Tactical Vehicle plus palletized configurations, initial capabilities delivered within the year for government acceptance testing, a USD 30 million Albuquerque, New Mexico facility investment supporting the production ramp, and White Sands Missile Range testing that validated the system for domestic use.'
+  url: https://www.businesswire.com/news/home/20260818921666/en/
+
+- date: '2026-09-02'
+  title: ProLogium begins mass production of 381 Wh/kg all-solid-state battery at Taiwan giga-level facility
+  source: GlobeNewswire / ProLogium Technology
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: 'ProLogium Technology reports its Gen 3.5 Lithium Ceramic Battery is now in mass production at a giga-level manufacturing facility in Taiwan, moving high-energy-density all-solid-state battery technology beyond laboratory and pilot-scale development; cited specifics include a third-party TUV test report showing a 185 Ah large-format cell reaching 381 Wh/kg gravimetric and 903 Wh/L volumetric energy density, supply of the cells to a U.S. automotive audio-system company and installation in vehicles from a Japanese automaker ranked among the top three in North American sales, a global manufacturing network spanning a Taiwan validation base, scaled production in France, and phased North American localization, and Gen 4 targeting of AI data centers, electric vehicles, maritime, and aerospace applications.'
+  url: https://markets.businessinsider.com/news/stocks/prologium-begins-mass-production-of-high-energy-density-all-solid-state-battery-reaching-381-wh-kg-and-903-wh-l-1036514326
+
+- date: '2026-09-01'
+  title: Renishaw PH20 PLUS 5-axis touch-trigger system extends CMM inspection reach to 300 mm
+  source: DailyCADCAM / Renishaw
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: 'DailyCADCAM reports Renishaw introduced the PH20 PLUS 5-axis touch-trigger system to replace its established PH20 head, extending inspection reach for coordinate measuring machines; cited specifics include more than a 50 percent increase in inspection reach with a maximum working length of up to 300 mm from the A-axis center using a 50 mm stylus, an additional 107 mm of reach from a redesigned A-axis kinematic mount supporting longer and heavier PE20 probe modules, retained compatibility with the existing TP20 module range via the PB20 adaptor, a new modular rack system on an MRS2 rail for automatic and repeatable probe-module changing, full compatibility with the Renishaw UCC controller as a direct drop-in replacement, and demonstration at IMTS 2026.'
+  url: https://dailycadcam.com/renishaw-introduces-ph20-plus-5-axis-touch-trigger-system-for-cmms-with-300-mm-inspection-reach/
+
 - date: '2026-09-01'
   title: Hexagon launches METRICAL automated CMM loading system for autonomous 24/7 inspection
   source: Metrology News / Hexagon
