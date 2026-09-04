@@ -31,6 +31,22 @@
   summary: 'ProLogium Technology reports its Gen 3.5 Lithium Ceramic Battery is now in mass production at a giga-level manufacturing facility in Taiwan, moving high-energy-density all-solid-state battery technology beyond laboratory and pilot-scale development; cited specifics include a third-party TUV test report showing a 185 Ah large-format cell reaching 381 Wh/kg gravimetric and 903 Wh/L volumetric energy density, supply of the cells to a U.S. automotive audio-system company and installation in vehicles from a Japanese automaker ranked among the top three in North American sales, a global manufacturing network spanning a Taiwan validation base, scaled production in France, and phased North American localization, and Gen 4 targeting of AI data centers, electric vehicles, maritime, and aerospace applications.'
   url: https://markets.businessinsider.com/news/stocks/prologium-begins-mass-production-of-high-energy-density-all-solid-state-battery-reaching-381-wh-kg-and-903-wh-l-1036514326
 
+- date: '2026-09-02'
+  title: Hexagon launches next-generation OPTIV S optical CMM with AI-assisted measurement via PC-DMIS
+  source: Hexagon Manufacturing Intelligence
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: 'Hexagon Manufacturing Intelligence reports it launched the next-generation OPTIV S optical coordinate measuring machine for electronics, medical-device, automotive, and precision-engineering inspection, combining vision, tactile, and multisensor measurement with a phased AI-assisted software roadmap; cited specifics include tactile accuracy of E0, MPEE = (1.6 + L/200) micrometers, approximately 30 percent higher machine dynamics from increased travel speeds and acceleration, roughly 15 percent shorter inspection cycle times in initial application testing, a larger field-of-view vision sensor measuring more features in fewer images, and AI capabilities inside PC-DMIS including AI Edge Detection (commercial release with PC-DMIS 2026.2), Fast Auto-Focus at up to 50 percent faster autofocus, and AI Illumination for automated lighting optimization; the 4.4.3 configuration becomes commercially available September 14, 2026 at IMTS and AMB, with the AI features also extending to the existing OPTIV M platform.'
+  url: https://hexagon.com/company/newsroom/press-releases/2026/hexagon-releases-next-generation-optiv-s
+
+- date: '2026-09-02'
+  title: TCOM wins USD 600M+ Foreign Military Sales contract for ASRR aerostat systems to Poland
+  source: PRNewswire / TCOM
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: 'TCOM reports the U.S. Army PAE C2/CC2 Office awarded it a Foreign Military Sales program valued at more than USD 600 million to deliver Airspace and Surface Radar Reconnaissance (ASRR) aerostat systems to the Polish Armed Forces, making it a quantified defense-manufacturing and persistent-surveillance capacity signal rather than a generic contract notice; cited specifics include aerostat platforms combined with open-architecture Active Electronically Scanned Array radar and electronic-warfare capabilities for continuous early warning and long-range tracking, integration with existing command-and-control architectures, and company hiring across engineering, manufacturing, software development, systems integration, logistics, and program management to support execution, with the program run under ITAR and Arms Export Control Act compliance.'
+  url: https://www.prnewswire.com/news-releases/tcom-secures-landmark-600m-defense-contract-to-strengthen-natos-eastern-flank-302868061.html
+
 - date: '2026-09-01'
   title: Renishaw PH20 PLUS 5-axis touch-trigger system extends CMM inspection reach to 300 mm
   source: DailyCADCAM / Renishaw
