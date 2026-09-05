@@ -1,4 +1,22 @@
 ---
+- date: '2026-09-04'
+  title: Hyundai Steel and POSCO break ground on USD 5.8B Louisiana EAF mill, first US automotive steel sheet plant with 2.7M-ton capacity
+  source: PRNewswire / Hyundai Steel / POSCO
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    PRNewswire reports Hyundai Steel, POSCO, Hyundai Motor, and Kia held a ceremonial groundbreaking for the Hyundai-POSCO Louisiana Steel (HPLS) electric-arc-furnace mill in Ascension Parish, Louisiana, establishing the first North American production base for Hyundai Motor Group's steelmaking arm; cited specifics include a USD 5.8 billion investment, annual capacity of 2.7 million metric tons of hot-rolled and cold-rolled automotive steel sheet, commercial production targeted for early 2029 with full construction beginning in Q4 2026, about 5,400 total jobs including 1,300 direct positions at a roughly USD 95,000 average annual salary, an ownership split of Hyundai Steel 50 percent, POSCO 20 percent, and Hyundai Motor and Kia 15 percent each, roughly 70 percent lower CO2 emissions versus blast-furnace production via a natural-gas direct-reduction process, and positioning within Hyundai Motor Group's USD 26 billion U.S. investment plan through 2028.
+  url: https://www.prnewswire.com/news-releases/hyundai-steel-celebrates-louisiana-eaf-steel-mill-project-launch-driving-growth-for-us-manufacturing-302870544.html
+
+- date: '2026-09-03'
+  title: Patria completes assembly of Finland's first F135 engine at Linnavuori, entering full-scale F-35 production
+  source: Patria / Pratt & Whitney
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Patria reports it completed the first F135 fighter engine assembled in Finland at its new Linnavuori facility in Nokia, marking entry into full-scale F-35 propulsion production ahead of the arrival of Finland's first F-35A fighters; cited specifics include final assembly agreed with Pratt & Whitney (an RTX business) in February 2026, production planned through 2030 before the site transitions to maintenance, repair, overhaul, and upgrade work, about 50 direct jobs between 2025 and 2030, support for Finland's 64 F-35A Block 4 aircraft with first arrivals at Lapland Air Wing in Rovaniemi in autumn 2026, and the Linnavuori facility handed over to Patria in autumn 2025.
+  url: https://www.patriagroup.com/newsroom/news/2026/patria-completes-the-assembly-of-finlands-first-f135-engine
+
 - date: '2026-09-03'
   title: QuantumDiamonds demonstrates contact-free electrical current imaging for inline semiconductor inspection
   source: Semiconductor Digest / QuantumDiamonds
@@ -6,6 +24,15 @@
   kind: industry_news
   summary: 'Semiconductor Digest reports QuantumDiamonds demonstrated a contact-free method for imaging electrical current inside semiconductor structures using diamond quantum sensors, moving quantum-sensing current imaging from the failure-analysis lab toward inline high-volume inspection; cited specifics include electromagnetic microwave excitation in place of a galvanic bias, direct measurement of induced magnetic fields with the same sensor head shipped in the QDm.1 failure-analysis system, whole-field current maps that reveal pathways invisible to optical inspection, relevance to hybrid-bonding process control on unpowered mid-process wafer stacks where contactless excitation is the only option, evaluation by foundry and packaging customers on die- and package-level samples, and filed patent applications alongside work toward production throughput.'
   url: https://metrology.news/quantumdiamonds-brings-contactless-current-imaging-closer-to-inline-inspection/
+
+- date: '2026-09-02'
+  title: GE Aerospace wins USD 2.87B Navy F414 engine support contract for F/A-18 Super Hornet and EA-18G Growler fleet
+  source: The Defense Post / GE Aerospace / U.S. Navy
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Defense Post reports GE Aerospace was awarded a USD 2,874,696,513 not-to-exceed performance-based logistics contract to support 17 F414 engine components for the U.S. Navy's F/A-18E/F Super Hornet and EA-18G Growler aircraft; cited specifics include a five-year base contract with no option periods running through August 2031, 90 percent of work in Lynn, Massachusetts and 10 percent in Jacksonville, Florida, outcome-based compensation tied to system readiness and parts availability rather than per-component purchases, USD 198,221,333 in fiscal 2026 working capital funds committed at award, and coordination through Naval Supply Systems Command Weapon Systems Support in Philadelphia, with the F414 engine fleet exceeding 1,600 units across eight countries and more than five million flight hours.
+  url: https://thedefensepost.com/2026/09/03/us-hornet-growler-engine-support/
 
 - date: '2026-09-02'
   title: Hyundai Mobis opens Slovakia power-electric system plant with 280,000-unit annual EV powertrain capacity
@@ -94,6 +121,15 @@
   kind: industry_news
   summary: Global Defense Corp reports the U.S. Navy awarded Castelion a USD 89,997,162 firm-fixed-price order to advance the Blackbeard hypersonic strike weapon toward Early Operational Capability by 2028, making it a quantified hypersonic-weapon manufacturing signal rather than a generic contract notice; cited specifics include engineering, technical, logistics, and manufacturing services supporting 50 EOC weapons and Blackbeard's transition to a Navy Program of Record, Defense Exportability Features design modifications to accelerate allied export, work in Torrance, California completed by August 2028, a design target of production cost below USD 500,000 per round, speeds above Mach 5 with up to 500 nautical miles of range, and integration priority on the F/A-18E/F Super Hornet fleet.
   url: https://www.globaldefensecorp.com/2026/09/01/us-navy-awards-castelion-90-million-for-blackbeard-hypersonic-weapon-eoc/
+
+- date: '2026-08-31'
+  title: OHB wins nearly EUR 1B contract from SES to build 18 MEO satellite platforms for EU IRIS2 constellation
+  source: OHB / SES
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    OHB reports it signed a contract worth nearly EUR 1 billion with SES to develop and produce 18 medium-Earth-orbit satellite platforms for the EU's IRIS2 secure connectivity programme, the first major industrial order under the IRIS2 concession; cited specifics include each platform at roughly 2.6 metric tons launch mass and about 15 kilowatts maximum power, the contract following the programme's August 6, 2026 implementation-phase launch, a constellation of 348 satellites across low-Earth and medium-Earth orbit with first launches planned for 2029 and initial services in 2030, and OHB's role as a SpaceRISE technology partner alongside its prior work on Galileo and Copernicus.
+  url: https://www.ohb.de/en/news/ohb-has-been-awarded-a-contract-worth-nearly-1-billion-for-the-development-and-production-of-eighteen-satellite-platforms-for-iris%C2%B2
 
 - date: '2026-08-31'
   title: U.S. Department of War signs seven-year GD-OTS and Lockheed agreements to triple PAC-3 MSE and quadruple THAAD interceptor production
