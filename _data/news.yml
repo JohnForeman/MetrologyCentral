@@ -1,5 +1,13 @@
 ---
 - date: '2026-09-04'
+  title: Tesla builds first Cybertruck with 4680 cells using lithium refined at its Gulf Coast Texas refinery
+  source: TeslaNorth / Tesla
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    TeslaNorth reports Tesla's official Cybertruck account confirmed the first Cybertruck has been built with 4680 battery cells containing lithium refined at the company's Gulf Coast Lithium Refinery, making it a measurable EV battery-manufacturing and vertical-integration signal rather than generic EV coverage; cited specifics include spodumene ore processed at the Gulf Coast plant near Corpus Christi into battery-grade lithium hydroxide that feeds Tesla's Austin 4680 cell lines installed in production Cybertrucks at Giga Texas, a lower-carbon acid-free refining route versus conventional hard-rock processing, and closure of a Texas supply-chain loop spanning refined lithium, 4680 cells, packs, and vehicles.
+  url: https://teslanorth.com/2026/09/05/tesla-cybertruck-gulf-coast-lithium-4680-2/
+- date: '2026-09-04'
   title: Hyundai Steel and POSCO break ground on USD 5.8B Louisiana EAF mill, first US automotive steel sheet plant with 2.7M-ton capacity
   source: PRNewswire / Hyundai Steel / POSCO
   sector: auto_manufacturing
@@ -8,6 +16,14 @@
     PRNewswire reports Hyundai Steel, POSCO, Hyundai Motor, and Kia held a ceremonial groundbreaking for the Hyundai-POSCO Louisiana Steel (HPLS) electric-arc-furnace mill in Ascension Parish, Louisiana, establishing the first North American production base for Hyundai Motor Group's steelmaking arm; cited specifics include a USD 5.8 billion investment, annual capacity of 2.7 million metric tons of hot-rolled and cold-rolled automotive steel sheet, commercial production targeted for early 2029 with full construction beginning in Q4 2026, about 5,400 total jobs including 1,300 direct positions at a roughly USD 95,000 average annual salary, an ownership split of Hyundai Steel 50 percent, POSCO 20 percent, and Hyundai Motor and Kia 15 percent each, roughly 70 percent lower CO2 emissions versus blast-furnace production via a natural-gas direct-reduction process, and positioning within Hyundai Motor Group's USD 26 billion U.S. investment plan through 2028.
   url: https://www.prnewswire.com/news-releases/hyundai-steel-celebrates-louisiana-eaf-steel-mill-project-launch-driving-growth-for-us-manufacturing-302870544.html
 
+- date: '2026-09-03'
+  title: L3Harris completes first 35 Viper Shield electronic-warfare systems for global F-16 fleet, ramping to full-rate production of 233 units
+  source: L3Harris / The Defense Post
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    L3Harris reports it completed production of the first 35 Viper Shield electronic-warfare and countermeasure systems for the global F-16 fleet and assembled its first external pod using production hardware, making it a quantified defense-electronics manufacturing signal rather than a generic program update; cited specifics include 233 systems on order from eight allied nations, about USD 1 billion in shared foreign investment funding development, laboratory and flight testing, and current production, an all-digital software-defined architecture built on commercial off-the-shelf components, interoperability with the APG-83 active electronically scanned array radar and compatibility with F-16 Block 70/72 plus earlier blocks, and a ramp toward full-rate production supported by an active supply chain and established quality controls.
+  url: https://www.l3harris.com/newsroom/press-release/2026/09/l3harris-production-first-f-16-viper-shield-electronic-warfare
 - date: '2026-09-03'
   title: Patria completes assembly of Finland's first F135 engine at Linnavuori, entering full-scale F-35 production
   source: Patria / Pratt & Whitney
