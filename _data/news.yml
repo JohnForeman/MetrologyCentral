@@ -1,4 +1,22 @@
 ---
+- date: '2026-09-07'
+  title: Volkswagen to sell Osnabrück plant to Aurelius and Lower Saxony for conversion into Rafael-anchored air-defense manufacturing hub
+  source: Volkswagen Group / Rafael Advanced Defense Systems
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Volkswagen Group reports it agreed key terms with the State of Lower Saxony and Aurelius Capital on the possible sale of Volkswagen Osnabrück GmbH, converting the 125-year-old small-series and special-vehicle plant into a competence center for security and defense manufacturing after vehicle production is phased out in summer 2027; cited specifics include Aurelius as majority owner alongside Lower Saxony, Rafael Advanced Defense Systems as the initial anchor partner for potential manufacture of air-defense systems and components serving Germany and Europe, and reliance on the site's existing manufacturing structures, workforce qualifications, and long-standing experience in production, quality, and industrialization, with completion subject to final agreements, corporate approvals, and regulatory reviews.
+  url: https://www.volkswagen-group.com/en/press-releases/setting-the-course-for-the-future-of-the-osnabrueck-site-20667
+
+- date: '2026-09-07'
+  title: Rigaku launches CT Lab HR160 X-ray CT system with 250 nm spatial resolution for battery and semiconductor inspection
+  source: Metrology News / Rigaku / Excillum
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Rigaku Corporation launched the CT Lab HR160 high-resolution X-ray computed tomography system, developed in collaboration with Excillum AB, for non-destructive 3D imaging in battery, semiconductor, electronic-component, and advanced-materials analysis; cited specifics include operation up to 160 kV, true 250 nm spatial resolution described as industry-leading for laboratory CT systems in its class, Excillum NanoTube N3 X-ray source, cone-beam geometry allowing field-of-view and resolution adjustment without changing the source or detector, and target applications spanning solid-state batteries, semiconductor devices, multilayer ceramic capacitors, and power electronics for research, development, quality evaluation, and failure analysis.
+  url: https://metrology.news/rigaku-launches-high-resolution-x-ray-ct-system/
+
 - date: '2026-09-04'
   title: Tesla builds first Cybertruck with 4680 cells using lithium refined at its Gulf Coast Texas refinery
   source: TeslaNorth / Tesla
