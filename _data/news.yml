@@ -1,4 +1,36 @@
 ---
+- date: '2026-09-09'
+  title: 'Panasonic Energy develops solid-state battery operating up to 150 C with new small prismatic cell, sample shipments from October 2026'
+  source: Channel News Asia / Panasonic Energy
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: Channel News Asia reports Panasonic Energy has developed a solid-state battery able to run at temperatures up to 150 degrees Celsius, up from 125 C, and introduced a new small-size prismatic cell design, making it a quantified solid-state battery technology and production-timeline signal rather than generic battery coverage; cited specifics include sample shipments of the new prismatic cell and an upgraded coin-shaped version starting between October and December 2026, mass production targeted one to two years after sample shipments, initial targeting of industrial machinery and vehicle sensors rather than electric vehicles, the prismatic format described as simplifying product layout versus coin-shaped cells, the higher temperature tolerance opening applications such as medical-equipment sterilization, and parallel acceleration of cylindrical cell development for humanoid robots, with the announcement made by chief technology officer Shoichiro Watanabe at an industry conference in Chiba, Japan.
+  url: https://www.channelnewsasia.com/business/panasonic-energy-develops-solid-state-battery-can-operate-150-degrees-celsius-6372861
+
+- date: '2026-09-08'
+  title: Hexagon launches ENSPEC entry-level bridge CMM for UK and EMEA with PC-DMIS, 520 mm/s 3D velocity and TRICISION frame
+  source: Metrology News / Hexagon Manufacturing Intelligence
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Hexagon Manufacturing Intelligence's Stationary Metrology Division launched ENSPEC, a professional-grade bridge coordinate measuring machine for the UK and EMEA markets aimed at manufacturers and subcontractors bringing measurement in-house or upgrading an existing quality operation, making it a concrete entry-level CMM hardware signal directly relevant to the competitive CMM market rather than generic coverage; cited specifics include construction on the same TRICISION triangular frame, granite base, and air-bearing design as Hexagon's established bridge CMM range, maximum 3D velocity of 520 mm/s and acceleration of 1,730 mm/s2, operation on industry-standard PC-DMIS software, a clear upgrade path across sensor and software options, and positioning to move smaller manufacturers from manual tools to professional metrology.
+  url: https://metrology.news/hexagon-enspec-opens-a-new-entry-point-to-professional-cmm-metrology/
+
+- date: '2026-09-08'
+  title: Hexagon takes full ownership of Wuhan ZG Automation Technology to consolidate handheld 3D scanning into a single portable metrology platform
+  source: Metrology News / Hexagon
+  sector: scientific_metrology
+  kind: industry_news
+  summary: Metrology News reports Hexagon acquired the remaining 49 percent of Wuhan ZG Automation Technology Co Ltd, bringing its ownership of the China-based 3D scanning specialist to 100 percent after taking a 51 percent majority stake in August 2021, making it a concrete portable-metrology consolidation signal rather than generic M&A coverage; cited specifics include unrestricted access to ZG intellectual property to remove barriers to joint R&D, consolidation of handheld scanning into a single unified platform across the Manufacturing Intelligence portfolio, positioning ZG as a centre of excellence for portable metrology with Wuhan as a global technology-build site, and a ZG portfolio spanning quality inspection, reverse engineering, and complex-part digitization across automotive, aerospace, rail, heavy industry, casting, medical, and research applications.
+  url: https://metrology.news/hexagon-takes-full-ownership-of-zg-technology-to-accelerate-portable-metrology/
+
+- date: '2026-09-08'
+  title: Sensofar launches S neox 6 optical 3D surface metrology platform combining confocal, interferometry, AI focus variation and spectroscopic reflectometry
+  source: Metrology News / Sensofar
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports Sensofar introduced the S neox 6, the latest generation of its optical 3D surface metrology platform, combining Confocal, Interferometry (PSI, ePSI, and CSI modes), AI Focus Variation, and Spectroscopic Reflectometry in one system, making it a measurable optical-surface-metrology hardware signal rather than generic instrumentation coverage; cited specifics include faster acquisition and advanced algorithms with automation features such as autofocus and automated leveling, support for smooth to very rough surfaces, transparent thin films, and layered materials, target applications across semiconductors, photonics, precision manufacturing, medical devices, and aerospace, and positioning by president and CTO Roger Artigas around measuring a wider range of surfaces with higher throughput while maintaining 3D data quality.
+  url: https://metrology.news/sensofar-introduces-next-generation-optical-3d-surface-metrology-platform/
+
 - date: '2026-09-07'
   title: Volkswagen to sell Osnabrück plant to Aurelius and Lower Saxony for conversion into Rafael-anchored air-defense manufacturing hub
   source: Volkswagen Group / Rafael Advanced Defense Systems
