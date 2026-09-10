@@ -1,4 +1,12 @@
 ---
+- date: '2026-09-10'
+  title: 'Anthropic introduces Model Hardware Standard research preview for AI agents to control manufacturing and laboratory equipment via MCP'
+  source: Metrology News / Anthropic
+  sector: quality_software
+  kind: standards_method
+  summary: 'Metrology News reports Anthropic introduced a research preview of the Model Hardware Standard (MHS), a specification enabling AI agents to discover, understand, and command physical equipment such as robotic arms, microscopes, and other laboratory and manufacturing devices through a standardized software driver exposing common read and write operations, making it a concrete AI-agent-to-equipment interface signal directly relevant to automated quality assurance rather than generic AI coverage; cited specifics include access through established protocols such as the Model Context Protocol (MCP), model-agnostic design not tied to any specific AI model, Doosan Robotics testing MHS with robotic arms for automated quality assurance and multi-robot coordination, additional research-preview partners including Universal Robots, Danaher, Tecan, QIAGEN, and MBF Bioscience, and the standard remaining a research preview pending safety evaluations and open-source release, with no production inspection application or measurement performance data yet provided.'
+  url: https://metrology.news/anthropic-develops-standard-for-ai-agents-to-control-manufacturing-equipment/
+
 - date: '2026-09-09'
   title: 'Panasonic Energy develops solid-state battery operating up to 150 C with new small prismatic cell, sample shipments from October 2026'
   source: Channel News Asia / Panasonic Energy
