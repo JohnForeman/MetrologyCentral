@@ -7,6 +7,33 @@
   summary: 'Metrology News reports Anthropic introduced a research preview of the Model Hardware Standard (MHS), a specification enabling AI agents to discover, understand, and command physical equipment such as robotic arms, microscopes, and other laboratory and manufacturing devices through a standardized software driver exposing common read and write operations, making it a concrete AI-agent-to-equipment interface signal directly relevant to automated quality assurance rather than generic AI coverage; cited specifics include access through established protocols such as the Model Context Protocol (MCP), model-agnostic design not tied to any specific AI model, Doosan Robotics testing MHS with robotic arms for automated quality assurance and multi-robot coordination, additional research-preview partners including Universal Robots, Danaher, Tecan, QIAGEN, and MBF Bioscience, and the standard remaining a research preview pending safety evaluations and open-source release, with no production inspection application or measurement performance data yet provided.'
   url: https://metrology.news/anthropic-develops-standard-for-ai-agents-to-control-manufacturing-equipment/
 
+- date: '2026-09-10'
+  title: 'Ford invests USD 1B in a new paint shop at Kentucky Truck Plant, its largest and most profitable U.S. plant'
+  source: The Lane Report / Ford Motor Company
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Lane Report reports Ford Motor Company plans to invest USD 1 billion in a new state-of-the-art paint shop at its Kentucky Truck Plant in Louisville, replacing the existing paint shop and modernizing one of its most important U.S. manufacturing operations; cited specifics include groundbreaking planned by the end of 2026, the plant producing Ford Super Duty F-250 through F-550 trucks plus the Ford Expedition and Lincoln Navigator with about 8,900 employees as of June including more than 8,300 hourly workers, a truck rolling off the line roughly every 45 seconds, and the investment adding to Ford's other Kentucky projects including about USD 2 billion to transform Louisville Assembly Plant for the Universal EV Platform and the Ford Fathom midsize electric pickup and about USD 2 billion at Ford Energy Systems in Glendale for battery energy storage, with Ford employing more than 11,500 people across the commonwealth.
+  url: https://www.lanereport.com/189357/2026/09/ford-kentucky-truck-plant-1-billion-investment-louisville/
+
+- date: '2026-09-10'
+  title: 'Aerospacelab wins EUR 2.4B contract to build 264 LEO satellites for EU IRIS2 secure-connectivity constellation'
+  source: Aerospacelab / Via Satellite
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Aerospacelab reports it was selected by the Eutelsat-led SpaceRISE consortium as prime contractor for the low-Earth-orbit segment of the European Commission IRIS2 programme, with a EUR 2.4 billion (about USD 2.8 billion) contract to design, manufacture, and deliver 264 LEO satellite platforms out of the constellation's 348 satellites, or 76 percent, making it the single largest disclosed manufacturing allocation for IRIS2 and a quantified European satellite-manufacturing capacity signal; cited specifics include dual Ku/Ka-band payloads, first launches from 2029 and full secure-connectivity services by 2030, the award following the August 2026 implementation-phase agreement with the SpaceRISE consortium, and complementary orders for Airbus to build 66 LEO satellites and Thales Alenia Space to supply payloads across the constellation.
+  url: https://www.aerospacelab.com/blog/press-releases-1/aerospacelab-awarded-2-4-billion-landmark-contract-to-build-264-leo-satellites-for-iris2-38
+
+- date: '2026-09-10'
+  title: 'China temporarily halts new power and energy-storage battery factory construction pending year-end capacity review'
+  source: The Straits Times / Caixin
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Straits Times reports China has temporarily suspended construction of new power and energy-storage battery projects pending a year-end review of industry capacity, a quantified battery-manufacturing supply-chain signal rather than generic policy coverage; cited specifics include about 100 new battery expansion projects signed between January and July 2026 with combined annual capacity of about 2,608.5 GWh, exceeding the 1,755.6 GWh of total output recorded in 2025, already-approved or under-construction projects expected to proceed while planning-stage projects could be suspended, the move following two earlier 2026 regulator warnings against excess capacity growth, and Morgan Stanley analysts expecting the policy to accelerate industry consolidation with Contemporary Amperex Technology running a 95 percent utilisation rate in the first half of 2026 versus a 65 percent industry average.
+  url: https://www.straitstimes.com/asia/east-asia/china-halts-new-battery-factories-on-capacity-concerns-report
+
 - date: '2026-09-09'
   title: 'Panasonic Energy develops solid-state battery operating up to 150 C with new small prismatic cell, sample shipments from October 2026'
   source: Channel News Asia / Panasonic Energy
@@ -38,6 +65,15 @@
   kind: hardware_news
   summary: Metrology News reports Sensofar introduced the S neox 6, the latest generation of its optical 3D surface metrology platform, combining Confocal, Interferometry (PSI, ePSI, and CSI modes), AI Focus Variation, and Spectroscopic Reflectometry in one system, making it a measurable optical-surface-metrology hardware signal rather than generic instrumentation coverage; cited specifics include faster acquisition and advanced algorithms with automation features such as autofocus and automated leveling, support for smooth to very rough surfaces, transparent thin films, and layered materials, target applications across semiconductors, photonics, precision manufacturing, medical devices, and aerospace, and positioning by president and CTO Roger Artigas around measuring a wider range of surfaces with higher throughput while maintaining 3D data quality.
   url: https://metrology.news/sensofar-introduces-next-generation-optical-3d-surface-metrology-platform/
+
+- date: '2026-09-08'
+  title: 'L3Harris receives USD 4.7B seven-year PAC-3 MSE propulsion contract from Lockheed Martin'
+  source: L3Harris
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    L3Harris Technologies reports it received an undefinitized contract award from Lockheed Martin valued at USD 4.7 billion over seven years to produce propulsion systems for the PAC-3 Missile Segment Enhancement interceptor, its largest PAC-3 propulsion award to date and a quantified missile-defense manufacturing-capacity signal rather than a generic contract notice; cited specifics include production of the MSE interceptor's advanced two-pulse solid rocket motor, Lethality Enhancer, and Attitude Control Motors, alignment with the long-term framework agreement established with the Department of War, two new facilities broken ground in June 2026 at its Camden, Arkansas site expected to be operational in 2027, earlier Camden investments including dedicated bays and automated digital X-ray systems, and a broader footprint of about 60 new facilities adding more than one million square feet of manufacturing space across Alabama, Virginia, and Arkansas.
+  url: https://www.l3harris.com/newsroom/press-release/2026/09/l3harris-receives-pac-3-mse-propulsion-arsenal-of-freedom
 
 - date: '2026-09-07'
   title: Volkswagen to sell Osnabrück plant to Aurelius and Lower Saxony for conversion into Rafael-anchored air-defense manufacturing hub
