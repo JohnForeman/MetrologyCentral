@@ -1,4 +1,31 @@
 ---
+- date: '2026-09-11'
+  title: 'Audi begins production of A2 e-tron in Ingolstadt with development time cut 21 months and string-of-pearls sequencing'
+  source: Audi
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Audi reports it began series production of the fully electric A2 e-tron at its Ingolstadt plant, making it a concrete EV manufacturing-process signal rather than a generic product launch; cited specifics include a development-to-production-readiness timeline 21 months shorter than prior vehicle projects, a significant reduction in production-relevant part numbers and logistics supermarkets through the string-of-pearls sequencing principle applied in Ingolstadt for the first time, a fixed customer-order sequence set six days before assembly so suppliers can produce parts in the correct order and pack them in designated containers, body production shared with the Audi A3 through a flexible facility layout, deployment of the Edge Cloud 4 Production platform as a step toward a fully connected factory, and AI assistants supporting employees in information retrieval, with existing equipment and production facilities continuing in use.
+  url: https://www.audi.com/en/press-releases/audi-begins-production-of-the-a2-e-tron-greater-speed-efficiency-and-competitiveness-18332
+
+- date: '2026-09-11'
+  title: 'Stratasys wins USD 7.8M America Makes/DoW award for in-situ quality monitoring on F3300 and F900 FDM platforms'
+  source: Metrology News / Stratasys / America Makes
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    Metrology News reports Stratasys was awarded USD 7.8 million through the 2026 America Makes and Department of War Organic Industrial Base Modernization Challenge to advance on-site quality assurance for its F3300 and F900 industrial FDM additive-manufacturing platforms, making it a concrete in-situ AM quality-monitoring signal rather than generic AM funding coverage; cited specifics include a 24-month award to generate real-time process data during builds, a goal of reducing reliance on costly post-build inspection and qualification to scale additive production and expand capacity, and positioning within the America Makes role as the national additive-manufacturing innovation institute supporting defense industrial base production, sustainment, and supply-chain applications.
+  url: https://metrology.news/stratasys-targets-scalable-additive-production-with-in-situ-quality-monitoring/
+
+- date: '2026-09-10'
+  title: 'Hanwha Aerospace signs USD 477M (EUR 410M) deal to export 18 Chunmoo MLRS to Croatia'
+  source: Yonhap News Agency / DAPA / Hanwha Aerospace
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Yonhap News Agency reports Hanwha Aerospace signed a contract with the Croatian defence ministry to export 18 Chunmoo multiple launch rocket systems worth approximately 640 billion won (US$477 million / EUR 410 million), making it a quantified defense-manufacturing export signal rather than a generic arms-export notice; cited specifics include the first major arms deal between South Korea and Croatia, Croatia becoming the fourth European country to operate the Chunmoo after Poland, Estonia, and Norway, a package covering 18 launchers, ammunition carriers, fire-direction command vehicles, and integrated logistics support with multiple short-, medium-, and long-range precision-guided rockets plus training and lifecycle support, deliveries continuing through 2030, and a related South Korea-Croatia defense-partnership memorandum of understanding.
+  url: https://en.yna.co.kr/view/AEN20260910005651315
+
 - date: '2026-09-10'
   title: 'Anthropic introduces Model Hardware Standard research preview for AI agents to control manufacturing and laboratory equipment via MCP'
   source: Metrology News / Anthropic
