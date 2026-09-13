@@ -1,4 +1,22 @@
 ---
+- date: '2026-09-12'
+  title: 'GM invests USD 900M in Detroit battery labs to develop domestic sodium-ion cells with Peak Energy toward 2029 production'
+  source: 'CNBC / General Motors'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    CNBC reports General Motors battery and sustainability VP Kurt Kelty said the automaker is investing USD 900 million in new battery lab facilities at its global technical campus in suburban Detroit and developing next-generation sodium-ion cells with Denver startup Peak Energy, a quantified U.S. battery-supply-chain localization signal rather than generic EV coverage; cited specifics include a more-than-500,000-square-foot cell prototyping and manufacturing facility beginning operations later this year, commercial production of sodium-ion cells targeted around 2029 using sodium from domestic soda ash instead of China-dominated lithium and ferrous sulfate, a goal of a fully domestic battery supply chain within two to three years, sodium-ion cells positioned for energy-storage systems and future all-electric vehicles, and parallel context of U.S. Transportation Secretary Sean Duffy citing profound concern over Ford licensing CATL LFP cell technology, with Kelty framing the effort as an attempt to leapfrog Chinese battery supply chains.
+  url: https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html
+
+- date: '2026-09-11'
+  title: 'Northrop Grumman opens East Gate 3 B-21 Raider facility in Layton, Utah, adding 845,000 sq ft and up to 1,500 jobs by 2032'
+  source: 'Defence Industry Europe / Northrop Grumman'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Northrop Grumman opened its East Gate 3 manufacturing facility in Layton, Utah on September 9 to expand capacity for key B-21 Raider components as the U.S. Air Force accelerates sixth-generation stealth-bomber production, a quantified defense-manufacturing capacity signal rather than generic ribbon-cutting; cited specifics include an East Gate campus of about 845,000 square feet with capacity for up to 1,500 engineering and manufacturing employees by 2032, a combined Northrop manufacturing footprint across Layton and nearby Clearfield exceeding 2 million square feet, Clearfield also supporting the F-35 Lightning II, Sentinel ICBM, and Airbus A350 XWB programs, and alignment with a February 2026 Department of the Air Force decision using USD 4.5 billion in previously authorized funding to raise annual B-21 production capacity by 25 percent ahead of first operational aircraft at Ellsworth Air Force Base in 2027.
+  url: https://defence-industry.eu/northrop-grumman-says-new-utah-factory-will-accelerate-b-21-raider-production-with-east-gate-capacity-for-1500-workers-by-2032/
+
 - date: '2026-09-11'
   title: 'Audi begins production of A2 e-tron in Ingolstadt with development time cut 21 months and string-of-pearls sequencing'
   source: Audi
@@ -70,6 +88,15 @@
   url: https://www.channelnewsasia.com/business/panasonic-energy-develops-solid-state-battery-can-operate-150-degrees-celsius-6372861
 
 - date: '2026-09-08'
+  title: 'GE Aerospace to acquire Consolidated Precision Products for USD 11.75B to expand mission-critical castings capacity'
+  source: 'GE Aerospace'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    GE Aerospace reports it signed a definitive agreement to acquire Consolidated Precision Products (CPP), a leading manufacturer of highly engineered castings, from Warburg Pincus and Berkshire Partners for USD 11.75 billion, a quantified aerospace-and-defense casting-capacity signal rather than a generic M&A notice; cited specifics include financing via USD 7 billion in cash with the remainder in new debt, a valuation of about 18x CPP's 2027 EBITDA including expected net synergies versus about 26x without, roughly 6,600 employees across more than 20 facilities, an estimated 2027 revenue of about USD 2 billion split about 60 percent commercial aerospace, 20 percent defense, and 20 percent power and other markets, CPP as a 15-plus-year supplier on LEAP, GEnx, T700, F110, and F404 programs producing superalloy, titanium, aluminum, magnesium, and steel investment and precision sand castings, and expected closing in the second half of 2027 subject to regulatory approvals.
+  url: https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical
+
+- date: '2026-09-08'
   title: Hexagon launches ENSPEC entry-level bridge CMM for UK and EMEA with PC-DMIS, 520 mm/s 3D velocity and TRICISION frame
   source: Metrology News / Hexagon Manufacturing Intelligence
   sector: scientific_metrology
@@ -101,6 +128,15 @@
   summary: >-
     L3Harris Technologies reports it received an undefinitized contract award from Lockheed Martin valued at USD 4.7 billion over seven years to produce propulsion systems for the PAC-3 Missile Segment Enhancement interceptor, its largest PAC-3 propulsion award to date and a quantified missile-defense manufacturing-capacity signal rather than a generic contract notice; cited specifics include production of the MSE interceptor's advanced two-pulse solid rocket motor, Lethality Enhancer, and Attitude Control Motors, alignment with the long-term framework agreement established with the Department of War, two new facilities broken ground in June 2026 at its Camden, Arkansas site expected to be operational in 2027, earlier Camden investments including dedicated bays and automated digital X-ray systems, and a broader footprint of about 60 new facilities adding more than one million square feet of manufacturing space across Alabama, Virginia, and Arkansas.
   url: https://www.l3harris.com/newsroom/press-release/2026/09/l3harris-receives-pac-3-mse-propulsion-arsenal-of-freedom
+
+- date: '2026-09-07'
+  title: 'Renishaw launches next-generation RLE interferometric laser encoders for semiconductor motion control down to +/-0.2 nm'
+  source: 'Renishaw / Metrology News'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Renishaw reports it launched a next-generation RLE laser interferometer encoder family comprising RLE100, RLE200, and RLE300 for precision position feedback in semiconductor manufacturing motion control, a measurable metrology-hardware signal rather than generic encoder coverage; cited specifics include the RLE300 reaching measurement uncertainty down to +/-0.2 nm with enhanced frequency stability, reduced electronic noise, and automatic sub-divisional error correction, the RLE200 adding automatic SDE correction for higher-performance and vacuum applications, the RLE100 as a direct successor to the RLE10 for in-air use, a doubled operating range to an angular range of +/-400 microrad and a linear range of 2 m, compatibility with existing mechanical mounting for drop-in upgrades from RLE10 and RLE20, and debut at SEMICON Taiwan 2026 and SEMICON West 2026.
+  url: https://metrology.news/renishaw-launches-next-generation-interferometric-laser-encoders-for-advanced-semiconductor-manufacturing-motion-control/
 
 - date: '2026-09-07'
   title: Volkswagen to sell Osnabrück plant to Aurelius and Lower Saxony for conversion into Rafael-anchored air-defense manufacturing hub
