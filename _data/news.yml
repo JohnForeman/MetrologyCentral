@@ -1,4 +1,158 @@
 ---
+- date: '2026-09-15'
+  title: 'Vision Engineering launches EVO Cam AURA 4K digital microscope to succeed EVO Cam II'
+  source: 'Metrology News / Vision Engineering'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Vision Engineering introduced EVO Cam AURA, a digital microscope platform for industrial
+    inspection, quality control, and laboratory analysis that succeeds the EVO Cam II and moves the range to true 4K
+    imaging with inspection, measurement, and reporting in one continuous on-screen workflow, making it a concrete
+    visual-inspection hardware update rather than generic microscope coverage; cited specifics include three models
+    (4K Touch, 4K, and HD with keypad control) with a choice of illumination, objectives, stands, and connectivity,
+    standalone operation without a PC plus Wi-Fi or LAN connection and live streaming, restricted-environment variants
+    for sites where wireless connectivity, Bluetooth, or removable media are not permitted, bespoke optics and optical
+    zoom that move from overview to close detail without a lens change, integrated autofocus and focus stacking for
+    uneven or complex parts, AURA software combining zoom, focus, lighting, image control, capture, measurement, and
+    analysis in one interface, intelligent auto-recognition of magnification and measurement scaling, lighting recall
+    when the ringlight changes, metadata-based comparison of live images to a golden sample, Supervisor Mode parameter
+    locking and presets shareable across systems and sites, pulse, curtain, and synchronised comparison modes,
+    customisable go/no-go overlays built into presets, an optional Oblique and Direct Viewer accessory, and target
+    applications spanning electronics, automotive, aerospace, medical device, and laboratory inspection.
+  url: https://metrology.news/vision-engineering-moves-evo-cam-to-4k-with-new-aura-digital-microscope/
+
+- date: '2026-09-14'
+  title: 'Artec 3D launches Artec Neo tolerance-driven wireless scanner with 0.025 mm accuracy'
+  source: 'ManufacturingTomorrow / Artec 3D'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Artec 3D announced the launch of Artec Neo, described as the first tolerance-driven wireless 3D scanner for quality
+    inspection and reverse engineering, applying metrology-grade accuracy only where design intent requires it while
+    capturing the entire part, making it a measurable portable-metrology workflow change rather than a generic scanner
+    announcement; cited specifics include metrology-grade accuracy of 0.025 mm and volumetric accuracy of 0.025 mm plus
+    0.035 mm per metre, full-colour 3D capture of the whole part at up to 0.05 mm resolution, a proprietary blue-light
+    optical system with a single hybrid tracking architecture that uses targets as metrology anchors while AI algorithms
+    maintain tracking from geometry, texture, and colour without switching between separate technologies or datasets,
+    target-free scanning at up to 0.05 mm resolution where metrology-grade accuracy is not required, tethered or fully
+    wireless operation with up to 50 minutes of battery-powered scanning and Wi-Fi connectivity, a planned iOS and
+    Android companion app, accuracy verified in an independent laboratory operating to ISO/IEC 17025 principles with
+    VDI/VDE 2634 Part 3 test methods and automated robotic testing, an individual verification certificate shipped with
+    every scanner, Artec Studio processing with integration to SOLIDWORKS, Geomagic, and PolyWorks, debut at IMTS 2026
+    in Chicago at booth 134246, and immediate availability through the Artec 3D reseller network.
+  url: https://www.manufacturingtomorrow.com/news/2026/09/14/artec-3d-launches-artec-neo-and-introduces-tolerance-driven-3d-scanning/28187/
+
+- date: '2026-09-14'
+  title: 'Lumafield launches Saturn large-format industrial CT scanner for 580 mm diameter parts up to 1,100 mm high'
+  source: 'Metrology News / Lumafield'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Lumafield launched Saturn, a large-format industrial X-ray CT scanner that captures internal
+    quality data from large, dense components and complex assemblies, making it a measurable industrial-CT hardware
+    signal rather than generic X-ray coverage; cited specifics include the largest scannable volume of any Lumafield
+    scanner with helical scans of parts up to 580 mm in diameter and 1,100 mm high, capacity for full transmission
+    cases, engine blocks, and structural assemblies without disassembly, fit through a standard double door without
+    facility modification or special access, a 225 kV high-energy closed-tube X-ray source that penetrates up to 100 mm
+    of light metals such as aluminium and magnesium and up to 25 mm of heavy metals such as steel and iron, offset,
+    helical, and combined offset-and-helical reconstruction workflows as standard, an Auto-scan feature that removes
+    the need for a CT technician with team training achievable in a single day, closed-tube operation with annual
+    servicing and no routine maintenance, cloud-based Voyager integration supporting autoscan, full-height radiographs,
+    batch scanning, automated defect detection, and dimensional analysis of high-value metal components, and target use
+    across automotive, aerospace, electronics, data-centre, and heavy-machinery first-article inspection and PPAP
+    cycles.
+  url: https://metrology.news/lumafield-launches-saturn-large-format-industrial-ct-scanner/
+
+- date: '2026-09-14'
+  title: 'U.S. Navy awards Boeing USD 562M first MQ-25A Stingray production contract for three LRIP Lot 1 aircraft'
+  source: 'U.S. Navy / Naval Air Systems Command'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Navy awarded Boeing a USD 562 million fixed-price incentive contract for the first Low Rate Initial
+    Production Lot 1 MQ-25A Stingray aircraft, moving the carrier-based unmanned tanker from development and testing
+    into production, making it a quantified defense-aircraft production-transition signal rather than a generic program
+    update; cited specifics include funding for three Lot 1 aircraft plus advance acquisition of long lead components
+    for three Lot 2 aircraft, initial Lot 1 deliveries expected to begin in 2029, a program of record of 76 air vehicles
+    including four Engineering Development Models and five System Demonstration Test Articles, seven test aircraft
+    currently in production at Boeing's St. Louis site and its dedicated MQ-25 production facility in Mascoutah,
+    Illinois, a May 2026 Milestone C approval that cleared the program to enter the Production and Deployment phase,
+    the MQ-25A as the Defense Department's first unmanned tanker and the Navy's first operational carrier-based unmanned
+    aircraft, continuing work to reduce technical and program risk before future production awards, and full-rate
+    production decisions to follow the low-rate awards.
+  url: https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4600670/first-production-contract-awarded-for-mq-25a-stingray/
+
+- date: '2026-09-14'
+  title: 'Pentagon awards Nitradyn USD 581M to build IMX-104 insensitive-munitions plant in Graham, Kentucky'
+  source: 'The Defense Post / Nitradyn / U.S. Department of War'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Defense Post reports the Pentagon awarded Nitradyn a USD 581 million contract to design, construct, and
+    commission an Insensitive Munition Explosive-104 (IMX-104) production facility in Graham, Kentucky before the end
+    of 2030, making it a quantified domestic energetics and munitions capacity signal rather than generic contract
+    coverage; cited specifics include annual output of approximately 8 million pounds of IMX-104 with excess capacity to
+    produce other formulations, production of the constituent explosives RDX, NTO, and DNAN plus the critical explosive
+    HMX using modern explosives manufacturing processes, co-location on the same site as the U.S. Army's upcoming TNT
+    production facility that is set to become the first domestic U.S. TNT source since the 1980s, and Nitradyn as a
+    Florida-based company founded in 2025 as a joint venture between Dyno Nobel and Paligen Chemical supplying
+    explosives, propellants, and energetic materials to defense and industrial customers.
+  url: https://thedefensepost.com/2026/09/14/nitradyn-insensitive-munitions-production-kentucky/
+
+- date: '2026-09-14'
+  title: 'Castelion receives U.S. Navy production delivery order for Blackbeard hypersonic weapons valued up to USD 200M'
+  source: 'Castelion / PR Newswire / U.S. Navy'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Castelion announced a U.S. Navy production delivery order valued at up to USD 200 million to manufacture, assemble,
+    test, and deliver an initial lot of Blackbeard hypersonic weapons to the fleet, following the 50 Early Operational
+    Capability weapons ordered in June 2026, making it a quantified transition from prototype rounds to production
+    rounds rather than a generic contract notice; cited specifics include award by Portfolio Acquisition Executive
+    Aviation through its Future Capability Development and Integration Aviation Rapid Capabilities Cell under a Small
+    Business Innovation Research Phase III award, the number of production rounds and the delivery date not disclosed,
+    Blackbeard as an air-launched hypersonic weapon for maritime and land targets that increases magazine depth,
+    integration priority on the F/A-18E/F Super Hornet, development funded with hundreds of millions of dollars of
+    private investment alongside U.S. Navy, Army, and Air Force partnerships, and a production strategy built on
+    vertical integration and commercial manufacturing methods to control cost, quality, and schedule from raw material
+    to finished round.
+  url: https://www.prnewswire.com/news-releases/castelion-moves-blackbeard-into-production-with-us-navy-order-valued-up-to-200-million-302878187.html
+
+- date: '2026-09-14'
+  title: 'Hankook invests EUR 540M to add first European truck and bus tyre line with 800,000-unit capacity in Hungary'
+  source: 'Hankook Tire / IAA Transportation'
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Hankook presented the first pre-production tyre from its new commercial-vehicle tyre line at the Racalmas, Hungary
+    plant and said truck and bus tyre production in Europe begins there in October 2026, making it a quantified
+    European automotive supplier capacity signal rather than a generic product announcement; cited specifics include
+    EUR 540 million invested in the fourth expansion stage, annual output of more than 800,000 units, roughly 66,000
+    square metres of new production and ancillary buildings constructed since 2024, approximately EUR 856 million
+    invested at the site across three earlier expansion stages since 2007, existing capacity of up to 17 million
+    passenger car, SUV, and light commercial vehicle tyres per year, Europe accounting for about 45 percent of the
+    company's global sales, and proximity to core European markets cited for securing supply chains, shortening
+    delivery times, and reducing logistics costs.
+  url: https://www.hankooktire-mediacenter.com/press-release/news/hankook-presents-first-pre-production-tyre-from-new-production-line-for-commercial-vehicle-tyres-in-hungary-1
+
+- date: '2026-09-14'
+  title: 'HS Hyosung Energy Solution Korea to invest KRW 1.2T in Ulsan silicon anode plant with 5,000 t/yr first line by Q1 2028'
+  source: 'Seoul Economic Daily / HS Hyosung / Ulsan Metropolitan City'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Seoul Economic Daily reports HS Hyosung Energy Solution Korea, a joint venture between HS Hyosung Group and
+    Belgium's Umicore, signed a memorandum of understanding with the Ulsan city government to build a silicon anode
+    material plant in the Ulsan-Mipo National Industrial Complex, making it a quantified next-generation battery
+    materials capacity signal rather than generic investment coverage; cited specifics include a total investment of
+    KRW 1.2 trillion (about USD 860 million) made in three stages to establish mass production of silicon anode
+    material by 2030, a first-stage KRW 300 billion spend to complete plant MPK-1 with 5,000 tons of annual capacity by
+    the first quarter of 2028, silicon anode positioning for higher energy density and faster charging than
+    conventional graphite anodes to extend electric-vehicle range and shorten charging times, hiring priority for Ulsan
+    residents during construction and operation, local-government administrative support for permits and licences, and
+    the group's first new business venture since its corporate separation.
+  url: https://en.sedaily.com/finance/2026/09/14/hs-hyosung-unit-to-invest-12-trillion-won-in-ulsan-silicon
+
 - date: '2026-09-12'
   title: 'GM invests USD 900M in Detroit battery labs to develop domestic sodium-ion cells with Peak Energy toward 2029 production'
   source: 'CNBC / General Motors'
@@ -78,6 +232,61 @@
   summary: >-
     The Straits Times reports China has temporarily suspended construction of new power and energy-storage battery projects pending a year-end review of industry capacity, a quantified battery-manufacturing supply-chain signal rather than generic policy coverage; cited specifics include about 100 new battery expansion projects signed between January and July 2026 with combined annual capacity of about 2,608.5 GWh, exceeding the 1,755.6 GWh of total output recorded in 2025, already-approved or under-construction projects expected to proceed while planning-stage projects could be suspended, the move following two earlier 2026 regulator warnings against excess capacity growth, and Morgan Stanley analysts expecting the policy to accelerate industry consolidation with Contemporary Amperex Technology running a 95 percent utilisation rate in the first half of 2026 versus a 65 percent industry average.
   url: https://www.straitstimes.com/asia/east-asia/china-halts-new-battery-factories-on-capacity-concerns-report
+
+- date: '2026-09-10'
+  title: 'General Atomics invests USD 87M in Shannon, Mississippi for 200,000 sq ft munitions plant and Vektrex production'
+  source: 'Area Development / Mississippi Development Authority / General Atomics'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Area Development reports General Atomics is expanding its Shannon, Mississippi operations with a USD 87 million
+    investment to build a 200,000-square-foot manufacturing facility that will expand production capability for
+    advanced weapons systems including Vektrex, a maneuvering 155 mm precision-guided munition, and other
+    precision-strike programs, making it a quantified defense-manufacturing capacity signal rather than a generic
+    expansion notice; cited specifics include 125 new jobs in Lee County, operations scheduled to begin in 2028,
+    Mississippi Development Authority assistance with site preparation and construction costs plus support through the
+    Mississippi Flexible Tax Incentive program, Lee County assistance on the project, the company's 15th expansion in
+    Lee County since establishing its Electromagnetic Systems Group Manufacturing Center of Excellence in Shannon in
+    2005, and a prior March 2026 USD 25 million investment to update and expand the advanced weapons production line
+    with new fully automated computer numerical control machines.
+  url: https://www.areadevelopment.com/newsItems/9-14-2026/general-atomics-shannon-mississippi.shtml
+
+- date: '2026-09-10'
+  title: 'GM invests more than USD 40M at Bedford Casting Operations for 10-speed transmission castings and engine blocks'
+  source: 'WBIW / General Motors'
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    WBIW reports General Motors is investing more than USD 40 million at its Bedford Casting Operations in Indiana to
+    support production of 10-speed transmissions for full-size trucks and SUVs while expanding capacity for existing
+    8-speed transmissions and engine block production, making it a quantified U.S. powertrain casting-capacity signal
+    rather than generic plant-investment coverage; cited specifics include work beginning immediately with regular
+    production expected to start in 2027, the site's role as GM's aluminium die-casting foundry producing cylinder
+    blocks, transmission cases, structural components, and drive unit housings for Chevrolet, Buick, GMC, and Cadillac
+    vehicles, and earlier GM Bedford investments of more than USD 51 million announced in 2021 and USD 45 million
+    announced in 2022.
+  url: https://www.wbiw.com/2026/09/10/gm-to-invest-40-million-in-bedford-casting-operations/
+
+- date: '2026-09-10'
+  title: 'NIST transition-edge quantum sensors cut uranium, neptunium, and plutonium X-ray measurement uncertainty up to eightfold'
+  source: 'NIST / Physical Review Letters'
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    NIST reports researchers measured X-ray emissions from uranium, plutonium, and neptunium with unprecedented
+    accuracy using arrays of transition edge sensors (TESs), superconducting films held a fraction of a degree above
+    absolute zero whose resistance rises measurably when a single X-ray photon strikes them, making it a quantified
+    measurement-science advance for nuclear material monitoring rather than generic quantum-sensor coverage; cited
+    specifics include reduction of X-ray energy measurement uncertainty by one third to one eighth compared with
+    previous measurements in the energy range where X-ray lines overlap with gamma-ray emissions, improved ability to
+    subtract obscuring X-ray background so gamma-ray detectors can characterise nuclear materials more accurately,
+    faster assessment of isotope ratios used to indicate whether material is intended for a power plant or a weapon,
+    shorter hold-up time between nuclear fuel processing steps with potential efficiency and cost benefits at power
+    plants, TES detector installations with Los Alamos National Laboratory at three Department of Energy laboratories
+    plus use at SLAC, the Advanced Photon Source, and the National Synchrotron Light Source, two U.S. companies now
+    manufacturing a NIST-designed compact refrigeration system for the sensors, and publication in Physical Review
+    Letters online on September 10, 2026.
+  url: https://www.nist.gov/news-events/news/2026/09/nist-developed-quantum-sensors-improve-nuclear-monitoring
 
 - date: '2026-09-09'
   title: 'Panasonic Energy develops solid-state battery operating up to 150 C with new small prismatic cell, sample shipments from October 2026'
@@ -295,14 +504,6 @@
   kind: industry_news
   summary: Aviation News reports Boeing and the U.S. Department of War established a seven-year framework agreement to expand manufacturing capacity for critical Standard Missile-3 components, making it a quantified missile-defense manufacturing-capacity signal rather than a generic contract notice; cited specifics include acceleration of avionics and canister ejection mechanisms for the SM-3 Block IB and Block IIA variants, RTX leading final assembly with Mitsubishi Heavy Industries as a Japanese industrial partner, defense planners intending to scale SM-3 annual deliveries from 100 toward a target of 250 units over the agreement, support for U.S. Navy warships and land-based Aegis Ashore sites in Romania and Poland, and coordination ahead of formalized multi-year procurement contracts.
   url: https://aviationnews.eu/news/2026/09/pentagon-and-boeing-partner-to-ramp-up-critical-standard-missile-3-production-for-exo-atmospheric-defense/
-
-- date: '2026-09-01'
-  title: U.S. Navy awards Castelion USD 90M for Blackbeard hypersonic weapon Early Operational Capability
-  source: Global Defense Corp / Castelion / U.S. Navy
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: Global Defense Corp reports the U.S. Navy awarded Castelion a USD 89,997,162 firm-fixed-price order to advance the Blackbeard hypersonic strike weapon toward Early Operational Capability by 2028, making it a quantified hypersonic-weapon manufacturing signal rather than a generic contract notice; cited specifics include engineering, technical, logistics, and manufacturing services supporting 50 EOC weapons and Blackbeard's transition to a Navy Program of Record, Defense Exportability Features design modifications to accelerate allied export, work in Torrance, California completed by August 2028, a design target of production cost below USD 500,000 per round, speeds above Mach 5 with up to 500 nautical miles of range, and integration priority on the F/A-18E/F Super Hornet fleet.
-  url: https://www.globaldefensecorp.com/2026/09/01/us-navy-awards-castelion-90-million-for-blackbeard-hypersonic-weapon-eoc/
 
 - date: '2026-08-31'
   title: OHB wins nearly EUR 1B contract from SES to build 18 MEO satellite platforms for EU IRIS2 constellation
@@ -3649,19 +3850,6 @@
     keeping 2027 Bolt EV launch on track by year-end, and adds Chevrolet Blazer production
     at Spring Hill in 2027 alongside Cadillac EV programs.
   url: https://investor.gm.com/news-releases/news-release-details/gm-invest-4-billion-its-us-manufacturing-plants/
-- date: '2026-03-20'
-  title: Lumafield expands industrial CT lineup with 15x faster Neptune Performance,
-    large-part Saturn, and inline Mars systems
-  source: Metrology News
-  sector: scientific_metrology
-  kind: hardware_news
-  summary: 'Metrology News reports Lumafield introduced three CT platforms spanning
-    metrology, large-part inspection, and in-line screening: Neptune Performance is
-    positioned at 15x faster scans with 4x data quality, Saturn is described as the
-    largest-volume industrial CT system sized to pass through a standard double door
-    and supports AMS-2175-compliant digital radiography for castings, and Mars targets
-    high-throughput production inspection.'
-  url: https://metrology.news/lumafield-expands-industrial-ct-platform-with-high-speed-metrology-large-part-and-inline-inspection-solutions/
 - date: '2026-03-20'
   title: ActionPlas deploys LK Altera M CMM for Formula 1 inspection work with 10-micron
     part-to-CAD tolerances
