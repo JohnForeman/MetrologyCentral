@@ -1,4 +1,179 @@
 ---
+- date: '2026-09-16'
+  title: 'Renishaw launches XC100 environmental compensator for 0.4 ppm laser calibration accuracy'
+  source: 'Metrology News / Renishaw'
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Renishaw launched the XC100 environmental compensator jointly at IMTS 2026 in
+    Chicago and AMB 2026 in Stuttgart, building on its established XC-80 technology to deliver real-time
+    automatic wavelength correction and an improved 0.4 ppm linear laser measurement accuracy; cited
+    specifics include measurement of air temperature, air pressure, and relative humidity with automatic
+    adjustment of the measured laser wavelength, measurement of material temperature so calibration results
+    from machines running at different temperatures can be normalised to a standard temperature,
+    compatibility with the XL-80 laser interferometer, the XM-60 and XM-600 multi-axis calibrators, and
+    CARTO software, support for any combination of air and material sensors to capture environmental
+    conditions throughout the machine volume, a high-resolution LCD touchscreen display, and versatile
+    mounting for a range of calibration applications.
+  url: https://metrology.news/renishaw-launches-xc100-for-higher-accuracy-laser-calibration/
+
+- date: '2026-09-16'
+  title: 'Nissan invests GBP 170M to build Kicks e-POWER hybrid SUV at Sunderland'
+  source: 'The Guardian / Nissan'
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Guardian reports Nissan will invest GBP 170 million (about USD 229 million) to assemble the Kicks
+    e-POWER compact hybrid SUV at its Sunderland plant for European markets, adding hybrid output alongside
+    the Qashqai, Juke, and Leaf; cited specifics include a plant employing about 6,000 people in Tyne and
+    Wear described by Nissan as the biggest car factory in the UK, no new jobs attached to the investment, a
+    condition that the move is subject to the UK weakening its electric-vehicle sales mandate, Nissan
+    restructuring to cut costs by closing plants, reducing jobs, and shelving some future models including
+    the electric Qashqai, and earlier UK government talks over financial support tied to a long-term
+    Sunderland commitment.
+  url: https://www.theguardian.com/business/2026/sep/16/sunderland-nissan-kicks-170m
+- date: '2026-09-16'
+  title: 'FARO CREAFORM adds handheld 3D scanner support and casting inspection workflows to CAM2'
+  source: 'Metrology News / FARO CREAFORM'
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Metrology News reports FARO CREAFORM released casting inspection enhancements for its CAM2 software
+    platform, extending existing FaroArm portable CMM and Vantage Laser Tracker integration to FARO CREAFORM
+    handheld 3D scanners so contact probing, optical scanning, automated repeat inspection routines, and
+    reporting run in a single environment; cited specifics include dimensional verification against 2D
+    drawings and 3D CAD models with GD&T analysis, digital validation of machining stock allowances on
+    raw and semi-finished castings before cutting begins to reduce scrap and prevent cutter collisions, a
+    new Smart Alignment workflow with Advanced Best Fit Alignment and material distribution optimisation,
+    enhanced colour mapping for comparing and sharing inspection results, virtual cross-section analysis of
+    internal features, and target use across automotive, aerospace, heavy equipment, energy, and general
+    manufacturing.
+  url: https://metrology.news/cam2-enhancements-integrate-handheld-3d-scanning-for-casting-inspection/
+
+- date: '2026-09-15'
+  title: 'Renault and Geely add EUR 319M Brazil investment as local Geely EX5 EM-i production starts'
+  source: 'Automotive World / Renault Geely do Brasil'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports Renault and Geely announced a further EUR 319 million (about USD 368 million)
+    investment in their Brazilian joint venture on September 15, taking combined 2025-to-2027 investment to
+    EUR 899 million, alongside the start of local production of the Geely EX5 EM-i Super Hybrid at the
+    Ayrton Senna complex in Sao Jose dos Pinhais, Parana; cited specifics include funding for a new
+    Renault-badged electric vehicle built on the Geely Global Intelligent Electric Architecture platform
+    and for the Renault E-Tech 4x4 flex-fuel hybrid powertrain, both entering production in 2027, local
+    assembly of the GEA-based Geely EX2 electric hatchback from December 2026, a plant update that positions
+    the complex for internal-combustion, flex-hybrid, and fully electric production, roughly 5,000 employees
+    across two plants, and the joint venture formed in November 2025 when Geely took a 26.4 percent stake in
+    Renault do Brasil.
+  url: https://www.automotiveworld.com/news/renault-and-geely-pledge-us368m-more-to-their-brazil-jv/
+
+- date: '2026-09-15'
+  title: 'Sicona invests USD 10.3M in first U.S. facility in New Orleans for silicon-carbon anode materials'
+  source: 'Louisiana Economic Development / Sicona Battery Technologies'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Louisiana Economic Development announced Sicona Battery Technologies will invest USD 10.3 million over
+    five years to establish its first U.S. facility and headquarters at the New Orleans Regional Business
+    Park, following its acquisition of local battery-materials company ADVANO; cited specifics include
+    operation expected to begin in mid-September 2026, 32 net new jobs at an average annual salary of USD
+    101,500 plus an estimated 52 indirect jobs, installation of its SiCx silicon-carbon anode
+    production process, expansion into a Super Pilot facility capable of producing enough material for more
+    than 3 million battery cells, a site opposite the NASA Michoud Assembly Facility, incentives through the
+    Louisiana High Impact Jobs Program, the Industrial Tax Exemption Program, and LED FastStart workforce
+    support, and target applications spanning AI data-centre battery backup, robotics, power tools, drones,
+    eVTOL aircraft, and defense systems.
+  url: https://www.opportunitylouisiana.gov/news/sicona-to-establish-first-u-s-facility-and-headquarters-in-louisiana
+- date: '2026-09-15'
+  title: 'Hansae Mobility USA plans USD 93M Chesterfield Township plant with 102 new jobs'
+  source: 'MLive / Michigan Economic Development Corporation'
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    MLive reports Hansae Mobility USA Manufacturing will invest more than USD 93 million in a new
+    400,000-square-foot facility in Chesterfield Township, Michigan, for driveline systems and other vehicle
+    components; cited specifics include 102 new manufacturing jobs and retention of 171 existing positions,
+    a USD 625,000 performance-based grant through the Michigan Business Development Program announced by
+    Governor Gretchen Whitmer, additional workforce support possible through Michigan Works and the Going
+    Pro Talent Fund, Hansae Mobility as a subsidiary of South Korea-based Hansae Mobility Co Ltd, plans to
+    combine assembly and machining under one roof and move some manufacturing work from South Korea to
+    Michigan, and positioning along the I-94 industrial corridor in northern Macomb County.
+  url: https://www.mlive.com/news/detroit/2026/09/south-korean-auto-supplier-to-invest-93-million-add-102-jobs-in-macomb-county.html
+
+- date: '2026-09-15'
+  title: 'MBDA to build missile production plant near Orleans targeting sixfold French output by 2030'
+  source: 'The Defense News / MBDA'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Defense News reports MBDA will build a new missile production facility at Artenay in the Loiret
+    department near Orleans, France, under a EUR 5 billion investment programme for 2026 to 2030 that
+    targets a sixfold increase in total French missile production versus 2023 levels by the end of the
+    decade; cited specifics include purchase of a 40-hectare industrial site about twice the size of the
+    main Bourges facility, a phased start through leased and retrofitted premises in the Ormes-Artenay area
+    previously used by liquidated wind-turbine maker Vergnet so component production can begin from early
+    2027, a main plant scheduled to be fully operational in 2030 using robotics and automation to improve
+    mechanical assembly and component handling, focus on mechanical production and structural components for
+    the Aster and MICA missile families, recruitment starting with several dozen operators and technicians
+    in 2027 and potentially reaching several hundred employees, expansion driven by limited space and
+    labour-pool constraints at Bourges, and MBDA having already doubled missile output between 2023 and 2025
+    with a further 40 percent increase targeted in 2026.
+  url: https://www.thedefensenews.com/MBDA-to-Build-New-Missile-Production-Plant-Near-Orleans-to-Expand-Missile-Production/
+- date: '2026-09-15'
+  title: 'Pratt & Whitney licenses Hermeus to produce F100-PW-229 fighter engines as a second U.S. source'
+  source: 'Breaking Defense / Pratt & Whitney / Hermeus'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Breaking Defense reports Pratt & Whitney has licensed startup Hermeus to manufacture the F100-PW-229
+    turbofan, described as the first licence of its kind granted to another American firm and creating a new
+    qualified production source for the engine; cited specifics include an engine that entered service in
+    1992, powers some versions of the F-15 and F-16, and has accumulated more than 32 million flight hours,
+    Hermeus manufacturing, assembling, and delivering engines to Pratt & Whitney production standards
+    while applying its rapid-build model and meeting established quality, safety, and site-activation
+    requirements, initial production within its existing production footprints, a production outlook and
+    capital-investment schedule driven by customer demand, and the licence making Hermeus the first
+    vertically integrated aircraft manufacturer with in-house propulsion capability to scale production of
+    its Quarterhorse high-speed drone.
+  url: https://breakingdefense.com/2026/09/exclusive-pratt-licenses-hermeus-to-build-f100-fighter-jet-engine/
+
+- date: '2026-09-14'
+  title: 'U.S. Army awards Lockheed Martin USD 1.211B Precision Strike Missile Increment 2 production contract'
+  source: 'Army Recognition / U.S. Department of War'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Army Recognition reports the U.S. Army awarded Lockheed Martin a USD 1,211,234,988 contract for
+    Precision Strike Missile Increment 2 Early Operational Capability on September 14, establishing the
+    production route for the seeker-equipped missile while Increment 1 output is simultaneously increasing;
+    cited specifics include a cost-plus-fixed-fee and firm-fixed-price indefinite-delivery/indefinite-
+    quantity structure running through September 13, 2031 with quantities, funding, and work locations
+    determined order by order rather than fixed by the USD 1.211 billion ceiling, a combined passive
+    radio-frequency and imaging-infrared terminal seeker extending the target set from fixed coordinates to
+    moving maritime and relocatable land targets, award 11 days after the programme moved from Major
+    Capability Acquisition to Middle Tier of Acquisition Rapid Fielding and 186 days after its first flight
+    on March 12, 2026, a single solicited and received bid, Army Contracting Command at Redstone Arsenal as
+    the contracting activity, and the Lockheed Martin Grand Prairie, Texas facility as awardee of record.
+  url: https://www.armyrecognition.com/news/army-news/2026/lockheed-martin-prsm-increment-2-army-1-2-billion-contract
+
+- date: '2026-09-13'
+  title: 'CATL and Egyptian BME sign EGP 2B battery plant agreement targeting 5 GWh and 40 percent local content'
+  source: 'Ahram Online / Egyptian Ministry of Industry'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Ahram Online reports Egypt BME for Battery Manufacturing signed an agreement with China-based CATL
+    (Contemporary Amperex Technology) to establish an electric battery manufacturing plant, witnessed by
+    Prime Minister Mostafa Madbouly, with first-phase investment of more than EGP 2 billion (about USD 39
+    million); cited specifics include BME as a newly established joint venture founded by Egyptian bus and
+    truck maker Manufacturing Commercial Vehicles, Auto D for Industry, Trade and Supplies, and CATL, an
+    initial annual production capacity of 1 GWh focused on batteries for heavy commercial vehicles, a second
+    phase lifting capacity to 5 GWh and adding passenger-vehicle batteries plus energy-storage batteries for
+    solar and wind applications, a targeted local content rate of 40 percent, and no disclosed timeline or
+    location for the project.
+
+  url: https://english.ahram.org.eg/News/576565.aspx
 - date: '2026-09-15'
   title: 'Vision Engineering launches EVO Cam AURA 4K digital microscope to succeed EVO Cam II'
   source: 'Metrology News / Vision Engineering'
