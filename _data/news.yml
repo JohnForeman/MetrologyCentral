@@ -1,4 +1,172 @@
 ---
+- date: '2026-09-17'
+  title: 'Lumafield launches Quality Agent agentic AI for unknown-defect detection on industrial CT data'
+  source: 'Metrology News / Lumafield'
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Metrology News reports Lumafield launched Quality Agent, an agentic AI system that runs natively inside the
+    Voyager platform and automates defect detection and root-cause analysis by learning the characteristics of
+    known-good parts rather than checking against a predefined list of failure modes; cited specifics include a
+    foundation model trained on the Lumafield corpus of industrial X-ray CT data covering hundreds of thousands
+    of real industrial parts, monitoring across X-ray and CT imagery, machine-vision feeds, maintenance logs, and
+    environmental sensors, escalation of new findings to a quality engineer with supporting evidence to classify
+    them as acceptable variation, a new control-plan entry, or a problem requiring containment, and a published
+    investigation of 1,054 lithium-ion battery cells from 10 manufacturers in which the model separated cells by
+    manufacturer and identified two brands as the same cells produced by one OEM and resold under different
+    branding, alongside Lumafield Cost of Quality findings that more than 42 percent of manufacturers spend at
+    least 5 percent of total revenue on quality-related costs and that 58 percent estimate at least a quarter of
+    true quality costs go unaccounted for.
+  url: https://metrology.news/lumafield-uses-agentic-ai-to-detect-unknown-manufacturing-defects/
+
+- date: '2026-09-17'
+  title: 'Factorial signs joint development agreement with Mitsui Kinzoku to industrialize Solstice solid-state battery platform'
+  source: 'Factorial Energy / Electrek'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Factorial Energy announced a joint development agreement with Mitsui Kinzoku Company to support
+    industrialization of the Solstice sulfide-based all-solid-state battery platform, with Factorial remaining
+    the fabless developer leading cell design, process development, supply-chain qualification, line integration,
+    and manufacturing validation; cited specifics include Mitsui Kinzoku as a leading producer of sulfide-based
+    solid electrolytes with an estimated 90 percent share of the semiconductor market for ultra-thin copper foil,
+    the A-SOLiD sulfide solid electrolyte unveiled in 2016 and advancing toward mass production at a dedicated
+    plant in Saitama, Japan, proprietary dry-cathode processing at Factorial intended to lower manufacturing cost,
+    and stated 2026 progress at Factorial including a June Nasdaq listing under the ticker FAC and first
+    commercial orders in passenger-vehicle and aerospace applications.
+  url: https://electrek.co/2026/09/17/solid-state-battery-maker-factorial-secures-another-big-partnership/
+
+- date: '2026-09-17'
+  title: 'Pentagon inspector general report finds Operation Epic Fury left munitions inventory shortfalls and industrial bottlenecks'
+  source: 'Defence Industry Europe / U.S. Department of War'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports the first quarterly Pentagon inspector general report on Operation Epic Fury
+    found the campaign produced strategic shortfalls in U.S. munitions inventories and exposed production
+    constraints across the defense industrial base, making it a quantified munitions-capacity and supply-chain
+    signal rather than generic conflict coverage; cited specifics include an Office of the Under Secretary of War
+    for Acquisition and Sustainment finding that solid rocket motors, high-grade explosives, propellants, and
+    skilled manufacturing labor are the most persistent barriers to replenishment, an estimated operation cost of
+    USD 33.4 billion as of June 29 that included USD 22.3 billion to replace expended munitions, USD 3.7 billion
+    for lost equipment, and USD 7.4 billion in incremental obligations, approximately 13,500 targets struck,
+    about 36,000 combat sorties, and more than 1,800 fire missions between February 28 and April 7, employment of
+    dozens of 2,000-pound penetrating guided bombs against buried missile launchers during the first 11 days, and
+    department efforts to accelerate active production lines, streamline procurement, reduce manufacturing lead
+    times, and stockpile critical materials, components, and selected munitions.
+  url: https://defence-industry.eu/operation-epic-fury-strains-u-s-munitions-stocks-and-exposes-defense-industrial-bottlenecks-pentagon-report-says/
+
+- date: '2026-09-16'
+  title: 'ISO publishes ISO 9001:2026 with three-year transition to 30 September 2029'
+  source: 'BSI / ISO'
+  sector: quality_software
+  kind: standards_method
+  summary: >-
+    BSI and ISO published BS EN ISO 9001:2026, the first full revision in more than a decade of the quality
+    management system standard that certification bodies and manufacturers audit against, starting the clock on
+    a transition under which ISO 9001:2015 certificates remain valid to 30 September 2029; cited specifics
+    include nearly 1.5 million certifications to ISO 9001 worldwide covering 2.3 million sites, greater emphasis
+    in the 2026 edition on leadership, quality culture, and ethical behaviour, clearer treatment of risks
+    separately from opportunities, an updated Annex A to support consistent interpretation, adoption of the
+    latest Harmonized Structure for ISO management system standards to simplify integration with other systems,
+    availability of the standard as part of the first digitally enhanced content offering from ISO from October 1,
+    2026, and a requirement that accredited certification bodies transition before issuing certificates to the
+    new edition.
+  url: https://www.bsigroup.com/en-GB/insights-and-media/media-centre/press-releases/2026/september/bsi-and-iso-update-worlds-most-used-quality-standard-for-global-trade/
+
+- date: '2026-09-16'
+  title: 'U.S. Air Force awards Lockheed Martin USD 826M large-lot JASSM-ER and LRASM production modification'
+  source: 'Overt Defense / U.S. Air Force'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Overt Defense reports the U.S. Air Force announced a USD 826 million Lockheed Martin contract modification
+    funding bulk production of the AGM-158B JASSM-ER and AGM-158C LRASM stealthy cruise missiles, making it a
+    quantified precision-munitions production signal rather than generic contract coverage; cited specifics
+    include a USD 825.975 million large-lot award issued on September 9 by the Air Force Life Cycle Management
+    Center at Eglin Air Force Base, Florida, raising total program value to about USD 10.48 billion, deliveries
+    to be completed by July 31, 2030, Lockheed Martin Missiles and Fire Control in Orlando as prime contractor,
+    funding drawn from both Air Force and Navy procurement accounts, a shared 450 kg penetrating
+    blast/fragmentation warhead and low-observable design across both variants, JASSM-ER range beyond 900 km with
+    GPS/INS navigation and an infrared terminal seeker, LRASM range officially exceeding 370 km with passive
+    radio-frequency and infrared sensors plus autonomous target recognition and a secure datalink, no missile
+    quantities or subcontractors identified in the official notice, Australia declaring both missiles
+    operational in September 2026 and remaining the only foreign LRASM operator, and expanded production
+    throughput cited as a focus for Indo-Pacific and NATO requirements.
+  url: https://www.overtdefense.com/2026/09/16/lockheed-martin-awarded-826-million-u-s-contract-for-jassm-er-and-lrasm-missiles/
+
+- date: '2026-09-16'
+  title: 'McLaren invests GBP 500M to expand UK manufacturing with new assembly plant, in-house engines, and carbon-fibre site'
+  source: 'GOV.UK / McLaren Automotive'
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    GOV.UK reports McLaren Automotive will invest around GBP 500 million (about USD 675 million) to expand UK
+    research, development, and production and open a new vehicle production facility, making it a quantified UK
+    automotive manufacturing-capacity signal rather than generic investment coverage; cited specifics include
+    1,000 new jobs by 2032 across Woking and South Yorkshire, an expected 3,000 additional supply-chain jobs, a
+    new UK assembly facility plus expansion of the McLaren Composites Technology Centre in South Yorkshire that
+    develops carbon-fibre components, first in-house development and manufacture of future engines and
+    transmissions, expanded assembly as the model range broadens including the first SUV in the brand range,
+    build-to-order production after the company cut one of two shifts at Woking last year, and positioning
+    alongside GBP 4 billion of UK government automotive investment to 2035.
+  url: https://www.gov.uk/government/news/boost-for-uk-auto-sector-as-mclaren-unleashes-500m-investment-to-help-reindustrialise-britain
+
+- date: '2026-09-16'
+  title: 'Northrop Grumman delivers more than 40 G/ATOR radars as the 60-system program runs to 2029'
+  source: 'Defence Industry Europe / Northrop Grumman'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Northrop Grumman has delivered more than 40 AN/TPS-80 Ground/Air
+    Task-Oriented Radar systems to the U.S. Marine Corps and U.S. Air Force with 60 radars due to the two
+    services by 2029 and the system in full-rate production, making it a quantified defense-electronics
+    production-capacity signal rather than generic radar coverage; cited specifics include a mobile active
+    electronically scanned array radar giving real-time 360-degree coverage at long range and combining five
+    radar functions in a single platform for simultaneous air surveillance, air defense, and fire control in all
+    weather conditions, rapid setup and teardown with transport by fixed-wing aircraft, helicopter, or truck,
+    Northrop Grumman stating it has capacity to increase output as demand for ground-based radars grows outside
+    the United States, and positioning of the system for international requirements in which fewer systems must
+    perform a broader range of missions.
+  url: https://defence-industry.eu/northrop-grumman-delivers-more-than-40-g-ator-radars-to-u-s-forces-as-full-rate-production-targets-growing-global-demand/
+
+- date: '2026-09-16'
+  title: 'U.S. and Germany sign defense industrial agreement covering joint production and licensed manufacturing'
+  source: 'Military Times / U.S. Department of War'
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Military Times reports U.S. Defense Secretary Pete Hegseth and German Defense Minister Boris Pistorius signed
+    an agreement aligning the U.S. acquisition transformation strategy with the German Procurement Acceleration
+    Act and positioning Germany as an additional production hub for scarce munitions, making it a defense
+    industrial-base capacity signal rather than generic diplomacy coverage; cited specifics include German
+    defense spending up 25 percent year over year equal to about USD 147 billion, the German arm of MBDA already
+    producing earlier-generation PAC-2 Patriot interceptors with PAC-3 MSE production set to begin at its
+    Schrobenhausen plant later in 2026, consideration by both governments of which Tomahawk cruise missile
+    components Germany could supply, the planned purchase by Berlin of Tomahawks and Typhon launchers for a deep
+    precision strike capability, the German order for 35 F-35A aircraft with the first jet handed over in Fort
+    Worth, and the absence of specific new weapon contracts, production quantities, or program timelines in the
+    announced framework.
+  url: https://www.militarytimes.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/
+
+- date: '2026-09-16'
+  title: 'Panasonic Energy opens Energy Innovation Square battery R&D hub with FY2031 development-efficiency target'
+  source: 'Panasonic Energy'
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Panasonic Energy announced the launch of Energy Innovation Square, a lithium-ion battery research and
+    development facility in Kadoma, Osaka, serving as a global hub spanning material development, cell design,
+    and prototyping for automotive and data-centre applications; cited specifics include approximately 500
+    employees working on cell product planning, technology development, and analysis, a combined workforce of
+    approximately 800 with the Suminoe Production Development Facility in Osaka City that focuses on
+    manufacturing technology development, positioning of the two sites as one of the largest dedicated battery
+    development operations in Japan, a target to double development efficiency by fiscal 2031 versus fiscal 2024,
+    deployment of the resulting technologies and manufacturing processes across the Panasonic Energy global
+    network including plants in Japan and in Nevada and Kansas in the United States, shortened development lead
+    times with more than 15 percent less transportation, and a digital transformation platform that integrates
+    simulation and physical-test data.
+  url: https://news.panasonic.com/global/press/en260916-3
 - date: '2026-09-16'
   title: 'Renishaw launches XC100 environmental compensator for 0.4 ppm laser calibration accuracy'
   source: 'Metrology News / Renishaw'
