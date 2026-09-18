@@ -1,4 +1,163 @@
 ---
+- date: "2026-09-18"
+  title: "Toyota group estimates about JPY 1 trillion annual factory automation spend from 2028 with around 400,000 robots"
+  source: "Reuters via Channel NewsAsia / Toyota Motor"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Reuters, via Channel NewsAsia, reports Toyota Motor estimates it could cost about 1 trillion yen
+    (USD 6.4 billion) annually from 2028 to modernise its factories as the automaker accelerates automation
+    and robotics deployment, making it a quantified automotive manufacturing-automation investment signal
+    rather than generic robotics coverage; cited specifics include an investment estimate covering Toyota,
+    group companies, and major suppliers, a stated requirement for around 400,000 robots across those firms
+    comprising replacements for existing machines plus new installations and both humanoid and non-humanoid
+    units, no confirmation of whether the spending will take place or for how many years it would continue,
+    scope spanning industrial robots, automated logistics, and future human-robot collaboration on the factory
+    floor, a reference exchange rate of 157.18 yen to the dollar, analysts at Bernstein noting the robotics
+    focus could increase investor appreciation of growth beyond vehicle manufacturing, and parallel context
+    that Hyundai plans to deploy humanoid robots at its U.S. plant in Georgia from 2028.
+  url: https://www.channelnewsasia.com/business/toyota-estimates-factory-automation-could-cost-64-billion-year-2028-6394351
+
+- date: "2026-09-18"
+  title: "EWI to lead USD 13.2M America Makes INSITE program unifying in-situ monitoring and post-build NDE for directed energy deposition"
+  source: "Metrology News / America Makes / EWI"
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    Metrology News reports EWI was selected by America Makes to lead INSITE, the INtegrated System for
+    In-situ Testing and Evaluation, a USD 13.2 million program running three years to build an integrated
+    additive-manufacturing quality-assurance system that unifies in-situ monitoring with post-build
+    non-destructive evaluation, making it a concrete defense additive-manufacturing qualification signal
+    rather than generic coverage; cited specifics include funding from the Office of the Under Secretary of
+    War Industrial Base Analysis and Sustainment program and the Manufacturing Technology Office, a scope
+    targeting laser powder and wire directed energy deposition, in-situ tracking of process data plus thermal
+    and visual images and eddy-current array signals with AI and machine learning flagging areas needing
+    closer review, a post-build inspection plan focused on flagged regions rather than whole-part scanning,
+    review and approval of every inspection plan by a qualified professional, a team including Boeing, GKN
+    Aerospace, Lockheed Martin, Northrop Grumman, and Norsk Titanium alongside Addiguru, Computational Tools,
+    FormAlloy, and TRI Austin, industry and military standards developed with U.S. Air Force, Army, and Navy
+    partners, and a minimum 25 percent non-federal cost share under the underlying project call.
+  url: https://metrology.news/ewi-leads-insite-program-for-in-process-additive-manufacturing-inspection/
+
+- date: "2026-09-17"
+  title: "Mercedes-Benz starts series production of new GLA at Rastatt with electric and hybrid variants on one line"
+  source: "Mercedes-Benz Media"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Mercedes-Benz Media reports series production of the new GLA began at the Rastatt plant with the fully
+    electric version already in full production and 48-volt hybrid variants to follow later in 2026, making
+    it a concrete automotive manufacturing-capacity and digital-production signal rather than generic product
+    coverage; cited specifics include drive-system-flexible manufacturing of hybrid and fully electric
+    vehicles on the same line as conventional powertrains, an investment in the low three-digit-million range
+    to convert the neighbouring Assembly Hall 4.1 for GLA production from January 2027 over a planned six to
+    eight years, digital twins used to configure and optimise the new line after a record-completion
+    conversion of Hall 4.0 in 2023, the Mercedes-Benz Operating System MB.OS delivering vehicle software
+    through a central server in the Mercedes-Benz Intelligent Cloud rather than through separate hardware
+    modules, electric drive units and axles supplied from Untertuerkheim sites including Mettingen and
+    Hedelfingen, body-in-white and structural parts supplied from Kuppenheim, a plant of around 7,000
+    employees that built 275,000 cars in 2025 with a similar level planned for 2026, and full utilisation
+    alongside the Kecskemet plant in Hungary.
+  url: https://media.mercedes-benz.com/en/article/55f347d5-2d36-4f6b-94a3-cd840efcee46
+
+- date: "2026-09-17"
+  title: "U.S. Department of War and Lockheed Martin sign AIM-260 JATM production framework agreement"
+  source: "Military Times / U.S. Department of War / Lockheed Martin"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Military Times reports the U.S. Department of War and Lockheed Martin signed a framework agreement on
+    September 17 to expand production capacity for the AIM-260 Joint Advanced Tactical Missile, making it a
+    quantified long-range air-to-air missile industrial-base signal rather than a contract notice; cited
+    specifics include a framework agreement rather than a contract or missile order, described by officials
+    as a long-term demand signal intended to justify investment by Lockheed Martin and its suppliers in
+    manufacturing capacity, workforce, and production efficiency ahead of a future multi-year procurement
+    requiring congressional authorization and funding, Lockheed Martin funding its own capacity investments
+    under the arrangement, alignment with the Department of War acquisition transformation strategy and work
+    by the Munitions Acceleration Council and Economic Defense Unit with the Navy and Air Force, support for
+    foreign military sales with Australia announced on August 6 as the first export customer at about USD 520
+    million and planned first integration on F/A-18F Super Hornets followed by F-35A Lightning II and EA-18G
+    Growler aircraft, an approved potential sale to Australia of up to 450 missiles and associated test
+    articles valued at about USD 3.16 billion, and no U.S. production rate or program dollar value disclosed
+    in the announcement.
+  url: https://www.militarytimes.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/
+
+- date: "2026-09-17"
+  title: "Lockheed Martin receives first GM Defense-produced PAC-3 MSE housing components 22 days after contract signing"
+  source: "PR Newswire / Lockheed Martin / Kyiv Post"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Lockheed Martin announced the first delivery of mission-critical components produced by GM Defense for the
+    PAC-3 Missile Segment Enhancement interceptor less than one month after a formal contract between the two
+    companies, making it a quantified defense supply-chain capacity signal rather than a generic partnership
+    notice; cited specifics include a formal contract agreement signed on August 6, 2026 and the first batch
+    of PAC-3 MSE housing components delivered on August 28, 2026, a 22-day production cycle for parts that can
+    traditionally take months or years to produce, use of GM casting, machining, and large-scale manufacturing
+    capabilities to meet defense specifications, plans by both companies to extend the approach to other
+    munitions programs and future defense systems, and separate Lockheed Martin investment of USD 8 billion to
+    USD 9 billion to expand PAC-3 MSE, THAAD, and Precision Strike Missile production across more than 20 U.S.
+    facilities while increasing munitions production and warehousing space by nearly 50 percent.
+  url: https://www.prnewswire.com/news-releases/lockheed-martin-fast-tracks-pac-3-mse-components-in-less-than-one-month-in-partnership-with-gm-defense-302882126.html
+
+- date: "2026-09-17"
+  title: "SHINING 3D launches FreeScan Trak Nova+ dynamic tracking scanner at 7.6 million points per second"
+  source: "DailyCADCAM / SHINING 3D Metrology"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    DailyCADCAM reports SHINING 3D Metrology launched FreeScan Trak Nova+, an upgraded generation of its
+    wireless multi-functional dynamic tracking and scanning system, making it a measurable large-scale optical
+    metrology hardware update rather than generic scanner coverage; cited specifics include a scanning speed of
+    up to 7,600,000 points per second, marker-free scanning with dynamic tracking, built-in video
+    photogrammetry, three tracking-mode laser configurations of 62 laser lines for high-speed scans, 25
+    parallel laser lines for detailed scans, and a single line for deep pockets, 62 laser lines in the
+    separated large-field-of-view handheld scanner configuration compared with 50 in the previous generation,
+    a separable all-in-one design that allows the tracker to also function as a handheld laser scanner,
+    a dedicated mobile workstation integrating computing and battery power for on-site work, accuracy verified
+    to VDI/VDE 2634 and ISO 10360, and target applications spanning construction machinery, rail transit,
+    civil aviation, and energy.
+  url: https://dailycadcam.com/shining-3d-launches-freescan-trak-nova-wireless-tracking-scanning-system/
+
+- date: "2026-09-17"
+  title: "SK On signs KRW 160 billion LFP cathode supply contract with L&F as Korean LFP cathode line ramps"
+  source: "Seoul Economic Daily / The Elec / SK On / L&F"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Seoul Economic Daily reports SK On signed a supply contract on September 17 under which L&F will
+    deliver approximately 160 billion won (about USD 115 million) of third-generation high-density
+    lithium-iron-phosphate cathode material over three years from 2026 to 2028, with an option to discuss
+    extending by up to three further years, making it a quantified battery-materials supply-chain signal
+    rather than generic battery coverage; cited specifics include use of the material on LFP cell lines for
+    energy storage systems at the SK On Seosan plant in South Chungcheong Province and at the SK On plant in
+    Georgia in the United States, a planned conversion of 3 GWh of the 7 GWh annual Seosan capacity to LFP
+    energy-storage cells with deliveries starting in the first half of 2027, supply by the L&F subsidiary L&F
+    Plus from a dedicated plant on a roughly 100,000 square metre site in the Dalseong national industrial
+    complex in Daegu built with about 338 billion won of investment and completed in May 2026, first trial
+    output shipped from the Korean LFP cathode mass production line in late July 2026, commercial production
+    beginning at 30,000 tonnes per year with an intended maximum of 60,000 tonnes per year by the first half
+    of 2027, and SK On citing supply-chain decoupling from China and U.S. content requirements.
+  url: https://en.sedaily.com/finance/2026/09/17/sk-on-signs-160-billion-won-lfp-cathode-deal-with-lf
+
+- date: "2026-09-17"
+  title: "Cabot receives modified USD 50M DOE grant and adds about USD 75M to expand battery conductive additive production in Louisiana and Texas"
+  source: "Cabot Corporation / GlobeNewswire"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Cabot Corporation announced a modified USD 50 million grant from the U.S. Department of Energy Office of
+    Critical Minerals and Energy Innovation supporting expansion of its North American battery-materials
+    platform, making it a quantified domestic battery-materials manufacturing signal rather than generic
+    funding coverage; cited specifics include approximately USD 75 million of Cabot investment alongside the
+    grant, a two-site brownfield program producing LITX advanced battery-grade conductive carbons at Franklin,
+    Louisiana and establishing first commercial-scale production of carbon nanostructures in the ENERMAX
+    product family at Pampa, Texas, redirection of funding from an earlier Michigan project to the two
+    brownfield sites to accelerate domestic supply, demand drivers described as energy storage systems,
+    increasing power requirements from AI infrastructure and data centres, grid modernisation, and broader
+    electrification, and both projects expected to be operational by the end of 2028.
+  url: https://www.globenewswire.com/news-release/2026/09/17/3363972/0/en/cabot-corporation-to-expand-north-american-battery-materials-platform-through-modified-50-million-doe-grant.html
+
 - date: '2026-09-17'
   title: 'Lumafield launches Quality Agent agentic AI for unknown-defect detection on industrial CT data'
   source: 'Metrology News / Lumafield'
@@ -55,6 +214,25 @@
     department efforts to accelerate active production lines, streamline procurement, reduce manufacturing lead
     times, and stockpile critical materials, components, and selected munitions.
   url: https://defence-industry.eu/operation-epic-fury-strains-u-s-munitions-stocks-and-exposes-defense-industrial-bottlenecks-pentagon-report-says/
+- date: "2026-09-16"
+  title: "Boeing CEO says 737 rate of 47 aircraft per month is not yet stable as wing production constrains output"
+  source: "Leeham News and Analysis / Boeing"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Leeham News reports Boeing President and CEO Kelly Ortberg told investors at the Morgan Stanley Laguna
+    conference on September 16 that the 737 program is producing at 47 aircraft per month but is not yet
+    stable at that rate, making it a quantified commercial aerospace production-rate signal rather than
+    generic conference coverage; cited specifics include Renton wing production identified as the current
+    constraint because all 737 MAX wings are built in Renton and expected flow improvements did not
+    materialise, a previously targeted 2026 rate of 52 aircraft per month now appearing unlikely, a need to
+    certify the new Everett North Line in Washington and bring it into production before moving to rate 52,
+    supply chain described as in good shape including CFM International turbofans and engine parts, 787
+    production stabilised at eight aircraft per month with engine delivery performance not yet sufficient to
+    reach 10 per month and that step described as probably moving toward the end of the year, 737 MAX
+    deliveries of 41 aircraft in August according to Cirium production data, and continued high levels of
+    commercial inventory.
+  url: https://leehamnews.com/2026/09/16/rate-of-47-max-jets-per-month-still-eludes-boeing/
 
 - date: '2026-09-16'
   title: 'ISO publishes ISO 9001:2026 with three-year transition to 30 September 2029'
