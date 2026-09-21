@@ -1,4 +1,35 @@
 ---
+- date: "2026-09-21"
+  title: "Hexagon integrates Absolute Arm, GelSight Mobile Series 2, and VGMETROLOGY Essential into one dimensional and surface inspection workflow"
+  source: "Metrology News / Hexagon Manufacturing Intelligence"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports Hexagon announced an expanded integration with GelSight, extending a global partnership first
+    announced in 2024, that connects the Hexagon Absolute Arm portable measuring arm, GelSight Mobile Series 2 surface
+    measurement unit, and VGMETROLOGY Essential software into a single inspection environment; cited specifics include an
+    optical scan from the Absolute Arm establishing the part geometry while GelSight Mobile Series 2 captures
+    high-resolution surface measurements at selected areas of interest, both aligned into a common coordinate system in
+    VGMETROLOGY Essential for combined visualization, analysis, and reporting, GelSight surface data stated at
+    approximately 1-micron Z resolution for surface defects that 3D scanning may not reliably capture, and a stated aim of
+    consolidating dimensional and surface results into one workflow instead of separate review and reconciliation steps.
+  url: https://metrology.news/hexagon-and-gelsight-integrate-portable-dimensional-and-surface-inspection/
+
+- date: "2026-09-21"
+  title: "Hexagon updates M&H LS-R-100 wireless machine tool laser scanner with 768,000 points per second capture and automatic tool-magazine exchange"
+  source: "Metrology News / Hexagon Manufacturing Intelligence"
+  sector: scientific_metrology
+  kind: vendor_release
+  summary: >-
+    Metrology News reports Hexagon Manufacturing Intelligence introduced an updated version of its M&H LS-R-100 wireless
+    machine tool laser scanner, unveiled at the AMB expo in Stuttgart, positioning in-machine scanning as a closed-loop
+    alternative to post-machining CMM inspection; cited specifics include high-density point-cloud capture at speeds up to
+    768,000 points per second at metrology-grade accuracy, integration with the tool magazine of the machine so the
+    scanner is exchanged into the spindle automatically like a cutting tool without manual intervention, wireless
+    communication for operation inside complex machine architectures, and measurement of components while they remain
+    clamped on the machine bed, avoiding unclamping, transport, and re-datuming before inspection.
+  url: https://metrology.news/3d-laser-scanning-sensor-transforms-a-machine-tool-into-a-full-scale-inspection-platform/
+
 - date: "2026-09-18"
   title: "Porsche and cylib produce battery cells whose cathode active material is made entirely from recycled raw materials"
   source: "Porsche Newsroom / cylib"
@@ -85,6 +116,35 @@
     Training Systems Division that holds contract oversight.
   url: https://news.bellflight.com/en-US/271036-bell-commemorates-first-production-ah-1z-aircraft-for-nigeria/
 
+- date: "2026-09-18"
+  title: "KAI ramps KF-21 and LAH output as the first mass-produced KF-21 nears delivery to the Republic of Korea Air Force"
+  source: "Aju Press"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Aju Press reports from the Sacheon final assembly site of Korea Aerospace Industries that the first mass-produced
+    KF-21 is undergoing acceptance flights before delivery to the Republic of Korea Air Force in September 2026, with
+    production having started on the 23rd aircraft of an initial 40-aircraft contract; cited specifics include output of
+    about two KF-21s per month with capacity to increase to three if needed, the fourth mass-produced unit at the front of
+    the line with major equipment installed and final piping connections under way, simultaneous KF-21 and single-engine
+    FA-50 production on the same site, and parallel LAH armed-helicopter production in the rotary-wing section.
+  url: https://www.ajupress.com/view/20260918060470584
+
+- date: "2026-09-17"
+  title: "BMW Debrecen moves to three shifts and 24-hour iX3 production eight months after series start"
+  source: "BMW Group (via BMWBLOG)"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    BMW Group reports its Debrecen plant in Hungary began a third shift in September 2026 and now builds the iX3 around
+    the clock, roughly eight months after the start of series production, which the company describes as the fastest
+    ramp-up any new BMW Group plant has experienced; cited specifics include 100,000 European orders for the iX3 in the
+    year since its world premiere, more than 50,000 vehicles assembled at the site, a second shift added in March 2026
+    sooner than originally planned, more than 5,000 employees, an investment of more than EUR 2 billion in a site of more
+    than 400 hectares purpose-built around the Neue Klasse, production of a second Neue Klasse model due to begin at
+    Debrecen in autumn 2026, and iX3 production also being prepared in San Luis Potosi, Mexico, from 2027.
+  url: https://www.bmwblog.com/2026/09/17/bmw-ix3-production-third-shift-added/
+
 - date: "2026-09-16"
   title: "NMIJ reports 2.6 x 10-17 fractional frequency uncertainty for its 171Yb optical lattice clock NMIJ-Yb1"
   source: "arXiv (Kobayashi et al.) / National Metrology Institute of Japan"
@@ -101,6 +161,22 @@
     position with an in-vacuum temperature sensor, and nearly continuous operation with 91.3 percent uptime over 10 days,
     which the authors position as a route to improving the calibration uncertainty of International Atomic Time.
   url: https://arxiv.org/abs/2609.18468
+
+- date: "2026-09-16"
+  title: "CATL licenses battery pack technology to BME for a 1 GWh heavy-commercial-vehicle battery pack plant in Egypt"
+  source: "CATL"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    CATL reports it signed a cooperation agreement with BME, Battery Manufacturing in Egypt, under which BME plans to
+    source battery cells from CATL while CATL provides battery pack technology licensing, production equipment, and
+    technical training to support battery pack assembly and production in Egypt; cited specifics include a pack facility
+    developed and fully funded by BME with an initial annual capacity of 1 GWh focused on battery packs for heavy-duty
+    commercial vehicles, a longer-term plan to expand annual capacity to 5 GWh and broaden the portfolio to
+    passenger-vehicle battery packs and energy storage systems for solar and wind applications, and the formation of BME
+    by Egyptian commercial vehicle manufacturer MCV and automotive industry solutions provider Auto D, with BME to supply
+    the packs directly to local automakers.
+  url: https://www.catl.com/en/news/6998.html
 
 - date: "2026-09-14"
   title: "Verisurf 2027 adds automatic inspection plan creation from QIF and persistent identifiers tied to a STEP AP242 model"
@@ -790,6 +866,22 @@
     the contracting activity, and the Lockheed Martin Grand Prairie, Texas facility as awardee of record.
   url: https://www.armyrecognition.com/news/army-news/2026/lockheed-martin-prsm-increment-2-army-1-2-billion-contract
 
+- date: "2026-09-14"
+  title: "USAF and Northrop Grumman vertically assemble an inert LGM-35A Sentinel missile and complete the first flight-test critical design review"
+  source: "Northrop Grumman"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Northrop Grumman reports it and the U.S. Air Force fully assembled the Sentinel intercontinental ballistic missile in
+    its operational orientation at Vandenberg Space Force Base, a step toward design and suitability evaluation for flight
+    test in 2027; cited specifics include a four-month Pathfinder test event in which missile components were transported
+    from across the country on specially designed vehicles and the inert missile was safely stacked and de-stacked on a
+    test pad, validation that all stages, propulsion elements, the shroud, and associated components integrate into a
+    single missile configuration, completion of the first flight-test critical design review by the 719th Test Squadron of
+    the U.S. Air Force, a programme team of more than 500 partners and more than 10,000 personnel, flight test targeted
+    for 2027 and initial capability in the early 2030s, and a weapon system designed to remain viable through 2075.
+  url: https://news.northropgrumman.com/sentinel/us-air-force-and-northrop-grumman-assemble-inert-missile-progress-toward-sentinel-flight-testing
+
 - date: '2026-09-13'
   title: 'CATL and Egyptian BME sign EGP 2B battery plant agreement targeting 5 GWh and 40 percent local content'
   source: 'Ahram Online / Egyptian Ministry of Industry'
@@ -1145,6 +1237,22 @@
   summary: >-
     L3Harris Technologies reports it received an undefinitized contract award from Lockheed Martin valued at USD 4.7 billion over seven years to produce propulsion systems for the PAC-3 Missile Segment Enhancement interceptor, its largest PAC-3 propulsion award to date and a quantified missile-defense manufacturing-capacity signal rather than a generic contract notice; cited specifics include production of the MSE interceptor's advanced two-pulse solid rocket motor, Lethality Enhancer, and Attitude Control Motors, alignment with the long-term framework agreement established with the Department of War, two new facilities broken ground in June 2026 at its Camden, Arkansas site expected to be operational in 2027, earlier Camden investments including dedicated bays and automated digital X-ray systems, and a broader footprint of about 60 new facilities adding more than one million square feet of manufacturing space across Alabama, Virginia, and Arkansas.
   url: https://www.l3harris.com/newsroom/press-release/2026/09/l3harris-receives-pac-3-mse-propulsion-arsenal-of-freedom
+
+- date: "2026-09-08"
+  title: "Northrop Grumman opens a 57,000 square foot Propulsion Innovation Center in Elkton under a USD 100 million site investment"
+  source: "Northrop Grumman"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Northrop Grumman reports it opened a 57,000-square-foot Propulsion Innovation Center in Elkton, Maryland, housing 250
+    engineers working on advanced propulsion for U.S. and allied defense programs, as part of a broader USD 100 million
+    investment at the Elkton site; cited specifics include a planned 25 percent increase in on-site solid rocket motor
+    design and manufacturing capacity across a 550-acre Propulsion Systems and Controls site, support for more than 30
+    percent staffing growth, company-wide solid propellant capacity of about 30 million pounds annually today rising to
+    nearly 50 million pounds annually by 2028, annual motor production of approximately 13,000 in 2024 planned to exceed
+    25,000 by 2029, and more than USD 2 billion invested in munitions-related technology and facilities over seven years,
+    including more than USD 1 billion in advanced manufacturing facilities in the United States.
+  url: https://news.northropgrumman.com/propulsion/northrop-grumman-opens-propulsion-innovation-center-in-maryland-expanding-high-tech-jobs
 
 - date: '2026-09-07'
   title: 'Renishaw launches next-generation RLE interferometric laser encoders for semiconductor motion control down to +/-0.2 nm'
