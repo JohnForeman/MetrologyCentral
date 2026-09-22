@@ -1,4 +1,163 @@
 ---
+- date: "2026-09-22"
+  title: "Samsung SDI to resume Synergy Cells investment in Indiana with ESS-focused LFP lines and a 2028 start"
+  source: "The Elec / Samsung SDI"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Elec reports Samsung SDI will resume investment in its Synergy Cells battery plant in New Carlisle, Indiana after a pause
+    of about two years, following its acquisition of the General Motors stake in the former joint venture, and will prioritize
+    lithium-iron-phosphate production lines for energy storage systems; cited specifics include a total investment expected to run
+    into trillions of won with operations targeted for the second half of 2028, discussions under way to bring the start forward
+    by about one quarter from the end of 2028, an unnamed end customer described as the largest electric vehicle maker in North
+    America, three of the four production lines at the StarPlus Energy plant 1 joint venture with Stellantis being converted to
+    LFP for energy storage while the remaining line continues electric-vehicle battery production with Stellantis, that conversion
+    raising capacity at the plant to about 40 GWh from 33 GWh, a first LFP line starting in October to build prismatic cells for
+    the Samsung Battery Box 2.0 containerized storage product, a second line producing large-format prismatic cells for Tesla in
+    the first half of 2027 and a third supplying a global energy-storage system integration company, per-line capacity above 10 GWh
+    for large-format LFP cells against roughly 9 GWh originally planned for NCA electric-vehicle cells, and capital expenditure
+    next year expected at about KRW 4 trillion versus KRW 3.2744 trillion in 2025.
+  url: "https://www.thelec.net/news/articleView.html?idxno=14067"
+
+- date: "2026-09-22"
+  title: "DMG MORI introduces probeSET automated in-machine probe calibration with a 60-second cycle"
+  source: "Metrology News / DMG MORI"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports DMG MORI introduced probeSET, an automated system that calibrates machine-tool probes inside the machine
+    working envelope, removing the manual task of setting the probe Z-pin to its zero position and allowing calibration to run from
+    a dedicated technology cycle; cited specifics include a calibration cycle time of approximately 60 seconds on a DMU 65
+    monoBLOCK, automatic determination of probe centre offset, probe radius and probe length plus additional 3D measurement points
+    where required, a calibration sphere mounted directly on a movable Z-pin that reduces the number of mechanical components
+    compared with conventional arrangements, calibration data delivered in a report and retained as a continuous calibration
+    history for monitoring over time, integration into automated manufacturing workflows because calibration occurs inside the
+    enclosed workspace, and DMG MORI stating that deviations of more than 8 micrometres are possible with standard manual
+    procedures under some conditions.
+  url: https://metrology.news/dmg-mori-introduces-automated-probeset-calibration-system/
+
+- date: "2026-09-21"
+  title: "Airbus invests GBP 150M to convert its former A380 wing plant at Broughton into an A321 wing line"
+  source: "Airbus / BBC News"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Airbus reports it is investing GBP 150 million to convert its former A380 wing production facility at Broughton in Flintshire,
+    Wales into an A321 wing line, with completion due by the end of 2026; cited specifics include six wing production jigs, an
+    equipping line and a paint shop in the West Factory, output feeding a backlog of around 7,500 A320 Family aircraft of which
+    around 70 percent are A321s, around 480 new jobs across the Broughton site in 2026 including 250 positions in the refurbished
+    factory on top of a workforce of about 6,000, first wing assembly already under way with all jigs expected to be operational
+    before the year ends, a West Factory that built A380 wings from 2003 until the last wing left in February 2020, and Head of
+    Airbus Wing Jerome Blandin framing the spend as putting infrastructure in place to sustain the ramp toward a rate of 75 A320
+    Family aircraft per month rather than as a rate increase itself.
+  url: https://www.bbc.com/news/articles/cwrk3p761r8do
+
+- date: "2026-09-21"
+  title: "Hanwha Defense USA selects Pine Bluff Arsenal for a USD 2.2B 155mm munitions campus with close to 400 jobs"
+  source: "Defence Industry Europe / Hanwha Defense USA"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Hanwha Defense USA plans to invest about USD 2.2 billion in a munitions manufacturing campus at
+    the Pine Bluff Arsenal of the U.S. Army in Arkansas, producing 155mm propellant charges and base bleed units; cited specifics
+    include close to 400 jobs created over seven years, an administration headquarters opened at the arsenal to oversee local
+    operations as the first step in the planned Advanced Manufacturing Campus, a lease solicitation for the campus awarded to
+    Hanwha Defense USA in January 2026, and a stated intent to add domestic capacity across key stages of munitions production and
+    to modernize the national munitions industrial base.
+  url: https://defence-industry.eu/hanwha-defense-usa-selects-u-s-armys-pine-bluff-arsenal-for-2-2-billion-155mm-munitions-campus-expected-to-create-nearly-400-jobs/
+
+- date: "2026-09-21"
+  title: "Tekever wins a British Army contract worth up to GBP 400M for AR5 long-range surveillance drones built in Swindon"
+  source: "Defence Industry Europe / Tekever"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports British drone manufacturer Tekever secured a contract worth up to GBP 400 million to supply its
+    AR5 long-endurance uncrewed aircraft to the British Army under the Ministry of Defence Project Corvus, with the system expected
+    to begin entering service later in 2026; cited specifics include selection after an assessment of a capability shaped by more
+    than 50,000 operational flight hours in Ukraine since 2022, manufacturing centred at the Tekever facility in Swindon supported
+    by an expanding engineering, training and operational presence, a scope covering persistent long-range intelligence,
+    surveillance and reconnaissance across a range of operating environments, and an expectation that the capability will be
+    updated through its service life as requirements change.
+  url: https://defence-industry.eu/tekever-wins-british-army-contract-worth-up-to-400-million-for-ar5-long-range-surveillance-drones-built-in-swindon-under-project-corvus/
+
+- date: "2026-09-21"
+  title: "Kratos and GE Aerospace ignite the first GEK800 turbofan, designated F143, as cruise missile propulsion moves toward production"
+  source: "Kratos Defense & Security Solutions / GE Aerospace"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Kratos and GE Aerospace reported the successful ignition of GEK800 serial number 1 at the Kratos X-58 test facility, initiating
+    a new test campaign for a turbofan propulsion system intended for cruise missiles; cited specifics include a 100 percent success
+    rate reported for this phase of development with the programme described as remaining on schedule, a recent designation of the
+    engine as the F143 against Department of War requirements for long-range stand-off strike, positioning of the design around
+    affordable high-performance propulsion and lower lifecycle cost through modern engineering and cost-effective manufacturing,
+    validation of architecture, reliability and readiness for integration by the X-58 test, and application to attritable strike
+    assets and rapid capability deployment for the department and allied prime contractors, with Kratos Turbine Technologies
+    president Stacey Rock stating that the company is preparing for large volume production of the GEK800 engine.
+  url: https://www.geaerospace.com/news/press-releases/ge-aerospace-and-kratos-achieve-significant-program-milestone-successful-ignition
+
+- date: "2026-09-21"
+  title: "Stellantis takes full ownership of SAIPL as the Thiruvallur plant passes 95 percent localisation"
+  source: "Automotive World / Stellantis"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports Stellantis assumed full ownership of its Indian manufacturing entity SAIPL, Stellantis Automobiles
+    India Private Limited, after buying out the remaining stake held by Hindustan Motor Finance Corporation of the CK Birla Group,
+    with which the joint venture was established in 2017 and vehicle assembly at Thiruvallur started in 2021; cited specifics
+    include a four-model Citroen line-up at the plant covering the C3, the eC3 electric variant, the C3 Aircross and the Basalt,
+    localisation of more than 95 percent on those models, more than EUR 1 billion invested by Stellantis in India across
+    manufacturing, product development and localisation, and positioning of Thiruvallur as a manufacturing hub rather than an
+    assembly point.
+  url: https://www.automotiveworld.com/news/stellantis-takes-full-ownership-of-indias-saipl-plant/
+
+- date: "2026-09-20"
+  title: "BAE Systems wins an approximately USD 818M U.S. Army order for another AMPV batch, lifting cumulative orders to just under USD 3.3B"
+  source: "Defence Industry Europe / BAE Systems"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports BAE Systems secured an approximately USD 818 million U.S. Army contract for another production
+    batch of Armored Multi-Purpose Vehicles, bringing the cumulative value of AMPV orders to just under USD 3.3 billion; cited
+    specifics include deliveries due for completion by 31 May 2030, quantity not disclosed by the Army, funding through fiscal 2025
+    and 2026 appropriations and special funds, Army Contracting Command at Detroit Arsenal in Michigan as the contracting activity,
+    production at the BAE Systems facility in York, Pennsylvania, a vehicle based on components from the M2 Bradley infantry
+    fighting vehicle and designed to replace the ageing M113 fleet of the Army, and a 2014 selection of BAE Systems over General
+    Dynamics Land Systems and Navistar Defense.
+  url: https://defence-industry.eu/bae-systems-wins-818-million-u-s-army-contract-for-more-ampv-armored-vehicles-lifting-m113-replacement-orders-near-3-3-billion/
+
+- date: "2026-09-16"
+  title: "Siemens and P&G scale the Visual Inspection Cockpit AI inspection system with 10 to 20 percent scrap reduction"
+  source: "Siemens / Industrial Machinery Digest"
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Siemens reports it and Procter & Gamble are expanding deployment of their jointly developed Visual Inspection Cockpit across
+    P&G manufacturing operations worldwide, with inspection performed in real time at full line speed; cited specifics include
+    scrap rate reductions of 10 to 20 percent depending on the product, commissioning of new deployments five to ten times faster
+    than traditional bespoke vision systems, P&G deep learning models combined with the Siemens Industrial Edge platform and
+    industrial PCs powered by Nvidia GPUs, a Visual Inspection Engineering Tool that lets plant engineers configure, train and
+    update inspection models without dedicated data science resources, inference processed close to production equipment with
+    real-time PLC integration that can raise alerts or remove individual defective products without stopping the line, and
+    delivery as a reusable Industrial Edge application within the Siemens Industrial AI Suite for replication across plants,
+    products and inspection scenarios.
+  url: https://industrialmachinerydigest.com/quality/vision-systems/siemens-and-procter-gamble-scale-ai-based-quality-inspection-across-global-production
+
+- date: "2026-09-16"
+  title: "Airbus delivers the first A320neo from its second Tianjin final assembly line as the global A320 network reaches ten lines"
+  source: "Airbus / Xinhua"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Airbus reports it delivered the first A320 Family aircraft assembled at its second final assembly line in Tianjin, an A320neo
+    handed to China Eastern Airlines, less than a year after the line entered operation in October 2025; cited specifics include a
+    global A320 Family final assembly network of ten lines comprising four in Hamburg, two in Toulouse, two in Mobile and two in
+    Tianjin, more than 800 A320 Family aircraft assembled and delivered by the first Tianjin line since its inauguration in 2008,
+    the second line positioned as a contributor to the ramp toward a production rate of 75 A320 Family aircraft per month, and an
+    Airbus global market forecast that China will require 8,830 new passenger aircraft over the next two decades, more than 20
+    percent of a global requirement of 42,060 aircraft.
+  url: http://www.china.org.cn/2026-09/16/content_118698674.shtml
 - date: "2026-09-21"
   title: "Hexagon integrates Absolute Arm, GelSight Mobile Series 2, and VGMETROLOGY Essential into one dimensional and surface inspection workflow"
   source: "Metrology News / Hexagon Manufacturing Intelligence"
