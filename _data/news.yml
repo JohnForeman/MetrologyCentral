@@ -1,4 +1,154 @@
 ---
+- date: "2026-09-23"
+  title: "XYZO launches hybrid additive and machining platform with in-machine probe inspection before finishing passes"
+  source: "Metrology News / XYZO"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports XYZO launched an automated hybrid manufacturing platform for polymer parts that
+    brings additive manufacturing, precision machining, finishing, inspection, and process control together in
+    one connected production line instead of treating printing as the finished operation; cited specifics
+    include a modular architecture able to integrate digital light processing, fused deposition modelling,
+    pellet extrusion, drop-on-demand deposition, and CNC micro-milling alongside cleaning, curing, and
+    inspection steps, a touch-trigger probe accessed through the CNC machine automatic tool changer, in-process
+    measurement of as-built geometry before the finishing pass is programmed so the machining step targets the
+    actual printed part rather than nominal CAD, and positioning as a commercial production technology aimed at
+    the dimensional mismatch from resin shrinkage, warping, and powder-bed distortion that otherwise undermines
+    additive-then-finish workflows.
+  url: "https://metrology.news/hybrid-manufacturing-platform-integrates-additive-manufacturing-machining-and-inspection/"
+
+- date: "2026-09-22"
+  title: "CATL starts trial cell production at its planned 100 GWh Debrecen battery plant in Hungary"
+  source: "CATL / CNW"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    CATL reports it began trial production of battery cells on 22 September 2026 at its newly built cell
+    factory in Debrecen, Hungary after fulfilling all preconditions required to commence trial runs, making it
+    a quantified European battery-cell capacity signal rather than generic plant coverage; cited specifics
+    include trial production on the first two cell production lines to set up, optimise, and validate
+    production equipment and manufacturing processes ahead of series production with no mass-production date
+    disclosed, an occupancy permit obtained in August 2026 followed by all remaining relevant permits and
+    completion of the conditions in its Integrated Pollution Prevention and Control permit, construction of
+    the first cell building starting in summer 2023 with production equipment installed by spring 2026,
+    battery module production at the site since autumn 2024 with 537,000 modules produced to date, and a
+    planned 100 GWh total capacity that will make Debrecen the largest manufacturing base outside China for
+    the company.
+  url: "https://www.newswire.ca/news-releases/catl-kicks-off-trial-production-of-battery-cells-in-hungary-813215343.html"
+
+- date: "2026-09-22"
+  title: "Pirelli approves about EUR 1 billion US investment to lift Rome, Georgia output to 6 million car tyres by 2033"
+  source: "Pirelli and C. S.p.A."
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Pirelli reports its board of directors majority approved a United States investment plan worth
+    approximately EUR 1 billion, around USD 1.2 billion, to expand its Rome, Georgia plant, making it a
+    quantified automotive tyre manufacturing-capacity signal rather than generic investment coverage; cited
+    specifics include a programme implemented over several years starting in 2027 and reaching annual capacity
+    of approximately 6 million car tyres on completion in 2033, around 1,000 new jobs against the 234 people
+    Pirelli employs today across its Georgia manufacturing, innovation, and headquarters operations, a first
+    phase raising robotised output using the latest evolution of its MIRS modular integrated robotised system
+    to 3 million tyres per year from 2028, a second phase adding a fully automated conventional production
+    facility for a further 3 million tyres per year, production of Cyber Tyre connected-tyre technology
+    following authorisation from the Bureau of Industry and Security to market the system in the United
+    States, a market accounting for about 40 percent of global High Value volumes, and a board vote that was
+    not unanimous.
+  url: "https://press.pirelli.com/pirelli-board-of-directors-majority-approves-us-multi-year-investment-plan-of-approximately-1-billion/"
+
+- date: "2026-09-22"
+  title: "SK On signs KRW 1.07 trillion LFP cathode supply contract with Posco Future M for US energy-storage cells"
+  source: "The Herald Business / SK On / Posco Future M"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Herald Business reports SK On and Posco Future M signed a lithium-iron-phosphate cathode material
+    supply contract valued at KRW 1.07 trillion, about USD 722 million, making it a quantified non-China
+    battery-materials supply-chain signal rather than generic battery coverage; cited specifics include a
+    three-year term from 1 January 2027 to 31 December 2029 with an option to extend by up to two years to the
+    end of 2031, the United States among the designated supply regions, Korean-made cathode material feeding
+    LFP cell production for energy storage systems at the SK On plant in Georgia from 2027, a contract value
+    equal to about 37 percent of prior-year sales at Posco Future M, conversion of part of the high-nickel
+    lines at its Pohang cathode plant to LFP with mass production targeted before the end of 2026 and further
+    line conversions planned in step with orders, and a dedicated LFP cathode joint venture involving Posco
+    Future M, Pino, and CNGR of China under construction at the Yeongil Bay industrial complex in Pohang with
+    mass production targeted for 2027.
+  url: "https://biz.heraldcorp.com/article/10882537"
+
+- date: "2026-09-22"
+  title: "Mercedes-Benz says German production is not competitive and warns one assembly and one powertrain plant could close"
+  source: "RTE / Mercedes-Benz"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    RTE reports Mercedes-Benz said production in Germany is not competitive by international standards, in
+    particular because of high labour costs, after production chief Michael Schiebe told workers at the
+    111-year-old Sindelfingen plant that closures loomed if costs were not reduced, making it a quantified
+    automotive manufacturing-footprint signal rather than generic labour-relations coverage; cited specifics
+    include a stated clear goal of maintaining all German locations, a requirement to agree joint measures
+    acceptable to everyone to lower costs in Germany, an explicit statement that otherwise one German assembly
+    plant and one German powertrain plant would have to close, no plants identified as under threat and no
+    decision taken, a company statement that framework conditions are needed to boost productivity in
+    Germany, and a works meeting held against a backdrop of nationwide IG Metall protests in which tens of
+    thousands of auto workers demonstrated.
+  url: "https://www.rte.ie/news/business/2026/0922/1592549-mercedes-says-german-production-not-competitive/"
+
+- date: "2026-09-22"
+  title: "Planet Labs opens Berlin satellite plant targeting up to 60 Pelican satellites a year"
+  source: "Planet Labs / Business Wire"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Planet Labs reports it opened a satellite manufacturing facility in the Mitte district of Berlin after
+    completing facility handover and cleanroom fit-out less than a year after announcing the plan, making it a
+    quantified European satellite production-capacity signal rather than generic space-industry coverage;
+    cited specifics include a 5,700 square metre facility scheduled to begin production of 300 kg class and
+    30 cm resolution class Pelican satellites in autumn 2026 with the first satellite complete before the end
+    of the year, capacity scalable to up to 60 satellites per year and a doubling of Pelican fleet output,
+    70 additional employees on top of nearly 150 existing Berlin staff, build, test, and ship operations
+    concentrated in one location to shorten the path from parts to orbit, a first German-built Pelican
+    scheduled to launch on an Isar Aerospace Spectrum vehicle from Andoya in Norway in early 2027, and a
+    stated sovereign-capacity role after Planet delivered a German-funded satellite within two months of
+    contract signature and a first Swedish sovereign satellite within four months.
+  url: "https://www.businesswire.com/news/home/20260922048020/en/"
+
+- date: "2026-09-22"
+  title: "Firefly Aerospace completes cleanroom enabling an assembly line for up to 12 lunar landers and orbital vehicles"
+  source: "Firefly Aerospace"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Firefly Aerospace reports it completed a new cleanroom at its Cedar Park, Texas spacecraft facility,
+    moving its spacecraft programme from single-build to assembly-line throughput; cited specifics include a
+    cleanroom four times the size of the existing one, enabled within a 144,000-square-foot campus and funded
+    by a Texas Space Commission grant reported at USD 8.5 million, a combined cleanroom pair supporting up to
+    12 lunar landers and orbital vehicles simultaneously, ISO Class 8 contamination control for flight
+    hardware assembly, integration, and test, five additional lunar missions under contract after Blue Ghost
+    Mission 1 for Blue Ghost landers and Elytra orbiters, two Defense Innovation Unit spacecraft contracts
+    covering space domain awareness and deorbit services, and company work to scale the proven lander design
+    into a larger vehicle for heavier lunar cargo, terrain vehicles, infrastructure, and power systems.
+  url: "https://fireflyspace.com/news/firefly-aerospace-completes-new-cleanroom-to-accelerate-spacecraft-production/"
+
+- date: "2026-09-22"
+  title: "Colorado State reports 171Yb+ optical ion clock cancelling motion-induced frequency shifts to 0.3 x 10-18"
+  source: "arXiv (Lide et al.) / Colorado State University"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 22 September 2026 by researchers at Colorado State University reports a
+    spectroscopic interrogation protocol that gives first-order auto-suppression of motion-induced frequency
+    shifts in optical ion clocks, making it a quantified primary-metrology method advance rather than generic
+    atomic-clock coverage; cited specifics include reduction of the combined fractional uncertainty
+    contribution from second-order Doppler and quadratic Stark shifts on a new ytterbium ion clock probing the
+    467 nm electric octupole transition from 1.3 x 10-18 to 0.3 x 10-18, a Ramsey-style sequence with
+    intentionally detuned drive pulses that engineers a third motional-state-dependent shift cancelling the
+    other two over a wide range of linear motional heating without requiring the opposite-sign polarizability
+    configuration, residual excess micromotion contributions of 0.1 x 10-18 and 0.3 x 10-18 on the E3 and E2
+    transitions, an interleaved E3/E2 optical frequency ratio of 0.932 829 404 530 965 340(39) from 696,100
+    seconds of measurement, and a derived limit on fractional temporal variation of the fine-structure
+    constant of 2.4(2.7) x 10-19 per year, consistent with previously published bounds.
+  url: "https://arxiv.org/abs/2609.26775"
+
 - date: "2026-09-22"
   title: "Samsung SDI to resume Synergy Cells investment in Indiana with ESS-focused LFP lines and a 2028 start"
   source: "The Elec / Samsung SDI"
