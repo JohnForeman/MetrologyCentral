@@ -1,4 +1,104 @@
 ---
+- date: "2026-09-25"
+  title: "Tesla starts high-volume Semi production at its dedicated Sparks, Nevada truck factory"
+  source: "CNBC / Tesla"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    CNBC reports Tesla inaugurated a factory dedicated to the Semi next to Gigafactory Nevada in Sparks and
+    said high-volume production of the Class 8 electric truck has begun, making it a quantified electric truck
+    manufacturing capacity signal rather than a product announcement; cited specifics include a plant built
+    for up to 50,000 trucks a year, or roughly 1,000 per week, a 1.8 million square foot building that
+    assembles Standard Range, Long Range and European-spec variants on a single line, an expected 3,000 jobs
+    for the local economy, a first truck built on the high-volume line in April 2026, deliveries described by
+    the company as starting now, and analyst expectations that 2026 deliveries will fall well below installed
+    capacity.
+  url: https://www.cnbc.com/2026/09/24/tesla-aims-to-scale-semi-truck-production-with-nevada-factory-opening.html
+
+- date: "2026-09-25"
+  title: "Vertical Aerospace opens a Valo assembly centre at Cotswold Airport for certification aircraft"
+  source: "Aerospace Testing International / Vertical Aerospace"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Aerospace Testing International reports Vertical Aerospace opened an Aircraft Assembly Centre for its Valo
+    eVTOL aircraft at Cotswold Airport in Kemble, United Kingdom, making it a quantified step from prototype
+    development to aircraft manufacturing rather than a programme milestone alone; cited specifics include a
+    GBP 1.5 million (USD 2 million) 60,000 square foot facility that takes the company footprint at Cotswold
+    to about 130,000 square feet, assembly of certification-conforming aircraft for compliance demonstration
+    expected to begin in the fourth quarter of 2027, a target of UK Civil Aviation Authority type
+    certification in 2029, capacity to assemble more than 25 aircraft a year in the early production phase
+    with a separate full-scale production site to be announced in the fourth quarter of 2026, and retrofit of
+    a prototype aircraft for hybrid-electric flight testing in the first half of 2027.
+  url: https://www.aerospacetestinginternational.com/news/vertical-aerospace-opens-valo-evtol-assembly-center-at-cotswold-airport.html
+
+- date: "2026-09-25"
+  title: "India targets a second fighter production line and a wider missile base as Akash orders reach INR 38,000 crore"
+  source: "CNBC TV18 / Moneycontrol (Defence Secretary remarks)"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    CNBC TV18 and Moneycontrol report Defence Secretary Rajesh Kumar Singh said India intends to establish a
+    second fighter aircraft production line and to open missile production beyond a single public sector
+    undertaking, making it a quantified defence manufacturing capacity signal rather than general policy
+    commentary; cited specifics include Akash orders now at INR 38,000 crore against a target of INR 50,000
+    crore by 2030 that he said could be reached by 2028 or 2029, about INR 2 lakh crore of orders placed in
+    two years against an earlier trend of INR 50,000 to 80,000 crore, roughly INR 2,800 crore of contracts
+    awarded under programmes including iDEX, proposals for the AMCA programme fielded from three shortlisted
+    companies, ambitions for about two fighter aircraft lines, around six missile producers and hundreds of
+    drone makers, and a goal that 75 percent of defence capital expenditure be spent domestically each year.
+  url: https://www.cnbctv18.com/india/india-plans-2nd-fighter-jet-line-more-missile-makers-akash-orders-hit-rs-38000-cr-19998638.htm
+
+- date: "2026-09-25"
+  title: "MathWorks adds visual inspection and Gage R&R tools in MATLAB and Simulink R2026b"
+  source: "Industrial News / MathWorks"
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Industrial News reports MathWorks released R2026b across the MATLAB and Simulink product families, making
+    it a measurable inspection and measurement-analysis tooling update rather than a general software
+    announcement; cited specifics include a new Visual Inspection Toolbox for developing and testing machine
+    vision inspection applications across image acquisition, preprocessing, labelled examples, model
+    development and deployment, Simulink Variant Manager for managing design alternatives across large models,
+    Polyspace Test Server for running C and C++ tests and structural coverage analysis on automation servers,
+    and interactive design-of-experiments and Gage R&R applications added to the Statistics and Machine
+    Learning Toolbox that separate measurement variation from process variation.
+  url: https://industrialnews.co.uk/mathworks-expands-engineering-workflows-with-r2026b/
+
+- date: "2026-09-24"
+  title: "SHINING 3D adds FreeScan Combo+ Wireless and Trak ProW+ to its scanning lineup"
+  source: "Metrology News / SHINING 3D Metrology"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports SHINING 3D announced updates and additions across its professional 3D digitising
+    and metrology lineup, making it a measurable handheld and tracking scanner capability update rather than
+    generic product coverage; cited specifics include FreeScan Combo+ Wireless with Wi-Fi 7 data transmission,
+    up to 9,106,000 points per second, 93 laser lines in high-speed scan mode and 25 parallel laser lines in
+    detailed scan mode at up to 180 frames per second, 0.02 mm accuracy with 0.02 plus 0.015 mm per metre
+    volumetric accuracy in video photogrammetry mode, 0.01 to 10 mm point distance, a 550 g scanner with up to
+    two hours of battery operation, and ISO 10360 acceptance testing in an ISO/IEC 17025 accredited accuracy
+    lab, alongside the FreeScan Trak ProW+ for large-scale and automated inspection and the FreeScan Trak
+    Nova+ at up to 7,600,000 points per second.
+  url: https://metrology.news/shining-3d-expands-wireless-3d-metrology-lineup/
+
+- date: "2026-09-23"
+  title: "Maxvolt Energy breaks ground on an INR 700 crore Aligarh battery plant targeting 10 GWh"
+  source: "ETAuto / Autocar Professional / Maxvolt Energy"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    ETAuto and Autocar Professional report Maxvolt Energy Industries began construction of an INR 700 crore
+    battery manufacturing facility in Aligarh, Uttar Pradesh, making it a quantified Indian battery capacity
+    signal rather than generic plant coverage; cited specifics include a site of about 23,576 square metres
+    developed in two 5 GWh phases for 10 GWh of planned annual capacity, 12.5 GWh of combined planned capacity
+    once the operating Duhai plant is included, production of battery solutions from 1 kW to 5 MW with battery
+    management systems for AC charging and level 3 and level 5 DC fast charging, dedicated OEM assembly lines
+    and a first entry into four-wheeler EV packs alongside two-wheeler, three-wheeler, telecom backup and
+    stationary storage products, more than INR 6,800 crore of annual turnover potential at full capacity, and
+    an estimated 1,500 to 2,000 direct and 7,500 to 10,000 indirect jobs.
+  url: https://auto.economictimes.indiatimes.com/news/auto-components/maxvolt-energy-breaks-ground-on-700-crore-aligarh-battery-plant/134435533
+
 - date: "2026-09-24"
   title: "PowerCo delays its St. Thomas battery gigafactory to 2029 and names EllisDon as general contractor"
   source: "Electric Autonomy Canada / PowerCo Canada"
@@ -877,25 +977,6 @@
     USD 9 billion to expand PAC-3 MSE, THAAD, and Precision Strike Missile production across more than 20 U.S.
     facilities while increasing munitions production and warehousing space by nearly 50 percent.
   url: https://www.prnewswire.com/news-releases/lockheed-martin-fast-tracks-pac-3-mse-components-in-less-than-one-month-in-partnership-with-gm-defense-302882126.html
-
-- date: "2026-09-17"
-  title: "SHINING 3D launches FreeScan Trak Nova+ dynamic tracking scanner at 7.6 million points per second"
-  source: "DailyCADCAM / SHINING 3D Metrology"
-  sector: scientific_metrology
-  kind: hardware_news
-  summary: >-
-    DailyCADCAM reports SHINING 3D Metrology launched FreeScan Trak Nova+, an upgraded generation of its
-    wireless multi-functional dynamic tracking and scanning system, making it a measurable large-scale optical
-    metrology hardware update rather than generic scanner coverage; cited specifics include a scanning speed of
-    up to 7,600,000 points per second, marker-free scanning with dynamic tracking, built-in video
-    photogrammetry, three tracking-mode laser configurations of 62 laser lines for high-speed scans, 25
-    parallel laser lines for detailed scans, and a single line for deep pockets, 62 laser lines in the
-    separated large-field-of-view handheld scanner configuration compared with 50 in the previous generation,
-    a separable all-in-one design that allows the tracker to also function as a handheld laser scanner,
-    a dedicated mobile workstation integrating computing and battery power for on-site work, accuracy verified
-    to VDI/VDE 2634 and ISO 10360, and target applications spanning construction machinery, rail transit,
-    civil aviation, and energy.
-  url: https://dailycadcam.com/shining-3d-launches-freescan-trak-nova-wireless-tracking-scanning-system/
 
 - date: "2026-09-17"
   title: "SK On signs KRW 160 billion LFP cathode supply contract with L&F as Korean LFP cathode line ramps"
