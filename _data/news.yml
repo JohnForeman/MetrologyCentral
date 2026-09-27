@@ -1,4 +1,108 @@
 ---
+- date: "2026-09-24"
+  title: "EnerVenue starts production on the first high-volume Aqueous Metal Cell line in Changzhou"
+  source: "EnerVenue / AZoCleantech"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    EnerVenue reports it started production at the first high-volume manufacturing line built for its Aqueous Metal
+    Cell, a water-based nickel-hydrogen battery, at the Wujin site in Changzhou, Jiangsu, making it a quantified
+    stationary-storage cell manufacturing capacity signal rather than generic battery coverage; cited specifics
+    include phase 1 rated at 250 MWh of annual capacity rising to 1 GWh in 2027 and multi-gigawatt-hour scale by
+    2028, about 300 fourth-generation cells per day at full automation with the line ramping to full rate through
+    November 2026, ground broken in April 2026 and the line completed in about 25 weeks, a cell designed for
+    30,000 charge cycles, a first multi-megawatt-hour commercial order of 26 Energy Prism containers totalling
+    11 MWh for an oilfield site in northern China with first shipments in December, capacity added by replicating
+    standardised stations, and funding from a USD 300 million Series B extension announced in March 2026.
+  url: https://www.enervenue.com/press/news-enervenue-opens-aqueous-metal-cell-production-line-changzhou
+
+- date: "2026-09-26"
+  title: "GM and Cirba Solutions complete a closed-loop pilot with production cells using 100 percent recycled cathode minerals"
+  source: "General Motors / ElectricCarsReport"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    General Motors reports it completed a closed-loop electric-vehicle battery recycling pilot with Cirba Solutions
+    in which new battery cells were built with cathode active material containing 100 percent recycled nickel,
+    cobalt and manganese recovered from end-of-life GM battery packs, making it a quantified recycled-materials
+    cell-production signal rather than a generic recycling announcement; cited specifics include 80 end-of-life GM
+    electric vehicle battery packs processed at the Cirba Solutions lithium-ion recycling facility in Ohio into
+    black mass, recovery of more than 12 metric tons of new cathode active material, cell manufacture by the
+    Ultium Cells joint venture between GM and LG Energy Solution, module and pack assembly at Factory ZERO and
+    Spring Hill, and production vehicles using the recycled-material cells spanning the Cadillac LYRIQ, LYRIQ-V,
+    VISTIQ, ESCALADE IQ and ESCALADE IQL plus the Chevrolet Silverado EV Trail Boss and GMC Sierra EV AT4.
+  url: https://electriccarsreport.com/2026/09/gm-completes-closed-loop-ev-battery-recycling-pilot-with-100-recycled-metals/
+
+- date: "2026-09-25"
+  title: "BYD recruits more than 8,000 workers across its Xi'an base as export demand refills capacity"
+  source: "Automotive World / Yicai"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports BYD is recruiting more than 8,000 workers across multiple plants at its Xi'an
+    production base, its largest manufacturing hub, as export orders absorb capacity that domestic competition
+    alone could not fill, making it a quantified vehicle production-capacity and labour signal rather than a
+    generic hiring notice; cited specifics include a base with combined annual capacity of up to 1.5 million
+    vehicles across four factory phases that produced more than one million vehicles in 2024, recruitment targeted
+    at welding, painting and final assembly roles with signing bonuses up to CNY 6,000 and monthly pay reaching
+    CNY 10,000, all four Xi'an sites back on normal production schedules after second-generation Blade Battery
+    line upgrades constrained output earlier in 2026, Shaanxi province vehicle production down nearly 50 percent
+    year on year over the first seven months of 2026 before August output reached 138,900 vehicles, up 55.4
+    percent on July and 17.9 percent year on year, and record August new energy vehicle sales of 440,293 units,
+    up 17.8 percent year on year.
+  url: https://www.automotiveworld.com/intelligence/byd-hires-8000-more-at-largest-china-plant-amid-export-boom/
+
+- date: "2026-09-25"
+  title: "Toyoda Gosei to build an INR 5.8 billion automotive component plant in Bidkin, Maharashtra"
+  source: "Just Auto / Toyoda Gosei"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Just Auto reports Toyoda Gosei will build an INR 5.8 billion, about USD 60 million, automotive component plant
+    in the Bidkin Industrial Area of Maharashtra through Toyoda Gosei South India, making it a quantified
+    automotive supplier capacity signal rather than generic expansion coverage; cited specifics include production
+    of large interior and exterior components including bumpers and instrument panels plus airbags, steering wheels
+    and smaller plastic components from the first half of 2029, around 570 direct employees, an eighth Indian plant
+    for a company that already operates seven component facilities in Karnataka, Rajasthan, Gujarat and Haryana
+    supplying mainly Japanese vehicle manufacturers, and stated use of the latest large moulding machines with
+    automatic mould and setup changes plus IoT and digital-transformation production management to hold down
+    investment cost.
+  url: https://www.just-auto.com/news/toyoda-gosei-to-build-new-component-plant-in-india/
+
+- date: "2026-09-26"
+  title: "HII expands its Pocasset unmanned maritime plant by 25 percent to scale U.S. Navy Lionfish production"
+  source: "Defence Industry Europe / HII"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Defence Industry Europe reports HII expanded its unmanned maritime systems plant in Pocasset, Massachusetts by
+    10,000 square feet, increasing manufacturing space by 25 percent to support U.S. Navy Lionfish underwater
+    vehicles alongside the REMUS and ROMULUS lines, making it a quantified defence manufacturing capacity signal
+    rather than a generic ribbon-cutting; cited specifics include a facility growing from 40,000 to 50,000 square
+    feet, Lionfish already in production on a commercial REMUS 300 design with a Navy option-year contract awarded
+    in July 2026, planned production of the REMUS 620 underwater vehicle and ROMULUS unmanned surface vessels with
+    Odyssey autonomy software, simulation and autonomy hardware integrated at the site, about 300 Pocasset
+    employees and 50 added there in 2026, and more than 750 REMUS vehicles delivered to customers in over 30
+    countries including 14 NATO members with more than 90 percent of systems delivered over 25 years still in
+    active service.
+  url: https://defence-industry.eu/hii-expands-massachusetts-factory-by-25-to-scale-u-s-navy-lionfish-production-and-meet-global-demand-for-unmanned-vessels/
+
+- date: "2026-09-24"
+  title: "Moog commissions an ISO Class 8 clean room at Niagara Falls, raising thruster clean-room capacity by more than 80 percent"
+  source: "SpaceNews / Moog"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    SpaceNews reports Moog commissioned a new ISO Class 8 certified clean room at its Niagara Falls facility,
+    increasing dedicated clean-room capacity by more than 80 percent for the assembly, integration and testing of
+    thrusters, making it a quantified propulsion manufacturing capacity signal rather than a generic facility
+    notice; cited specifics include a purpose-built environment designed for continuous multi-shift operation
+    supporting the full production flow from precision subassembly and integration through hot-fire testing,
+    integration with a site that houses four in-house high-altitude hot-fire test chambers, a stated focus on
+    defence and commercial spaceflight programmes including missile defence, space-based interceptors and Golden
+    Dome, and additional operations and engineering roles added since the expansion broke ground.
+  url: https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/
+
 - date: "2026-09-25"
   title: "Tesla starts high-volume Semi production at its dedicated Sparks, Nevada truck factory"
   source: "CNBC / Tesla"
