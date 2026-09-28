@@ -1,4 +1,75 @@
 ---
+- date: "2026-09-27"
+  title: "GAO says the U.S. Navy's four public shipyard rebuild will exceed USD 200 billion and run beyond 2080"
+  source: "Defence Industry Europe / U.S. Government Accountability Office"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports the U.S. Government Accountability Office found the program to rebuild the
+    Navy's four public shipyards will cost more than USD 200 billion with final projects in current plans
+    completing after 2080, against the Navy's initial 2018 estimate of at least USD 21 billion over 20 years,
+    making it a quantified naval industrial-base capacity signal rather than generic infrastructure coverage; cited
+    specifics include roughly USD 41.6 billion of currently planned work at Portsmouth Naval Shipyard alone on the
+    lowest of three completed shipyard cost analyses, projects spread across three overlapping blocks with some
+    facilities pushed into the 2070s or later, combined cost growth above USD 2.5 billion for new dry-dock work at
+    Portsmouth and Pearl Harbor since funding was first requested, drivers including seismic improvements, utility
+    upgrades, repair work absent from early plans, higher commodity prices and fuller treatment of project risks,
+    no approved overall program cost and schedule baseline as of April 2026, and the constraint of rebuilding while
+    all four yards continue supporting nuclear-powered submarine and aircraft carrier maintenance.
+  url: https://defence-industry.eu/u-s-navys-shipyard-overhaul-to-exceed-200-billion-and-extend-beyond-2080-gao-says-dwarfing-its-initial-21-billion-estimate/
+
+- date: "2026-09-27"
+  title: "ATC Manufacturing breaks ground on a 57,635 sq ft addition that nearly doubles its Post Falls thermoplastic composites plant"
+  source: "Coeur d'Alene Press / Advanced Thermoplastic Composites"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Coeur d'Alene Press reports Advanced Thermoplastic Composites broke ground in late August 2026 on a
+    57,635-square-foot addition that will nearly double its manufacturing plant in Post Falls, Idaho, making it a
+    quantified U.S. thermoplastic composite aerostructures capacity signal rather than a generic expansion notice;
+    cited specifics include a project cost above USD 10 million with completion targeted for summer 2027, an
+    existing 67,000-square-foot building completed in 2015, a recently awarded Air Force Research Laboratory
+    contract covering large-scale high-rate thermoplastic composite aircraft structures, mass production of clips,
+    brackets and primary structure parts for commercial aircraft with stated intent to enter defense work, dozens
+    of new engineers and technicians being hired, one larger press added alongside the 10 already installed plus
+    office space for up to 30 engineers, about 68 aerospace customers, and Lakeside Companies as owner with Baker
+    Construction as general contractor.
+  url: https://cdapress.com/news/2026/sep/27/atc-manufacturing-expanding-its-post-falls-facility/
+
+- date: "2026-09-25"
+  title: "WEG doubles planned capacity of its Itajaí battery energy storage factory to 4 GWh and lifts investment to BRL 330 million"
+  source: "Reuters via InfoMoney / WEG"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Reuters, via InfoMoney, reports WEG expanded the project for its battery energy storage system factory under
+    construction in Itajaí, Santa Catarina, doubling planned annual capacity to 4 GWh from the 2 GWh announced in
+    February 2026 and putting total estimated investment at BRL 330 million, making it a quantified battery-system
+    manufacturing capacity signal rather than a generic investment update; cited specifics include operations still
+    scheduled to begin in the second half of 2027, a revised design adding automation and industrial efficiency
+    gains that the company says enables the higher capacity, an earlier BRL 280 million financing from state
+    development bank BNDES under its Mais Inovação programme, the original 2 GWh plan equated to roughly 400
+    battery energy storage systems of 5 MWh each, and timing ahead of Brazil's first national energy storage
+    capacity reserve auction expected in December 2026.
+  url: https://www.infomoney.com.br/mercados/weg-amplia-aportes-e-capacidade-produtiva-prevista-para-nova-fabrica-de-baterias/
+
+- date: "2026-09-25"
+  title: "MIRTEC to show the MV-9SiP hybrid 3D inspection system with 25 MP vision and 7.7 micrometre resolution at SEMICON West"
+  source: "Silicon Semiconductor News / MIRTEC"
+  sector: quality_software
+  kind: hardware_news
+  summary: >-
+    Silicon Semiconductor News reports MIRTEC will showcase the MV-9SiP hybrid 3D inspection system, which combines
+    2D vision, 12-projection Digital Blue Light Moiré and blue laser scanning in a single semiconductor inspection
+    platform, making it a measurable electronics inspection capability signal rather than generic trade-show
+    coverage; cited specifics include a proprietary 25-megapixel CoaXPress vision system with 7.7 micrometre
+    resolution used to inspect 01005 chip arrays, solder balls, bumps and densely packed packages, 8-phase coaxial
+    colour lighting that improves crack and surface-defect visibility on reflective chip-scale packages, a blue
+    laser scanner that measures both highly reflective and low-reflective surfaces, and stated support for
+    automotive, aerospace and defense electronics applications, with the system to be shown at SEMICON West 2026 in
+    San Francisco from 13 to 15 October.
+  url: https://siliconsemiconductor.net/article/125459/MIRTEC_to_showcase_3D_Semiconductor_Inspection_System_at_SEMICON_West_2026
+
 - date: "2026-09-24"
   title: "EnerVenue starts production on the first high-volume Aqueous Metal Cell line in Changzhou"
   source: "EnerVenue / AZoCleantech"
