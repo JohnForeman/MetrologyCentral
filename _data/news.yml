@@ -6245,23 +6245,6 @@
     local parts sourcing.
   url: https://www.asiae.co.kr/en/article/2026093008133639031
 
-- date: "2026-09-30"
-  title: "BMW invests around EUR 2 billion in Munich, Dingolfing and the Irlbach-Straßkirchen battery plant for the new 3 Series and i3"
-  source: "BMW Group"
-  sector: auto_manufacturing
-  kind: press_release
-  summary: >-
-    BMW Group reports it is investing around EUR 2 billion in vehicle production and battery manufacturing in Germany to prepare its
-    plants for the eighth generation of the BMW 3 Series, making it a quantified German assembly and battery capacity signal rather
-    than a product announcement; cited specifics include approximately EUR 1 billion spent on further development of the Munich and
-    Dingolfing vehicle plants and around EUR 1 billion invested in the new Irlbach-Straßkirchen high-voltage battery plant in Lower
-    Bavaria, production of the all-electric i3 at the extensively renovated Munich parent plant using sixth-generation high-voltage
-    batteries supplied from Irlbach-Straßkirchen from October, combustion-engine and plug-in hybrid 3 Series variants produced at
-    Dingolfing with a new body shop line added to the existing production mix, about 18 million 3 Series vehicles completed since 1975
-    with 15 million of them made in Germany, and the same standards applied under a local-for-local approach to i3 and 3 Series
-    production at San Luis Potosi in Mexico and in a China-market version built in Shenyang.
-  url: "https://www.press.bmwgroup.com/global/article/detail/T0461136EN/%22made-in-germany%22:-bmw-investing-around-two-billion-euros-in-the-production-of-the-new-bmw-3-series"
-
 - date: "2026-09-29"
   title: "Avio USA breaks ground on a 900,000 square foot solid rocket motor plant in Hurt, Virginia"
   source: "Defence Industry Europe / Avio USA"
@@ -6576,3 +6559,150 @@
     Standard Reference Materials Store with a reference material information sheet for laboratory method
     harmonisation.
   url: https://www.additivemanufacturing.media/news/nist-reference-material-promotes-standardization-in-photopolymer-3d-printing
+
+- date: "2026-10-01"
+  title: "RTX's Raytheon awarded a five-year SM-6 multiyear contract valued up to USD 24.4 billion"
+  source: "RTX / Raytheon / U.S. Department of War"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    RTX reports its Raytheon business was awarded a five-year multiyear contract with two additional option years
+    valued at up to USD 24.4 billion for Standard Missile-6 interceptors for the U.S. Navy, making it a quantified
+    naval munitions production-capacity signal rather than a generic contract notice; cited specifics include a
+    structure the Department of War says provides the defence industry with the long-term predictability needed to
+    expand workforce capacity and secure critical supply chains under the Arsenal of Freedom effort, the SM-6 as a
+    multi-mission weapon performing anti-air warfare, anti-surface warfare and ballistic missile defence fired from
+    ship-based platforms and land launchers, an earlier February 2026 RTX framework agreement with the department
+    targeting more than 500 Standard Missile-6 interceptors a year alongside at least 1,900 AMRAAMs, the award
+    following the late-September AMRAAM multiyear contract worth up to USD 20.7 billion, company statements that
+    Raytheon has expanded its workforce, supplier partnerships and production automation to raise output, and
+    reported industry concern that the multiyear munitions agreements have not yet been funded by Congress.
+  url: https://www.rtx.com/news/news-center/2026/10/01/rtxs-raytheon-awarded-24-4-billion-multi-year-contract-for-sm-6-interceptors
+
+- date: "2026-10-01"
+  title: "BMW Group opens Plant Irlbach-Straßkirchen and starts Gen6 high-voltage battery series production for the new i3"
+  source: "BMW Group"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    BMW Group reports it officially opened Plant Irlbach-Straßkirchen in Bavaria and began series production of
+    sixth-generation high-voltage batteries there on two shifts, supplying BMW Group Plant Munich for installation
+    in the new BMW i3, making it a quantified German battery-manufacturing capacity signal rather than a product
+    announcement; cited specifics include around EUR 1 billion invested in the battery plant within a wider
+    approximately EUR 2 billion German programme that also covers further development of the Munich and Dingolfing
+    vehicle plants for the eighth-generation 3 Series, a 60-hectare site where less than two years elapsed between
+    the April 2024 start of construction and the first pre-series battery in March 2026, around 1,600 employees and
+    several hundred high-voltage batteries per day on two production lines at full operation, 500 robots across a
+    50,000 square metre production area with every production step continuously monitored inline and documented in
+    real time, cylindrical Gen6 cells integrated on a cell-to-pack principle with the pack serving as part of the
+    body structure under a pack-to-open-body concept, a 108.7 kWh battery giving the i3 50 xDrive up to 906 km WLTP
+    range with an 800-volt architecture and up to 400 kW DC charging that adds up to 423 km of range in 10 minutes,
+    CO2e per watt-hour reduced by about 33 percent against the Gen5 cell, a local-for-local approach across five
+    battery sites including Debrecen, Shenyang, Woodruff and San Luis Potosi, and about 18 million 3 Series vehicles
+    built since 1975 with 15 million of them made in Germany.
+  url: "https://www.press.bmwgroup.com/global/article/detail/T0461032EN?language=en"
+
+- date: "2026-10-01"
+  title: "Hyundai Wia opens its own Slovakia plant at Martin with capacity for 800,000 CV joints and 280,000 coolant modules a year"
+  source: "Korea JoongAng Daily / Seoul Economic Daily / Chosun / Hyundai Wia"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Korea JoongAng Daily, the Seoul Economic Daily and Chosun report Hyundai Wia held a mass-production ceremony on
+    30 September 2026 at a newly built plant in Martin in Slovakia's Zilina Region, moving drivetrain and
+    thermal-management component output out of a rented facility into a company-owned site, making it a quantified
+    European automotive supplier capacity signal rather than a generic plant opening; cited specifics include about
+    KRW 40 billion of investment, annual capacity for up to 800,000 constant velocity joints and 280,000 coolant
+    modules, plans to expand CV joint capacity by as much as fivefold and to widen the product line to HVAC modules,
+    supply of drivetrain and thermal management parts for battery-electric models including the Kia EV2 and EV4
+    alongside Hyundai and Kia vehicles, a workforce planned to rise from 98 at present to about 410 by 2030, and the
+    Slovak unit established in April 2023 as Hyundai Wia's second European production base after a Russian plant
+    operating at a very low rate.
+  url: https://www.koreajoongangdaily.com/business/hyundai-wia-opens-slovakia-plant-to-deepen-european-electric-vehicle-push/12901145
+
+- date: "2026-10-01"
+  title: "Naval Group starts production of Sweden's first FDI frigate in Lorient one month after the EUR 4.3 billion contract signature"
+  source: "Naval News / Naval Group"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Naval News reports Naval Group held the steel-cutting ceremony for the first Royal Swedish Navy Defence and
+    Intervention Frigate, the FDI Lulea, at its Lorient shipyard on 1 October 2026, making it a quantified European
+    naval shipbuilding capacity signal rather than a generic programme milestone; cited specifics include a start of
+    production one month after the procurement contract for four frigates was signed on 31 August 2026, a contract
+    valued at approximately EUR 4.3 billion covering four Defence and Intervention Frigates, a first delivery
+    scheduled in 2030, and serial deliveries running from 2030 through 2034.
+  url: https://www.navalnews.com/naval-news/2026/10/naval-group-begins-production-of-swedens-first-fdi-frigate-just-one-month-after-contract-signing/
+
+- date: "2026-10-01"
+  title: "Leica Microsystems and Cognex launch Aivaro AI Feature Detection inside the Enersight inspection platform"
+  source: "New-Tech Europe / Leica Microsystems / Cognex"
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    New-Tech Europe reports Leica Microsystems, a Danaher company, and Cognex introduced Aivaro AI Feature
+    Detection, a software module integrated into the Leica Microsystems Enersight platform that automatically
+    identifies, classifies and measures defects and other features of interest during inspection, making it a
+    measurable inspection-automation software release rather than a generic AI announcement; cited specifics include
+    a ready-to-train base model that requires only five to ten images to develop and train, reporting of statistical
+    values such as minimum, maximum and average measurements to support quality-control decisions, reproduction of
+    previous microscope settings and imaging parameters to standardise inspection workflows, data processed locally
+    on standard hardware so no cloud connectivity or specialised hardware is required, standardisation of inspection
+    across users, workstations and production lines with AI-supported onboarding for new users, and stated
+    application across electronics, battery production, transportation, medical devices and chemistry and polymer
+    processing.
+  url: https://www.new-techeurope.com/2026/10/01/leica-microsystems-launches-ai-software-module-for-consistent-inspection-decisions/
+
+- date: "2026-10-01"
+  title: "Fraunhofer IGD Inform-QC detects forming-tool wear inline at up to 400 strokes per minute using photometric stereo"
+  source: "Fraunhofer IGD"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    Fraunhofer IGD reports its camera-based Inform-QC system analyses the surfaces of formed components inline and
+    detects changes that may indicate tool wear, making it a quantified in-process surface-inspection method rather
+    than generic quality coverage; cited specifics include photometric stereo operation in which the component is
+    illuminated and captured from different directions so that a digital representation of the surface topography is
+    calculated and compared against a reference, continuous analysis at production speeds of up to 400 strokes per
+    minute without slowing the production cycle, integration into an unused station of a progressive die so that no
+    additional external inspection station is required, assignment of subtle deviations to potential process stages
+    or tool components, applicability of the approach to other stamping, deep-drawing and forming processes, and a
+    demonstrator to be shown at EuroBLECH in Hanover.
+  url: https://www.igd.fraunhofer.de/en/media-center/news-from-the-institute/2026/detecting-quality-deviations-before-scrap-is-produced.html
+
+- date: "2026-10-01"
+  title: "Fraunhofer IIS to commission GiantEye 9 MeV gantry CT for objects up to a 20-foot container in early 2027"
+  source: "Metrology News / Fraunhofer IIS Development Center for X-ray Technology"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports GiantEye, a gantry-based high-energy computed tomography system at the Fraunhofer IIS
+    Development Center for X-ray Technology in Fuerth, will go into operation in early 2027, making it a quantified
+    large-scale industrial CT inspection-capacity signal rather than generic CT coverage; cited specifics include a
+    9 MeV linear accelerator X-ray source with source and detector rotating around a stationary test object in a
+    ring-shaped gantry so that objects are scanned in road position rather than upright, object sizes up to a 20-foot
+    sea freight container at approximately 6.1 m length and 2.5 m height, spatial resolution up to approximately 400
+    micrometre voxel size, material penetration of approximately 20 cm of steel or 60 cm of aluminium, operation with
+    OHB Digital Connect as partner, stated applications including high-voltage battery systems, crash-test vehicles,
+    large aerospace components and closed transport units, and a predecessor XXL-CT system in Fuerth in operation
+    since 2013 that requires vertical positioning of the test objects.
+  url: https://metrology.news/gianteye-advances-high-energy-ct-for-large-scale-industrial-metrology/
+
+- date: "2026-10-02"
+  title: "Micro-Epsilon launches the confocalLINE CLI8500 confocal chromatic line sensor with 2,624 points per profile and 0.2 micrometre Z-resolution"
+  source: "Metrology News / Micro-Epsilon"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Micro-Epsilon extended its confocal chromatic line sensor range with the confocalLINE
+    CLI8500, making it a measurable 3D surface-measurement sensor release rather than generic sensor coverage; cited
+    specifics include 2,624 measuring points per profile with a Z-resolution of 0.2 micrometres, a 7 mm measuring
+    range in what the company describes as the most compact confocal chromatic line sensor in its class, a
+    measurement frequency of up to 2 kHz across the entire usable measuring range, a tilt angle of up to plus or
+    minus 80 degrees along the line for stable measurement on inclined or complexly shaped components, measurement
+    largely independent of material colour and surface texture on matte, highly reflective and transparent surfaces
+    because only the focused wavelength is evaluated, data processing in the sensor with measurement programs stored
+    on the sensor and executed autonomously in SMART mode so finished results can be output without an additional
+    evaluation computer, and PROFINET, EtherCAT, EtherNet/IP, GenICam and GigE Vision interfaces for integration
+    into automation and image processing systems.
+  url: https://metrology.news/micro-epsilon-launches-high-precision-confocal-chromatic-3d-sensor/
