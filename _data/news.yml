@@ -6706,3 +6706,121 @@
     evaluation computer, and PROFINET, EtherCAT, EtherNet/IP, GenICam and GigE Vision interfaces for integration
     into automation and image processing systems.
   url: https://metrology.news/micro-epsilon-launches-high-precision-confocal-chromatic-3d-sensor/
+
+- date: "2026-09-29"
+  title: "U.S. Navy awards production agreements for 30 medium unmanned surface vessels at about USD 40 million per hull"
+  source: "U.S. Navy Direct Reporting Program Manager Robotic and Autonomous Systems / USNI News"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Navy Direct Reporting Program Manager for Robotic and Autonomous Systems announced production Other
+    Transaction Authority agreements covering 30 Medium Unmanned Surface Vessels following completion of Phase I
+    at-sea testing, making it a quantified naval unmanned-vessel production signal rather than a generic acquisition
+    notice; cited specifics include 10 vessels each to Galliano Marine Services, HII and Saronic Technologies at an
+    average procurement cost of USD 40 million per vessel, or about USD 1.2 billion across the three agreements,
+    first deliveries scheduled before the end of fiscal 2027 and as early as the fourth quarter of fiscal 2027 with
+    production beginning immediately at shipyards in Loreauville, Houma and Franklin, Louisiana, HII building its
+    ROMULUS design with Breaux Brothers, Halimar Shipyard and Bayou Metal Supply as Gulf Coast build partners and
+    Saronic building its 180-foot Marauder at the former Gulf Craft yard in Franklin, USD 15 million awards to each
+    of the six companies that met the Phase I requirements including Leidos, PAC MAR and Sea Machines, acceptance of
+    all six onto the Drones.mil Maritime Marketplace for follow-on production awards across the Department of War,
+    funding from the 2025 reconciliation legislation, and a Phase II integration and testing solicitation issued on
+    23 September 2026 with testing evaluations to begin as early as 16 November 2026 under a rolling five-year
+    assessment.
+  url: https://drpmras.navy.mil/press-release/navy-to-procure-30-medium-unmanned-surface-vessels-following-completion-of-phase-i-at-sea-testing
+
+- date: "2026-09-30"
+  title: "REGENT opens a 255,000 sq ft Seaglider manufacturing facility at Quonset with stated rate capacity for 75 Viceroy vessels and 300 Squire drones a year"
+  source: "REGENT Craft / eVTOL Insights"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    REGENT Craft opened its Seaglider Manufacturing Facility at Quonset Business Park in North Kingstown, Rhode
+    Island with a ribbon-cutting ceremony and live flight demonstrations of the Viceroy prototype and the Squire
+    Seaglider drone, making it a quantified production-capacity signal for electric wing-in-ground-effect craft
+    rather than a generic facility opening; cited specifics include a 255,000-square-foot plant with dedicated areas
+    for structural assembly, wing and hydrofoil integration, battery and systems installation and water-based test
+    and acceptance, tooling, metrology and quality checkpoints embedded throughout the production flow and direct
+    waterfront access for sea trials, stated rate production of up to 75 Viceroy 12-passenger vessels and 300 Squire
+    drones per year with first customer Viceroy deliveries as early as late 2027 and further testing expected to run
+    up to 24 months, plans to hire at least 250 workers and to reach 300 to 400 jobs by the end of 2027 under Rhode
+    Island's Qualified Jobs Program, defense work including a U.S. Marine Corps Warfighting Laboratory
+    collaboration reported at USD 15 million plus a USD 5 million extension to USD 19.25 million, a reported USD 10
+    billion commercial order book, and the fifth flight of the full-scale Viceroy prototype at the event after the
+    first crewed flight earlier in September 2026.
+  url: https://www.regentcraft.com/news/regent-opening-worlds-first-seaglider-manufacturing-facility-ribbon-cutting-ceremony-flight-demonstration
+
+- date: "2026-10-01"
+  title: "Toyota opens a USD 50 million battery evaluation center in Michigan as its primary North American battery testing site"
+  source: "Toyota Motor North America / PR Newswire"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Toyota Motor North America opened the Toyota Battery Center of North America at its North American research and
+    development headquarters in York Township near Saline, Michigan, making it a quantified battery evaluation and
+    validation capacity signal rather than a generic facility notice; cited specifics include a 30,000-square-foot
+    facility representing about USD 50 million of investment, a scope covering the full battery development cycle
+    from sourcing raw materials through customer applications to recycling, engineers and technicians assessing
+    battery performance and developing technology for hybrid, plug-in hybrid, hydrogen and fully electric vehicles,
+    support for battery evaluation for Toyota Battery Manufacturing North Carolina and Toyota vehicle plants across
+    North America, research access for the University of Michigan Electric Vehicle Center under a founding
+    membership, battery testing work previously outsourced to other laboratories or performed in Japan now moved in
+    house, and approximately 2,000 Toyota employees on the York Township campus.
+  url: https://www.prnewswire.com/news-releases/toyota-battery-center-of-north-america-unveiled-at-michigan-rd-campus-302895261.html
+
+- date: "2026-10-01"
+  title: "Grating-magneto-optical-trap atom interferometer reports 100 Hz data rate with 550 ng per root hertz acceleration sensitivity"
+  source: "arXiv"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 1 October 2026 reports a compact light-pulse atom interferometer built on a
+    grating magneto-optical trap, making it a quantified quantum inertial-sensing advance rather than generic
+    atom-interferometry coverage; cited specifics include operation at data rates up to 100 Hz while achieving
+    acceleration sensitivity of 550 nanograms per root hertz at 20 Hz, 1.49 micrograms per root hertz at 45 Hz and
+    6.31 micrograms per root hertz at 70 Hz together with a bias stability of 71 nanograms, an in-vacuum
+    microfabricated grating chip and a single laser-cooling beam providing sub-Doppler cooling in a rugged compact
+    architecture tolerant of vibration and atom-light overlap mismatch, and positioning of the design toward
+    field-deployable quantum inertial and gravity sensors in dynamic environments and time-multiplexed multi-axis
+    inertial sensing.
+  url: https://arxiv.org/abs/2610.01735
+
+- date: "2026-10-02"
+  title: "Diehl Defence and BAAINBw sign a contract to adapt IRIS-T SLM for the German Navy's four F125 frigates"
+  source: "Diehl Defence / The War Zone"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Diehl Defence and the German Federal Office of Bundeswehr Equipment, Information Technology and In-Service
+    Support signed a contract for the adaptation development of the IRIS-T SLM air-defence system to make it
+    mission-capable aboard the German Navy F125 Baden-Wuerttemberg-class frigates, making it a quantified naval
+    air-defence integration and production signal rather than generic contract coverage; cited specifics include
+    Diehl responsibility for building prototypes and conducting comprehensive test firings to integrate the system
+    into the existing F125 architecture across the four ships Baden-Wuerttemberg, Nordrhein-Westfalen,
+    Sachsen-Anhalt and Rheinland-Pfalz, a planned shipboard fit of two permanently vertical launchers per frigate
+    holding 16 missiles each for 32 rounds per hull and 128 interceptors across the class, interceptor performance
+    stated at an engagement range up to 40 km, a ceiling of 20 km and a speed above Mach 3 with imaging infrared
+    seeker and thrust vector control, a prototype launcher expected in 2027 after a navalized demonstrator module
+    was integrated on the frigate Baden-Wuerttemberg in the October 2025 Maritime Firing Exercise off Andoya,
+    approval of the measure by the Bundestag Budget Committee on 23 September 2026, and no contract value, retrofit
+    schedule or missile buy disclosed.
+  url: https://new.diehl.com/defence/en/press-media/news/iris-t-slm-for-the-german-navy-agreement-on-adaptation-development-for-the-f125-frigates
+
+- date: "2026-10-02"
+  title: "American Lithium Energy opens an expanded 82,000 sq ft cell factory in Vista backed by California Energy Commission grants above USD 13 million"
+  source: "California Energy Commission / American Lithium Energy"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    The California Energy Commission reported the opening of American Lithium Energy's expanded lithium-ion
+    cell factory in Vista, California, making it a quantified domestic cell-manufacturing capacity signal rather
+    than a generic facility notice; cited specifics include a plant grown from 23,000 square feet to 82,000 square
+    feet, two California Energy Commission grants totalling more than USD 13 million through the Clean
+    Transportation Program and the Electric Program Investment Charge, an EPIC-funded low-rate initial production
+    pilot line intended to de-risk and validate high-capacity silicon-anode prismatic cells targeting 30 percent
+    greater capacity and enhanced safety, the same chemistry now being scaled on the Clean Transportation
+    Program-funded mega line, fully automated production of the company's proprietary nano-silicon 18650 cells,
+    a company statement that the state funding helped secure an additional USD 40 million to USD 50 million from
+    private and federal sources, and cells used in satellites, defense systems and industrial and medical
+    applications alongside electric vehicle battery production.
+  url: https://www.energy.ca.gov/news/2026-10/california-energy-commission-celebrates-american-lithium-energy-factory-opening
