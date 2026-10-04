@@ -6824,3 +6824,47 @@
     private and federal sources, and cells used in satellites, defense systems and industrial and medical
     applications alongside electric vehicle battery production.
   url: https://www.energy.ca.gov/news/2026-10/california-energy-commission-celebrates-american-lithium-energy-factory-opening
+- date: "2026-10-03"
+  title: "LG Energy Solution moves to adapt Wroclaw lines for 46-series cylindrical cells under 157.5 GWh of Mercedes-Benz supply agreements"
+  source: "electrive (citing The Elec) / LG Energy Solution"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    electrive reports, citing the South Korean portal The Elec, that LG Energy Solution moved to adapt its European lines to supply 46-series cylindrical cells for next-generation Mercedes-Benz electric vehicles, with a first line planned at the Wroclaw plant in Poland and deliveries reported from 2028; cited specifics include a cumulative 157.5 gigawatt-hours of cylindrical cell supply booked with Mercedes-Benz affiliates in Korea Exchange disclosures filed in October 2024 and September 2025, roughly a quarter of the contracted global order backlog, a Wroclaw complex operating 86 gigawatt-hours of annual cell capacity previously focused on pouch cells, contracted volumes split between European and United States plants with delivery windows running to 2035 and 2037, a separate 2.06 trillion won lithium iron phosphate agreement disclosed in December 2025, and no official confirmation from LG Energy Solution of the 46 mm by 100 mm format.
+  url: "https://www.electrive.com/2026/10/03/lg-energy-solution-to-supply-46100-round-cells-to-mercedes/"
+
+- date: "2026-10-02"
+  title: "Micro-Epsilon introduces the profileGAUGE C.ODC biaxial inline sensor system for diameters from 30 micrometres"
+  source: "Engineer News Network / Micro-Epsilon"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Engineer News Network reports Micro-Epsilon introduced the profileGAUGE C.ODC inline non-contact system that measures diameter and position in two axes for ultra-fine wires, precision tubes, glass fibres, medical devices and transparent round stock; cited specifics include diameters from as small as 30 micrometres, two pre-mounted optoCONTROL 2700 optical micrometers in an X configuration without a separate external controller, active tilt correction applied to each measured value so inclination of the workpiece is not reported as a diameter change, up to 5,000 outer diameter, wire and contour measurements per second, resolution down to 10 nanometres with repeatability of 0.03 micrometres or better, an 8.5 microsecond exposure time for vibrating or fast-moving objects, measuring ranges of 10 mm and 40 mm, and EtherCAT, EtherNet/IP and PROFINET interfaces.
+  url: "https://www.engineernewsnetwork.com/blog/biaxial-sensor-system-for-inline-diameter-and-position-measurement-of-ultra-fine-wires-and-small-round-materials/"
+
+- date: "2026-10-01"
+  title: "Tiberius Aerospace signs a USD 500 million technology collaboration contract to manufacture and license the Sceptre 155 mm ramjet munition"
+  source: "Joint Forces News / Tiberius Aerospace"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Joint Forces News reports Tiberius Aerospace announced a USD 500 million technology collaboration contract to manufacture, license and distribute Sceptre, its ramjet-powered 155 mm precision-guided munition, under an ITAR Technical Assistance Agreement with a consortium of UK technology partners; cited specifics include a program that moved from public launch to contract in about 24 months, a liquid-fuelled ramjet projectile listed at a 47.5 kg launch mass with range beyond 140 kilometres and velocity above Mach 3, launch from existing NATO-standard artillery platforms with in-flight ramjet ignition demonstrated in New Mexico test firings, earlier UK Ministry of Defence rapid trials work, United States Defense Innovation Unit support and an August 2026 research agreement with the US Army Combat Capabilities Development Command Armaments Center, coordination of engineering data, qualified suppliers and compliance through the GRAIL platform, and no government customer, round quantity, production rate or delivery schedule disclosed.
+  url: "https://www.joint-forces.com/defence-equipment-news/94560-tiberius-aerospace-500-million-sceptre-contract"
+
+- date: "2026-10-01"
+  title: "Embraer and Mahindra identify Nagpur for a potential C-390 final assembly line at about INR 6,000 crore if the aircraft wins the Indian Air Force MTA programme"
+  source: "Mahindra Group / Embraer Defense and Security"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Mahindra Group and Embraer Defense and Security report they have identified Nagpur in Maharashtra for a potential C-390 Millennium final assembly line, working with the state government which has allotted land, subject to the aircraft being selected by the Government of India and an order being placed under the Indian Air Force Medium Transport Aircraft programme; cited specifics include a reported investment of about INR 6,000 crore and around 1,000 jobs, a scope covering final assembly, systems integration, manufacturing engineering and local supply chain development together with aftermarket services, training and lifecycle support, two companies building on a strategic cooperation agreement signed in October 2025 and an earlier February 2024 memorandum, a separate C-390 maintenance, repair and overhaul capability announced in February 2026, an aircraft with payload capacity up to 26 tonnes designed to operate from temporary or unpaved runways, and an Indian Air Force requirement reported at around 80 medium transport aircraft to replace An-32 and Il-76 fleets.
+  url: "https://www.mahindra.com/news-room/press-release/en/mahindra-group-and-embraer-advance-plans-for-c-390-millennium-industrialization-in-india-identify-nagpur-as-the-location-for-assembly-facility-if-selected"
+
+- date: "2026-10-01"
+  title: "Verisurf adds full application support for the API iLT portable laser tracker"
+  source: "Manufacturing News (mfgnewsweb) / Verisurf Software"
+  sector: quality_software
+  kind: software_news
+  summary: >-
+    Manufacturing News reports Verisurf Software added full application support for the API iLT portable laser tracker to its CAD/CAM-based metrology platform, extending one model-based environment across CNC CMMs, portable arms, scanners and laser trackers; cited specifics include reuse of the inspection, alignment, assembly and reverse engineering workflows and data standards already applied to other supported devices, tracker hardware measuring 14 inches tall and weighing under 20 pounds with battery operation and an onboard camera for rapid target acquisition, a form factor sized to fit in a backpack for transport between measurement locations, and positioning of the open hardware-agnostic architecture as a way to standardise workflows across equipment and facilities, reduce training requirements and scale metrology operations on existing equipment.
+  url: "http://www.mfgnewsweb.com/archives/4/70818/Software-oct26/Verisurf-Device-Interface-Supports-New-API-iLT-Laser-Tracker.aspx"
