@@ -6868,3 +6868,101 @@
   summary: >-
     Manufacturing News reports Verisurf Software added full application support for the API iLT portable laser tracker to its CAD/CAM-based metrology platform, extending one model-based environment across CNC CMMs, portable arms, scanners and laser trackers; cited specifics include reuse of the inspection, alignment, assembly and reverse engineering workflows and data standards already applied to other supported devices, tracker hardware measuring 14 inches tall and weighing under 20 pounds with battery operation and an onboard camera for rapid target acquisition, a form factor sized to fit in a backpack for transport between measurement locations, and positioning of the open hardware-agnostic architecture as a way to standardise workflows across equipment and facilities, reduce training requirements and scale metrology operations on existing equipment.
   url: "http://www.mfgnewsweb.com/archives/4/70818/Software-oct26/Verisurf-Device-Interface-Supports-New-API-iLT-Laser-Tracker.aspx"
+
+- date: "2026-10-05"
+  title: "Ajile positions the DepthScan 3D inspection platform for beside-line and inline dimensional inspection with native bidirectional PolyWorks integration"
+  source: "Metrology News / Ajile Light Industries"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports Ajile Light Industries is positioning its DepthScan 3D Inspection Platform as a route to moving
+    dimensional inspection out of the metrology laboratory and alongside or inside production, making it a measurable
+    production-inspection workflow signal rather than a generic 3D scanner notice; cited specifics include a structured-light
+    DepthScan imager configurable for laboratory, beside-line or inline cells and for automated 100 percent inspection, five
+    published cell configurations spanning single camera, multi-camera, turntable, robot-mounted and robot-plus-turntable,
+    native bidirectional PolyWorks integration in which an inspection plan developed for a CMM runs against the same CAD
+    model, tolerances and GD&T definitions with PolyWorks as the measurement engine and DepthScan as the capture device,
+    inspection operated on the shop floor through the Ajile Inspect interface that takes a part selection and serial number
+    and returns a pass or fail result naming the controls outside tolerance, retention of results in the existing PolyWorks
+    environment including PolyWorks|DataLoop, published specifications of four million colour 3D points per full-resolution
+    capture in about 400 milliseconds with 30 frames per second at full region of interest and more than 100 frames per
+    second at reduced region of interest in high-speed mode, working distances from 250 mm to 5 m across three camera models,
+    accuracy validated to VDI/VDE 2634 Part 2 with a published acceptance test at 500 mm working distance, and a
+    Multi-DepthScan inline cell demonstrated at IMTS 2026 in which several imagers captured a throttle body, a spring and an
+    automotive assembly in full-surface 3D while the parts continued to move through the inspection cell.
+  url: "https://metrology.news/ajile-depthscan-brings-metrology-grade-3d-inspection-to-the-production-line/"
+
+- date: "2026-10-03"
+  title: "U.S. Air Force and Northrop Grumman begin construction of a new B-21 Raider final assembly line at Plant 42 in Palmdale"
+  source: "Army Recognition / U.S. Department of the Air Force / Northrop Grumman"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Army Recognition reports the U.S. Department of the Air Force and Northrop Grumman broke ground on 29 September 2026 on a
+    new B-21 Raider final assembly line at Air Force Plant 42 in Palmdale, California, turning previously announced plans to
+    accelerate stealth bomber output into physical construction at the programme main production site, making it a quantified
+    defence-aircraft production capacity signal rather than generic programme coverage; cited specifics include more than one
+    million square feet of new facilities planned to raise annual B-21 production capacity by 25 percent, USD 4.5 billion of
+    congressionally authorized funding applied under a February 2026 agreement between the Department of the Air Force and
+    Northrop Grumman, an additional approximately USD 2.5 billion of Northrop Grumman investment over several years for
+    B-21-related production capacity, imagery of the groundbreaking released by the Secretary of the Air Force Public Affairs
+    on 2 October 2026, Plant 42 remaining the location of B-21 final assembly where the aircraft was publicly unveiled in
+    December 2022, and the first operational aircraft still tracked for delivery to Ellsworth Air Force Base in 2027.
+  url: "https://www.armyrecognition.com/news/aerospace-news/2026/u-s-air-force-starts-new-b-21-raider-bomber-assembly-line-to-boost-production-capacity-by-25"
+
+- date: "2026-10-02"
+  title: "Clarios starts Line 17 at its St. Joseph assembly plant as the first new line in an expansion programme of up to USD 400 million"
+  source: "News-Press NOW (St. Joseph) / Clarios"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    News-Press NOW reports Clarios launched Line 17, a new Absorbent Glass Mat battery assembly line, at its St. Joseph,
+    Missouri assembly plant and described it as the first new production line tied to a planned investment of up to USD 400
+    million across the company two St. Joseph facilities, making it a quantified automotive low-voltage battery
+    manufacturing capacity signal rather than a generic plant update; cited specifics include the update given at the St.
+    Joseph Chamber of Commerce Partnership for Success quarterly meeting on 2 October 2026, an expansion covering
+    modernisation of an automotive battery manufacturing plant and a distribution centre at 4722 Pear Street and 2330 SW
+    Lower Lake Road, previously announced terms of up to USD 390 million of investment with up to 123 new jobs and 936 jobs
+    retained with state and city incentive support, Absorbent Glass Mat capacity positioned against rising automotive battery
+    demand while reducing tariff exposure and logistics costs, alignment with a wider USD 6 billion United States
+    manufacturing strategy covering battery production, critical-minerals recycling and new battery technologies, and a
+    company statement that its batteries are used in roughly one third of vehicles on the road worldwide.
+  url: "https://www.newspressnow.com/news/local_news/business/clarios-launches-new-battery-production-line-as-st-joseph-expansion-moves-forward/article_8bf38068-353a-418e-932e-56b3f8b344dc.html"
+
+- date: "2026-10-02"
+  title: "Micro-Epsilon introduces the surfaceCONTROL 3D 3560 snapshot sensor with acquisition, processing and evaluation integrated in the device"
+  source: "Micro-Epsilon"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Micro-Epsilon introduced the surfaceCONTROL 3D 3560, a 3D snapshot sensor for automated quality inspection that combines
+    data acquisition, processing and evaluation in a single device so measured values or already evaluated results are output
+    directly to a controller, making it a measurable inline surface-inspection hardware release rather than generic sensor
+    coverage; cited specifics include Z-axis repeatability of up to 0.25 micrometres, lateral resolution of up to 8
+    micrometres, four selectable measuring fields, complete 3D data of the target captured in a single acquisition,
+    on-sensor evaluation of shape, geometry, surface and quality with a several-fold shorter measurement time and a reduced
+    volume of transmitted data, PROFINET, EtherCAT, EtherNet/IP, Modbus TCP and UDP interfaces with GenICam and GigE Vision
+    output for compatible image processing systems, an IP67 aluminium housing, ambient light resistance up to 10,000 lux and
+    high resistance to shock and vibration, and stated applications including coplanarity inspection of assembled printed
+    circuit boards, inline inspection of thermal interface pastes and high-resolution 3D inspection of smartphone components.
+  url: "https://www.micro-epsilon.it/newsroom/press/article/fully-integrated-3d-snapshot-sensor-for-maximum-efficiency/"
+
+- date: "2026-10-01"
+  title: "U.S. Air Force awards 21 companies a USD 2.4 billion F-15 and F-16 engine work contract running to 2036"
+  source: "U.S. Department of War contract notice via ClearanceJobs"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Department of War contract notice for 1 October 2026 records a maximum USD 2,400,000,000
+    indefinite-delivery/indefinite-quantity firm-fixed-price contract awarded to 21 named companies for F-15 and F-16 engine
+    work covering the repair, overhaul, remanufacture and new manufacture of aircraft parts for the F100-PW-220 and
+    F100-PW-229 engines, making it a quantified fighter-engine industrial-base capacity signal rather than a generic contract
+    listing; cited specifics include a performance period expected to complete by 30 September 2036, work performed at each
+    awardee location by companies including ACMT, Bedek Aviation Group Israel Aerospace Industries, three Chromalloy
+    entities, Jedco, Paramount Machine, Bet Shemesh Engines, Schaeffler Aerospace Canada, Turbochrome, PAS Technologies,
+    Ferrotherm, Patria Belgium Engine Center, Barnes Group, C.F. Roark Welding and Engineering, RTX, Southern Aero Partners,
+    Transaero, Union Machine of Lynn, Wall Colmonoy and Numet Acquisition, a competitive acquisition with 27 offers received,
+    foreign military sales eligibility for 29 listed countries, fiscal 2026 working capital funds of USD 10,500 obligated at
+    the time of award, and the Air Force Sustainment Center at Tinker Air Force Base, Oklahoma as the contracting activity.
+  url: "https://news.clearancejobs.com/2026/10/01/air-force-taps-21-companies-for-2-4b-f-15-and-f-16-engine-work/"
+
