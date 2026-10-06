@@ -1079,20 +1079,6 @@
     the packs directly to local automakers.
   url: https://www.catl.com/en/news/6998.html
 
-- date: "2026-09-14"
-  title: "Verisurf 2027 adds automatic inspection plan creation from QIF and persistent identifiers tied to a STEP AP242 model"
-  source: "Modern Machine Shop / Verisurf Software"
-  sector: quality_software
-  kind: vendor_release
-  summary: >-
-    Modern Machine Shop reports Verisurf Software introduced Verisurf 2027 at IMTS 2026, a model-based metrology software
-    release focused on digital-thread connectivity, automated inspection programming, and QIF-enabled workflows; cited
-    specifics include automatic creation of inspection plans from imported QIF data, enhanced persistent identifiers that
-    preserve engineering intent from a STEP AP242 model through manufacturing and inspection, an open CAD platform
-    foundation, and demonstrations of model-based inspection, 3D scanning, reverse engineering, and automated CMM
-    programming aimed at eliminating manual steps while keeping measurement aligned to the original product definition.
-  url: https://www.mmsonline.com/products/verisurf-software-update-advances-model-based-metrology
-
 - date: '2026-09-18'
   title: 'Slate Auto nears fourth-quarter 2026 production start at Warsaw plant with more than 400 robots'
   source: 'Times-Union / Slate Auto'
@@ -6966,3 +6952,61 @@
     the time of award, and the Air Force Sustainment Center at Tinker Air Force Base, Oklahoma as the contracting activity.
   url: "https://news.clearancejobs.com/2026/10/01/air-force-taps-21-companies-for-2-4b-f-15-and-f-16-engine-work/"
 
+- date: "2026-10-06"
+  title: "Foundrax launches the BRINtronic-RIVO self-contained handheld Brinell microscope that measures 800 indentation diameters per reading"
+  source: "Metrology News / Foundrax Engineering Products"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Foundrax Engineering Products launched the BRINtronic-RIVO, a completely self-contained
+    version of its BRINtronic automatic Brinell microscope for hardness testing, making it a measurable portable
+    hardness-measurement instrument release rather than generic microscope coverage; cited specifics include a
+    stainless-steel microscope weighing under 1 kg with camera, illumination, image processing and touch-screen
+    display built into a single unit and no PC, control box or cable to connect, a battery that lasts a full shift
+    in normal use, a hardness value displayed in about one second after the operator places the instrument over the
+    indentation and presses a button, measurement of 800 indentation diameters where ISO 6506 and ASTM E10 require
+    an indentation to be measured across two diameters, a refined measurement algorithm that further reduces the
+    influence of surface condition on the result, and operator warnings when a surface is too poorly prepared to
+    measure reliably or when an indentation is out of round beyond the limit set by ASTM E10.
+  url: https://metrology.news/foundrax-puts-automated-brinell-measurement-in-a-handheld-microscope/
+
+- date: "2026-10-06"
+  title: "Verisurf announces availability of Verisurf 2027 with QIF creation from native CAD models and automatic inspection plans from QIF"
+  source: "Metrology News / Verisurf Software"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports Verisurf Software announced the availability of Verisurf 2027, the latest release of its
+    model-based metrology software, making it a measurable inspection-workflow software release rather than a
+    generic product announcement; cited specifics include import of supported native CAD files containing semantic
+    Product and Manufacturing Information followed by export of QIF files that preserve the PMI, the
+    engineering-defined inspection characteristics and their associated Persistent Identifiers, automatic
+    generation of inspection plans directly from supported engineering information in an imported QIF file
+    including features, dimensions, geometric dimensioning and tolerancing, datums, tolerances and reporting
+    relationships, preservation of Persistent Identifiers through inspection planning, measurement, reporting and
+    QIF Results export so each measured result stays connected to the engineering characteristic being evaluated,
+    support for STEP AP242, and a device-independent platform covering portable measuring arms, laser trackers,
+    scanners and coordinate measuring machines from different brands.
+  url: https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/
+
+- date: "2026-10-05"
+  title: "Boeing receives a seven-year undefinitized contract worth about USD 14.7 billion to triple PAC-3 MSE seeker output"
+  source: "Boeing / Lockheed Martin"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Boeing reports it was awarded an undefinitized contract action worth approximately USD 14.7 billion by Lockheed
+    Martin to scale production and deliver PAC-3 Missile Segment Enhancement seekers, formalising the previously
+    announced seven-year framework agreement with the U.S. Department of War and enabling Boeing to triple PAC-3
+    MSE seeker production, making it a quantified missile-defense seeker manufacturing-capacity signal rather than
+    a generic contract notice; cited specifics include a seven-year period of performance matching Lockheed
+    Martin's push to surge production of the PAC-3 MSE all-up round, work completed at Boeing's seeker facility in
+    Huntsville, Alabama, hundreds of direct and indirect jobs expected in the Huntsville area as a result of the
+    contract, production ramp-up and hiring that began earlier in 2026 following the framework announcement, recent
+    Boeing capital investment to expand the PAC-3 seeker factory alongside supplier-relationship work, facility
+    modernisation and process and control changes to raise first-time quality, alignment with the Department of War
+    Acquisition Transformation Strategy and Arsenal of Freedom effort, and Defense News reporting that the award
+    sits under a wider USD 53.86 billion PAC-3 MSE programme awarded to Lockheed Martin in July 2026 and follows
+    Lockheed Martin's January 2026 framework to lift annual PAC-3 interceptor output from approximately 600 to
+    2,000.
+  url: https://boeing.mediaroom.com/2026-10-05-Boeing-receives-seven-year-contract-to-accelerate-PAC-3-MSE-seeker-output
