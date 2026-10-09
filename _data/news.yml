@@ -7136,3 +7136,69 @@
     global commercial ordering from 6 October 2026, and live inline measurement demonstrations at Messe
     Stuttgart in Hall 8, Booth 8A30 from 6 to 8 October 2026.
   url: https://www.sincevision.com/news/press-center/sri6000-embedded-vision-3d-laser-profiler-sri6480-launch
+
+- date: '2026-10-09'
+  title: OMNIVISION adds the 5 MP OG05D and 12 MP OG12S10 global shutter sensors for industrial vision and robotics
+  source: Metrology News / OMNIVISION
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: Metrology News reports OMNIVISION introduced two backside-illuminated global shutter CMOS image sensors aimed at industrial machine vision, factory automation, intelligent transportation and robotics, making it a measurable imaging-hardware signal for inspection systems rather than generic camera coverage; cited specifics include the 5 MP OG05D built on a 2.2 micrometre pixel that the company states is the industry's smallest global shutter pixel capable of more than 70 dB high dynamic range and is positioned for barcode scanning, embedded AI cameras and robotics, and the 12 MP OG12S10 using larger 3.45 micrometre pixels for high sensitivity, resolution and very short exposure times in demanding factory automation and transportation applications, with both sensors described as using Nyxel near-infrared technology and global shutter readout to capture moving objects without the motion distortion associated with rolling shutter sensors.
+  url: https://metrology.news/omnivision-expands-global-shutter-imaging-for-industrial-vision-and-robotics/
+- date: '2026-10-08'
+  title: RTX's Raytheon wins a five-year SM-3 Block IB contract with two option years valued at up to USD 6.3 billion
+  source: Raytheon (RTX) / PR Newswire
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: RTX reports its Raytheon business secured a five-year contract, with two additional option years, valued at up to USD 6.3 billion for the production and sustainment of Standard Missile-3 Block IB interceptors, making it a quantified missile-defense production capacity commitment rather than a generic award notice; cited specifics include positioning of the award as part of the recent framework agreements between Raytheon and the Department of War, a stated purpose of replenishing missile-defense inventory that has been used in combat, production under the contract to be completed primarily at Raytheon facilities in Tucson, Arizona and Huntsville, Alabama, and the SM-3 IB described as a ship- and land-based interceptor designed to defeat short- to intermediate-range ballistic missiles in the midcourse phase that was first used in combat in 2024 and operates alongside the SM-3 IIA and the wider Standard Missile family in the Navy's integrated air and missile defense.
+  url: https://raytheon.mediaroom.com/2026-10-08-RTXs-Raytheon-awarded-6-3-billion-multi-year-contract-for-SM-3-IB-interceptors
+- date: '2026-10-08'
+  title: Blue Origin to build a 1.3 million square foot aerospace manufacturing campus in Hutto, Texas with a USD 554.78 million investment
+  source: Office of the Texas Governor / Blue Origin
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: The Office of the Texas Governor announced Blue Origin Manufacturing LLC is constructing an advanced manufacturing and operations campus in Hutto that will serve as a production hub for the company's satellite and communications programs, making it a quantified space-manufacturing capacity signal rather than generic expansion coverage; cited specifics include a capital investment of USD 554,780,000, more than 2,000 new jobs, a Texas Enterprise Fund grant of USD 18,171,000 together with a USD 10,000 Veteran Created Job Bonus, a 1.3 million square foot site along Highway 79 that the company calls Constellation Park, and commitments covering paid high school internships and support for career and technical education programs.
+  url: https://gov.texas.gov/news/post/governor-abbott-announces-blue-origin-expansion-in-hutto
+- date: '2026-10-08'
+  title: Hyundai Transys to invest nearly USD 560 million in West Point, Georgia and add 320 jobs for hybrid powertrain capacity
+  source: Office of Governor Brian P. Kemp (Georgia) / Hyundai Transys
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: The Office of the Governor of Georgia announced Hyundai Transys will invest nearly USD 560 million to expand its manufacturing capabilities in West Point, Georgia and create 320 jobs in support of global automotive customers with North American operations, making it a quantified automotive supplier capacity signal rather than a generic expansion notice; cited specifics include upgrades to plants one and two at 6801 Kia Parkway plus construction of a third plant, added production capacity for electrified powertrains for hybrid vehicles, and hiring for administrative, supervisory and production positions.
+  url: https://gov.georgia.gov/press-releases/2026-10-08/gov-kemp-hyundai-transys-bringing-320-new-jobs-west-point
+- date: '2026-10-08'
+  title: Badland Batteries opens an 80,000 square foot cell and pack plant in Fargo with 15,000 cells per day at full output
+  source: InForum / Packet Digital (Badland Batteries)
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: InForum reports Badland Batteries, part of Packet Digital, opened a USD 100 million, 80,000 square foot battery manufacturing facility in Fargo, North Dakota, making it a quantified domestic cell and pack capacity signal rather than a generic plant opening; cited specifics include a clean room for cell manufacturing, about 80 engineers, electrochemists and other specialists working on site, an ultimate output of 15,000 battery cells per day, the stated ability to design batteries, manufacture cells from raw materials and integrate them into finished battery packs for drones and autonomous systems at a single location, funding from a combination of private investment, company investment, commercial financing and state-supported financing programs, and production for military and commercial customers ramping from October 2026 with full production capability anticipated by 2028.
+  url: https://www.inforum.com/business/badland-batteries-all-charged-up-for-new-80-000-square-foot-facility
+- date: '2026-10-08'
+  title: Optical frequency synthesizer divided from a 171Yb optical lattice clock reports 1.3 x 10-17 fractional frequency uncertainty
+  source: arXiv (Yao et al.)
+  sector: scientific_metrology
+  kind: standards_method
+  summary: A preprint submitted to arXiv on 8 October 2026 reports an accurate optical frequency synthesizer that generates single-frequency laser light with high frequency stability and accuracy at selected frequencies across a wide optical region, with the output divided from a 171Yb optical lattice clock through an optical frequency divider based on an optical frequency comb, making it a quantified primary-metrology method and traceability advance rather than generic optical-clock coverage; cited specifics include an evaluated frequency uncertainty of 6.8 mHz for the 171Yb optical lattice clock corresponding to a fractional frequency uncertainty of 1.3 x 10-17, a stated uncertainty budget dominated by the blackbody radiation shift and the lattice-induced light shift, and synthesizer output that inherits the frequency accuracy of the Yb optical clock.
+  url: https://arxiv.org/abs/2610.11178
+- date: '2026-10-07'
+  title: Rosatom commissions a second lithium-ion energy storage gigafactory, in Moscow, rated at 4 GWh per year
+  source: AK&M / Rosatom
+  sector: ev_manufacturing
+  kind: press_release
+  summary: AK&M reports Rosatom launched a second gigafactory, in Moscow, for the production of lithium-ion energy storage devices for electric vehicles and stationary power systems with a capacity of 4 GWh per year, following the first gigafactory that entered operation in Kaliningrad in 2025, making it a quantified domestic cell and traction battery capacity signal rather than a generic industrial opening; cited specifics include a stated production capacity of 18 million battery cells and 50,000 traction batteries per year for one gigafactory, more than 1,400 units of high-technology equipment and over 450 robots on the Moscow site at an automation level of 95 percent, a total technological line length of 2.5 km, and test runs during which about 20 batteries for the Atom electric vehicle, about 600 battery modules and more than 40,000 accumulator cells were manufactured.
+  url: https://www.akm.ru/eng/news/rosatom-commissioned-the-second-gigafactory-of-energy-storage/
+- date: '2026-10-07'
+  title: Digital Metrology Solutions releases OmniSurf 5.0 surface profile and roughness analysis software
+  source: Metrology News / Digital Metrology Solutions
+  sector: quality_software
+  kind: software_news
+  summary: Metrology News reports Digital Metrology Solutions released OmniSurf 5.0, a major update to its surface profile analysis software that moves analysis beyond a single laboratory measurement system so data from systems across product development, manufacturing and supply chains can be explored in one place, making it a measurable surface-metrology software release rather than a generic product announcement; cited specifics include batch processing for rapid analysis of data to qualify processes and suppliers, hundreds of ISO and ASME plus function-specific surface texture parameters available to relate texture directly to performance, a revamped interface that shows the effect of each analysis step, new tools for pre-processing, geometry extraction and filtering, an interactive wavelength content graph used to develop filtering specifications from actual data, a macro wear tool that computes depths and volumes of wear scars, micro wear analysis intended to measure microscopic wear
+    without accelerated testing, and morphological filters that reveal voids where leaks could occur and highlight sharp features.
+  url: https://metrology.news/digital-metrology-releases-omnisurf-5-0-surface-roughness-analysis-software/
+- date: '2026-10-06'
+  title: Anduril to invest USD 3.7 billion in the Arsenal-2 shipyard at Sparrows Point with a U.S. Navy contract worth up to USD 2.9 billion
+  source: Office of Governor Wes Moore (Maryland) / Anduril Industries
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: The State of Maryland and Baltimore County announced a USD 3.7 billion private capital investment by Anduril Industries in Arsenal-2, a two million square foot submarine-component shipyard at Tradepoint Atlantic in the Sparrows Point complex of Baltimore County, making it a quantified expansion of the U.S. submarine industrial base rather than a generic facility announcement; cited specifics include a separate U.S. Navy production contract worth up to USD 2.9 billion with payments tied to demonstrated manufacturing results for a combined planned spend of up to USD 6.6 billion, more than 3,100 new permanent jobs with support for over 14,000 jobs in total, expected annual economic output above USD 2 billion including an estimated USD 312 million in wages, a 187-acre site with an existing 1,200-foot graving dock, initial manufacturing operations targeted for 2030, production beginning with torpedo tubes and spherical air flasks before larger modules and sections, delivery of components
+    to General Dynamics Electric Boat and HII's Newport News Shipbuilding for final submarine assembly, and an official estimate that the site adds about 9 million production labor hours a year, roughly a 15 percent increase for the Virginia-class program.
+  url: https://governor.maryland.gov/news/press-releases/state-maryland-baltimore-county-announce-anduril-industries-invest-37b
