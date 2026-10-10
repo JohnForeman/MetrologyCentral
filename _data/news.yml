@@ -7202,3 +7202,104 @@
   summary: The State of Maryland and Baltimore County announced a USD 3.7 billion private capital investment by Anduril Industries in Arsenal-2, a two million square foot submarine-component shipyard at Tradepoint Atlantic in the Sparrows Point complex of Baltimore County, making it a quantified expansion of the U.S. submarine industrial base rather than a generic facility announcement; cited specifics include a separate U.S. Navy production contract worth up to USD 2.9 billion with payments tied to demonstrated manufacturing results for a combined planned spend of up to USD 6.6 billion, more than 3,100 new permanent jobs with support for over 14,000 jobs in total, expected annual economic output above USD 2 billion including an estimated USD 312 million in wages, a 187-acre site with an existing 1,200-foot graving dock, initial manufacturing operations targeted for 2030, production beginning with torpedo tubes and spherical air flasks before larger modules and sections, delivery of components
     to General Dynamics Electric Boat and HII's Newport News Shipbuilding for final submarine assembly, and an official estimate that the site adds about 9 million production labor hours a year, roughly a 15 percent increase for the Virginia-class program.
   url: https://governor.maryland.gov/news/press-releases/state-maryland-baltimore-county-announce-anduril-industries-invest-37b
+
+- date: "2026-10-10"
+  title: "Saab begins phased move-in at its Grayling, Michigan munitions plant ahead of a fourth-quarter 2026 opening"
+  source: "Defence Industry Europe / Saab"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Saab has begun moving staff into its new munitions plant in Grayling, Michigan and expects the
+    facility to begin full operations in the fourth quarter of 2026, making it a quantified expansion of United States munitions
+    production capacity rather than a generic facility update; cited specifics include groundbreaking in April 2025, leadership,
+    administrative, quality, technical and production support functions arriving in phases, buildings dedicated to assembly and
+    integration still under construction with the plant not yet officially open, a planned workforce of 70 or more full-time roles
+    spanning production, assembly, engineering and management, positioning of Grayling as the eleventh Saab facility in the United
+    States alongside a supporting office in Auburn Hills, planned United States production of the XM919 Individual Assault Munition,
+    proximity to Camp Grayling and the Michigan National Guard for customer engagement, and a grand opening celebration planned for
+    autumn 2026.
+  url: https://defence-industry.eu/saab-targets-year-end-opening-of-michigan-munitions-plant-to-expand-u-s-weapons-production/
+
+- date: "2026-10-09"
+  title: "First U.S.-made Tamir interceptors delivered at the Raytheon-Rafael plant in Camden, Arkansas"
+  source: "The Jerusalem Post / Raytheon-Rafael Protection Systems"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Jerusalem Post reports the first Tamir interceptors manufactured in the United States were delivered at a ceremony at the
+    Raytheon-Rafael Protection Systems facility in East Camden, Arkansas on 7 October 2026, making it a quantified addition of
+    United States interceptor production capacity rather than a generic cooperation notice; cited specifics include a USD 63 million
+    facility opened in November 2025 as the first United States production line for Iron Dome Tamir interceptors, expected creation
+    of up to 60 jobs, planned production of SkyHunter, the United States variant of the Tamir, for the United States Marine Corps
+    Medium-Range Intercept Capability air defense system, a joint venture between Rafael Advanced Defense Systems and the Raytheon
+    business of RTX, a site whose establishment was announced in 2023, attendance by Arkansas Governor Sarah Huckabee Sanders,
+    Senator Tom Cotton and Israeli Defense Attache Maj.-Gen. Tal Politis, and reported consideration by Rafael of additional
+    interceptor production in India.
+  url: https://www.jpost.com/defense-and-tech/article-911131
+
+- date: "2026-10-09"
+  title: "Honda files Ohio EPA permit application for a 300-acre Union County plant expected to employ about 3,000 people"
+  source: "Marysville Journal-Tribune / Marysville Matters / Honda Development and Manufacturing of America"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Marysville Journal-Tribune reports Honda Development and Manufacturing of America filed a water quality certification
+    application with the Ohio Environmental Protection Agency for a proposed 300-acre manufacturing facility in Liberty Township,
+    Union County, Ohio that would build hybrid Honda and Acura vehicles and employ approximately 3,000 people, making it the first
+    public filing to identify a specific site for a plant Honda has not yet announced as a final investment decision after earlier
+    reporting of a potential USD 1.8 billion to USD 2.5 billion United States assembly plant; cited specifics include a location
+    immediately south of the existing East Liberty Auto Plant and east of the Transportation Research Center, between the two
+    existing Honda Ohio vehicle assembly plants, with separate reporting on the same permit application identifying the project as
+    Project Sunrise and proposed construction from 1 January 2027 to 31 December 2029, plus a wastewater discharge permit and a
+    federal wetlands-related submission expected to follow.
+  url: https://www.marysvillejt.com/2026/10/09/east-liberty-eyed-new-honda-plant/
+
+- date: "2026-09-29"
+  title: "ProLogium prepares to energise the Dunkirk gigafactory construction site with phase 1 designed for 4.0 GWh"
+  source: "ProLogium Technology"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    ProLogium reports continued progress on its Dunkirk, France gigafactory with electrical infrastructure and grid connection work
+    under way toward planned power-up of the construction site in early October 2026, making it a quantified European solid-state
+    battery manufacturing capacity signal rather than a generic project update; cited specifics include a phase 1 design capacity of
+    4.0 GWh and an ultimate capacity of up to 44 GWh at the site, construction of phase 1 begun in 2026 with mass production
+    scheduled to start by the end of 2028, parallel workstreams covering engineering, local and European supplier qualification,
+    technology localisation and talent development, the first company gigafactory in Taoyuan, Taiwan inaugurated in 2024 with more
+    than 2.4 million cells delivered to date, an overseas research and development centre at Paris-Saclay in France, and land
+    reserved at the Port of Dunkirk for future expansion phases.
+  url: https://prologium.com/prologium-advances-dunkirk-gigafactory-as-site-infrastructure-and-localization-work-accelerate/
+
+- date: "2026-10-07"
+  title: "Nature reports a thorium-229 optical nuclear clock stabilised by feedback to the 148 nm transition"
+  source: "Nature (Toscani De Col, Riebner, Schumm et al.)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in Nature on 7 October 2026 reports a thorium-229 nuclear clock realised by stabilising a continuous-wave
+    laser to the 148 nm nuclear transition with rapid feedback based on absorption spectroscopy, making it a quantified primary
+    frequency reference advance beyond electron-shell optical clocks rather than generic nuclear-clock coverage; cited specifics
+    include thorium-229 nuclei embedded in a millimetre-sized room-temperature calcium fluoride crystal, a shot-noise-limited
+    fractional frequency instability of 3 x 10-12 divided by the square root of the averaging time in seconds that approaches 10-15
+    instabilities over one day of operation, continuous comparison of a subharmonic of the 148 nm radiation with a ytterbium ion
+    single-ion clock, projected improvement of the instability by several orders of magnitude in future devices, expected greater
+    robustness against external perturbations and enhanced sensitivity in clock-based tests of fundamental physics, and use of the
+    clock to constrain models of ultralight dark matter by searching for periodic variations.
+  url: https://www.nature.com/articles/s41586-026-11084-4
+
+- date: "2026-10-07"
+  title: "Mahr introduces the MarSurf CNC modular Evo entry-level automated surface measuring station"
+  source: "Metrology News / Mahr"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Mahr introduced the MarSurf CNC modular Evo, an entry-level CNC measuring station intended to move
+    recurring surface roughness measurement from manual or semi-automated operation toward automated inspection on the production
+    floor, making it a measurable shop-floor surface metrology release rather than a generic product notice; cited specifics include
+    positioning axes with 200 mm of travel and a new 280 mm feed axis that expands the measurement volume, configurations with one
+    linear axis, one linear plus one rotary axis, or two linear axes combined with a rotary axis, continued use of existing MarSurf
+    feed devices, accessories and workpiece holders, additional software modules for pallet measurement that standardise recurring
+    inspection procedures, factory-preconfigured standardised configurations with the MarControl control unit supplied as standard,
+    and intended application to workpieces with multiple measurement locations, different spatial orientations and rotationally
+    symmetric features measured at different angular positions.
+  url: https://metrology.news/mahr-expands-cnc-surface-measurement-with-marsurf-modular-evo/
