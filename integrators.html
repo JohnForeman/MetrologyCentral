@@ -1,0 +1,36 @@
+---
+layout: default
+title: Machine Vision & Metrology Integrators (US)
+permalink: /integrators/
+description: Directory of US machine vision and metrology system integrators serving automotive and aerospace manufacturing. Free listings, plus featured listings for integrators.
+---
+<style>#get-listed a:not(.btn),.int-card a{color:var(--brand-accent)}</style>
+<p class="section-eyebrow">Directory</p>
+<h1>Machine vision &amp; metrology integrators (US)</h1>
+<p class="lead">Integrators who design and install vision inspection, 3D scanning and metrology systems for automotive and aerospace plants. Every listing links to the company's own site, and descriptions come from their own pages.</p>
+<div class="atlas-filters"><input id="iq" placeholder="Filter by name, state or capability…" aria-label="Filter integrators"></div>
+<div class="atlas-grid" id="int-list">
+{% for i in site.data.integrators %}
+  <div class="atlas-card int-card" data-s="{{ i.name | downcase }} {{ i.hq | downcase }} {{ i.focus | join: ' ' | downcase }}">
+    <span class="atlas-tag">{% if i.listing == 'featured' %}Featured{% else %}Free listing{% endif %}</span>
+    <h3><a href="{{ i.url }}" target="_blank" rel="noopener">{{ i.name }}</a></h3>
+    <p>{{ i.hq }}</p>
+    <p>{{ i.description }}</p>
+    <p class="atlas-muted">{{ i.focus | join: " · " }}</p>
+  </div>
+{% endfor %}
+</div>
+<section class="mc-newsletter" id="get-listed">
+  <div>
+    <p class="section-eyebrow">For integrators</p>
+    <h2>Get listed / featured listing</h2>
+    <p><b>Free listing:</b> your company name, HQ, capabilities and a one-line description linking to your site. <b>Featured listing:</b> top placement, a "Featured" badge, and a mention next to matching cases in the <a href="{{ '/atlas/' | relative_url }}">AI Inspection Atlas</a>. Pricing: <a href="mailto:{{ site.author.email }}?subject=Featured%20integrator%20listing">contact us</a>.</p>
+  </div>
+  <div>
+    <!-- TODO: replace with a Tally or Google Form URL once created -->
+    <a class="btn btn-primary" href="mailto:{{ site.author.email }}?subject=Integrator%20listing%20request&body=Company%3A%0AWebsite%3A%0AHQ%20(city%2C%20state)%3A%0ACapabilities%20(vision%2C%20CMM%2C%20CT%2C%203D%20scanning...)%3A%0AIndustries%3A%0AOne-line%20description%3A%0AFree%20or%20featured%3F%3A">Request a listing</a>
+    <p class="atlas-muted">Opens an email to {{ site.author.email }}. Listings are reviewed by hand, and featured status never affects Atlas case data.</p>
+  </div>
+</section>
+<p class="atlas-muted">Listings are informational and are not endorsements. Spot an error? <a href="{{ '/contact' | relative_url }}">Contact us</a>.</p>
+<script>document.getElementById('iq').addEventListener('input',e=>{const q=e.target.value.toLowerCase();document.querySelectorAll('.int-card').forEach(c=>c.style.display=c.dataset.s.includes(q)?'':'none')});</script>

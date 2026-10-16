@@ -1,0 +1,80 @@
+# Integrator directory. All entries are FREE listings seeded from public company websites (verified 2026-10-16).
+# Descriptions are quoted or closely taken from each company's own site. Fields: name, url, hq, focus, description, listing
+- name: Integro Technologies
+  url: https://www.integro-tech.com/vision-integration/
+  hq: Salisbury, NC
+  focus: [Machine vision, AI, Automotive, Aerospace]
+  description: "A premier, vision integration company serving manufacturers worldwide in Machine Vision, AI, Logistics, and Robotics."
+  listing: free
+- name: Fives DyAG
+  url: https://fivestopscout.com/about-us/
+  hq: Michigan
+  focus: [Machine vision, Controls, Robotics, Automotive, Aerospace]
+  description: "An engineering and systems integrator specializing in controls, robotics, machine vision and software solutions for industrial automation markets."
+  listing: free
+- name: Remtec Automation
+  url: https://www.remtecautomation.com/machine-vision/machine-vision-inspection/
+  hq: Ohio
+  focus: [Machine vision, Robotics, 3D line scanning, Automotive, Aerospace]
+  description: "Certified Systems Integrator for FANUC, Cognex, and Keyence with extensive experience in developing robotic machine vision inspection systems."
+  listing: free
+- name: Henshaw Inc.
+  url: https://www.henshawusa.com/vision-inspection-systems
+  hq: ""
+  focus: [Machine vision, Error proofing, Automotive]
+  description: "Designs high performance process control and error proofing vision systems for automotive OEM plants, tier supplier facilities, foundries, injection molding operations, and more."
+  listing: free
+- name: Automation NTH
+  url: https://www.automationnth.com/
+  hq: La Vergne, TN
+  focus: [Custom automation, Machine vision, Automotive]
+  description: "Empowers manufacturers to boost OEE, quality, and efficiency through innovative custom automation solutions."
+  listing: free
+- name: JR Automation
+  url: https://www.jrautomation.com/
+  hq: ""
+  focus: [Automation, Automotive, Aerospace]
+  description: "Builds intelligent and innovative automation technology solutions that revolutionize how the world's leading manufacturers produce and distribute."
+  listing: free
+- name: DMC, Inc.
+  url: https://www.dmcinfo.com/our-work/machine-vision-system-to-detect-defects/
+  hq: Chicago, IL
+  focus: [Machine vision, Test, Software, Automation]
+  description: "Offers software engineering, industrial automation, embedded development, and digital workplace solutions for businesses worldwide."
+  listing: free
+- name: Concept Systems
+  url: https://conceptsystemsinc.com/what-we-do/
+  hq: ""
+  focus: [Controls, Robotics, Machine vision]
+  description: "An industrial automation company providing controls, robotics, process automation, panel fabrication, consulting, and engineering support."
+  listing: free
+- name: Matrix Design
+  url: https://matrixdesignllc.com/
+  hq: ""
+  focus: [Robotics, FANUC, Automation]
+  description: "A certified FANUC integrator for machine tending, robotic metal finishing, and end-of-line automation systems."
+  listing: free
+- name: Re:Build Optimation
+  url: https://optimation.rebuildmanufacturing.com/
+  hq: ""
+  focus: [Engineering, Automation, Manufacturing]
+  description: "Innovative engineering, manufacturing, and automation solutions designed to optimize operations and drive efficiency."
+  listing: free
+- name: Exact Metrology
+  url: https://www.exactmetrology.com/
+  hq: ""
+  focus: [3D scanning, Metrology services, Training]
+  description: "Provides 3D scanning services, equipment sales and rentals, and training services to increase your inspection throughput."
+  listing: free
+- name: Capture 3D
+  url: https://www.capture3d.com/
+  hq: ""
+  focus: [3D scanning, Photogrammetry, Automated inspection]
+  description: "3D scanning technology, photogrammetry and automated inspection solutions for accurate and fast industrial non-contact 3D measurements."
+  listing: free
+- name: Cyth Systems
+  url: https://www.cyth.com/
+  hq: San Diego, CA
+  focus: [Test & measurement, Machine vision, NI integrator]
+  description: "Technology and solutions for product engineering, embedded controls, and test automation applications. Expert NI Systems Integrator and Distributor."
+  listing: free

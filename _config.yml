@@ -55,6 +55,8 @@ navigation:
     url: /news
   - title: AI Inspection Atlas
     url: /atlas/
+  - title: Resources
+    url: /resources/
   - title: Advertise
     url: /advertise/
   - title: About
