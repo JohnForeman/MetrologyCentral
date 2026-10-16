@@ -1430,3 +1430,4 @@ a.atlas-card:hover{border-color:var(--brand-accent)}
 .mc-newsletter{display:grid;grid-template-columns:1.4fr 1fr;gap:1.2rem;align-items:center;margin:2rem 0;padding:1.4rem;border:1px solid var(--brand-outline);border-radius:14px;background:var(--brand-surface)}
 .mc-newsletter-form{display:flex;gap:.5rem;flex-wrap:wrap}
 @media(max-width:760px){.mc-newsletter{grid-template-columns:1fr}}
+.atlas-card a,.atlas-detail a,.atlas-muted a,.atlas-case a,.site-content p>a[href^='/atlas'],.site-content p>a[href^='/advertise']{color:var(--brand-accent)}

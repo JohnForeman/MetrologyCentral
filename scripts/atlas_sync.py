@@ -9,7 +9,11 @@ for c in cases:
     t=(c['defect_type']+' '+c['part']).lower()
     c['defect_categories']=[n for n,p in CAT if re.search(p,t)] or ["Other"]
     c['part_group']=c['part'].split('(')[0].strip() or 'Unspecified'
-    c['vendor_group']=c['vendor'].split('(')[0].split(' via ')[0].strip()
+    v=c['vendor']
+    for k in ['UnitX','SwitchOn','MVTec','Cognex','Waygate','Elementary','IBM','Siemens','LandingAI','Awiros']:
+        if k in v: v=k; break
+    else: v=v.split('(')[0].split(' via ')[0].strip()
+    c['vendor_group']={'LandingAI':'Landing AI'}.get(v,v)
     c['context']='MRO' if re.search(r'MRO|maintenance|lease',c['notes']+c['company_plant']) else ('R&D project' if re.search(r'project|not yet in production|Development',c['notes']+c['source_type']) else 'Production')
 json.dump(cases,open(f'{R}/_data/atlas_cases.json','w'),indent=1,ensure_ascii=False)
 d=f'{R}/_atlas_cases'

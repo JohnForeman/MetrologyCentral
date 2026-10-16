@@ -18,7 +18,7 @@
    "Other"
   ],
   "part_group": "Unspecified",
-  "vendor_group": "FPT Software + LandingAI",
+  "vendor_group": "Landing AI",
   "context": "Production"
  },
  {
@@ -370,7 +370,7 @@
    "Weld & spatter"
   ],
   "part_group": "Car body underbody",
-  "vendor_group": "Audi in-house model on Siemens Industrial Edge / Industrial AI Suite",
+  "vendor_group": "Siemens",
   "context": "Production"
  },
  {
@@ -503,7 +503,7 @@
    "Cracks"
   ],
   "part_group": "Body-in-white MIG and laser welds",
-  "vendor_group": "MVTec HALCON + Deep Learning Tool",
+  "vendor_group": "MVTec",
   "context": "Production"
  },
  {
@@ -525,7 +525,7 @@
    "Weld & spatter"
   ],
   "part_group": "Electrode tabs of cylindrical Li-ion cells",
-  "vendor_group": "MVTec HALCON",
+  "vendor_group": "MVTec",
   "context": "Production"
  },
  {
@@ -547,7 +547,7 @@
    "Other"
   ],
   "part_group": "Vehicle body",
-  "vendor_group": "Acrovision using Cognex VisionPro + ViDi",
+  "vendor_group": "Cognex",
   "context": "Production"
  },
  {
@@ -591,7 +591,7 @@
    "Assembly / missing part"
   ],
   "part_group": "Vehicle assembly",
-  "vendor_group": "IBM Maximo Visual Inspection",
+  "vendor_group": "IBM",
   "context": "Production"
  },
  {
@@ -635,7 +635,7 @@
    "Engine blade damage"
   ],
   "part_group": "High Pressure Compressor",
-  "vendor_group": "Waygate Technologies",
+  "vendor_group": "Waygate",
   "context": "MRO"
  },
  {
@@ -657,7 +657,7 @@
    "Engine blade damage"
   ],
   "part_group": "HPT stage 1 & 2 blades",
-  "vendor_group": "Waygate Technologies + GE Aerospace",
+  "vendor_group": "Waygate",
   "context": "MRO"
  },
  {
