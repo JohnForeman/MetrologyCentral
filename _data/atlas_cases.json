@@ -181,8 +181,7 @@
   "notes": "",
   "defect_categories": [
    "Casting & machining",
-   "Surface scratches/dents",
-   "Assembly / missing part"
+   "Surface scratches/dents"
   ],
   "part_group": "Zinc die-cast parts",
   "vendor_group": "UnitX",
@@ -299,12 +298,11 @@
   "source_type": "OEM press release",
   "notes": "2019 release.",
   "defect_categories": [
-   "Cracks",
-   "Assembly / missing part"
+   "Cracks"
   ],
   "part_group": "Formed sheet-metal body parts",
   "vendor_group": "BMW Group",
-  "context": "MRO"
+  "context": "Production"
  },
  {
   "id": "bmw-dingolfing-final-badges",
@@ -327,7 +325,7 @@
   ],
   "part_group": "Vehicle model badges",
   "vendor_group": "BMW Group",
-  "context": "MRO"
+  "context": "Production"
  },
  {
   "id": "audi-neckarsulm-spot-welds",
@@ -743,7 +741,7 @@
   "source_type": "OEM press release",
   "notes": "Ultrasonic NDI rather than camera vision; 2018.",
   "defect_categories": [
-   "Composite layup"
+   "Composite structures & layup"
   ],
   "part_group": "Fuselages, wings, substructures",
   "vendor_group": "Spirit AeroSystems",
@@ -787,8 +785,7 @@
   "source_type": "Trade press",
   "notes": "EU research project, 2016–2019.",
   "defect_categories": [
-   "Assembly / missing part",
-   "Composite layup"
+   "Composite structures & layup"
   ],
   "part_group": "Wingskins / large CFRP parts",
   "vendor_group": "ZAero consortium",

@@ -8,7 +8,7 @@ layout: default
   <h1>{{ c.title }}</h1>
   {% assign rows = "Company / plant|company_plant,Defect type|defect_type,Part|part,Material|material,Vendor|vendor,Camera / lighting|camera_lighting,Training data|training_data,Reported result (quoted)|reported_result,Notes|notes" | split: "," %}
   <table class="atlas-detail">
-    {% for r in rows %}{% assign kv = r | split: "|" %}{% assign v = c[kv[1]] %}
+    {% for r in rows %}{% assign kv = r | split: "|" %}{% assign key = kv[1] %}{% assign v = c[key] %}
     <tr><th>{{ kv[0] }}</th><td>{% if v and v != "" %}{{ v | escape }}{% else %}<span class="atlas-muted">Not stated in source</span>{% endif %}</td></tr>
     {% endfor %}
     <tr><th>Defect categories</th><td>{{ c.defect_categories | join: ", " }}</td></tr>
