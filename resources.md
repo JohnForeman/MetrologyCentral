@@ -5,6 +5,8 @@ permalink: /resources/
 description: Recommended metrology books, measuring tools, training and guides for quality engineers, CMM programmers and AI inspection teams in automotive and aerospace.
 ---
 
+<style>.site-content a:not(.btn){color:var(--brand-accent)}</style>
+
 # Resources
 
 <p class="atlas-muted"><b>Disclosure:</b> Some links on this page may be affiliate links. If you buy through them, Metrology Central may earn a commission at no extra cost to you. We only recommend things we consider useful to metrology and quality professionals.</p>
