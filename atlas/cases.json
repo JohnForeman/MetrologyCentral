@@ -1,0 +1,6 @@
+---
+layout: null
+permalink: /atlas/cases.json
+sitemap: false
+---
+{{ site.data.atlas_cases | jsonify }}

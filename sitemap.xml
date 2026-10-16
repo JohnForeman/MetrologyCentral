@@ -27,4 +27,11 @@ layout: null
     <priority>0.8</priority>
   </url>
   {% endfor %}
+  {% for c in site.atlas_cases %}
+  <url>
+    <loc>https://metrologycentral.com{{ site.baseurl }}{{ c.url }}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  {% endfor %}
 </urlset>

@@ -1,0 +1,18 @@
+<section class="mc-newsletter" id="newsletter">
+  <div>
+    <p class="section-eyebrow">The Metrology Central Brief</p>
+    <h2>Metrology, AI inspection and quality news, monthly</h2>
+    <p>New AI inspection case studies from the Atlas, CMM and metrology releases, and field-tested articles. No spam.</p>
+  </div>
+  {% if site.newsletter.form_action and site.newsletter.form_action != "" %}
+  <form class="mc-newsletter-form" action="{{ site.newsletter.form_action }}" method="post" target="_blank">
+    <input type="email" name="email" required placeholder="you@company.com" aria-label="Email">
+    <button class="btn btn-primary" type="submit">Subscribe</button>
+  </form>
+  {% else %}
+  <form class="mc-newsletter-form" onsubmit="event.preventDefault();this.innerHTML='<p>Thanks! Signup opens soon. (No email was stored.)</p>'">
+    <input type="email" required placeholder="you@company.com" aria-label="Email">
+    <button class="btn btn-primary" type="submit">Subscribe</button>
+  </form>
+  {% endif %}
+</section>
