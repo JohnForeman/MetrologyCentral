@@ -4,15 +4,8 @@
     <h2>Metrology, AI inspection and quality news, monthly</h2>
     <p>New AI inspection case studies from the Atlas, CMM and metrology releases, and field-tested articles. No spam.</p>
   </div>
-  {% if site.newsletter.form_action and site.newsletter.form_action != "" %}
-  <form class="mc-newsletter-form" action="{{ site.newsletter.form_action }}" method="post" target="_blank">
-    <input type="email" name="email" required placeholder="you@company.com" aria-label="Email">
-    <button class="btn btn-primary" type="submit">Subscribe</button>
-  </form>
-  {% else %}
-  <form class="mc-newsletter-form" onsubmit="event.preventDefault();this.innerHTML='<p>Thanks! Signup opens soon. (No email was stored.)</p>'">
-    <input type="email" required placeholder="you@company.com" aria-label="Email">
-    <button class="btn btn-primary" type="submit">Subscribe</button>
-  </form>
-  {% endif %}
+  <div class="mc-newsletter-form">
+    <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="fa522072-c518-451e-8da3-dd8e5def603a"></script>
+    <p class="atlas-muted">Form not loading? <a href="https://johns-newsletter-c0dcc2.beehiiv.com/subscribe" target="_blank" rel="noopener">Subscribe on beehiiv</a>.</p>
+  </div>
 </section>
