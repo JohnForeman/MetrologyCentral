@@ -1409,3 +1409,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+
+/* ===== AI Inspection Atlas + newsletter ===== */
+.atlas-hero{margin:1rem 0 1.5rem}
+.atlas-filters{display:flex;flex-wrap:wrap;gap:.6rem;margin:1rem 0}
+.atlas-filters input,.atlas-filters select,.mc-newsletter-form input{padding:.6rem .7rem;border-radius:8px;border:1px solid var(--brand-outline);background:var(--brand-panel);color:var(--text-color);min-width:180px}
+.atlas-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:1rem;margin:1rem 0}
+.atlas-card{display:block;background:var(--brand-surface);border:1px solid var(--border-color);border-radius:12px;padding:1rem 1.1rem;color:var(--text-color);text-decoration:none;box-shadow:var(--shadow-sm)}
+a.atlas-card:hover{border-color:var(--brand-accent)}
+.atlas-card h3{font-size:1.02rem;margin:.4rem 0;color:var(--text-white)}
+.atlas-card p{font-size:.9rem;color:var(--text-light)}
+.atlas-res{background:rgba(46,197,255,.08);border-left:3px solid var(--brand-accent);padding:.5rem .6rem;border-radius:6px;color:var(--text-color)!important}
+.atlas-tag{display:inline-block;font-size:.7rem;text-transform:uppercase;letter-spacing:.05em;padding:.1rem .5rem;margin-right:.3rem;border-radius:999px;border:1px solid var(--brand-outline);color:var(--brand-accent)}
+.atlas-tag.aerospace{color:#c9a7ff;border-color:rgba(201,167,255,.5)}
+.atlas-muted{color:var(--text-light);font-size:.88rem}
+.atlas-detail{width:100%;border-collapse:collapse;margin:1rem 0}
+.atlas-detail th,.atlas-detail td{border:1px solid var(--border-color);padding:.6rem .7rem;text-align:left;vertical-align:top}
+.atlas-detail th{width:210px;background:var(--brand-panel);color:var(--text-light)}
+.atlas-cta{margin:1rem 0}
+.mc-newsletter{display:grid;grid-template-columns:1.4fr 1fr;gap:1.2rem;align-items:center;margin:2rem 0;padding:1.4rem;border:1px solid var(--brand-outline);border-radius:14px;background:var(--brand-surface)}
+.mc-newsletter-form{display:flex;gap:.5rem;flex-wrap:wrap}
+@media(max-width:760px){.mc-newsletter{grid-template-columns:1fr}}

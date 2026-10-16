@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign c = site.data.atlas_cases | where: "id", page.case_id | first %}
+<article class="atlas-case">
+  <p><a href="{{ '/atlas/' | relative_url }}">← AI Inspection Atlas</a></p>
+  <p class="section-eyebrow">{{ c.industry | capitalize }} · {{ c.context }} · {{ c.source_type }}</p>
+  <h1>{{ c.title }}</h1>
+  {% assign rows = "Company / plant|company_plant,Defect type|defect_type,Part|part,Material|material,Vendor|vendor,Camera / lighting|camera_lighting,Training data|training_data,Reported result (quoted)|reported_result,Notes|notes" | split: "," %}
+  <table class="atlas-detail">
+    {% for r in rows %}{% assign kv = r | split: "|" %}{% assign v = c[kv[1]] %}
+    <tr><th>{{ kv[0] }}</th><td>{% if v and v != "" %}{{ v | escape }}{% else %}<span class="atlas-muted">Not stated in source</span>{% endif %}</td></tr>
+    {% endfor %}
+    <tr><th>Defect categories</th><td>{{ c.defect_categories | join: ", " }}</td></tr>
+    <tr><th>Source</th><td><a href="{{ c.source_url }}" target="_blank" rel="noopener">{{ c.source_url }}</a></td></tr>
+  </table>
+  <p class="atlas-muted">Results are quoted from the source. Vendor-published results are vendor claims and were not independently verified. Spot an error? <a href="{{ '/contact' | relative_url }}">Contact us</a>.</p>
+  <div class="atlas-cta"><a class="btn btn-ghost" href="{{ '/atlas/fit/' | relative_url }}">Which tool fits my defect?</a> <a class="btn btn-ghost" href="{{ '/advertise/' | relative_url }}">Vendor? Get listed</a></div>
+</article>
+{% include adsense-unit.html slot=site.adsense.slots.post_bottom %}
+{% include newsletter.html %}

@@ -38,6 +38,19 @@ description: Practical metrology and quality engineering insights on CMM workflo
 
 {% include adsense-unit.html slot=site.adsense.slots.home_infeed class='adsense-home' %}
 
+
+<section class="latest-highlight" id="atlas-feature">
+  <p class="section-eyebrow">New · AI Inspection Atlas</p>
+  <article class="post-preview post-preview-featured">
+    <h2><a href="{{ '/atlas/' | relative_url }}">{{ site.data.atlas_cases.size }} real AI visual inspection deployments in automotive &amp; aerospace</a></h2>
+    <p class="excerpt">Search source-linked case studies by defect, part and vendor: BMW crack detection, Nissan paint inspection, Ford's iPhone-based inspection, GE engine borescopes and more. Results are quoted from the source, never paraphrased into hype.</p>
+    <div class="featured-actions">
+      <a class="btn btn-primary" href="{{ '/atlas/' | relative_url }}">Explore the Atlas</a>
+      <a class="btn btn-ghost" href="{{ '/atlas/fit/' | relative_url }}">Which tool fits my defect?</a>
+    </div>
+  </article>
+</section>
+
 {% assign news_items = site.data.news %}
 
 {% if latest_post %}
@@ -94,4 +107,4 @@ description: Practical metrology and quality engineering insights on CMM workflo
   </section>
 {% endif %}
 
-
+{% include newsletter.html %}

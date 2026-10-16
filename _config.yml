@@ -38,6 +38,8 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - admin
+  - scripts
+  - README.md
 
 # Pagination (optional, can enable later)
 paginate: 5
@@ -51,6 +53,10 @@ navigation:
     url: /blog
   - title: News
     url: /news
+  - title: AI Inspection Atlas
+    url: /atlas/
+  - title: Advertise
+    url: /advertise/
   - title: About
     url: /about
   - title: Contact
@@ -67,3 +73,13 @@ adsense:
     post_inline: ""
     post_bottom: ""
 
+
+# InspectAI Atlas (AI visual inspection case database)
+collections:
+  atlas_cases:
+    output: true
+    permalink: /atlas/:name/
+
+newsletter:
+  # Set to your beehiiv/Kit form action URL once the account exists. Empty = placeholder form.
+  form_action: ""

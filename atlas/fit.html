@@ -1,0 +1,18 @@
+---
+layout: default
+title: Which AI inspection tool fits my defect?
+permalink: /atlas/fit/
+description: Pick a defect type and industry to see which AI visual inspection vendors have published deployments for it.
+---
+<p><a href="{{ '/atlas/' | relative_url }}">← AI Inspection Atlas</a></p>
+<h1>Which tool fits my defect?</h1>
+<p class="lead">Pick an industry and defect type. You get vendors with <em>published</em> deployments for that problem, ranked by number of cases, with the evidence linked.</p>
+<div class="atlas-filters">
+  <select id="fi"><option value="">Any industry</option><option value="automotive">Automotive</option><option value="aerospace">Aerospace</option></select>
+  <select id="fd"><option value="">Choose a defect type…</option></select>
+</div>
+<div id="fitout" class="atlas-grid"></div>
+<p class="atlas-muted">Published cases are not a ranking of vendor quality. Need help scoping an inspection project? <a href="{{ '/advertise/#integrators' | relative_url }}">See listed integrators</a>.</p>
+{% include newsletter.html %}
+<script>window.ATLAS_BASE="{{ '/atlas/' | relative_url }}";</script>
+<script src="{{ '/assets/js/atlas.js' | relative_url }}"></script>
