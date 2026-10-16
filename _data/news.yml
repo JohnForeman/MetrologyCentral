@@ -7853,3 +7853,185 @@
     independent interferometer on a piezoelectric rotation stage, and intended use in precision navigation and
     orientation where GPS is unavailable, with the work published in Optics Letters volume 51, pages 5854 to 5857.
   url: https://www.optica.org/about/newsroom/news_releases/2026/new_chip-scale_gyroscope_measures_rotation_with_unprecedented_sensitivity/
+- date: "2026-10-14"
+  title: "Lockheed Martin invests USD 300 million in Grand Prairie munitions expansion and adds a 24-machine Hadrian machining cell"
+  source: "Lockheed Martin / PR Newswire"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Lockheed Martin reports it will invest USD 300 million in its Grand Prairie, Texas Missiles and Fire Control
+    operation and create 6,000 jobs across the United States including 2,000 in Texas as it expands advanced
+    manufacturing capacity for critical munitions, making it a quantified defence industrial capacity signal rather
+    than a generic facility announcement; cited specifics include a manufacturing footprint growing to more than
+    735,000 square feet through 100,000 square feet of new space plus 85,000 square feet of former office space
+    converted for advanced manufacturing, a first-of-its-kind seven-year agreement with Hadrian under which Hadrian
+    will install a 24-machine automated machining cell inside the Grand Prairie facility operated by the Lockheed
+    Martin production workforce with the cell expected to be operational in early 2027, more than 30 additional
+    high-precision machines installed in recent months and nearly 100 more expected across the facility by the end
+    of 2026, nearly 800 production employees at a site that manufactured 250,000 parts in 2025, support for all
+    Missiles and Fire Control programmes including PAC-3 MSE, THAAD, PrSM and JATM with components shipped to
+    final-assembly sites in Camden, Arkansas and Troy, Alabama, and positioning inside a commitment to invest USD
+    8 billion to USD 9 billion through 2030 to expand or modernise more than 20 U.S. facilities.
+  url: https://news.lockheedmartin.com/2026-10-14-Lockheed-Martin-Expands-Advanced-Munitions-Manufacturing-in-Texas,-Driving-Thousands-of-New-American-Jobs
+
+- date: "2026-10-14"
+  title: "Energy In Motion opens a Talegaon complex rated at 5,000 electric trucks and 2.4 GWh of battery packs a year"
+  source: "Autocar Professional / Energy In Motion"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Autocar Professional reports Energy In Motion inaugurated an electric heavy commercial vehicle complex at Ambi
+    near Talegaon in Pune on 14 October 2026 that brings truck assembly, lithium-ion battery pack assembly and an
+    independent battery testing laboratory together on one site, making it a quantified Indian electric commercial
+    vehicle and battery pack assembly capacity signal rather than a generic plant opening; cited specifics include
+    a complex of more than 35,000 square metres with about 19,000 square metres for truck assembly and 10,920
+    square metres for battery packs, annual vehicle assembly capacity of 5,000 units and battery pack capacity of
+    2.4 GWh equal to roughly 6,000 battery boxes, a first phase of a planned INR 1,000 crore investment in
+    Maharashtra, more than 2,000 direct and indirect jobs, two further products planned within 15 months in the
+    form of a heavy electric tipper and a rigid-body truck, and a next-generation Luna lithium iron phosphate pack
+    of about 400.5 kWh using cells and pack kits supplied under a July 2026 agreement with CATL covering 500 MWh,
+    with cells and pack kits still imported rather than produced locally.
+  url: https://www.autocarpro.in/news/eim-to-launch-two-electric-trucks-in-15-months-as-pune-manufacturing-begins-135249
+- date: "2026-10-14"
+  title: "Ford Energy begins hiring at Glendale as the former BlueOval SK plant is converted to at least 20 GWh of annual storage output"
+  source: "WKU Public Radio / Ford Energy"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    WKU Public Radio reports Ford Energy, a wholly owned subsidiary of Ford Motor Company, is converting the former
+    BlueOval SK plant in Glendale, Kentucky to produce lithium iron phosphate prismatic battery cells and battery
+    energy storage systems, with production targeted for late 2027 and hiring already under way, making it a
+    quantified battery manufacturing conversion signal rather than a generic investment update; cited specifics
+    include a USD 2 billion Ford investment in the business, a target of at least 20 GWh of annual output, 2,100
+    planned workers at a 1,500-acre campus that includes a four-million-square-foot building, about 200 management
+    roles already filled with most production operators to be hired in early 2027, container-scale lithium iron
+    phosphate prismatic batteries intended for data centres, utilities and other industrial customers, and a site
+    history in which the joint venture plant ran electric vehicle battery production until December 2025 before
+    about 1,500 workers lost their jobs.
+  url: https://www.wkyufm.org/news/2026-10-14/ford-updates-community-on-its-second-act-in-hardin-county
+
+- date: "2026-10-14"
+  title: "Teledyne FLIR launches the A8481 HD MWIR science camera with a 1280 by 1024 detector in a compact A-Series body"
+  source: "Metrology News / Teledyne FLIR"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Teledyne FLIR announced the A8481, a compact high-definition mid-wave infrared science
+    camera aimed at researchers and engineers who need more thermal detail without changing the optics, software and
+    mounting infrastructure they already use, making it a measurable radiometric imaging capability update rather
+    than generic thermal camera coverage; cited specifics include a 1280 by 1024 HOT MWIR strained-layer
+    superlattice focal plane array with 8 micrometre pixel pitch, thermal sensitivity below 30 millikelvin, four
+    times the pixel count of VGA A-Series cameras in the compact A67xx form factor, GigE Vision, GenICam and
+    CoaXPress connectivity with precision trigger and synchronisation for deterministic data capture, an integrated
+    motorised three-position filter wheel for expanded temperature measurement ranges, compatibility with motorised,
+    manual-focus, microscope and macro optics, and the established FLIR Research Studio workflow, with stated
+    applications spanning electronics analysis, battery research, combustion studies, propulsion testing,
+    non-destructive testing and materials characterisation.
+  url: https://metrology.news/teledyne-flir-launches-hd-thermal-imaging-for-microscopic-heat-analysis/
+
+- date: "2026-10-14"
+  title: "Aubry-Andre localization in a bichromatic optical lattice clock extends Ramsey coherence to 2 seconds"
+  source: "arXiv (Ma et al., University of Wisconsin-Madison)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint posted to arXiv on 12 October 2026 and revised on 14 October reports the use of Aubry-Andre
+    localization in a bichromatic optical lattice clock to suppress atomic tunnelling between degenerate lattice
+    sites, making it a quantified method advance for future space-based and shallow-depth optical lattice clocks
+    rather than generic atomic clock coverage; cited specifics include a lattice formed by two magic-wavelength
+    lasers, a horizontal lattice clock emulating free fall in which tunnelling otherwise broadens the clock
+    transition and limits coherence, recovery of a Fourier-limited clock Rabi spectrum, Ramsey coherence times of
+    up to 2 seconds in shallow lattices, an improvement of up to 100-fold over the delocalized regime, and stated
+    relevance to satellite navigation and tests of relativity in microgravity alongside a route to operating
+    terrestrial clocks at shallower lattice depths.
+  url: https://arxiv.org/abs/2610.17499
+- date: "2026-10-15"
+  title: "Alabama awards a USD 1 million infrastructure grant as Lockheed Martin plans THAAD output of 400 interceptors a year at Troy"
+  source: "Alabama Political Reporter / Alabama Department of Economic and Community Affairs"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Alabama Political Reporter reports Governor Kay Ivey awarded a USD 1 million Community Development Block
+    Grant to fund construction of a water line supporting planned expansions at the Lockheed Martin Troy plant,
+    making it a quantified signal of an interceptor production ramp rather than generic incentive coverage; cited
+    specifics include a Lockheed Martin plan to invest USD 35 million to USD 50 million in operational expansions
+    at the Troy location including construction of at least one new facility, an increase in annual production of
+    Terminal High Altitude Area Defense interceptors from 96 to 400 over the next seven years, the expansion
+    expected to create 300 jobs according to the Alabama Department of Economic and Community Affairs, a USD
+    755,000 matching contribution from the Pike County Commission, and grant funds administered by ADECA with
+    money made available by the U.S. Department of Housing and Urban Development.
+  url: https://www.alreporter.com/2026/10/15/alabama-awards-1-million-grant-for-lockheed-martins-troy-expansion/
+
+- date: "2026-10-15"
+  title: "Tesla prepares a second Gruenheide production hall of about 536,000 square metres and revives a one million vehicle target"
+  source: "tagesschau / rbb"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    tagesschau, citing rbb reporting, reports Tesla intends to submit permitting documents in December 2026 for a
+    further expansion of its Gruenheide plant near Berlin centred on a second production hall to be built north of
+    the existing one, making it a quantified European vehicle manufacturing capacity signal rather than generic
+    expansion coverage; cited specifics include a planned hall of about 536,000 square metres against about 219,000
+    square metres for the existing building, a long-term perspective of up to one million vehicles a year at the
+    site, roughly 12,000 people currently employed there against up to 42,000 mentioned in earlier long-term plans,
+    a possible construction start in 2027 with the expansion structured as three partial permits of which the first
+    was granted by the Brandenburg environment agency on 15 October 2024, an additional dedicated substation and an
+    expanded on-site wastewater treatment plant including sanitary water in the submitted package, and Tesla
+    stating that the phased expansion and the associated environmental effects were set out in its 2023
+    partial-permit application.
+  url: https://www.tagesschau.de/inland/regional/brandenburg/rbb-tesla-plant-gross-erweiterung-seines-werks-in-gruenheide-102.html
+
+- date: "2026-10-15"
+  title: "BMW starts Gen 6 high-voltage battery production in Shenyang under a CNY 10 billion battery project"
+  source: "CnEVPost / BMW Group"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    CnEVPost reports BMW began mass production of its sixth-generation high-voltage batteries in Shenyang, Liaoning
+    province on 15 October 2026, making the Shenyang powertrain plant the third location in the global Gen 6
+    battery network after Debrecen in Hungary and Irlbach-Strasskirchen in Germany and a quantified battery
+    manufacturing capacity signal rather than a generic product announcement; cited specifics include a battery
+    project investment of CNY 10 billion, about USD 1.49 billion, with a planned floor area of 240,000 square
+    metres that is roughly five times the size of existing BMW battery production facilities, construction that
+    began in May 2023, a combination of large cylindrical cells with battery system integration, an 800-volt
+    architecture and sixth-generation electric drive technology, initial supply of the Shenyang-built batteries to
+    the Neue Klasse iX3 and i3, and a company road test in which a long-wheelbase Neue Klasse i3 50L with a
+    113.4 kWh battery covered 1,213 km on a single charge at a stated 8.8 kWh per 100 km with 1 percent charge
+    remaining, a result BMW describes as a road test rather than a certified range figure.
+  url: https://cnevpost.com/2026/10/15/bmw-starts-gen-6-battery-production-china/
+
+- date: "2026-10-15"
+  title: "ZEISS introduces NLX and DUNE advanced-packaging inspection systems as AIMS EUV 3.0 triples photomask throughput"
+  source: "Metrology News / ZEISS Semiconductor Manufacturing Technology"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports ZEISS Semiconductor Manufacturing Technology is addressing advanced packaging and
+    photomask inspection requirements with new systems alongside its established lithography-optics portfolio,
+    making it a measurable semiconductor inspection capability update rather than a generic corporate overview;
+    cited specifics include ZEISS NLX for non-destructive inspection of internal structures and stacked-die
+    connections in chip packages on 300 millimetre wafers for both process development and high-volume production,
+    ZEISS DUNE for measuring wafer topography and applying individual wafer bow correction so that yield losses in
+    downstream processing are avoided and bonding processes prepared, ZEISS AIMS EUV 3.0 photomask inspection under
+    optical conditions comparable to those in the wafer scanner with support for low-NA and high-NA EUV lithography
+    and a stated tripling of mask throughput already in use at leading chip manufacturers, and ZEISS MeRiT for
+    targeted repair of the smallest photomask defects as a complement to the AIMS EUV qualification step.
+  url: https://metrology.news/zeiss-advances-inspection-and-metrology-for-next-generation-semiconductor-manufacturing/
+- date: "2026-10-16"
+  title: "ETEL launches the METIS HP air-bearing planar platform with 150 nanometre tool-point accuracy for semiconductor scanning"
+  source: "Metrology News / ETEL (HEIDENHAIN)"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports ETEL, part of HEIDENHAIN, introduced the METIS HP full air-bearing planar platform for
+    demanding step-and-scan semiconductor applications including direct laser writing and high-resolution optical
+    inspection systems, making it a quantified positioning-accuracy signal for inspection equipment rather than
+    generic motion-control coverage; cited specifics include a multi-degree-of-freedom HEIDENHAIN encoder that
+    supports projected tool-point measurement without thermal drift, controller emulation of a transistor-to-
+    transistor logic position signal as a trigger event in place of a classical interferometer trigger that would
+    require a mirror on the carriage and be exposed to air lensing and air perturbation, accuracy of plus or minus
+    150 nanometres over the full XY stroke after mapping, dynamic straightness of plus or minus 150 nanometres at
+    speeds up to 1 metre per second, dynamic capability reaching accelerations up to 20 metres per second squared,
+    and a high-bandwidth four-degree-of-freedom module controlling the Z, tip, tilt and theta axes for the rapid
+    focal-distance adjustments required by high-end advanced packaging inspection.
+  url: https://metrology.news/etel-launches-high-precision-metis-hp-platform-for-semiconductor-scanning/
