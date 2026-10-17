@@ -1,0 +1,22 @@
+# Metrology Central
+
+> Metrology Central is an independent site on dimensional metrology, quality systems and AI/machine-vision inspection for manufacturing, with a focus on automotive and aerospace. It hosts the AI Inspection Atlas, a database of sourced real-world AI visual inspection deployments; a directory of US machine vision and metrology integrators; practical articles and curated industry news; and a free weekly newsletter on metrology, AI inspection and quality news, sent every Monday.
+
+## Key pages
+
+- [Home](https://metrologycentral.com/): Articles, news and highlights on metrology, quality and AI inspection.
+- [AI Inspection Atlas](https://metrologycentral.com/atlas/): Sourced case database of real-world AI visual inspection deployments in automotive and aerospace.
+- [Which tool fits my defect?](https://metrologycentral.com/atlas/fit/): Atlas tool for matching inspection defects to AI tools.
+- [Integrators directory](https://metrologycentral.com/integrators/): US machine vision and metrology system integrators serving automotive and aerospace manufacturing.
+- [Resources](https://metrologycentral.com/resources/): Recommended metrology books, measuring tools, training and guides.
+- [Advertise & get listed](https://metrologycentral.com/advertise/): Sponsorships, integrator listings and case study submissions.
+- [Newsletter](https://johns-newsletter-c0dcc2.beehiiv.com/subscribe): Subscribe to the free weekly newsletter, every Monday.
+
+## Optional
+
+- [Audi Neckarsulm: AI quality control of spot welds](https://metrologycentral.com/atlas/audi-neckarsulm-spot-welds/)
+- [BMW Dingolfing: AI press shop crack control](https://metrologycentral.com/atlas/bmw-dingolfing-press-cracks/)
+- [Ford MAIVS with IBM: assembly line defect inspection](https://metrologycentral.com/atlas/ford-maivs-ibm/)
+- [Nissan AUTIS: AI paint inspection](https://metrologycentral.com/atlas/nissan-autis-paint/)
+- [GE Aerospace & Waygate: AI-assisted jet engine borescope inspection](https://metrologycentral.com/atlas/ge-waygate-hpc-borescope/)
+- [Spirit AeroSystems: robotic inspection of large aerospace structures](https://metrologycentral.com/atlas/spirit-robotic-ndi/)
