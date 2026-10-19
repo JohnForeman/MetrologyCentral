@@ -1,4 +1,78 @@
 ---
+- date: "2026-10-16"
+  title: "KNDS and RITEK open a Leopard 2A8 plant in Levanger, Norway, to build 37 of the Norwegian Army's 54 tanks at up to 36 a year"
+  source: "Defence Industry Europe / KNDS / RITEK"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports KNDS and RITEK opened a factory in Levanger, Norway that will build 37 of the
+    Norwegian Army's 54 Leopard 2A8NO main battle tanks, with production scheduled to begin in autumn 2026 at a rate
+    of up to 36 tanks a year, making it a quantified European armoured-vehicle production-capacity signal rather than
+    a generic plant opening; cited specifics include KNDS building 17 of the 54 vehicles under the contract while the
+    remaining 37 come from the new Norwegian line, the first two Leopard 2A8NO tanks handed over on 30 April 2026,
+    production and testing infrastructure completed in 18 months, site test facilities including a laser track, steep
+    slopes and a diving pool for vehicle testing, geothermal sources supplying the plant's energy, RITEK as KNDS's
+    Norwegian partner specialising in servicing and maintaining vehicle systems, the line giving Norway a domestic
+    manufacturing role in its Leopard procurement while expanding KNDS tank production capacity in Europe, KNDS formed
+    from the Nexter and Krauss-Maffei Wegmann combination with more than 11,000 employees serving more than 40 armies,
+    revenue of EUR 3.8 billion in 2024, and an order backlog of EUR 23.5 billion cited in the announcement.
+  url: https://defence-industry.eu/knds-and-ritek-open-new-leopard-2a8-tank-factory-in-norway-to-manufacture-37-main-battle-tanks-for-the-norwegian-army/
+
+- date: "2026-10-16"
+  title: "Cambridge group reports a dry cryostat platform holding 4.2 picometre RMS vibration at 2.3 K for nanoscale and quantum measurement"
+  source: "arXiv (Roth et al.)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 16 October 2026 reports a measurement platform that combines passive and active
+    vibration control on a commercial dry cryostat to reach picometre-level mechanical stability without liquid
+    helium, making it a quantified instrumentation advance for nanoscale dimensional and surface measurement rather
+    than generic cryogenics coverage; cited specifics include vibration levels of 4.2 picometres root mean square at
+    2.3 K over one hour without postselection, measured with a tunable optical microcavity as the sensor, drift-free
+    operation with stability below 8.6 picometres root mean square over 12 hours, a design targeting multi-axis
+    millimetre-scale scanning range with optical, microwave and radiofrequency access plus a vector magnetic field,
+    continuous automated operation for high-throughput applications, and construction from standard machining
+    facilities and commercially available hardware, with stated applications in high-precision surface probe
+    microscopy, quantum technologies, surface science and nanotechnology.
+  url: https://arxiv.org/abs/2610.23407
+
+- date: "2026-10-18"
+  title: "Kratos begins a 183,000 sq ft Indiana radar complex and an arc-jet and laser materials facility backed by USD 35 million of Department of War funding"
+  source: "Defence Industry Europe / Kratos"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Kratos began construction of two Indiana facilities, the Indiana Radar Integration
+    Complex for repair and sustainment of the U.S. Navy's AN/SPY-1 radar and the Helios Arc Jet and Laser Facility for
+    hypersonic thermal-protection testing, making it a quantified defence test and sustainment capacity signal rather
+    than a generic groundbreaking; cited specifics include USD 35 million through the Department of War's Industrial
+    Base Analysis and Sustainment program alongside Kratos cost-sharing, a ceremony at Westgate Academy in Odon on 14
+    October 2026, approximately 183,000 square feet of floor area in the radar complex covering repair, testing,
+    integration and sustainment with the stated aim of reducing sustainment bottlenecks and increasing surge capacity
+    for legacy and next-generation radar systems, a Helios facility combining 20 to 25 megawatts of arc-jet capability
+    with a 200-kilowatt fibre laser, positioning between lower-fidelity screening methods and large-scale government
+    arc-jet installations, additional support to directed-energy work for air and missile defence, counter-drone
+    operations and force protection, and the company describing both complexes as expanding its engineering,
+    integration, testing and manufacturing capacity.
+  url: https://defence-industry.eu/kratos-begins-construction-of-indiana-facilities-for-navy-an-spy-1-radar-sustainment-and-hypersonic-materials-testing/
+
+- date: "2026-10-19"
+  title: "Omron agrees to acquire OnLogic for USD 675 million to add configurable industrial edge computers to its factory automation portfolio"
+  source: "Metrology News / Omron"
+  sector: quality_software
+  kind: industry_news
+  summary: >-
+    Metrology News reports Omron agreed to acquire U.S. industrial computer manufacturer OnLogic and its parent company
+    Interlogic in a USD 675 million transaction, making it a quantified consolidation of the industrial edge computing
+    layer where machine and sensor data is processed before it reaches design, production and quality systems rather
+    than a generic acquisition notice; cited specifics include completion expected in early 2027 subject to regulatory
+    approval, a stated aim of combining Omron's sensing, control, motion, robotics and safety portfolio with OnLogic's
+    configurable industrial computers, processing of larger volumes of machine and sensor data closer to where
+    production takes place for applications requiring real-time response, advanced analytics and AI-based
+    decision-making, and OnLogic's build-to-order model in which customers specify computing platforms for particular
+    operating environments and application requirements.
+  url: https://metrology.news/omron-to-acquire-onlogic-for-675-million-to-advance-industrial-ai/
+
 - date: "2026-09-27"
   title: "GAO says the U.S. Navy's four public shipyard rebuild will exceed USD 200 billion and run beyond 2080"
   source: "Defence Industry Europe / U.S. Government Accountability Office"
