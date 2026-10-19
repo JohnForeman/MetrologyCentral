@@ -790,5 +790,95 @@
   "part_group": "Wingskins / large CFRP parts",
   "vendor_group": "ZAero consortium",
   "context": "R&D project"
+ },
+ {
+  "id": "hyundai-kia-tunnel-exterior-vision",
+  "title": "Hyundai Motor and Kia tunnel-type exterior inspection: AI scans about 5,000 images per vehicle",
+  "company_plant": "Hyundai Motor and Kia (E-FOREST Center, Uiwang R&D; planned for Kia Hwaseong EVO Plant West)",
+  "industry": "automotive",
+  "defect_type": "Exterior scratches and other surface abnormalities on finished vehicles",
+  "part": "Finished vehicle exterior (Kia PV5 shown in demo)",
+  "material": "Painted vehicle body",
+  "vendor": "Hyundai Motor and Kia (in-house, E-FOREST Center Vision Task Force)",
+  "camera_lighting": "Tunnel-shaped camera structure; \"cameras capture about 5,000 ultra-high-resolution images\"",
+  "training_data": "",
+  "reported_result": "\"Each inspection involves capturing and analyzing about 5,000 ultra-high-resolution images to check for scratches and other exterior abnormalities, with the location and size of any defect displayed on screen.\" No detection-rate or accuracy figures given.",
+  "source_url": "https://biz.heraldcorp.com/article/10905415",
+  "source_type": "Trade press",
+  "notes": "Demonstrated at the E-FOREST Tech Day 2026 media day (Oct 16, 2026; article Oct 18, 2026). Optics, inspection algorithms and software developed in-house; Hyundai says \"more than 95 percent\" of its plant vision systems currently rely on external solutions. Herald Business reports a planned rollout to Kia Hwaseong EVO Plant West, so treat it as not yet in production. Hyundai's own release: https://www.hyundai.com/worldwide/en/newsroom/detail/0000001292",
+  "defect_categories": [
+   "Surface scratches/dents"
+  ],
+  "part_group": "Finished vehicle exterior",
+  "vendor_group": "Hyundai Motor and Kia",
+  "context": "R&D project"
+ },
+ {
+  "id": "st-engineering-changi-creek-ai-inspection",
+  "title": "ST Engineering Changi Creek MRO: drone and robotic-arm AI inspection for corrosion, paint defects and dents",
+  "company_plant": "ST Engineering Commercial Aerospace, Changi Creek airframe MRO facility, Singapore",
+  "industry": "aerospace",
+  "defect_type": "Corrosion, paint defects and surface dents",
+  "part": "Airframe upper surfaces (drone) and landing gear (robotic-arm camera)",
+  "material": "",
+  "vendor": "ST Engineering (in-house AI-VET robotic-arm camera; drones)",
+  "camera_lighting": "Drones for general visual inspection of the top of the aircraft; camera mounted on a robotic arm (AI-VET) for landing gear and components",
+  "training_data": "",
+  "reported_result": "Landing-gear camera on a robotic arm is \"reducing inspection time by up to 83 per cent\"; \"Artificial intelligence models help to identify corrosion, paint defects and surface dents.\"",
+  "source_url": "https://www.channelnewsasia.com/singapore/airplane-maintenance-aviation-st-engineering-6445166",
+  "source_type": "Trade press",
+  "notes": "MRO. Facility officially opened Oct 9, 2026 (S$170M, four widebody bays) and is described as a testbed; ST Engineering plans to scale proven tools to other sites. Company release: https://www.stengg.com/en/newsroom/news-releases/st-engineering-supports-mro-demand-new-airframe-facility-singapore/",
+  "defect_categories": [
+   "Paint & coating",
+   "Surface scratches/dents"
+  ],
+  "part_group": "Airframe upper surfaces",
+  "vendor_group": "ST Engineering",
+  "context": "MRO"
+ },
+ {
+  "id": "bmw-shenyang-gen6-battery-welds",
+  "title": "BMW Group starts Gen6 battery production in Shenyang with AI-supported inline inspection of laser welds",
+  "company_plant": "BMW Group, Shenyang high-voltage battery plant, China",
+  "industry": "automotive",
+  "defect_type": "Deviations in laser-welded joints (cell clusters to cell contact system)",
+  "part": "Gen6 high-voltage battery (cylindrical cells, cell-to-pack)",
+  "material": "",
+  "vendor": "BMW Group (in-house)",
+  "camera_lighting": "Inline inspection systems monitoring laser-welded joints in real time",
+  "training_data": "",
+  "reported_result": "Not quantified. BMW: \"Digital twins, data analytics and AI-supported inspection methods help detect deviations at an early stage and ensure traceability. Among other parameters, inline inspection systems monitor laser-welded joints in real time.\"",
+  "source_url": "https://www.press.bmwgroup.com/global/article/detail/T0461769EN/bmw-group-begins-series-production-of-gen6-high-voltage-batteries-in-shenyang?language=en",
+  "source_type": "OEM press release",
+  "notes": "Press release dated Oct 15, 2026 (series production start). Shenyang is the third Gen6 battery site after Debrecen and Irlbach-Strasskirchen. No defect-rate or accuracy figures published; every pack also gets an end-of-line test.",
+  "defect_categories": [
+   "Weld & spatter"
+  ],
+  "part_group": "Gen6 high-voltage battery",
+  "vendor_group": "BMW Group",
+  "context": "Production"
+ },
+ {
+  "id": "safran-loopr-cabin-paint",
+  "title": "Safran uses Loopr AI and synthetic data to inspect painted aircraft cabin parts",
+  "company_plant": "Safran (cabin / lavatory parts); rollout to Marysville, WA and Santa Maria, CA",
+  "industry": "aerospace",
+  "defect_type": "Cosmetic paint defects: scratches, paint discoloration, paint bubbles",
+  "part": "Aircraft lavatory parts (toilet lids/seats) and cabin assemblies",
+  "material": "Painted cabin parts",
+  "vendor": "Loopr AI",
+  "camera_lighting": "Robotic arm photographs parts before and after painting; hybrid mode uses inspector-taken photos from several angles",
+  "training_data": "Synthetic samples generated from existing images to make up for low defect-sample volume; real data used to validate",
+  "reported_result": "Toilet-seat inspection went from \"20 to 30 minutes\" to \"five to 10 minutes\"; \"90.9% recall\"; \"we're able to produce 10% to 15% more than before\"",
+  "source_url": "https://www.businessinsider.com/benefits-of-synthetic-data-ai-training-aviation-manufacturing-2026-9",
+  "source_type": "Trade press",
+  "notes": "Business Insider, Sep 16, 2026. Humans review, confirm or correct the AI's findings. After completed pilots, Safran is introducing the system at its Marysville and Santa Maria facilities.",
+  "defect_categories": [
+   "Paint & coating",
+   "Surface scratches/dents"
+  ],
+  "part_group": "Aircraft lavatory parts",
+  "vendor_group": "Loopr AI",
+  "context": "Production"
  }
 ]
