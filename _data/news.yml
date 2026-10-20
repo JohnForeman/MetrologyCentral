@@ -1,4 +1,87 @@
 ---
+- date: "2026-10-19"
+  title: "U.S. Department of War and BAE Systems sign a framework agreement for up to 25,000 APKWS laser guidance kits a year over seven years"
+  source: "U.S. Department of War / BAE Systems / Defense News"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Department of War announced a multi-year framework agreement with BAE Systems covering up to 25,000
+    Advanced Precision Kill Weapon System laser guidance kits a year for as long as seven years, making it a
+    quantified counter-drone munitions production-capacity signal rather than a funded contract award; cited
+    specifics include kits that convert unguided 2.75-inch rockets into laser-guided munitions and are fielded by
+    the U.S. Air Force, Army, Marine Corps and Navy for air-to-surface, surface-to-surface, surface-to-air and
+    air-to-air engagements, a stated pathway to 35,000 kits a year for allied nations as partner countries formalise
+    requests through Foreign Military Sales letters of request, production at BAE Systems sites in Hudson, New
+    Hampshire and Austin, Texas, a company statement that it delivered its 100,000th kit in February 2026, the
+    Navy's current five-year APKWS contract awarded in August 2025 worth up to USD 1.74 billion covering up to
+    55,000 kits for the Navy, Army and foreign customers with work completing by December 2031, Saudi Arabia
+    cleared by the State Department in July for a possible USD 1.96 billion package including up to 20,000 kits
+    split between air-to-air and air-to-ground variants, Italy weighing a buy of 5,031 kits for counter-drone
+    defence, and the framework conditioned on congressional authorisation and appropriation with no dollar value
+    disclosed while BAE increases production and negotiates a multi-year contract inside the framework.
+  url: "https://www.war.gov/News/Releases/Release/Article/4628487/department-of-war-and-bae-systems-sign-framework-agreement-to-surge-counter-dro/"
+
+- date: "2026-10-19"
+  title: "KRISS redetermines the strontium 461 nm transition at 650.503815(5) THz with about 5 MHz uncertainty, more than 50 times better than the 1938 value"
+  source: "Phys.org / Korea Research Institute of Standards and Science"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    The Korea Research Institute of Standards and Science reports it re-measured the absolute frequency of the
+    strontium 1S0 to 1P1 transition at 461 nm and established a new value of 650.503815(5) THz with an uncertainty
+    of about 5 MHz after a year-long campaign, making it a quantified primary frequency-reference replacement
+    rather than generic quantum-technology coverage; cited specifics include the first redetermination of this
+    transition in 88 years, replacing a 1938 value derived by comparing the solar spectrum with strontium arc light
+    whose uncertainty was too large for setting lasers on modern cold-atom experiments, an improvement of more than
+    50 times in uncertainty, a photonic grating chip developed with KAIST and the National NanoFab Center that sits
+    inside vacuum and diffracts and reflects light in set directions to reduce vibration-induced measurement error
+    compared with aligning multiple external mirrors while generating beams in several directions from one chip,
+    two independent measurement principles whose results agreed within their uncertainties across four datasets,
+    one analysing spatially resolved fluorescence from a thermal atomic beam and the other the velocity
+    distribution of a laser-slowed beam in a two-dimensional grating magneto-optical trap, traceability to the
+    national time and frequency standard behind Korea Standard Time and therefore to the SI second, publication in
+    Metrologia, and stated use as a reference for laser cooling and trapping in strontium optical lattice clocks,
+    quantum sensors and neutral-atom quantum computers.
+  url: "https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html"
+
+- date: "2026-10-19"
+  title: "Saft inaugurates solid-state battery production lines in Bordeaux for sulfide and polymer electrolytes"
+  source: "Saft / TotalEnergies"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Saft, the TotalEnergies battery affiliate, inaugurated new production lines for solid-state batteries at its
+    Bordeaux site and described itself as the first French manufacturer with capacity to develop and produce
+    solid-state cells using both sulfide and polymer electrolytes at room temperature, making it an
+    industrial-capacity milestone for aviation and space cells rather than a laboratory result; cited specifics
+    include a stated energy density up to 50 percent higher than conventional lithium-ion batteries, a dry
+    electrode process the company says cuts CO2 emissions from that production stage by up to 40 percent,
+    semi-solid-state cells already delivered for evaluation of future electric and hybrid aircraft architectures,
+    target applications in aviation and space electrification where safety and energy density carry a premium, and
+    an announcement that discloses no annual cell capacity, line throughput, manufacturing yield or committed
+    customer volume.
+  url: "https://saft.com/en/media-resources/press-release/saft-launches-production-frances-first-solid-state-batteries"
+
+- date: "2026-10-19"
+  title: "GWM and BAI prepare contract assembly of the Ora 5 at the revived Bahovitsa plant in Bulgaria from January 2027"
+  source: "Capital / Bulgarian Automotive Industry"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Capital reports that Bulgarian Automotive Industry, successor to Litex Motors, and Great Wall Motor will
+    restart vehicle assembly at the Bahovitsa plant near Lovech as an independent contract assembler, with serial
+    assembly of the all-electric Ora 5 compact SUV due to begin in January 2027, making it a quantified European
+    vehicle-assembly capacity signal rather than a memorandum of intent; cited specifics include a 500,000 square
+    metre Bahovitsa Industrial Park site whose former Great Wall assembly plant closed in 2016 with production
+    lines and infrastructure preserved, a model in which GWM imports and delivers components while BAI assembles a
+    contracted number of vehicles a year, a stated target above 10,000 units a year from the Ora 5 alone with two
+    plug-in hybrid models expected to follow, an initial rate of 30 vehicles a day against eventual capacity of 90
+    a day, around 150 people to be hired for the initial production phase, retooling of existing lines for
+    electrified vehicles plus investment in final assembly and test equipment covering electrical systems, cameras
+    and lane-keeping and driver-assistance features, end-of-line testing and calibration carried out on site, and
+    a retained core team of engineers and technicians from the previous operation training new hires.
+  url: "https://www.capital.bg/en/business/2026/10/19/4967203_chinese_car_20_a_second_attempt_in_bahovitsa/"
+
 - date: "2026-10-16"
   title: "KNDS and RITEK open a Leopard 2A8 plant in Levanger, Norway, to build 37 of the Norwegian Army's 54 tanks at up to 36 a year"
   source: "Defence Industry Europe / KNDS / RITEK"
