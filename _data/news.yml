@@ -1,4 +1,69 @@
 ---
+- date: "2026-10-21"
+  title: "LK Metrology raises L100NX laser scanner specification to 10 micrometre form error and 15 micrometre dimensional accuracy for CMM inspection"
+  source: "Metrology News / LK Metrology"
+  sector: scientific_metrology
+  kind: vendor_release
+  summary: >-
+    Metrology News reports LK Metrology improved the published specification of its L100NX laser line scanner for CMM
+    applications, making it a quantified accuracy update to an existing LK sensor line rather than a new product
+    announcement; cited specifics include form error reduced from 15 to 10 micrometres, point cloud dispersion reduced
+    from 26 to 16 micrometres, dimensional accuracy uprated from 20 to 15 micrometres, an accuracy improvement of about
+    one third described by laser scanning product manager Kristof Peeters, 450 nm blue laser scanning for reflective and
+    multi-material parts, and use with the company Focus Inspection software for dimensional verification, surface
+    profile measurement, CAD comparison and reporting.
+  url: "https://metrology.news/lk-metrology-upgrades-l100nx-laser-scanner-for-greater-precision/"
+
+- date: "2026-10-21"
+  title: "Northrop Grumman adds more than one million square feet of manufacturing and engineering space across four states as backlog reaches USD 110 billion"
+  source: "Defence Industry Europe / Northrop Grumman"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Northrop Grumman opened or expanded facilities in Arizona, Florida, Maryland and Utah
+    over three months, adding more than one million square feet of manufacturing and engineering space and thousands of
+    jobs, alongside third-quarter sales of USD 11.1 billion, up 7 percent, and a record backlog of USD 110 billion, up 20
+    percent year on year; cited specifics include an existing footprint of more than 30 million square feet, a new Raid
+    Hunter counter-unmanned-aircraft product line aimed at drone swarms and cruise missiles, Aeronautics Systems growth
+    from F-35 volume, the B-21 ramp and B-2 sustainment, Sentinel activity plus higher munitions and missile volumes
+    supporting Defense Systems, completion of the first vertical assembly of a full Sentinel missile ahead of a first
+    launch in 2027, and raised full-year guidance for segment operating income and adjusted earnings per share.
+  url: "https://defence-industry.eu/northrop-grumman-ceo-says-company-expands-production-capacity-and-launches-counter-drone-systems-with-record-110-billion-backlog/"
+
+- date: "2026-10-20"
+  title: "HBK and Discom release TasAlyser TRB inline acoustic test system that separates inner ring, outer ring and roller signals for tapered roller bearings"
+  source: "Metrology News / Hottinger Bruel and Kjaer (Discom)"
+  sector: quality_software
+  kind: hardware_news
+  summary: >-
+    Metrology News reports Discom, part of Hottinger Bruel and Kjaer, released the TasAlyser TRB acoustic testing system
+    for tapered roller bearings, designed for inline use before the bearing is installed in a gearbox or electric drive;
+    cited specifics include rotation-synchronised sampling based on HBK OrbitSync technology that tracks actual bearing
+    rotation and compensates for roller slippage so defect frequencies stay stable instead of spreading across the
+    spectrum, separation of the compensated signal into inner ring, outer ring and roller channels for component-level
+    assignment of damage and surface waviness, Crest Factor and Kurtosis metrics applied to each channel, generation of a
+    bearing surface map from the vibration signal within seconds, and the stated limitation that end-of-line diagnostics
+    have previously correlated a vibration signature with a specific bearing component only in isolated cases, with the
+    system positioned against the rework and housing or shaft damage caused by finding raceway defects after drivetrain
+    assembly.
+  url: "https://metrology.news/hbk-launches-inline-acoustic-testing-system-for-tapered-roller-bearings/"
+
+- date: "2026-10-20"
+  title: "GM to close its 480,000 sq ft Brownstown battery assembly plant as pack and drive-unit work moves to other Detroit-area sites"
+  source: "InsideEVs / General Motors"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    InsideEVs reports General Motors will close the Brownstown Battery Assembly plant in Detroit, a 480,000-square-foot
+    facility opened in 2009 that supplied high-voltage batteries for the Cadillac Celestiq and Chevrolet Corvette E-Ray
+    plus drive units for the electrified Corvette, with the site to be decommissioned by next summer when the lease ends;
+    cited specifics include a GM statement that the work will transition to other nearby GM facilities, headcount down
+    from about 300 at peak to fewer than a dozen after output was reduced on weaker-than-expected demand, affected
+    workers notified earlier this year and offered jobs at other area plants, and context that GM exited its battery
+    joint venture with Samsung SDI and withdrew from a USD 2.5 billion Lansing battery plant with LG Energy Solution
+    while shifting capital toward combustion-engine vehicles.
+  url: "https://insideevs.com/news/812603/gm-brownstown-ev-battery-plant-closure/"
+
 - date: "2026-10-19"
   title: "U.S. Department of War and BAE Systems sign a framework agreement for up to 25,000 APKWS laser guidance kits a year over seven years"
   source: "U.S. Department of War / BAE Systems / Defense News"
