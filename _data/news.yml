@@ -1,4 +1,108 @@
 ---
+- date: "2026-10-22"
+  title: "Rheinmetall opens a Telford gun hall able to produce up to 245 large-calibre barrels and more than 50 breeches a year for Challenger 3 and RCH 155"
+  source: "Defence Industry Europe / Rheinmetall / UK Ministry of Defence"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Rheinmetall opened a factory in Telford that restores British production of
+    large-calibre weapons after a 20-year gap, the UK Ministry of Defence said, making it a quantified restoration
+    of domestic barrel and breech capacity rather than a generic plant opening; cited specifics include an
+    11,500-square-metre Gun Hall producing barrels and breeches for 120 mm and 155 mm systems in support of
+    Challenger 3 tanks, RCH 155 artillery and future platforms, peak capacity of up to 245 barrels across both
+    calibres and more than 50 breeches a year, breech and breech-block production beginning in May 2026 followed by
+    barrels in June 2026, conversion of an empty building into an operating manufacturing facility in eight months
+    including equipment installation and commissioning plus training of British employees and knowledge transfer
+    from Germany, an intention to introduce steel from Sheffield Forgemasters and to develop long-term supply
+    relationships with British small and medium-sized businesses, part of more than GBP 200 million invested across
+    the company's UK operations over five years, a facility the Ministry of Defence said supports 100 highly skilled
+    jobs with 35 people currently on site and more than 100 expected as output develops, and staff trained at
+    Rheinmetall's Unterluss plant in precision manufacturing, quality assurance and specialist weapon production.
+  url: "https://defence-industry.eu/rheinmetall-opens-telford-factory-to-restore-uk-tank-and-artillery-gun-production/"
+
+- date: "2026-10-22"
+  title: "RTX plans to raise Tomahawk, AMRAAM, SM-6 and SM-3 IB output by two to four times under about USD 70 billion of multiyear contracts, reaching full-rate production in 2030"
+  source: "Defence Industry Europe / RTX"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports RTX plans to raise production of four missiles by two to four times under
+    multiyear Pentagon contracts while investing in its factories and suppliers, making it a quantified missile
+    production-rate commitment rather than a single award notice; cited specifics include a combined value of about
+    USD 70 billion across Tomahawk, AMRAAM, SM-6 and SM-3 IB described by chairman and chief executive Chris Calio
+    as giving the Raytheon business almost a decade of demand visibility, roughly USD 23 billion booked for Tomahawk
+    and more than USD 14 billion for AMRAAM in the third quarter after framework agreements were converted into
+    multiyear production contracts, SM-6 and SM-3 IB contracts signed earlier in October and due to appear in
+    fourth-quarter bookings, all four described as binding undefinitized contracts carrying pricing and
+    delivery-schedule terms, a stated execution phase of ordering tooling and test equipment and lining up the
+    supply chain over the next seven to ten years, full-rate production targeted for 2030, no per-missile annual
+    quantities or individual rate increases disclosed, Raytheon output of critical munitions up more than 90 percent
+    so far in 2026, 150 new suppliers brought on in 2025, and parallel work with the Department of Defense to
+    simplify test requirements, ease manufacture, address obsolete parts and qualify additional suppliers.
+  url: "https://defence-industry.eu/rtx-ceo-says-pentagon-contracts-will-drive-major-expansion-in-missile-production/"
+
+- date: "2026-10-22"
+  title: "Stellantis starts Leapmotor B10 production at Figueruelas on one shift, described as the first full Chinese vehicle build in Europe without imported kits"
+  source: "Automotive Manufacturing Solutions / Stellantis / Leapmotor"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive Manufacturing Solutions reports Leapmotor B10 assembly began at the Stellantis Figueruelas plant in
+    Zaragoza, presented by both partners as the first full production of a Chinese vehicle in Europe that does not
+    rely on imported kits, making it a concrete shared-capacity manufacturing signal rather than a model launch
+    notice; cited specifics include one shift on Line 2 while Line 1 continues building Opel, Peugeot and Lancia
+    models, use of the site bodyshop and paintshop with paint included in the process rather than kit assembly, no
+    committed fixed production volume with manufacturing head Oscar Fernandez Puente saying the priority was to
+    provide capacity for the launches rather than set a target in advance, localised content above 40 percent,
+    customer deliveries expected between December and January, batteries assembled at a separate plant about 30
+    minutes from Figueruelas starting from cells and described as separate from the Stellantis-CATL joint venture
+    with no cell production planned there, Leapmotor B05 output at Zaragoza targeted from the first half of 2027, a
+    planned Opel C-SUV under consideration for the site, and the arrangement positioned against the Stellantis
+    FaSTLAne 2030 goal of raising European plant utilisation from around 60 percent to around 80 percent, with
+    Stellantis holding 51 percent of Leapmotor International.
+  url: "https://www.automotivemanufacturingsolutions.com/strategy/stellantis-and-leapmotor-new-partnership-production-and-future/2756239"
+
+- date: "2026-10-22"
+  title: "Vingroup plans a USD 500 million Philippine EV plant with initial capacity of 200,000 vehicles a year"
+  source: "TechNode / Philippines Department of Trade and Industry"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    TechNode reports Vingroup, the Vietnamese group behind VinFast, plans to invest USD 500 million in an electric
+    vehicle manufacturing plant in the Philippines, citing a statement from the country Department of Trade and
+    Industry, making it a quantified Southeast Asian vehicle assembly capacity signal rather than a generic
+    investment announcement; cited specifics include initial capacity of 200,000 vehicles a year for domestic and
+    export markets, construction targeted to begin in the first quarter of 2027 and to take one to one and a half
+    years, an intended base for broader expansion into multiple industries, plans to add electric scooters
+    alongside four-wheeled vehicles, reliance on existing operations in Jakarta and India, incentives available
+    under the CREATE MORE Act and expedited regulatory processing through Green Lanes under Executive Order No. 18,
+    and no disclosed plant site, model line-up, investment phasing or output ramp.
+  url: "https://technode.global/2026/10/22/vietnams-vingroup-plans-500m-ev-plant-in-philippines-targeting-200000-vehicles-annually/"
+
+- date: "2026-10-22"
+  title: "GBS metrology offers configurable optical 3D profilometers with up to 8 million points per scan and introduces smartRevelonix control software"
+  source: "Metrology News / GBS metrology"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports GBS metrology, a supplier of optical 3D sensors based on white light interferometry, also
+    called coherence scanning interferometry, is expanding its portfolio of complete optical 3D profilometers into
+    configurable systems, making it a quantified surface-metrology configuration and control-software update rather
+    than generic product range coverage; cited specifics include optional XY stages with travel from 100 x 100
+    square millimetres to 400 x 400 square millimetres, motorised Z axes with 50, 100 or 200 millimetres of travel
+    and motorised tip/tilt for automated sample alignment, sensors drawn from the smartWLI nimbus, next, firebolt,
+    compact and nanoscan families with either an objective turret or a single objective, selected nimbus
+    configurations capturing up to 8 million measurement points in a single scan while firebolt configurations
+    support camera frame rates up to 2.5 kfps at full resolution, real-time GPGPU evaluation using VSI, EPSI or
+    HD-EPSI+ with a demonstrated smartWLI configuration processing up to 1,920 interferometric images per scan,
+    averaging and outlier suppression reducing system noise by roughly a factor of six to support sub-Angstrom
+    roughness measurement on super-polished surfaces, ICCE signal correction for weakly reflecting surfaces and
+    steep slopes plus AQC correlogram assessment at each measurement point, and new smartRevelonix control software
+    replacing smartVIS3D and its optional modules with an automation editor, reference-mark based positioning
+    correction, autofocus across the motorised Z range, automatic levelling on motorised tip/tilt and a stored
+    program database.
+  url: "https://metrology.news/gbs-metrology-introduces-configurable-optical-3d-profilometer-systems/"
+
 - date: "2026-10-21"
   title: "LK Metrology raises L100NX laser scanner specification to 10 micrometre form error and 15 micrometre dimensional accuracy for CMM inspection"
   source: "Metrology News / LK Metrology"
