@@ -1,4 +1,104 @@
 ---
+- date: "2026-10-23"
+  title: "Pratt and Whitney begins construction of a USD 100 million Rzeszów expansion to make critical rotating engine components from 2028"
+  source: "RTX / Pratt & Whitney"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Pratt and Whitney, an RTX business, reports it began construction of a USD 100 million (PLN 375 million)
+    facility at its Rzeszów site in Poland to increase production capacity and introduce manufacturing of
+    critical rotating engine components, making it a quantified engine-component capacity signal rather than
+    a generic groundbreaking; cited specifics include a 6,500 square metre, 70,000 square foot building
+    scheduled to become operational in 2028 and to create more than 120 jobs, a scope covering commercial and
+    military engine demand including the GTF, F135 and F100, existing Rzeszów work producing the GTF fan drive
+    gear system, F100 static structures and key F135 parts plus PT6, PW200, PW500/600 and PW800 engines, a
+    project that follows a USD 200 million investment announced in February 2026 for a seventh isothermal
+    forging press at the company Columbus Forge facility in Georgia, both capital projects expected to be fully
+    operational by 2028 and to enable a 30 percent increase in output of critical engine parts such as rotating
+    compressors and turbine disks, Poland described as RTX largest investment and employee base outside the
+    United States with more than 9,500 employees across its Collins Aerospace, Pratt and Whitney and Raytheon
+    businesses, and no engine delivery quantities or per-site output rates disclosed.
+  url: "https://www.rtx.com/news/news-center/2026/10/23/rtxs-pratt-whitney-initiates-construction-of-new-100-million-rzeszow-expansion-to-strengthen"
+
+- date: "2026-10-23"
+  title: "Boeing 777 freighter output halted for nearly two months by a dispute with sole supplier Vaero over trailing-edge rib kits, with 767 and KC-46 also disrupted"
+  source: "Reuters via Investing.com / Boeing"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Reuters, via Investing.com, reports a dispute with a small Florida-based supplier halted production of the
+    Boeing 777 freighter for nearly two months and disrupted output of the 767 including freighters and KC-46
+    aerial refuelling tankers, making it a quantified single-source supply-chain failure rather than a general
+    programme update; cited specifics include an August complaint in which Boeing alleged supplier Vaero had
+    stopped delivering a critical wing component it described as an indispensable trailing-edge rib kit for
+    which it was the sole supplier, work stalled at the Everett, Washington wing-production facility that
+    supports both programmes, a stated cost to Boeing of as much as USD 6.5 million a day in the complaint, a
+    settlement reached in late September after which 777 freighter production had not resumed according to
+    three workers familiar with the matter, two partially assembled 777 freighters removed from the final
+    assembly line with one identified through aviation consultancy IBA data as destined for FedEx, some 767
+    parts received since the settlement, Boeing working to bring production of the trailing-edge rib kit
+    in-house, the composite-wing 777X unaffected, and 21 777 freighters delivered so far in 2026 with a handful
+    of aircraft whose wings were assembled before the dispute still deliverable before year-end.
+  url: "https://www.investing.com/news/company-news/boeing-777-freighter-output-halted-for-two-months-over-supplier-row--reuters-4970553"
+
+- date: "2026-10-23"
+  title: "BYD seeks permits to double capacity at its Camaçari plant to 600,000 vehicles a year as stamping, welding and paint facilities near completion"
+  source: "Reuters via Investing.com / BYD"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Reuters, via Investing.com, reports BYD is seeking permits to double annual production capacity at its
+    Brazilian plant in Camaçari, Bahia to 600,000 vehicles as it nears completion of stamping, welding and
+    paint facilities, making it a quantified vehicle-assembly capacity expansion rather than a sales forecast;
+    cited specifics include senior vice president Alexandre Baldy saying the local unit is on track to source
+    more than 50 percent of components locally as it enters 2027 so that it is officially recognised as a local
+    producer, a plan to reach monthly output of 25,000 vehicles by the end of 2026 against demand averaging
+    about 30,000 vehicles a month with roughly 5,000 to 6,000 additional invoiced sales missed, no time frame
+    disclosed for the capacity doubling, investment in the plant already exceeding the planned 5.5 billion reais
+    (USD 1.09 billion), billings for the year reaching 200,000 vehicles, 22,209 registrations in September equal
+    to 8.5 percent market share, orders of 50,000 units each from Mexico and Argentina that the company expects
+    to be able to meet in 2027 once local content rises, and a plant opened on 9 October 2025 at a former Ford
+    complex that employs about 9,000 people against an expected 10,000 by year-end.
+  url: "https://www.investing.com/news/stock-market-news/chinas-byd-plans-to-double-capacity-at-brazilian-plant-4968683"
+
+- date: "2026-10-21"
+  title: "Toyota plans a THB 1.49 billion hydrogen fuel cell Hilux line at Ban Pho in Thailand from December 2027 with capacity of 3,000 vehicles a year"
+  source: "Just Auto / Toyota Motor Thailand / Thailand Board of Investment"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Just Auto reports Toyota Motor plans to begin manufacturing a hydrogen fuel cell Hilux pickup in Thailand
+    in December 2027 with initial output intended for export, making it a quantified fuel cell vehicle
+    production-line conversion rather than a technology demonstration; cited specifics include approval by the
+    Thailand Board of Investment of investment promotion for a Toyota Motor Thailand project worth THB 1.49
+    billion (USD 44.3 million), conversion of an existing Hilux line at the Ban Pho plant in Chachoengsao
+    province with added facilities to assemble hydrogen tanks, fuel cells, battery packs, electric motors and
+    energy control units, hydrogen refuelling stations installed at the factory to support production and
+    testing, an annual capacity of 3,000 vehicles, initial shipments to Europe, Australia and New Zealand,
+    expected use of about THB 640 million of domestic raw materials and components a year covering
+    air-conditioning and cooling systems, seats, wheels and tyres, wiring harnesses and interior parts,
+    technology transfer and knowledge sharing with domestic parts suppliers on production, quality control,
+    safety, environmental management and human-resources management, and 64 years of Thai operations
+    representing more than THB 200 billion invested.
+  url: "https://www.just-auto.com/news/toyota-thai-hydrogen-hilux-production-2027/"
+
+- date: "2026-10-05"
+  title: "Measurement paper fuses CMM contact points with optical scan meshes by non-rigid ICP and cuts free-form inspection error by 93 and 87 percent in two test cases"
+  source: "Measurement (Elsevier)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in Measurement on 5 October 2026 presents a data-fusion method that combines sparse
+    coordinate measuring machine contact points with dense optical 3D scans of free-form parts, making it a
+    quantified multi-sensor inspection technique rather than a general scan-processing review; cited specifics
+    include direct correction of the 3D scan mesh by a tuned non-rigid iterative closest point algorithm
+    without geometric re-modelling so fine local features captured by the scanner are preserved, a parameter
+    selection strategy that decouples global systematic error correction from local surface modification so
+    scan deviations can be corrected without erasing detail, validation on a smooth free-form surface and on a
+    surface with localised damage against an independent validation dataset with root-mean-square error
+    reductions of 93 and 87 percent respectively, and reduced inspection time relative to CMM-only measurement
+    while retaining the density of optical scanning.
+  url: "https://doi.org/10.1016/j.measurement.2026.123267"
 - date: "2026-10-22"
   title: "Rheinmetall opens a Telford gun hall able to produce up to 245 large-calibre barrels and more than 50 breeches a year for Challenger 3 and RCH 155"
   source: "Defence Industry Europe / Rheinmetall / UK Ministry of Defence"
