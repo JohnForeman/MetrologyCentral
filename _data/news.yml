@@ -1,4 +1,70 @@
 ---
+- date: "2026-10-24"
+  title: "Karman signs a seven-year USD 218 million Lockheed Martin agreement to make THAAD interceptor shrouds and expand capacity"
+  source: "Defence Industry Europe / Karman Space & Defense"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Karman Space & Defense signed a seven-year, USD 218 million long-term agreement
+    with Lockheed Martin to manufacture protective shrouds for THAAD interceptors, a quantified lower-tier
+    missile-defence supplier capacity commitment rather than a prime award; cited specifics include signature on
+    29 September 2026, one of three long-term agreements Karman said in its 6 August 2026 earnings call were under
+    negotiation, shrouds that shield interceptor components from aerodynamic and environmental loads and must separate
+    cleanly at a defined point in flight, automated production of lightweight high-strength structures with precision
+    separation mechanisms, chief executive Jon Rambeau citing visibility to invest in personnel, equipment and
+    capacity against rising U.S. and allied demand, and no shroud quantities or delivery rates disclosed.
+  url: "https://defence-industry.eu/lockheed-martin-signs-218-million-agreement-with-karman-to-support-thaad-interceptor-production/"
+
+- date: "2026-10-23"
+  title: "Pirelli and BKT plan up to 800,000 Pirelli-branded premium passenger car tyres a year in India by 2030 at a BKT plant"
+  source: "Just Auto / Pirelli / Balkrishna Industries"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Just Auto reports Pirelli and Balkrishna Industries, BKT, will build up to 800,000 Pirelli-branded premium
+    passenger car tyres a year in India by 2030 at one of BKT newly built plants, a quantified automotive component
+    capacity agreement rather than a brand-licensing notice; cited specifics include production to technology and
+    quality specifications set by Pirelli, both Pirelli- and BKT-branded tyres for Indian and export sale, a possible
+    later 50:50 joint venture for a dedicated high-value passenger car tyre plant, Pirelli holding Indian commercial
+    operations but no local manufacturing, BKT moving from off-highway tyres into two-wheeler, passenger car and
+    commercial vehicle segments, and Pirelli citing Indian car registrations growing 5 to 7 percent a year to 2030
+    with the premium tyre market projected to expand almost fivefold.
+  url: "https://www.just-auto.com/news/pirelli-bkt-car-tyres-india/"
+
+- date: "2026-10-23"
+  title: "Metrology-grade quantum Hall devices measured for low-frequency excess noise with 1 x 10-5 sensitivity to quantization status"
+  source: "EPJ Quantum Technology"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in EPJ Quantum Technology on 23 October 2026 reports low-frequency excess voltage noise
+    measurements on metrology-grade quantum Hall effect devices, a quantified diagnostic for primary resistance
+    standards rather than generic quantum-device coverage; cited specifics include noise spectroscopy from 100
+    millihertz to tens of hertz on gallium arsenide and epitaxial graphene devices in a cryogen-free dilution
+    refrigerator using a two-channel cross-correlation spectrum analyzer, flicker-noise-dominated spectra outside the
+    quantized regime that are strongly suppressed once the dissipationless state is established, cross-correlation
+    between separate voltage terminals testing models of 1/f noise origin in graphene, and a demonstrated 1 x 10-5
+    relative-deviation sensitivity for assessing quantization status, aimed at quantum Hall array resistance standards
+    where individual element longitudinal resistance cannot be measured directly.
+  url: "https://doi.org/10.1140/epjqt/s40507-026-00581-0"
+
+- date: "2026-10-22"
+  title: "Mercom finds only 8 percent of India 86 GWh operational battery storage manufacturing capacity is cell production"
+  source: "Mercom India Research"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Mercom India Research published its Energy Storage Manufacturing Ecosystem Report, finding operational battery
+    storage manufacturing capacity is 92 percent downstream with cell manufacturing at 8 percent, a quantified measure
+    of domestic cell capacity rather than a single project announcement; cited specifics include a 110 GWh identified
+    cell manufacturing pipeline as of 30 September 2026 covering projects under construction and announced, only 21.6
+    percent of combined operational and pipeline capacity actually operational, existing manufacturers holding 47
+    percent against 53 percent for new entrants, Gujarat holding 51 percent of capacity under construction ahead of
+    Maharashtra at 20 percent, INR 181 billion of Production Linked Incentive support for 50 GWh of advanced chemistry
+    cell capacity plus 5 GWh of niche technologies with 6.4 GWh operational and 28.6 GWh building, and a 20 percent
+    local-content rule under Viability Gap Funding that downstream components can satisfy without domestic cells.
+  url: "https://www.mercomindia.com/indias-downstream-battery-storage-manufacturing-capacity-reaches-86-gwh"
+
 - date: "2026-10-23"
   title: "Pratt and Whitney begins construction of a USD 100 million Rzeszów expansion to make critical rotating engine components from 2028"
   source: "RTX / Pratt & Whitney"
