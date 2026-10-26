@@ -1,4 +1,102 @@
 ---
+- date: "2026-10-26"
+  title: "Renishaw reports record first-quarter revenue of GBP 251.8 million, up 47 percent, as encoder demand from semiconductor equipment makers accelerates"
+  source: "Metrology News / Renishaw"
+  sector: quality_software
+  kind: industry_news
+  summary: >-
+    Metrology News reports Renishaw reported record quarterly revenue of GBP 251.8 million (USD 334.9 million) for the
+    three months ended 30 September 2026, up 47 percent on the same period a year earlier, making it a quantified demand
+    signal for dimensional measurement technology rather than a generic earnings notice; cited specifics include revenue
+    3 percent higher than the final quarter of FY2026 and 48 percent higher at constant exchange rates, growth across all
+    three business segments and all three geographic regions, Position Measurement revenue of GBP 96.0 million against
+    GBP 52.1 million a year earlier, up 84 percent at reported rates and 85 percent at constant rates and 17 percent above
+    the preceding quarter, driven primarily by open optical and laser encoders for semiconductor manufacturing equipment,
+    Industrial Metrology revenue of GBP 130.8 million against GBP 102.0 million, up 28 percent, on growing demand for
+    five-axis coordinate measuring machines, shop-floor gauging systems and metrology sensors sold to machine tool and
+    measuring machine builders, Specialised Technologies revenue of GBP 25.0 million against GBP 16.7 million, up 50
+    percent, led by metal additive manufacturing systems for aerospace, defence and medical customers, a further increase
+    in the order book with investment in additional manufacturing capacity, growing interest in encoders for harsh
+    operating environments including automation, robotics and space, unchanged full-year guidance for FY2027, and
+    confirmation that the proposed divestment of the neurological business remains in progress.
+  url: "https://metrology.news/renishaw-reports-record-first-quarter-revenue-as-semiconductor-demand-accelerates/"
+
+- date: "2026-10-26"
+  title: "REDEX offers a two-stage metal strip flatness measurement system with stated 98 and 99.5 percent accuracy plus integrated leveller control"
+  source: "Metrology News / REDEX USA"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports REDEX USA announced its Unflatness Measurement System PRO for flatness measurement and control
+    in metal strip processing, combining high-tension and low-tension measurement rolls with an integrated controller,
+    making it a quantified in-process flatness measurement signal rather than generic rolled-metal coverage; cited
+    specifics include a UMSi seamless roll in the S-Block zone measuring strip flatness under high tension at
+    approximately 98 percent stated accuracy, a UMS-LT roll at the line exit performing a second measurement under low
+    tension at up to 99.5 percent stated accuracy, dynamic switching between the two measurement rolls to monitor the full
+    tension spectrum, an integrated REDEX controller that applies corrective action immediately downstream of the leveller
+    instead of relying on downstream inspection alone, adaptive target regulation, a Waterfall diagram displaying flatness
+    along the entire coil length for assessment of process consistency, and a stated reduction of up to 75 metres of
+    unregulated material by activating before the strip enters the high-tension zone.
+  url: "https://metrology.news/redex-advances-metal-strip-flatness-measurement-and-control/"
+
+- date: "2026-10-23"
+  title: "Saab plans to raise GlobalEye deliveries from two to six aircraft a year and offers Canada a second conversion centre"
+  source: "Defence Industry Europe / Saab"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Saab plans to increase GlobalEye airborne early warning deliveries from two to six
+    aircraft a year and is offering Canada a second conversion centre to support the higher rate, making it a quantified
+    surveillance-aircraft production-rate signal rather than generic order coverage; cited specifics include seven
+    GlobalEye aircraft under contract comprising three for Sweden, two for France and two for an undisclosed Middle
+    Eastern customer confirmed as a new buyer, a SEK 10.1 billion GlobalEye order booked in the third quarter, total
+    order bookings of SEK 65.8 billion against SEK 20.9 billion a year earlier including SEK 24.6 billion for Gripen E
+    aircraft for Ukraine and SEK 8.7 billion for systems for the new German frigates, a second conversion centre that
+    would also create capacity for other prospective customers, reported interest of one aircraft for the Netherlands and
+    10 for NATO alongside other Nordic countries and Poland, and no timetable disclosed for reaching six aircraft a year.
+  url: "https://defence-industry.eu/saab-plans-to-triple-globaleye-deliveries-and-offers-canada-a-second-conversion-center/"
+
+- date: "2026-10-22"
+  title: "EDGE puts an automated 40x53mm grenade line into full-rate production at up to 1.5 million rounds a year with manual labour down nearly 60 percent"
+  source: "Defence Industry Europe / EDGE Group (LAHAB)"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports an automated line producing 40x53mm grenade ammunition at the EDGE Group LAHAB
+    business entered full-rate production with capacity for up to 1.5 million rounds a year, making it a quantified
+    munitions manufacturing-automation signal rather than generic capacity coverage; cited specifics include a stated
+    reduction of nearly 60 percent in manual labour requirements, a line running since the end of 2025 that takes in
+    sub-components and outputs finished belted rounds without manual intervention across three modules for cartridge case
+    assembly and filling, projectile filling and assembly, and final assembly and belting, production data from all three
+    modules feeding a live dashboard that shows throughput, module performance and production status so deviations are
+    corrected while the line is still running, more than 68 Industry 4.0 projects completed at 28 production facilities
+    in 2025 with capacity doubled at 13 entities, automation of DESERT STING 16 guided-glide weapon assembly at HALCON
+    raising production volume by 130 percent and cutting labour content by 23 percent using 11 industrial robots, more
+    than 300 sensors and six machine vision stations plus automated material handling and inspection, and automated
+    storage and retrieval at CARACAL raising storage density by around 80 percent.
+  url: "https://defence-industry.eu/edges-40mm-ammunition-line-reaches-full-rate-production-with-capacity-for-1-5-million-rounds-a-year/"
+
+- date: "2026-10-22"
+  title: "Canada and Ontario add CAD 2.5 billion over two years for automotive capital projects and freeze light-duty emissions standards to model year 2029"
+  source: "Just Auto / Government of Canada / Government of Ontario"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Just Auto reports Canada and Ontario will provide an additional CAD 2.5 billion (USD 1.78 billion) over two years for
+    automotive capital projects, making it a quantified public funding signal for North American vehicle assembly and
+    equipment capacity rather than generic industrial policy coverage; cited specifics include CAD 1.5 billion from the
+    federal government and CAD 1 billion from Ontario within a wider CAD 8.7 billion programme for sectors affected by
+    United States tariffs, resources aimed at upgrading equipment and assembly lines to manufacture electric and
+    connected vehicles, a joint Canada-Ontario Automotive Task Force to coordinate interventions and guide industrial
+    transition, light-duty vehicle greenhouse gas emissions standards frozen at 2026 levels through model year 2029 with
+    annual increases resuming in model year 2030, alignment with a 2035 electric vehicle goal in the Auto Strategy
+    published in February 2026, CAD 3 billion through a Strategic Response Fund and up to CAD 100 million through a
+    Regional Tariff Response Initiative, a CAD 5.22 billion five-year Joint Steel Action Fund comprising CAD 3.55 billion
+    federal and CAD 1.67 billion provincial, up to CAD 2 billion for road infrastructure serving the Ring of Fire critical
+    minerals region, and an automotive sector employing more than 120,000 people directly and contributing more than
+    CAD 16 billion a year to national gross domestic product.
+  url: "https://www.just-auto.com/news/canada-ontario-c2-5bn-automotive-manufacturing/"
+
 - date: "2026-10-24"
   title: "Karman signs a seven-year USD 218 million Lockheed Martin agreement to make THAAD interceptor shrouds and expand capacity"
   source: "Defence Industry Europe / Karman Space & Defense"
