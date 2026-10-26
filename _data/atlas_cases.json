@@ -880,5 +880,95 @@
   "part_group": "Aircraft lavatory parts",
   "vendor_group": "Loopr AI",
   "context": "Production"
+ },
+ {
+  "id": "pw-aiir-borescope-ai",
+  "title": "Pratt & Whitney scales Aiir Innovations AI-assisted engine borescope inspection across its MRO network",
+  "company_plant": "Pratt & Whitney (RTX) MRO network incl. GTF MRO network shops; used by lessors and MROs on V2500 engines",
+  "industry": "aerospace",
+  "defect_type": "Engine defects recognized and recorded from borescope video (AI-assisted defect recognition)",
+  "part": "Aircraft engine parts inspected by borescope (V2500; pilots on GTF and F135)",
+  "material": "",
+  "vendor": "Aiir Innovations (acquired by Pratt & Whitney, July 2026)",
+  "camera_lighting": "Borescope video",
+  "training_data": "",
+  "reported_result": "\"lessors have recorded instances of up to 75% faster analysis of borescope videos, while for MROs, the software has reduced overall inspection time by more than 30%, including a reduction in report-generation time from hours to minutes\"",
+  "source_url": "https://aviationweek.com/mro/emerging-technologies/fast-5-pratt-whitney-why-it-acquired-aiir-innovations",
+  "source_type": "Trade press (interview)",
+  "notes": "Aviation Week, Oct 22, 2026 (interview with Rob Griffiths, SVP commercial engines operations, Pratt & Whitney). MRO use. P&W says the software has \"significantly reduced inspection times on V2500 engines\" and had \"recently completed pilots on GTF and F135 engines\"; it is \"rolling out the tool across Pratt & Whitney and utilizing it in the GTF MRO network shops\" and will keep offering it to other MROs, lessors and operators. AI is used \"to augment expert judgment\".",
+  "defect_categories": [
+   "Engine blade damage"
+  ],
+  "part_group": "Aircraft engine parts inspected by borescope",
+  "vendor_group": "Aiir Innovations",
+  "context": "MRO"
+ },
+ {
+  "id": "tecnalia-autis-paint-inspection-masks",
+  "title": "TECNALIA and AUTIS use AI segmentation to auto-generate paint-inspection masks for car-body vision systems",
+  "company_plant": "AUTIS (industrial monitoring and automation systems) with TECNALIA; validated on images from six vehicle manufacturers, eight plants",
+  "industry": "automotive",
+  "defect_type": "Paint surface defects (AI generates the inspection masks that define paint-inspection zones)",
+  "part": "Painted vehicle bodies (car bodywork)",
+  "material": "Painted car body",
+  "vendor": "AUTIS with TECNALIA",
+  "camera_lighting": "Images captured by existing automated paint-inspection vision systems",
+  "training_data": "\"more than 650 images from six manufacturers, twenty vehicle models, eight plants and thirteen different production lines\"",
+  "reported_result": "\"automatic mask generation via computer vision and Artificial Intelligence is technically feasible and reduces the effort required to set up new inspection systems\"",
+  "source_url": "https://www.tecnalia.com/en/news/computer-vision-and-ai-to-accelerate-automated-inspection",
+  "source_type": "Research organisation news release",
+  "notes": "TECNALIA, Oct 8, 2026. Research project, not yet in production: targets the commissioning step where inspection masks are \"set manually for each vehicle model and for each installation\". The work also \"highlighted the importance of having standardised labelling criteria\" to improve model generalisation. No detection-rate or time-saving figures published.",
+  "defect_categories": [
+   "Paint & coating",
+   "Surface scratches/dents"
+  ],
+  "part_group": "Painted vehicle bodies",
+  "vendor_group": "AUTIS with TECNALIA",
+  "context": "R&D project"
+ },
+ {
+  "id": "hyundai-pune-ai-panel-crack-detection",
+  "title": "Hyundai's Pune plant uses AI with infrared sensors and camera vision to catch cracks in stamped body panels",
+  "company_plant": "Hyundai Motor India, Pune plant (Maharashtra, India; former GM Talegaon), press shop",
+  "industry": "automotive",
+  "defect_type": "Fine cracks and surface defects on stamped panels",
+  "part": "Stamped steel body panels (5,400-ton press line, all-new Hyundai VENUE)",
+  "material": "Steel sheet",
+  "vendor": "Hyundai Motor Company (system supplier not disclosed)",
+  "camera_lighting": "Infrared (IR) sensors together with camera vision inspection",
+  "training_data": "",
+  "reported_result": "\"an AI-based panel crack detection system shares that work. Using infrared (IR) sensors together with camera vision inspection, it automatically catches even fine cracks and surface defects\"",
+  "source_url": "https://www.hyundaimotorgroup.com/en/story/hyundai-motor-company-india-pune-smart-factory",
+  "source_type": "OEM publication",
+  "notes": "Hyundai Motor Group Journal, Oct 23, 2026; plant inaugurated Oct 14, 2026. Previously \"workers searching for cracks on panel surfaces by eye and by hand\". Each panel gets a QR code for traceability (Korea Herald, Oct 15, 2026). No AI accuracy figures published; the plant's separate 3D-scan/CMM body audit is not part of this case.",
+  "defect_categories": [
+   "Cracks",
+   "Surface scratches/dents"
+  ],
+  "part_group": "Stamped steel body panels",
+  "vendor_group": "Hyundai Motor Company",
+  "context": "Production"
+ },
+ {
+  "id": "nissan-resende-ai-camera-robots",
+  "title": "Nissan Resende uses camera robots for automated body inspection and AI checks of wheel and tire configuration",
+  "company_plant": "Nissan Industrial Complex, Resende (Rio de Janeiro, Brazil); Kicks and Kait production; solutions also adopted at Nissan plants in Mexico and the US",
+  "industry": "automotive",
+  "defect_type": "Bodywork defects; wheels and tires that do not match the vehicle's factory configuration (wrong part)",
+  "part": "Vehicle body (carroceria); installed wheels and tires",
+  "material": "",
+  "vendor": "Nissan (in-house; developed partly by Nissan Brazil teams)",
+  "camera_lighting": "Robots equipped with cameras",
+  "training_data": "",
+  "reported_result": "No inspection metrics published. Nissan says the plant has 30 AI initiatives, \"dos quais 20 já estão em operação\" (20 already in operation), including \"robôs equipados com câmeras capazes de realizar inspeções automatizadas da carroceria\" and tools that verify wheels and tires match \"a configuração correta de fábrica\".",
+  "source_url": "https://brazil.nissannews.com/pt-BR/releases/nissan-amplia-uso-de-inteligencia-artificial-e-ja-soma-30-projetos-em-seu-complexo-industrial-de-resende",
+  "source_type": "OEM press release",
+  "notes": "Nissan Brazil press release (Portuguese), Oct 15, 2026. Some of the solutions were developed by Nissan's Brazilian teams and are also used in Nissan factories in Mexico and the United States. The release does not say which specific tools are in operation vs. still being implemented.",
+  "defect_categories": [
+   "Assembly / missing part"
+  ],
+  "part_group": "Vehicle body",
+  "vendor_group": "Nissan",
+  "context": "Production"
  }
 ]
