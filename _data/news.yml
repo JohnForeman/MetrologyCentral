@@ -1,5 +1,141 @@
 ---
 - date: "2026-10-26"
+  title: "U.S. Air Force awards Lockheed Martin USD 694 million to move the AGM-183A ARRW hypersonic missile into production"
+  source: "U.S. Air Force / Secretary of the Air Force Public Affairs"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The U.S. Air Force reports the Department of the Air Force awarded Lockheed Martin a USD 694 million contract
+    for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, moving the boost-glide
+    hypersonic missile from prototyping and flight testing into production, making it a quantified transition of a
+    hypersonic weapon programme into manufactured inventory rather than a test milestone; cited specifics include a
+    contract awarded on 29 September 2026 under the Department of War Enterprise-Wide Agile Acquisition Contract
+    that was not announced until 26 October 2026, a stated range of 1,000 miles with a solid-fuel rocket booster
+    accelerating the weapon above Mach 5 before releasing a glide body, B-52 Stratofortress carriage with related
+    work by the 23rd Expeditionary Bomb Squadron at Minot Air Force Base and the 49th Test and Evaluation Squadron
+    at Barksdale Air Force Base, USD 452 million for ARRW production in the fiscal 2027 budget request against
+    USD 362 million allotted for production in the fiscal 2026 budget, and quantities ordered and delivery dates
+    withheld by the service on operational security grounds.
+  url: "https://www.af.mil/News/Article-Display/Article/4633841/daf-awards-arrw-production-contract-establishes-new-hypersonic-capabilities/"
+
+- date: "2026-10-26"
+  title: "Thales opens a 100-metre towed array sonar production hall in Western Sydney for Hunter-class frigates, Collins submarines and uncrewed systems"
+  source: "Defence Industry Europe / Thales Australia / Minister for Defence Industry"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Thales Australia opened a sonar manufacturing and sustainment facility at its
+    Rydalmere site in Western Sydney, jointly funded by Thales Australia and the Commonwealth of Australia and
+    opened by Minister for Defence Industry Pat Conroy, making it a quantified addition of sovereign
+    undersea-acoustic manufacturing capacity rather than a capability statement; cited specifics include a
+    100-metre production hall built within the existing Thales Australia Acoustics Centre of Excellence and sized
+    for end-to-end manufacture, integration and sustainment of towed array sonar systems, output covering towed
+    arrays for the Hunter-class frigate programme, the Collins-class submarine sonar system built on more than 35
+    years of Thales Australia, Royal Australian Navy and defence science collaboration, and thin-line fibre-optic
+    towed arrays for uncrewed maritime platforms including the BlueSentry autonomous surveillance capability, local
+    sustainment intended to reduce offshore maintenance periods and return deployment time to intelligence,
+    surveillance and reconnaissance tasking, dozens of direct engineering and advanced manufacturing jobs expected
+    over coming years alongside supply-chain roles, and the Commonwealth contribution, annual production capacity
+    and first-array delivery timetable undisclosed.
+  url: "https://defence-industry.eu/thales-opens-sydney-sonar-facility-for-hunter-class-frigates-submarines-and-uncrewed-systems/"
+
+- date: "2026-10-26"
+  title: "Svolt begins mass production of 100 kWh semi-solid fast-charging battery packs in Changzhou with 900-volt 6C charging"
+  source: "CnEVPost / Svolt Energy"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    CnEVPost reports Svolt Energy announced that the first batch of mass-produced 100 kWh Dragon Armor semi-solid
+    fast-charging battery packs left its production line in Changzhou, Jiangsu province, making it a quantified
+    move of semi-solid cells from sample to series pack production rather than a chemistry announcement; cited
+    specifics include a 900-volt architecture supporting 6C charging that the company states adds 500 km of range
+    in 12 minutes, separator transfer-printing applied to the semi-solid cells for intrinsic safety, liquid cooling
+    on both the top and bottom of the pack, six layers of underbody armour described as providing impact resistance
+    three times the level required by the Chinese national standard, customer nominations already secured with the
+    vehicle programmes to be identified later, and no disclosed pack output volume, cell supplier, pack mass or
+    per-kilowatt-hour cost.
+  url: "https://cnevpost.com/2026/10/26/svolt-begins-mass-production-100-kwh-semi-solid-packs/"
+
+- date: "2026-10-26"
+  title: "Robotic adaptive-lighting metrology measures blind holes to 0.0322 mm mean 3D position error against a CMM reference"
+  source: "Frontiers in Artificial Intelligence"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in Frontiers in Artificial Intelligence reports a robotic vision system combining AI
+    segmentation, adaptive illumination and error-compensated robot calibration to locate and measure blind holes
+    without contact, making it a quantified non-contact alternative to tactile probing inside cavities rather than
+    generic machine-vision coverage; cited specifics include validation on 30 CNC-machined blind holes in an
+    approximately 100 by 80 by 50 mm acrylic block at diameters of 5 to 15 mm, depths of 10 to 45 mm and realised
+    depth-to-diameter ratios of 2.0 to 3.1 across three surface finishes of roughly 20, 50 and 80 percent
+    reflectance, a mean 3D position error of 0.0322 mm with a 95 percent bootstrap interval of 0.028 to 0.037 mm, a
+    position root-mean-square error of 0.0344 mm and a worst case of 0.0645 mm, a mean absolute diameter error of
+    0.0544 mm with 0.0217 mm repeatability standard deviation, 100 percent detection across the full depth range,
+    illumination automatically reduced from about 149 percent on low-reflectance surfaces to about 110 percent at
+    medium and 77 percent at high reflectance, a roughly 50 percent rise in mean position error from 0.028 to
+    0.041 mm at approach angles of 15 degrees or more, every hole referenced to a coordinate measuring machine
+    under ISO 10360, and the authors framing the result as a proof of concept on acrylic rather than industrial
+    certification.
+  url: "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1983856/full"
+
+- date: "2026-10-25"
+  title: "Audi selects Georgia for its first U.S. assembly plant, a USD 4 billion site designed for up to 200,000 vehicles a year"
+  source: "Audi AG / Office of the Governor of Georgia"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Audi reports it will establish its first U.S. production site at the Middle Georgia Megasite in Peach County,
+    Georgia, investing around USD 4 billion and creating approximately 4,500 jobs, making it a quantified North
+    American vehicle-assembly capacity commitment rather than a market-entry statement; cited specifics include a
+    plant designed for annual capacity of up to 200,000 vehicles and focused on premium SUVs tailored to North
+    American customers, Audi stating construction from 2027 with production starting in the early 2030s while the
+    Georgia governor's office described grading in 2027, construction on the facility in 2028 and full production in
+    2031 at 200,000 units, positioning of North America as a third core production pillar alongside existing
+    European and Chinese manufacturing, a site developed and marketed by the Development Authority of Peach County
+    with the Mid-Georgia Gateway Joint Development Authority covering Houston, Macon-Bibb and Peach counties, land
+    described as allowing future expansion, and no disclosed model line-up beyond premium SUVs, supplier
+    localisation target or breakdown of the investment.
+  url: "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"
+
+- date: "2026-10-22"
+  title: "L3Harris builds a 110-acre Camden campus intended to raise large solid rocket motor capacity sixfold for Sentinel Stage 3 and post-boost propulsion"
+  source: "L3Harris Technologies"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    L3Harris reports it is constructing the Arkansas Advanced Propulsion Facilities at its Camden, Arkansas site,
+    a campus expected to increase large solid rocket motor manufacturing capacity sixfold and to be operational by
+    the end of 2027, making it a quantified expansion of the U.S. large-motor industrial base rather than a
+    programme update; cited specifics include more than 20 buildings across 110 acres incorporating robotic
+    precision manufacturing, automated quality inspections and digital process controls, support for the LGM-35A
+    Sentinel Stage 3 solid rocket motor and post-boost propulsion system that L3Harris supplies as part of Northrop
+    Grumman's Sentinel industry team alongside several other solid rocket motor programmes, a Stage 3 motor that
+    completed a hot-fire test in early 2024 and structural load tests earlier in 2026 ahead of flight testing, a
+    post-boost propulsion system that completed a hot-fire test in 2025 with expanded workspace support, and no
+    disclosed capital cost for the campus or Stage 3 production rate.
+  url: "https://www.l3harris.com/newsroom/editorial/2026/10/investing-deterrence-l3harris-expands-support-sentinel-program"
+
+- date: "2026-10-05"
+  title: "Hexagon PC-DMIS 2026.2 adds Specialised Geometries gear modules, 92 percent faster STL point-cloud import and ISO 10360-4 sphere scan paths"
+  source: "Hexagon Manufacturing Intelligence"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Hexagon Manufacturing Intelligence published the PC-DMIS 2026.2 release notes, making it a quantified
+    capability update to the CMM measurement software rather than a generic version notice; cited specifics include
+    a new PC-DMIS Specialised Geometries extended application providing a common workflow for gears, blades and
+    impellers with Cylindrical Gear and Unknown Gear as the first two modules, STL point-cloud import up to 92
+    percent faster with two-sided shading from AS1, HP-L 10.10 and ATS600 intensity data plus a per-scan-patch
+    colour display for overlap identification, AI edge detection with guide-based model training and a Capture
+    Training Data command that limits image collection to features that need it, a rebuilt Quick Fixture workflow
+    with fixture hardware modelled inside the measurement routine and an on-screen move and rotate gizmo, a Sphere
+    Scan strategy offering latitudinal, latitudinal spiral, longitudinal and ISO 10360-4 style path patterns, STEP
+    support for QIF-based digital thread workflows, Senmation probe changer support for tactile probes without
+    recalibration after a probe change, improved handling of star-tip probe configurations, and maximum inscribed
+    and minimum circumscribed values for extracted cylinders.
+  url: "https://documentation-be.hexagon.com/bundle/pcdmis_2026.2_release_notes_pdf/raw/resource/enus/pcdmis_2026.2_release_notes_pdf.pdf"
+
+- date: "2026-10-26"
   title: "Renishaw reports record first-quarter revenue of GBP 251.8 million, up 47 percent, as encoder demand from semiconductor equipment makers accelerates"
   source: "Metrology News / Renishaw"
   sector: quality_software
@@ -5821,18 +5957,6 @@
     up 29%, and the company completed the approximately USD 1.8 billion CAM acquisition
     for precision fasteners, fluid fittings, and other aerospace and defense components.
   url: https://www.howmet.com/press-release/2026-05-07/howmet-aerospace-reports-first-quarter-2026-results/
-- date: '2026-05-06'
-  title: Hexagon launches PC-DMIS 2026.1 with FUSION analytics, one-click reporting,
-    and ASME/Creo/Teamcenter updates
-  source: Hexagon
-  sector: quality_software
-  kind: vendor_release
-  summary: Hexagon published PC-DMIS 2026.1, adding PC-DMIS FUSION for inspection-program
-    analytics, one-click reporting workflows, and enhanced metrology support for ASME,
-    Creo, and Teamcenter environments; the release is relevant for CMM teams standardizing
-    reporting, CAD interoperability, and production-quality data review across existing
-    PC-DMIS deployments.
-  url: https://hexagon.com/products/product-groups/measurement-inspection-software/metrology-software/pc-dmis/pc-dmis-2026-1
 - date: '2026-05-06'
   title: AirAsia orders 150 Airbus A220-300 aircraft, pushing A220 above 1,000 firm
     orders
