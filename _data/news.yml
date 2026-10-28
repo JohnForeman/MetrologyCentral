@@ -1,4 +1,108 @@
 ---
+- date: "2026-10-28"
+  title: "Hexagon adds Leica ATS800 tracker support and a unified point cloud architecture in the first 2026 update to its Inspire inspection software"
+  source: "Metrology News / Hexagon Manufacturing Intelligence"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrology News reports Hexagon's Portable Metrology Division introduced an update to Inspire, its inspection
+    software for portable probing and 3D scanning, described as the product's first 2026 release, making it a
+    quantified capability update to a portable metrology software line rather than a generic version notice; cited
+    specifics include a unified point cloud architecture that preserves the raw scan data so edits can be toggled,
+    reordered or removed and the original measurement recovered, large point cloud files opening up to 50 percent
+    faster and stored in up to 50 percent less space with memory management intended to keep interaction responsive
+    on the largest datasets, support for the Leica Absolute Tracker ATS800 enabling targetless measurement at
+    distances up to 40 metres with ATS800 Region, Line and Feature scans plus circle and slot selection for Measure
+    Perimeters integrated into a single scan workflow, a simplified overview camera process replacing multiple legacy
+    scan profiles with one profile, a Remeasure Out of Tolerance action that re-measures failed features with
+    configurable retry passes before the sequence continues, and streamlined perimeter construction, vector comparison
+    display and cloud-from-mesh creation.
+  url: "https://metrology.news/hexagon-rearchitects-inspire-software-for-easier-faster-3d-scanning/"
+
+- date: "2026-10-27"
+  title: "Lockheed Martin breaks ground on a 47,000 sq ft ARRW expansion at Troy, Alabama that triples production space"
+  source: "Defence Industry Europe / Lockheed Martin"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Lockheed Martin broke ground on an expansion of Building P-20 at its Troy,
+    Alabama facility to produce AGM-183A ARRW hypersonic missiles for the U.S. Air Force B-52, making it a
+    quantified hypersonic production-capacity commitment rather than a programme update; cited specifics include
+    USD 67 million committed by the company to the manufacturing expansion and equipment before receiving government
+    funding, a 47,000 square foot addition that triples the facility's production space, planned use of advanced
+    manufacturing, robotics and digital technologies on the ARRW line, jobs created over the next four years with the
+    company not disclosing the number, the expansion following a USD 694 million ARRW production contract, and
+    positioning within the company's planned USD 8 billion to USD 9 billion munitions investment programme.
+  url: "https://defence-industry.eu/lockheed-martin-expands-alabama-plant-to-produce-hypersonic-missiles-for-b-52-bombers/"
+
+- date: "2026-10-27"
+  title: "Nammo plans a fourth solid rocket motor line at Raufoss backed by approximately EUR 50 million of EU and Norwegian funding"
+  source: "Defence Industry Europe / Nammo"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Nammo plans to establish a fourth solid rocket motor production line at its
+    Raufoss site in Norway with approximately EUR 50 million of public funding, making it a quantified European
+    rocket-motor capacity expansion rather than a corporate update; cited specifics include EUR 25 million awarded by
+    the European Commission to the ROCMAN project through the European Defence Industry Programme's Industry Ramp-up
+    Acceleration initiative with the Norwegian government matching that contribution, participation by Nammo Raufoss,
+    Diehl, an unnamed Irish company, ARCEON, Magnaghi and Fast Forward Architects, ROCMAN's selection as one of eight
+    strategic projects following a competitive process, improvements to site security and access to raw materials and
+    components plus additional storage capacity in Germany intended to handle demand surges, intended output and
+    shortened lead times for motors used in missile systems and artillery ammunition, and no disclosed completion
+    date, production target or total project cost.
+  url: "https://defence-industry.eu/nammo-to-expand-rocket-motor-production-with-e50-million-in-eu-and-norwegian-support/"
+
+- date: "2026-10-27"
+  title: "3D.aero HP-FX moves white light interferometry defect measurement to the shop floor with 12 systems operating and up to 90 percent of replica inspections replaced"
+  source: "Metrology News / 3D.aero"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports 3D.aero's HP-FX system combines white light interferometry, collaborative robotics and
+    inspection software to measure surface defects on engine components directly on the shop floor, replacing
+    replica-based laboratory evaluation in aviation maintenance, making it a quantified shift of micron-level surface
+    metrology to the point of use rather than generic MRO technology coverage; cited specifics include micron-level
+    lateral accuracy with sub-micron vertical resolution, high-resolution 3D surface capture in less than a second,
+    assessment of up to 90 percent of the defects that previously required replica measurements in many applications,
+    twelve systems operating worldwide including six across MTU Aero Engines sites, measurement of highly reflective
+    and dark surfaces plus hard-to-reach areas of complex engine components, and a stated reduction in laboratory
+    workload for routine defect disposition.
+  url: "https://metrology.news/hp-fx-brings-high-precision-surface-inspection-directly-to-the-shop-floor/"
+
+- date: "2026-10-27"
+  title: "BMW Group passes one million driverless in-plant vehicle moves at around 3,500 moves a day as the system reaches four plants"
+  source: "Automotive World / BMW Group"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports BMW Group has moved one million new vehicles through its plants without drivers using
+    its Automated Driving In-Plant system, now operating at Mini's Oxford plant as the fourth site, making it a
+    quantified production-logistics automation scale signal rather than a technology pilot notice; cited specifics
+    include around 3,500 driverless moves a day across the network, more than 53,000 moves logged at Oxford in the
+    past year, pilot deployment at Dingolfing in 2022 and extension to Leipzig and Regensburg, Spartanburg due to
+    follow in 2027, LiDAR sensors along each route tracking the surroundings, Oxford as the first plant to link the
+    vehicles directly to existing control systems, and a Level 4 driving system supplied by Embotech, in which BMW i
+    Ventures took a stake in December 2024.
+  url: "https://www.automotiveworld.com/news/bmw-group-moves-one-million-cars-without-drivers-in-plants/"
+
+- date: "2026-10-27"
+  title: "ZSW Powder-Up cathode pilot line runs at full operation in Ulm with 135 connected systems and 100 kg batches"
+  source: "Automotive World / Centre for Solar Energy and Hydrogen Research Baden-Wuerttemberg"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports the Powder-Up pilot line for battery cathode materials at the Centre for Solar Energy and
+    Hydrogen Research Baden-Wuerttemberg in Ulm is now fully running, scaling laboratory samples up to 100 kilogram
+    batches, making it a quantified European materials scale-up capacity signal rather than generic battery research
+    coverage; cited specifics include more than 135 connected systems handling synthesis, analysis and quality checks
+    with process data feeding AI tools, early runs taking samples from a few grams to about 15 kilograms, furnaces
+    mimicking industrial heat treatment at 600 to 1,000 degrees Celsius, work on nickel-manganese-cobalt, lithium iron
+    phosphate and sodium-ion materials, around EUR 10 million from Baden-Wuerttemberg for the building and about
+    EUR 24 million of federal funding for equipment, commissioning in March 2025, and a stated role as the first
+    independent plant of its type in Germany open to companies and researchers for joint projects.
+  url: "https://www.automotiveworld.com/news/zsw-cathode-pilot-line-enters-full-operation-in-ulm/"
+
 - date: "2026-10-26"
   title: "U.S. Air Force awards Lockheed Martin USD 694 million to move the AGM-183A ARRW hypersonic missile into production"
   source: "U.S. Air Force / Secretary of the Air Force Public Affairs"
