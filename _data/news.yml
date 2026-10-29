@@ -1,4 +1,101 @@
 ---
+- date: "2026-10-29"
+  title: "K3Metrology secures a GBP 2 million Innovate UK project award to develop the Metralis laser coordinate measurement platform"
+  source: "Metrology News / K3Metrology"
+  sector: scientific_metrology
+  kind: industry_news
+  summary: >-
+    Metrology News reports that K3Metrology, a UK company based at the Advanced Manufacturing Research Centre Cymru
+    in North Wales, secured a GBP 2 million Innovate UK project award to accelerate development of Metralis, its
+    laser-based coordinate measurement platform for fast and traceable 3D measurement of large or complex components
+    in aerospace, defence and other high-value manufacturing, making it a quantified funding step for a new
+    CMM-class measurement platform rather than a product launch; cited specifics include funding awarded through
+    Innovate UK Investor Partnerships with eligibility for 45 percent grant funding, a prior GBP 2.75 million seed
+    round announced in April 2026 backed by the Development Bank of Wales, Parkwalk and the UK Innovation and Science
+    Seed Fund, founders chief executive Mike Campbell and chief technology officer Ben Hughes having developed the
+    underlying technology over more than a decade at the National Physical Laboratory, and a previously reported
+    customer timing study with a major manufacturing partner indicating a 60 percent efficiency improvement, with no
+    shipped product specification, accuracy claim, price or deployment date disclosed.
+  url: "https://metrology.news/k3metrology-secures-further-funding-for-next-generation-coordinate-measurement/"
+
+- date: "2026-10-28"
+  title: "U.S. DOE publishes a national battery strategy targeting an integrated domestic supply chain by 2030 and launches the PNNL-led BattMan manufacturing consortium"
+  source: "U.S. Department of Energy / Office of Critical Minerals and Energy Innovation"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    The U.S. Department of Energy Office of Critical Minerals and Energy Innovation published a national battery
+    strategy setting objectives to build a fully integrated domestic value chain by 2030 and to reach technology and
+    manufacturing leadership by 2035, and launched the Battery Manufacturing Accelerator, BattMan, a consortium of
+    national laboratories, industry partners and academic institutions led by Pacific Northwest National Laboratory,
+    making it a quantified federal manufacturing framework rather than a single grant notice; cited specifics include
+    a projected rise in U.S. battery demand from 179 gigawatt-hours in 2025 to 707 gigawatt-hours in 2035, a stated
+    dependency in which China controls 60 to 100 percent of global production capacity across several midstream and
+    cell sub-component stages, six strategy pillars covering upstream and midstream investment, pilot and
+    demonstration funding to close the gap between laboratory research and commercial manufacturing, manufacturing
+    process innovation including advanced computing tools for quality control and digital twins intended to raise
+    factory yields, grid-deployment priorities, allied coordination and workforce training, and a BattMan remit
+    covering manufacturing cost reduction, scale-up of new chemistries and shortened commercialisation timelines,
+    with no funding amounts for the strategy or the consortium disclosed.
+  url: "https://www.energy.gov/cmei/articles/does-office-critical-minerals-and-energy-innovation-unveils-new-strategy-and"
+
+- date: "2026-10-28"
+  title: "GM prepares Lansing Delta Township for hybrid versions of the Traverse, Enclave and Acadia within more than USD 2 billion of regional spending"
+  source: "Automotive World / General Motors"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports General Motors will prepare its Lansing Delta Township plant in Michigan to build hybrid
+    versions of the Chevrolet Traverse, Buick Enclave and GMC Acadia, citing people familiar with the matter, within
+    more than USD 2 billion of spending across the wider Lansing region, making it a quantified powertrain and
+    capacity reallocation at an operating three-row SUV plant rather than a model announcement; cited specifics
+    include a previously announced USD 1.25 billion for the nearby Lansing Grand River plant inside that total, a
+    Department of Energy restructuring of a USD 500 million Domestic Manufacturing Conversion Grant awarded in 2024
+    to convert Grand River for battery-electric production and never released so that it funds hybrids at Delta
+    Township instead, a site open for 20 years that built a record 291,000 three-row SUVs in 2025, a GM U.S. market
+    share of 16.6 percent in the first nine months against 17.4 percent a year earlier, dealer pressure for hybrid
+    availability where the company's only hybrids have been Corvette variants, and no formally announced models,
+    volumes or timing despite the company confirming it will prepare the plant for hybrid production.
+  url: "https://www.automotiveworld.com/news/gm-turns-to-hybrid-suvs-after-years-of-betting-on-evs/"
+
+- date: "2026-10-28"
+  title: "Poland is selected to host Europe's PAC-3 maintenance centre, the only one outside the United States, in a project valued at about PLN 1 billion"
+  source: "Euronews / U.S. Department of Defense / Polish Ministry of National Defence"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Euronews reports the United States selected Poland to host a European maintenance, repair and overhaul centre for
+    PAC-3 missiles used in Patriot air defence systems, the only such facility outside the United States, in a project
+    valued at about PLN 1 billion (EUR 227 million), making it a quantified addition of allied missile sustainment
+    capacity rather than an order announcement; cited specifics include a decision taken by U.S. authorities after
+    Poland competed with Germany, the Netherlands and Norway on a scored application, Polish deputy defence minister
+    Magdalena Sobkowiak-Czarnecka announcing the award and stating the Polish bid received the highest score at the
+    application stage, further negotiations still required with Lockheed Martin and a stated lead time of at least
+    several months before the centre can operate, German, Dutch and Swedish participation in integrating supply-chain
+    elements according to the Pentagon, linkage to defence-industrial cooperation commitments made at the July 2026
+    NATO summit in Ankara, a scope limited to servicing and repair rather than PAC-3 production, and no site, capacity
+    or construction timetable disclosed.
+  url: "https://www.euronews.com/2026/10/28/poland-chosen-to-host-227m-patriot-missile-maintenance-centre"
+
+- date: "2026-10-28"
+  title: "U.S. Air Force plans a USD 1.057 billion F-47 test campus at Nellis with a February 2027 award and completion targeted for March 2031"
+  source: "Defence Industry Europe / Air and Space Forces Magazine / U.S. Air Force"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe, citing Air and Space Forces Magazine, reports the U.S. Air Force plans a USD 1.057
+    billion campus at Nellis Air Force Base in Nevada to support testing of the Boeing F-47 fighter, making it a
+    quantified test-infrastructure commitment tied to a production aircraft programme rather than a budget line
+    alone; cited specifics include an October 22 presolicitation notice seeking up to four qualified design-and-build
+    firms with an initial award scheduled for February 2027, roughly nine months of design and preconstruction
+    followed by about 40 months of construction with completion targeted for early March 2031, a nearly 117,000
+    square foot flightline operations and maintenance building primarily on the base east side, a specialised
+    systems-reprogramming laboratory, an aircraft apron with sunshades and a simulator facility of almost 41,000
+    square feet, potential subsequent work including hangars for fuel-system maintenance, stealth-coating corrosion
+    control, weapons-load training and maintenance training, and a fiscal 2027 budget request of USD 730 million for
+    F-47 hangars and support infrastructure that identified Nellis as the location for operational testing.
+  url: "https://defence-industry.eu/u-s-air-force-plans-1-billion-campus-at-nellis-to-test-f-47-sixth-generation-fighter/"
+
 - date: "2026-10-28"
   title: "Hexagon adds Leica ATS800 tracker support and a unified point cloud architecture in the first 2026 update to its Inspire inspection software"
   source: "Metrology News / Hexagon Manufacturing Intelligence"
