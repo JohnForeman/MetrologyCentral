@@ -1,4 +1,126 @@
 ---
+- date: "2026-10-30"
+  title: "Li Auto reports 200,000 cumulative units of its i6 electric SUV as November output capacity is planned at 20,000 and 2026 model deliveries begin"
+  source: "CnEVPost / Li Auto"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    CnEVPost reports Li Auto's product line head Li Xinyang said cumulative production of the i6, a five-seat
+    battery-electric SUV, reached 200,000 units on 30 October 2026, about 13 months after the model went on sale,
+    as deliveries of the 2026 model began across China on 29 October, making it a quantified production-ramp
+    signal for a single electric model rather than a sales release; cited specifics include a production plan
+    raising i6 capacity to 20,000 units in November with a further increase in December, current order wait
+    times of seven to eight weeks with vehicles prepared in advance so orders placed now can be delivered
+    before the end of the year, an unchanged starting price for the 2026 model with the in-house Mach M100
+    driver-assistance chip fitted as standard and battery capacity raised to 96 kWh, and the milestone
+    following a decline in monthly i6 deliveries, with no annual output target, plant allocation or per-unit
+    cost disclosed.
+  url: "https://cnevpost.com/2026/10/30/li-auto-i6-production-200000/"
+
+- date: "2026-10-29"
+  title: "Honeywell Aerospace plans a USD 500 million, 300,000 square foot machining plant in Tempe, Arizona for late 2028"
+  source: "Defence Industry Europe / Honeywell Aerospace"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports Honeywell Aerospace plans to build a USD 500 million factory in Tempe,
+    Arizona, to expand production and bring more complex machining in-house, making it a quantified capital
+    commitment to a constrained stage of an aerospace supply chain rather than a general capacity statement;
+    cited specifics include a 300,000 square foot facility scheduled to open in late 2028 on the company's
+    existing Tempe campus near its headquarters, approximately 600 jobs created over time with construction
+    supporting more than 1,000 local jobs, a production system combining modular robotics, automated inspection
+    and digital twins, an explicit aim of reducing reliance on constrained external suppliers of machined
+    parts, support for existing programmes and USD 15 billion of new Control Systems programme wins plus
+    products including Assure advanced actuation systems and Attune vapour-cycle cooling subsystems, and the
+    investment framed by president and chief executive Jim Currier as enabled by the business becoming an
+    independent publicly traded company, with no machine count, output rate or part family breakdown
+    disclosed.
+  url: "https://defence-industry.eu/honeywell-aerospace-says-it-will-invest-500-million-in-a-new-production-facility-in-arizona/"
+
+- date: "2026-10-29"
+  title: "Hexagon releases PC-DMIS 2026.2 with Specialised Geometries gear modules, AI edge detection and an AutoSphere scan strategy"
+  source: "ManufacturingTomorrow / Hexagon Manufacturing Intelligence"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    ManufacturingTomorrow reproduces Hexagon Manufacturing Intelligence's announcement that it released
+    PC-DMIS 2026.2 on 29 October 2026, introducing PC-DMIS Specialised Geometries as a separately licensed
+    application for complex geometry, making it a quantified capability update to the CMM measurement software
+    rather than a generic version notice; cited specifics include Cylindrical Gear and Unknown Gear as the
+    first two Specialised Geometries modules with blade and impeller modules planned for later releases, AI
+    Edge Detection for edges conventional detection methods cannot capture, a QuickFixture workflow that models
+    fixture hardware directly inside the measurement routine with on-screen controls and automatic positioning,
+    an AutoSphere scan strategy that scans spheres rather than relying on touch probing where spherical form
+    accuracy is critical, expanded STEP support for QIF-based digital thread workflows, PC-DMIS Protect controls
+    for regulated environments, enhanced Teamcenter integration for auditable links between CAD data and CMM
+    inspection, and SENMATION sensor interface support enabling automatic probe changes during measurement
+    programmes, with the release notes additionally listing STL point-cloud import up to 92 percent faster and
+    ISO 10360-4 style sphere scan path patterns, availability from 29 October 2026, a live update webinar on
+    18 November 2026, and no pricing disclosed for the modules.
+  url: "https://www.manufacturingtomorrow.com/news/2026/10/29/hexagons-pc-dmis-20262-brings-complex-geometry-inspection-into-one-workflow-/28504"
+
+- date: "2026-10-29"
+  title: "Verisurf 2027 adds native CAD-to-QIF export with persistent identifiers and automatic inspection plan generation from QIF"
+  source: "Geartechnology / Verisurf Software"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Geartechnology reports Verisurf Software announced the availability of Verisurf 2027, its model-based
+    metrology software release, making it a quantified digital-thread and standards-conformance update rather
+    than a generic version notice; cited specifics include a native CAD-to-QIF workflow that imports supported
+    native models containing semantic Product and Manufacturing Information and exports QIF files retaining
+    geometry, engineering-defined inspection characteristics and their associated Persistent Identifiers,
+    automatic generation of an inspection plan from an imported QIF file covering features, dimensions, GD&T,
+    datums, tolerances and reporting relationships, preservation of the original Persistent Identifiers through
+    planning, measurement, reporting and QIF Results export so each result stays linked to the engineering
+    characteristic evaluated, a built-in QIF Results Viewer that removes the need for third-party utilities,
+    automatic evaluation and reporting of Rule No. 1 compliance for circles and cylinders under ASME Y14.5, a
+    Feature-to-Surface Construct Analysis that reuses existing measurement data for additional evaluations
+    without remeasuring the part, STEP AP242 support for exchanging models with machine-readable dimensions and
+    tolerances, and a device-independent platform covering portable measuring arms, laser trackers, scanners and
+    coordinate measuring machines from different brands, with no pricing or platform-requirement specifics
+    disclosed.
+  url: "https://www.geartechnology.com/verisurf-2027-is-now-available"
+
+- date: "2026-10-29"
+  title: "NIST offers dual-ridge horn antenna gain calibrations at about plus or minus 0.07 dB across 1 to 18 GHz using a dual-robot positioning system"
+  source: "NIST Communications Technology Laboratory"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    The NIST Communications Technology Laboratory announced Low-Uncertainty Broadband Antenna Gain
+    Calibrations, calibration service SKU 63102S available through shop.nist.gov, which calibrates dual-ridge
+    horn antennas across 1 to 18 GHz with a typical gain uncertainty of about plus or minus 0.07 dB, making it
+    a quantified reduction of a measurement uncertainty in a calibration service rather than a research
+    announcement; cited specifics include multipath reflections from the measurement chamber previously raising
+    dual-ridge horn gain uncertainty to as much as 1 to 2 dB against the plus or minus 0.07 dB of NIST-calibrated
+    standard gain horn antennas, a single dual-ridge horn covering the 1 to 18 GHz band where the three-antenna
+    gain extrapolation method using standard gain horns requires a set of 20 reference antennas, a dual-robot
+    Large Antenna Positioning System in the Robotically Enhanced Antenna Laboratory for Metrology that moves
+    antenna pairs through kinematically calibrated poses while keeping both antennas aligned along a linear
+    gain-extrapolation path, deliberate stirring of chamber echoes so they average out, work by Josh Gordon and
+    Benjamin Moser in the RF Technology Division, and publication of the foundational technique alongside the
+    service launch.
+  url: "https://www.nist.gov/news-events/news/2026/10/nist-ctl-announces-new-low-uncertainty-broadband-antenna-gain-calibrations"
+
+- date: "2026-10-28"
+  title: "Hyundai commits nearly USD 450 million at its Montgomery, Alabama plant for hybrid and EREV engine output and the refreshed Santa Fe and all-new Tucson"
+  source: "Office of the Governor of Alabama / Hyundai Motor Manufacturing Alabama"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    The Office of the Governor of Alabama reports Hyundai Motor Manufacturing Alabama announced it will invest
+    nearly USD 450 million to expand production at its Montgomery plant, making it a quantified powertrain and
+    model-changeover commitment at an operating assembly plant rather than a product announcement; cited
+    specifics include a capital investment of USD 412,885,541 and 53 new full-time positions at an average
+    hourly wage of USD 30.03, equal to USD 62,467 annually, expansion of engine production to support hybrid and
+    extended-range electric vehicle technologies, preparation of the plant for the refreshed Santa Fe and the
+    all-new Tucson including hybrid variants, cumulative investment at the site reaching nearly USD 2.2 billion
+    since vehicle production began in 2005, a current workforce of about 4,200 team members with HMMA and its
+    suppliers cited at more than USD 5 billion of annual economic impact, and the package sitting inside Hyundai
+    Motor Group's USD 26 billion United States investment plan through 2028, with engine displacements and
+    outputs, Tucson hybrid timing and the Santa Fe EREV launch date left undisclosed.
+  url: "https://governor.alabama.gov/newsroom/2026/10/governor-ivey-joins-hyundai-to-celebrate-major-investment-in-alabama-manufacturing/"
 - date: "2026-10-29"
   title: "K3Metrology secures a GBP 2 million Innovate UK project award to develop the Metralis laser coordinate measurement platform"
   source: "Metrology News / K3Metrology"
@@ -315,26 +437,6 @@
     post-boost propulsion system that completed a hot-fire test in 2025 with expanded workspace support, and no
     disclosed capital cost for the campus or Stage 3 production rate.
   url: "https://www.l3harris.com/newsroom/editorial/2026/10/investing-deterrence-l3harris-expands-support-sentinel-program"
-
-- date: "2026-10-05"
-  title: "Hexagon PC-DMIS 2026.2 adds Specialised Geometries gear modules, 92 percent faster STL point-cloud import and ISO 10360-4 sphere scan paths"
-  source: "Hexagon Manufacturing Intelligence"
-  sector: quality_software
-  kind: vendor_release
-  summary: >-
-    Hexagon Manufacturing Intelligence published the PC-DMIS 2026.2 release notes, making it a quantified
-    capability update to the CMM measurement software rather than a generic version notice; cited specifics include
-    a new PC-DMIS Specialised Geometries extended application providing a common workflow for gears, blades and
-    impellers with Cylindrical Gear and Unknown Gear as the first two modules, STL point-cloud import up to 92
-    percent faster with two-sided shading from AS1, HP-L 10.10 and ATS600 intensity data plus a per-scan-patch
-    colour display for overlap identification, AI edge detection with guide-based model training and a Capture
-    Training Data command that limits image collection to features that need it, a rebuilt Quick Fixture workflow
-    with fixture hardware modelled inside the measurement routine and an on-screen move and rotate gizmo, a Sphere
-    Scan strategy offering latitudinal, latitudinal spiral, longitudinal and ISO 10360-4 style path patterns, STEP
-    support for QIF-based digital thread workflows, Senmation probe changer support for tactile probes without
-    recalibration after a probe change, improved handling of star-tip probe configurations, and maximum inscribed
-    and minimum circumscribed values for extracted cylinders.
-  url: "https://documentation-be.hexagon.com/bundle/pcdmis_2026.2_release_notes_pdf/raw/resource/enus/pcdmis_2026.2_release_notes_pdf.pdf"
 
 - date: "2026-10-26"
   title: "Renishaw reports record first-quarter revenue of GBP 251.8 million, up 47 percent, as encoder demand from semiconductor equipment makers accelerates"
