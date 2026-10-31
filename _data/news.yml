@@ -1,5 +1,82 @@
 ---
 - date: "2026-10-30"
+  title: "CATL and Antam begin cell production at the 6.9 GWh Karawang plant in West Java"
+  source: "Jakarta Globe / ANTARA / Indonesia Ministry of Energy and Mineral Resources"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Jakarta Globe and ANTARA report Indonesia's coordinating minister for downstreaming and energy transition,
+    Bahlil Lahadalia, said the CATL-Antam plant in Karawang, West Java has begun producing electric vehicle cells
+    and will be inaugurated by President Prabowo Subianto shortly; cited specifics include an initial 6.9 GWh of
+    annual capacity that Indonesia Battery Corporation says is planned to rise to at least 15 GWh, an energy
+    ministry project value of about USD 1.2 billion, operation since July 2026 on trial output, Karawang as the
+    third operating electric vehicle battery plant in Indonesia after the Hyundai-LG Energy Solution site and a
+    Chinese-backed Halmahera plant, and no production volume or inauguration date disclosed.
+  url: "https://jakartaglobe.id/business/catlantam-ev-battery-plant-in-west-java-begins-production-ahead-of-inauguration"
+
+- date: "2026-10-30"
+  title: "Group14 commits a 10 GWh silicon-carbon anode module to Sagunt, Spain after a EUR 150 million capital increase"
+  source: "electrive / Group14 Technologies"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    electrive reports Group14 Technologies, a Woodinville, Washington silicon-carbon anode developer, completed a
+    EUR 150 million capital increase from an unnamed investor and committed to place its next industrial-scale
+    SCC55 module at Sagunt, Spain at an initial 10 GWh; cited specifics include a stated rise in short-term total
+    capacity to 40 GWh, an operating pilot line at Woodinville since 2021 and a 10 GWh plant at Sangju, Korea, two
+    10 GWh facilities planned at Moses Lake, Washington for 2027, siting beside the PowerCo cell factory under
+    construction at Sagunt, Porsche as investor and cooperation partner, and no total investment, commissioning
+    date or offtake agreement disclosed.
+  url: "https://www.electrive.com/2026/10/30/group14-to-build-battery-material-factory-in-sagunt/"
+
+- date: "2026-10-30"
+  title: "Ford restarts Oakville with Super Duty output at about 100,000 trucks a year after a retool reported near CAD 5 billion"
+  source: "GM Authority / Automotive News / Ford Motor Company"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    GM Authority, citing Automotive News, reports Ford began building Super Duty pickups at Oakville Assembly
+    Complex in Ontario with the first trucks past the okay-to-buy gate and moving to dealers; cited specifics
+    include more than two years without vehicle output at Ford's only Canadian assembly plant after Edge production
+    ended in spring 2024 and a three-row electric crossover plan was dropped, retooling and related work reported
+    at close to CAD 5 billion, capacity for about 100,000 pickups a year on a single shift, more than 2,000 workers
+    back on site, a ramp chief executive Jim Farley said on the 28 October earnings call exceeded planned daily
+    volume and jobs-per-hour rates, and no date for full capacity disclosed.
+  url: "https://gmauthority.com/blog/2026/10/gm-rival-ford-starts-super-duty-pickup-production-in-canada/"
+
+- date: "2026-10-30"
+  title: "De Havilland Canada secures up to USD 2.5 billion of Canadian and EDC financing to double DHC-515 output from 2030"
+  source: "De Havilland Aircraft of Canada / Government of Canada / Export Development Canada"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    De Havilland Canada reports it agreed with the Government of Canada and Export Development Canada on up to
+    USD 2.5 billion of financing that lets the company double Canadair 515 waterbomber production; cited specifics
+    include additional aircraft slots from 2030 ramping to twice current aircraft production capacity, investment
+    and hiring across sites in Victoria, Calgary, Toronto, Kitchener and Fort Erie with supply-chain jobs from
+    Newfoundland to British Columbia, anticipated closing in the first quarter of 2027, a reported order book of
+    38 aircraft with slots committed through 2034 against aircraft in production for six European countries, a
+    separate CAD 400 million Alberta order for five aircraft with the first due in spring 2031, and no per-site
+    allocation or incremental output figure disclosed.
+  url: "https://dehavilland.com/production/de-havilland-canada-announces-agreement-and-de-havilland-canadair-515-production-increase/"
+
+- date: "2026-10-29"
+  title: "PTB reports the TeleYAG-II interferometer holding 0.13 mm expanded uncertainty over a 224 m outdoor baseline"
+  source: "arXiv (Pollinger et al.) / Physikalisch-Technische Bundesanstalt"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 29 October 2026 by Physikalisch-Technische Bundesanstalt researchers reports
+    the TeleYAG-II interferometer, built as an SI-traceable standard for calibrating geodetic baselines, reaching
+    an expanded measurement uncertainty of 0.13 mm over 224 m outdoors; cited specifics include two Nd:YAG lasers
+    with their frequency difference held by an optical phase-locked loop to synthesise consecutively deployable
+    synthetic wavelengths, macroscopic non-ambiguity range combined with interferometric resolution, no auxiliary
+    length measurement required, field robustness validated in an outdoor campaign, positioning in a PTB line
+    intended to disseminate the metre over baselines up to 5,000 m below 1 mm, and open data release through the
+    PTB repository.
+  url: "https://arxiv.org/abs/2610.40038"
+
+- date: "2026-10-30"
   title: "Li Auto reports 200,000 cumulative units of its i6 electric SUV as November output capacity is planned at 20,000 and 2026 model deliveries begin"
   source: "CnEVPost / Li Auto"
   sector: ev_manufacturing
@@ -7986,25 +8063,6 @@
     influence of surface condition on the result, and operator warnings when a surface is too poorly prepared to
     measure reliably or when an indentation is out of round beyond the limit set by ASTM E10.
   url: https://metrology.news/foundrax-puts-automated-brinell-measurement-in-a-handheld-microscope/
-
-- date: "2026-10-06"
-  title: "Verisurf announces availability of Verisurf 2027 with QIF creation from native CAD models and automatic inspection plans from QIF"
-  source: "Metrology News / Verisurf Software"
-  sector: quality_software
-  kind: vendor_release
-  summary: >-
-    Metrology News reports Verisurf Software announced the availability of Verisurf 2027, the latest release of its
-    model-based metrology software, making it a measurable inspection-workflow software release rather than a
-    generic product announcement; cited specifics include import of supported native CAD files containing semantic
-    Product and Manufacturing Information followed by export of QIF files that preserve the PMI, the
-    engineering-defined inspection characteristics and their associated Persistent Identifiers, automatic
-    generation of inspection plans directly from supported engineering information in an imported QIF file
-    including features, dimensions, geometric dimensioning and tolerancing, datums, tolerances and reporting
-    relationships, preservation of Persistent Identifiers through inspection planning, measurement, reporting and
-    QIF Results export so each measured result stays connected to the engineering characteristic being evaluated,
-    support for STEP AP242, and a device-independent platform covering portable measuring arms, laser trackers,
-    scanners and coordinate measuring machines from different brands.
-  url: https://metrology.news/verisurf-2027-accelerates-model-based-inspection-from-shop-floor-to-the-enterprise/
 
 - date: "2026-10-05"
   title: "Boeing receives a seven-year undefinitized contract worth about USD 14.7 billion to triple PAC-3 MSE seeker output"
