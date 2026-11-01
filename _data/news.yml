@@ -1,5 +1,28 @@
 ---
 - date: "2026-10-30"
+  title: "Hanwha Defense USA wins a USD 269 million U.S. Navy contract to build the first Medium Landing Ship at Hanwha Philly Shipyard"
+  source: "Hanwha Defense USA / TOTE Services / USNI News"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Hanwha Defense USA reports TOTE Services selected it to build one Medium Landing Ship for the U.S. Navy and
+    Marine Corps at Hanwha Philly Shipyard in Philadelphia, the company's first U.S. Navy shipbuilding contract,
+    making it a quantified addition of naval surface-ship production capacity at a commercially owned yard rather
+    than a general industrial-base statement; cited specifics include a USD 269 million award covering one vessel
+    with options for three additional ships, construction starting in the fourth quarter of 2027 with the first
+    vessel expected in 2030, selection through TOTE Services' vessel construction manager contract worth about
+    USD 2.2 billion that supports a planned 35-ship LSM fleet with up to eight ships under the base contract,
+    Bollinger Shipyards already under contract for the first LSM and Fincantieri Marinette Marine holding earlier
+    long-lead work for four ships, an LSM of about 100 metres length, 16 metres beam and 2,687 tons light
+    displacement for distributed operations in contested littoral waters including the Indo-Pacific, the first
+    Navy vessel to be built in Philadelphia since the former Philadelphia Naval Shipyard closed in 1995, Hanwha's
+    December 2024 acquisition of the yard plus workforce and technology investment there since, the yard's earlier
+    delivery of four National Security Multi-Mission Vessels under the same construction-manager model, and a
+    pending Hanwha move to acquire a controlling stake in the shipyard, with no production rate, per-ship pricing
+    breakdown or delivery schedule for the optional vessels disclosed.
+  url: "https://hanwhadefenseusa.com/news-articles/hdusa-selected-by-tote-services-for-lsm-construction-contract-in-philadelphia"
+
+- date: "2026-10-30"
   title: "CATL and Antam begin cell production at the 6.9 GWh Karawang plant in West Java"
   source: "Jakarta Globe / ANTARA / Indonesia Ministry of Energy and Mineral Resources"
   sector: ev_manufacturing
