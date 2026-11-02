@@ -686,5 +686,53 @@
     "source_url": "https://brazil.nissannews.com/pt-BR/releases/nissan-amplia-uso-de-inteligencia-artificial-e-ja-soma-30-projetos-em-seu-complexo-industrial-de-resende",
     "source_type": "OEM press release",
     "notes": "Nissan Brazil press release (Portuguese), Oct 15, 2026. Some of the solutions were developed by Nissan's Brazilian teams and are also used in Nissan factories in Mexico and the United States. The release does not say which specific tools are in operation vs. still being implemented."
+  },
+  {
+    "id": "hyundai-kia-vin-vision-ai",
+    "title": "Hyundai Motor Group and Kia use a single vision-AI model to read VINs on the line and flag vehicles that don't match system records",
+    "company_plant": "Hyundai Motor and Kia production operations in Korea (incl. Ulsan, Asan, Jeonju, Gwangmyeong, Hwaseong, Gwangju), the United States, Europe, India and Asia-Pacific",
+    "industry": "automotive",
+    "defect_type": "Vehicle/specification mismatch: physical vehicle not matching registered system data (assembly-sequence errors, risk of wrong part)",
+    "part": "VIN (vehicle serial number) read from vehicles on the production line",
+    "material": "",
+    "vendor": "Hyundai Motor Group / Kia (in-house Vision AI team; inference on Amazon Web Services)",
+    "camera_lighting": "Cameras installed on production lines",
+    "training_data": "Single model trained on integrated data from all plants (replacing per-process models)",
+    "reported_result": "Hyundai Motor Group says the AI Automation Recognition Service is \"deployed across approximately 70 manufacturing processes\" and is \"generating annual cost savings of approximately KRW 5.24 billion (approximately $3.9 million).\" No detection-accuracy figures published.",
+    "source_url": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-accelerates-ai-transformation-across-its-business-advancing-toward-the-physical-ai-era",
+    "source_type": "OEM press release",
+    "notes": "Hyundai Motor Group release, Aug 12, 2026 (AX Achievement Showcase). Updated at the Oct 21, 2026 Softeer Tech Talk Off Day: the VIN model, first run as a separate model at each plant, is now a single model \"used in 73 processes in Korea and overseas\" (Asia Business Daily, https://www.asiae.co.kr/en/article/2026102116280767349). Previously workers verified VINs by eye or from system records. Labels & OCR-type check, not surface-defect detection."
+  },
+  {
+    "id": "gm-factory-zero-weldbrain",
+    "title": "GM Factory ZERO: WeldBrAIn AI checks every resistance spot weld on every vehicle in real time",
+    "company_plant": "General Motors Factory ZERO (Detroit-Hamtramck, Michigan, USA)",
+    "industry": "automotive",
+    "defect_type": "Resistance spot weld quality",
+    "part": "Body-in-white resistance spot welds",
+    "material": "",
+    "vendor": "General Motors (WeldBrAIn)",
+    "camera_lighting": "",
+    "training_data": "",
+    "reported_result": "GM says WeldBrAIn \"assesses every resistance spot weld on every vehicle in real time.\" Per the article, it \"expanded quality check capabilities from manual inspection of four parts per shift to checking every single weld, on every single body, in real time.\" No defect-rate or accuracy figures published.",
+    "source_url": "https://www.automotivemanufacturingsolutions.com/digitalisation/gms-predictive-future-for-manufacturing/2759473",
+    "source_type": "Trade press article (quotes GM spokesperson)",
+    "notes": "Automotive Manufacturing Solutions, Oct 28, 2026. The article does not say what sensing WeldBrAIn uses (not described as camera-based). Same article: GM also uses Finesse Paint Repair vision cameras to detect micro-level paint imperfections on vehicles moving down the line and feed defect data to paint process engineers (no plant or metrics given)."
+  },
+  {
+    "id": "jet-aviation-iris-drone-ai-inspection",
+    "title": "Jet Aviation's Iris: automated drone imaging plus AI analysis for aircraft exterior inspections, validated by maintenance staff",
+    "company_plant": "Jet Aviation MRO, Basel (Switzerland); non-regulated inspections in the US (managed and FBO customers, e.g. Burbank demo)",
+    "industry": "aerospace",
+    "defect_type": "Aircraft exterior surface condition: general visual inspection findings, paint quality",
+    "part": "Aircraft exterior surfaces (business jets, narrow-body and some wide-body types)",
+    "material": "",
+    "vendor": "Donecle (drone and AI technology), with Jet Aviation",
+    "camera_lighting": "Automated drone capturing high-resolution images of the aircraft exterior",
+    "training_data": "",
+    "reported_result": "No inspection metrics published. Images \"are then analyzed using specialized software to identify potential areas of interest. Maintenance professionals review and validate the findings\" before a digital report is compiled. Approved by Swiss FOCA in 2024 for General Visual Inspections (GVIs) by images; US use (since May 2026) is for non-regulated inspections.",
+    "source_url": "https://www.jetaviation.com/perspectives/advancing-aircraft-inspections-through-drone-and-ai-technology/",
+    "source_type": "Company article",
+    "notes": "Jet Aviation article, Oct 20, 2026 (ahead of NBAA-BACE). Introduced on MRO projects in Basel in May 2023 in cooperation with Donecle (per Jet Aviation's May 18, 2026 US launch release: https://www.jetaviation.com/perspectives/jet-aviation-launches-inspections-by-automated-drone-and-ai-in-us/). Uses also include pre-purchase inspections, insurance/warranty cases and maintenance planning; MRO and asset-management context."
   }
 ]
