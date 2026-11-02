@@ -16,6 +16,17 @@ Metrology Central reaches quality engineers, metrologists, CMM programmers and m
   <div class="atlas-card"><h3>Newsletter sponsor</h3><p>One sponsored slot per issue of <em>The Metrology Central Brief</em>.</p></div>
 </div>
 
-Rates and an audience snapshot are available on request: [{{ site.author.email }}](mailto:{{ site.author.email }}?subject=Metrology%20Central%20advertising).
+## Founding sponsorship
+
+Founding sponsorship pricing: **$125/month** (3-month minimum) or **$1,200/year**.
+
+<div class="featured-actions">
+  <a class="btn btn-primary" href="https://buy.stripe.com/8x2bJ1c0Lf4M28agCB8ww00" target="_blank" rel="noopener">Sponsor monthly — $125/mo</a>
+  <a class="btn btn-primary" href="https://buy.stripe.com/aFa5kD0i36yg8wy3PP8ww01" target="_blank" rel="noopener">Sponsor yearly — $1,200/yr</a>
+</div>
+
+<p class="atlas-muted">Pay securely by card through Stripe. After paying, email your logo, tagline, URL, and the Atlas category you want to <a href="mailto:John.Foreman@metrologycentral.com?subject=Metrology%20Central%20sponsorship">John.Foreman@metrologycentral.com</a>, and your placement goes live within a few days. Prefer an invoice? Just <a href="mailto:John.Foreman@metrologycentral.com?subject=Metrology%20Central%20sponsorship%20invoice">email us</a>.</p>
+
+An audience snapshot and rates for other placements are available on request: [{{ site.author.email }}](mailto:{{ site.author.email }}?subject=Metrology%20Central%20advertising).
 
 **Editorial policy:** Sponsorship never affects which cases are listed, how results are quoted, or article content. Sponsored placements are always labeled.
