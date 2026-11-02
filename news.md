@@ -186,3 +186,4 @@ What appears here:
   </section>
 {% endif %}
 
+{% include newsletter.html %}

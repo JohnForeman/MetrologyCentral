@@ -33,3 +33,4 @@ description: Articles and case studies on dimensional metrology, CMM validation,
   {% endfor %}
 </div>
 
+{% include newsletter.html %}

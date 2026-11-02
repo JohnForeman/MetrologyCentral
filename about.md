@@ -98,3 +98,5 @@ permalink: /about/
 <p style="text-align: center; color: var(--text-light); font-size: 0.9em;">
   <strong>Metrology Central</strong> is hosted on <a href="https://pages.github.com/">GitHub Pages</a> and maintained as a resource for the metrology and quality community.
 </p>
+
+{% include newsletter.html %}
