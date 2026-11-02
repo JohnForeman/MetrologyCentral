@@ -1,0 +1,52 @@
+---
+layout: default
+title: "AI Inspection Atlas Summary: What Real Deployments Show"
+permalink: /atlas/report/
+description: "One-page summary of every case in the AI Inspection Atlas: deployments by industry, defect type, vendor and source type, plus each case's quoted result. Free CSV download."
+---
+{% assign cases = site.data.atlas_cases %}
+{% assign n = cases.size %}
+<article class="atlas-report">
+  <p class="no-print"><a href="{{ '/atlas/' | relative_url }}">← AI Inspection Atlas</a></p>
+  <p class="section-eyebrow">AI Inspection Atlas · summary as of {{ site.time | date: "%B %-d, %Y" }}</p>
+  <h1>AI Inspection Atlas Summary: {{ n }} published deployments at a glance</h1>
+  <p class="lead">Every number on this page is counted from the Atlas data, and each result is quoted from its public source. Vendor-published results are vendor claims and were not independently verified.</p>
+  <p class="no-print"><a class="btn btn-primary" href="{{ '/atlas/ai-inspection-atlas.csv' | relative_url }}" download>Download all {{ n }} cases (CSV)</a> <a class="btn btn-ghost" href="#subscribe-report">Get new cases every Monday</a> <a class="btn btn-ghost" href="javascript:window.print()">Print / save as PDF</a></p>
+
+  {% assign with_training = cases | where_exp: "c", "c.training_data != ''" %}
+  {% assign with_camera = cases | where_exp: "c", "c.camera_lighting != ''" %}
+  {% assign vendor_src = cases | where: "source_type", "Vendor case study" %}
+  <div class="stat-grid">
+    <div><strong>By industry</strong><ul>{% assign g = cases | group_by: "industry" | sort: "size" | reverse %}{% for x in g %}<li>{{ x.name | capitalize }}: {{ x.size }}</li>{% endfor %}</ul></div>
+    <div><strong>By context</strong><ul>{% assign g = cases | group_by: "context" | sort: "size" | reverse %}{% for x in g %}<li>{{ x.name }}: {{ x.size }}</li>{% endfor %}</ul></div>
+    <div><strong>By defect category</strong> <span class="atlas-muted">(a case can have several)</span><ul>
+      {% assign cats = "" %}{% for c in cases %}{% for d in c.defect_categories %}{% assign cats = cats | append: d | append: "|" %}{% endfor %}{% endfor %}
+      {% assign catlist = cats | split: "|" | uniq | sort %}
+      {% for cat in catlist %}{% assign k = 0 %}{% for c in cases %}{% if c.defect_categories contains cat %}{% assign k = k | plus: 1 %}{% endif %}{% endfor %}<li>{{ cat }}: {{ k }}</li>{% endfor %}
+    </ul></div>
+    <div><strong>What the sources disclose</strong><ul>
+      <li>Camera / lighting stated: {{ with_camera.size }} of {{ n }}</li>
+      <li>Training data described: {{ with_training.size }} of {{ n }}</li>
+      <li>Vendor case studies: {{ vendor_src.size }} of {{ n }} (the rest are OEM releases, trade press, integrator and research sources)</li>
+    </ul></div>
+    <div><strong>Vendors / developers with 2+ cases</strong><ul>{% assign g = cases | group_by: "vendor_group" | sort: "size" | reverse %}{% for x in g %}{% if x.size > 1 %}<li>{{ x.name }}: {{ x.size }}</li>{% endif %}{% endfor %}</ul></div>
+  </div>
+
+  <h2>All {{ n }} cases</h2>
+  <table>
+    <thead><tr><th>Company / plant</th><th>Part · defect</th><th>Vendor</th><th>Reported result (quoted)</th></tr></thead>
+    <tbody>
+    {% assign sorted = cases | sort: "industry" %}
+    {% for c in sorted %}
+      <tr>
+        <td><a href="{{ '/atlas/' | append: c.id | append: '/' | relative_url }}">{{ c.company_plant | escape }}</a><br><span class="atlas-muted">{{ c.industry | capitalize }} · {{ c.context }}</span></td>
+        <td>{% if c.part != "" %}{{ c.part | escape }}{% else %}<span class="atlas-muted">Part not stated</span>{% endif %}<br><span class="atlas-muted">{{ c.defect_type | escape }}</span></td>
+        <td>{{ c.vendor | escape }}</td>
+        <td>{{ c.reported_result | escape }} <a href="{{ c.source_url }}" target="_blank" rel="noopener">source</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+  <p class="atlas-muted">Spot an error or know a public case we missed? <a href="{{ '/contact' | relative_url }}">Tell us</a>.</p>
+</article>
+{% include newsletter.html id="subscribe-report" heading="Get new Atlas cases by email every Monday" %}

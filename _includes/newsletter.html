@@ -1,8 +1,16 @@
-<section class="mc-newsletter" id="newsletter">
+{% comment %}
+  Newsletter signup (beehiiv V3 embed). Optional params:
+    include.heading  - override headline
+    include.id       - anchor id (default "newsletter")
+    include.compact  - "true" for the tighter hero/atlas variant
+{% endcomment %}
+{% assign nl_count = site.data.atlas_cases.size %}
+<section class="mc-newsletter{% if include.compact == 'true' %} mc-newsletter-compact{% endif %}" id="{{ include.id | default: 'newsletter' }}">
   <div>
-    <p class="section-eyebrow">The Metrology Central Brief</p>
-    <h2>Metrology, AI inspection and quality news, every Monday</h2>
-    <p>New AI inspection case studies from the Atlas, CMM and metrology releases, and field-tested articles. No spam.</p>
+    <p class="section-eyebrow">The Metrology Central Brief · free, every Monday</p>
+    <h2>{{ include.heading | default: "New AI inspection deployments and metrology news, every Monday" }}</h2>
+    <p>Each issue adds the newest real-world cases to the <a href="{{ '/atlas/' | relative_url }}">AI Inspection Atlas</a> (now {{ nl_count }}): what was inspected, which vendor and camera setup, and the result as the source quotes it. You also get CMM and metrology releases and field-tested articles from a practicing metrologist. No hype and no spam, and you can unsubscribe in one click.</p>
+    <p class="mc-newsletter-magnet">Free download: <a href="{{ '/atlas/ai-inspection-atlas.csv' | relative_url }}" download>all {{ nl_count }} Atlas cases as a spreadsheet (CSV)</a> · <a href="{{ '/atlas/report/' | relative_url }}">one-page Atlas summary</a></p>
   </div>
   <div class="mc-newsletter-form">
     <script async src="https://subscribe-forms.beehiiv.com/v3/loader.js" data-beehiiv-form="fa522072-c518-451e-8da3-dd8e5def603a"></script>

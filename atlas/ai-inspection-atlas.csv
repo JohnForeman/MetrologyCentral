@@ -1,0 +1,8 @@
+---
+layout: null
+permalink: /atlas/ai-inspection-atlas.csv
+sitemap: false
+---
+﻿id,title,company_plant,industry,context,defect_type,defect_categories,part,material,vendor,camera_lighting,training_data,reported_result_quoted,source_type,source_url,notes,atlas_url
+{% for c in site.data.atlas_cases %}"{{ c.id | strip_newlines | replace: '"', '""' }}","{{ c.title | strip_newlines | replace: '"', '""' }}","{{ c.company_plant | strip_newlines | replace: '"', '""' }}","{{ c.industry | strip_newlines | replace: '"', '""' }}","{{ c.context | strip_newlines | replace: '"', '""' }}","{{ c.defect_type | strip_newlines | replace: '"', '""' }}","{{ c.defect_categories | join: '; ' | replace: '"', '""' }}","{{ c.part | strip_newlines | replace: '"', '""' }}","{{ c.material | strip_newlines | replace: '"', '""' }}","{{ c.vendor | strip_newlines | replace: '"', '""' }}","{{ c.camera_lighting | strip_newlines | replace: '"', '""' }}","{{ c.training_data | strip_newlines | replace: '"', '""' }}","{{ c.reported_result | strip_newlines | replace: '"', '""' }}","{{ c.source_type | strip_newlines | replace: '"', '""' }}","{{ c.source_url | strip_newlines | replace: '"', '""' }}","{{ c.notes | strip_newlines | replace: '"', '""' }}","{{ site.url }}/atlas/{{ c.id }}/"
+{% endfor %}

@@ -45,3 +45,5 @@ description: Recommended metrology books, measuring tools, training and guides f
 
 - **ASQ certifications** (CQE, CQI, CCT Calibration Technician): [asq.org](https://asq.org/cert)
 - **Quality and Six Sigma courses**: [Coursera](https://www.coursera.org/search?query=quality%20management), [edX](https://www.edx.org/search?q=quality), [Udemy](https://www.udemy.com/courses/search/?q=gd%26t)
+
+{% include newsletter.html %}

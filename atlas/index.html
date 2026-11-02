@@ -8,8 +8,9 @@ description: Searchable database of real, published AI visual inspection deploym
   <p class="section-eyebrow">InspectAI Atlas</p>
   <h1>Real AI visual inspection deployments in automotive &amp; aerospace</h1>
   <p class="lead"><span id="atlas-count">{{ site.data.atlas_cases.size }}</span> curated, source-linked case studies from vendors, OEMs and Tier-1s. Every result is quoted from the original source.</p>
-  <p><a class="btn btn-primary" href="{{ '/atlas/fit/' | relative_url }}">Which tool fits my defect?</a> <a class="btn btn-ghost" href="#newsletter">Get new cases every Monday</a></p>
+  <p><a class="btn btn-primary" href="{{ '/atlas/fit/' | relative_url }}">Which tool fits my defect?</a> <a class="btn btn-ghost" href="#newsletter">Get new cases every Monday</a> <a class="btn btn-ghost" href="{{ '/atlas/ai-inspection-atlas.csv' | relative_url }}" download>Download all cases (CSV)</a> <a class="btn btn-ghost" href="{{ '/atlas/report/' | relative_url }}">Atlas summary</a></p>
 </section>
+{% include newsletter.html compact="true" id="newsletter" heading="New cases land here every Monday. Get them by email." %}
 <div class="atlas-filters">
   <input id="q" placeholder="Search parts, defects, vendors…" aria-label="Search">
   <select id="industry"><option value="">All industries</option></select>
@@ -22,6 +23,6 @@ description: Searchable database of real, published AI visual inspection deploym
   {% for c in site.data.atlas_cases %}<a class="atlas-card" href="{{ '/atlas/' | append: c.id | append: '/' | relative_url }}"><h3>{{ c.title }}</h3><p>{{ c.vendor }}</p></a>{% endfor %}
 </div>
 {% include adsense-unit.html slot=site.adsense.slots.home_infeed %}
-{% include newsletter.html %}
+{% include newsletter.html id="newsletter-bottom" %}
 <script>window.ATLAS_BASE="{{ '/atlas/' | relative_url }}";</script>
 <script src="{{ '/assets/js/atlas.js' | relative_url }}"></script>
