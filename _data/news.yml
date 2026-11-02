@@ -1,4 +1,75 @@
 ---
+- date: "2026-11-01"
+  title: "POSCO Future M adds LG Energy Solution as its third Korean LFP cathode customer and converts a 15,000-ton Pohang line to LFP output"
+  source: "The Elec / POSCO Future M"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Elec reports POSCO Future M signed a memorandum of understanding with LG Energy Solution, disclosed on
+    30 October 2026, covering a combined 720,000 tons of cathode and anode materials over seven years from 2027
+    to 2033, making it a quantified conversion of existing cathode capacity to lithium iron phosphate rather
+    than a greenfield plant announcement; cited specifics include LFP and artificial graphite anode materials
+    added to an existing nickel-cobalt-manganese cathode relationship, trial production on a high-nickel
+    cathode line at Pohang converted to 15,000 tons of annual LFP capacity with the line scheduled to begin
+    operating in December, LFP cathode supply from early 2027 to all three major Korean battery makers, earlier
+    LFP contracts of 1.1 trillion won with SK On in September and 6.0515 trillion won with Samsung SDI in
+    October for a combined approximately 7.1 trillion won, a second conversion phase at Pohang due in the
+    second quarter of 2027 expected to take annual LFP cathode capacity to approximately 89,000 tons, further
+    convertible ternary cathode capacity of 55,000 tons at Pohang and 45,000 tons at Gwangyang that could lift
+    capacity to as much as 170,000 tons depending on orders, a stated 1.7 to two times capacity gain from
+    converting ternary lines instead of building new plants, artificial graphite anode supply from South Korea
+    and Vietnam, joint development of materials for sodium-ion, ultra-high-nickel and silicon anode cells, and
+    alignment with U.S. prohibited foreign entity rules and the European Industrial Accelerator Act, with
+    LFP-specific volumes and contract value undisclosed and no definitive contract signed.
+  url: "https://www.thelec.net/news/articleView.html?idxno=15140"
+
+- date: "2026-10-30"
+  title: "A3 reports 10,989 robot orders worth USD 723.5 million in the third quarter as automotive component orders rise 90.4 percent"
+  source: "Metrology News / Association for Advancing Automation"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Metrology News reports the Association for Advancing Automation recorded 10,989 robot orders valued at USD
+    723.5 million in the third quarter of 2026, up 24.8 percent in units and 26.1 percent in value on the same
+    quarter a year earlier, making it a quantified measure of automation capital spending that fixes the
+    installed base available for automated inspection and handling rather than a single vendor announcement;
+    cited specifics include nine-month orders of 28,984 robots valued at approximately USD 1.89 billion, up 9.6
+    percent in units and 13.3 percent in value against the same period of 2025, automotive OEM orders returning
+    to 7.5 percent year-on-year growth in the quarter while remaining 17 percent below the year-earlier level
+    over the first nine months, automotive component orders up 90.4 percent, food and consumer goods orders
+    down 23.7 percent and all other industries up 0.5 percent in units, 1,831 collaborative robots valued at
+    USD 63.8 million ordered in the quarter for an increase of approximately 56 percent in units and a 16.7
+    percent share of units, 4,605 collaborative robots valued at approximately USD 178 million over nine months
+    equal to 15.9 percent of units and 9.4 percent of order value, collaborative robots accounting for 43.8
+    percent of life sciences and pharmaceutical orders and 36.9 percent of semiconductor and electronics orders,
+    and a September ISM manufacturing PMI of 54.5, a ninth consecutive month of expansion, alongside a 0.3
+    percent rise in Federal Reserve manufacturing output for the month, with no per-industry order values
+    disclosed beyond those segment percentages.
+  url: "https://metrology.news/north-american-robot-orders-surge-25-in-third-quarter-2026/"
+
+- date: "2026-10-26"
+  title: "Solid Power begins commissioning its MOBIUS continuous sulfide electrolyte line, adding 45 metric tons a year to reach about 75 at Thornton"
+  source: "Solid Power"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Solid Power reports it began commissioning MOBIUS, a continuous manufacturing pilot line for sulfide-based
+    solid electrolyte at its SP2 facility in Thornton, Colorado, after substantial completion of construction
+    and with material now being introduced to the line, making it a quantified shift from batch to continuous
+    electrolyte production rather than a cell-chemistry result; cited specifics include a designed addition of
+    45 metric tons of annual electrolyte capacity that raises site capacity by 150 percent to approximately 75
+    metric tons a year against a 30-ton batch baseline, primary powder processing site acceptance testing
+    complete with full acceptance testing targeted for the end of October 2026, plant validation and
+    operational startup planned for the fourth quarter of 2026, the line running alongside the existing batch
+    lines in what the company describes as the first continuous manufacturing process for sulfide-based solid
+    electrolyte, tighter process control and batch-to-batch repeatability positioned as the route to material
+    supply for Tier 1 battery manufacturers and automotive original equipment manufacturers, a design basis of
+    electrolyte supply under a material supply and cell design licensing model rather than in-house cell
+    production, and support through a U.S. Department of Energy assistance agreement providing up to USD 50
+    million in federal funding, with no cost per kilogram of electrolyte, qualified customer volume or
+    delivered output disclosed.
+  url: "https://www.solidpowerbattery.com/investor-relations/investor-news/news-details/2026/Solid-Power-Announces-Significant-Advancement-in-Commercial-Pathway-Commissioning-MOBIUS-Continuous-Electrolyte-Manufacturing-Line/default.aspx"
+
 - date: "2026-10-30"
   title: "Hanwha Defense USA wins a USD 269 million U.S. Navy contract to build the first Medium Landing Ship at Hanwha Philly Shipyard"
   source: "Hanwha Defense USA / TOTE Services / USNI News"
