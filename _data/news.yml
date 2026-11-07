@@ -1,4 +1,141 @@
 ---
+- date: "2026-11-06"
+  title: "Kia commits KRW 3 trillion to a new electric vehicle facility at AutoLand Gwangju through 2029"
+  source: "The Korea Herald / Kia"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Korea Herald reports Kia said on 6 November 2026 that it will invest 3 trillion won (USD 2.21 billion)
+    through 2029 in a new electric vehicle production facility at its AutoLand Gwangju plant, extending the site
+    beyond internal combustion engine models into software-defined and electrified production rather than
+    announcing a single model; cited specifics include the investment sitting inside Hyundai Motor Group's 125.2
+    trillion won five-year domestic commitment announced in November 2025, a memorandum of understanding signed
+    the same day with Jeonnam-Gwangju, Chonnam National University and the Gwangju Institute of Science and
+    Technology covering an integrated mobility ecosystem, testing of purpose-built vehicle concepts including
+    demand-responsive transit shuttles and the PV5 Van remote-driving system for mobility-impaired passengers,
+    reconfigurable vehicle designs for logistics and passenger transport, a fleet of 200 autonomous Hyundai
+    Ioniq 5 vehicles deployed across residential, commercial and urban roads to train the purpose-built vehicle
+    software, and no disclosed annual vehicle capacity, model allocation or construction start date.
+  url: "https://www.koreaherald.com/article/10929031"
+
+- date: "2026-11-05"
+  title: "ZEISS launches the TALOS metrology robot, holding under 100 micrometre uncertainty over a 3.30 metre reach without external tracking"
+  source: "ZEISS Research & Quality Solutions"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    ZEISS announced ZEISS TALOS on 5 November 2026, a metrology robot for automated high-volume inspection that
+    states measurement uncertainty below 100 micrometres over a reach of 3.30 metres while positioning its sensor
+    without an external tracking system or reference markers, making it a quantified alternative to
+    robot-mounted optical inspection that depends on laser trackers or applied photogrammetric targets; cited
+    specifics include an integrated measurement unit of the TALOS MR robot and the TALOS AX blue-light sensor
+    with two 24-megapixel cameras capturing at 100 Hz and up to 200 Hz in fast scan mode across a 500 millimetre
+    measurement volume, four multidirectional feature flashes for holes, edges, bolts and threads, a
+    metrology-grade TALOS RT rotation table and a TALOS Safeguard safety concept, self-referenced positioning
+    built from encoder technology, structural mechanics, sensors and temperature compensation rather than
+    external cameras, system dimensions of 8,885 by 6,270 by 3,100 millimetres with a maximum part size of
+    5,000 millimetres diameter and 5,000 kilograms, offline programming from the CAD model with ZEISS INSPECT
+    calculating measurement positions and robot paths, and stated applications in car bodies, hang-on parts,
+    giga-castings, aerostructures, jet engines and weld seams, with no price or delivery date disclosed.
+  url: "https://www.zeiss.com/metrology/en/about-us/newsroom/2026/automated-inspection.html"
+
+- date: "2026-11-04"
+  title: "Hanwha and WB Group break ground on a Gorzow Wielkopolski plant for CGR-080 guided missiles with production targeted from late 2029"
+  source: "Hanwha Aerospace Europe / The Korea Times"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Hanwha Aerospace reports that Hanwha WB Advanced Systems, its joint venture with Polish defence company WB
+    Group, held a groundbreaking ceremony on 4 November 2026 in Gorzow Wielkopolski for a guided missile
+    production facility, the first Hanwha guided missile plant outside Korea and a quantified transfer of missile
+    production capacity into a customer country rather than an export order; cited specifics include a CGR-080
+    missile with a range of about 80 kilometres for the HOMAR-K version of the Chunmoo multiple launch rocket
+    system, a site of about 1.16 million square metres with the facility scheduled for completion in 2028,
+    initial local production targeted for late 2029 and full-scale serial production planned from 2030, more than
+    200 jobs expected with parts and materials sourced from Polish suppliers, a joint venture agreed in September
+    2025 and held 51 percent by Hanwha Aerospace and 49 percent by WB Electronics, a contract with the Polish
+    Armament Agency to produce and supply the missiles locally, and a scope covering transfer of production
+    technology, testing, certification and quality management systems, with no missile output rate, capital cost
+    or contract value disclosed.
+  url: "https://hanwha-aerospace.eu/cgr080-plant-construction-begins-in-poland/"
+
+- date: "2026-11-03"
+  title: "LG Energy Solution targets more than 70 GWh of North American ESS capacity by end-2027 after third-quarter revenue of KRW 9.6 trillion"
+  source: "LG Energy Solution"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    LG Energy Solution reported third-quarter 2026 consolidated revenue of KRW 9.6 trillion, up 27.6 percent
+    quarter on quarter, and operating profit of KRW 756 billion, and set a target to convert additional electric
+    vehicle pouch lines to energy storage production and add prismatic ESS lines to take North American ESS
+    capacity above 70 GWh by the end of 2027, making it a quantified cell and pack capacity reallocation rather
+    than a sales result alone; cited specifics include completion of a new link production line in Arizona and
+    phased expansion of pack capacity in Ohio, improved utilisation at its Poland plant, resumption of
+    operations at its North American joint venture plant with General Motors, start of United States production
+    of 46-Series cylindrical cells by the end of 2026, tabless 2170 lines for hybrid vehicles from 2027 to take
+    North American cylindrical capacity above 20 GWh by the end of 2027, local 46-Series cylindrical lines in
+    Europe by 2029, and no per-plant capital expenditure, capacity split or line-level conversion schedule
+    disclosed.
+  url: "https://news.lgensol.com/company-news/press-releases/5549/"
+
+- date: "2026-11-03"
+  title: "Neros plans a USD 615 million small drone manufacturing expansion backed by a USD 450 million conditional Pentagon loan"
+  source: "Manufacturing Dive / Neros / U.S. Department of Defense Office of Strategic Capital"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing Dive reports the Department of Defense issued small drone maker Neros a conditional loan of up
+    to USD 450 million through its Office of Strategic Capital, with the company pledging USD 165 million of
+    equity for a USD 615 million manufacturing expansion, making it a quantified federal commitment to small
+    unmanned aircraft system production capacity rather than a procurement award; cited specifics include a
+    stated path to manufacturing 1 million drones a year by 2028, capacity for dual-use small unmanned aircraft
+    systems and ground control systems alongside in-house production of motors, radios, flight electronics,
+    sensors and batteries, a 250,000 square foot facility called Millennium One in Torrance, California that the
+    company moved into from a 15,000 square foot El Segundo site in February 2026, expansion intended to
+    accelerate assembly, test operations and engineering hiring, and no disclosed loan terms, drawdown schedule
+    or production rate at the time of the announcement.
+  url: "https://www.manufacturingdive.com/news/dod-pentagon-neros-stoke-space-technologies-antheia-osc-loans/873504/"
+
+- date: "2026-11-03"
+  title: "ZEISS releases CALYPSO 2027 and GEAR PRO 2027 with two-click PMI updates and up to 30 percent shorter curve cycle times"
+  source: "ZEISS Metrology"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    ZEISS published its November 2026 quality software release, with ZEISS CALYPSO 2027 and ZEISS GEAR PRO 2027
+    available for download through the ZEISS Portal to customers with an active software maintenance agreement,
+    making it a quantified capability update to the CMM programming and evaluation software rather than a
+    general version notice; cited specifics include updating CAD files and PMI in two clicks with changed PMI
+    data listed and integrated directly into the inspection plan, inspection plans generated from PMI up to 50
+    percent faster, an improved variable strategy editor for defining filter and error-elimination rules, curve
+    measurement cycle times reduced by up to 30 percent through machine acceleration adjustment during curve
+    measurement, local minima and maxima evaluation within the pointset feature for DotScan and LineScan data so
+    shrinkage is detected before further machining, unwinding of 3D curve data into 2D reports for cams and drill
+    paths on cylindrical workpieces without manual unwinding or PCM expertise, version comparison and full
+    inspection-plan documentation generation, automatic backup of interface, CMM and template data during
+    hardware updates, a dark interface for programming, and GEAR PRO 2027 bevel reporting rebuilt on InvoluteNX
+    with ZEISS PiWeb integration, with no pricing disclosed.
+  url: "https://www.zeiss.com/metrology/en/software/innovations/2027-release-1.html"
+
+- date: "2026-11-02"
+  title: "Lockheed Martin commits USD 420 million and 650 jobs to its Camden, Arkansas missile plant for PAC-3, THAAD and PrSM capacity"
+  source: "Arkansas Economic Development Commission / Lockheed Martin"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    The Arkansas Economic Development Commission announced on 2 November 2026 that Lockheed Martin will invest
+    USD 420 million and create 650 full-time jobs over five years at its Camden, Arkansas operations, increasing
+    production capacity for the PAC-3, THAAD and Precision Strike Missile platforms, making it a quantified
+    increment to United States missile production capacity rather than a contract award; cited specifics include
+    a 2.2 million square foot facility on 2,427 acres in the Highland Industrial Park that produces seven
+    Department of War programmes comprising PAC-3, THAAD, PrSM, ATACMS, GMLRS, HIMARS and M270, more than
+    700,000 missiles and rockets delivered from the site over four decades, approximately 1,100 current
+    employees, a January 2026 groundbreaking on a Munitions Acceleration Center following an agreement with the
+    Department of War to raise THAAD interceptor capacity from 96 to 400 a year, and a stated intent to use
+    advanced manufacturing, robotics and digital technologies in the expansion, with no incremental output rate,
+    square footage added or completion date disclosed.
+  url: "https://www.arkansasedc.com/news-events/newsroom/detail/2026/11/02/lockheed-martin-expands-in-camden--arkansas-with--420m-investment"
+
 - date: "2026-11-01"
   title: "POSCO Future M adds LG Energy Solution as its third Korean LFP cathode customer and converts a 15,000-ton Pohang line to LFP output"
   source: "The Elec / POSCO Future M"
