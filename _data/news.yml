@@ -56,6 +56,27 @@
     software, and no disclosed annual vehicle capacity, model allocation or construction start date.
   url: "https://www.koreaherald.com/article/10929031"
 
+- date: "2026-11-06"
+  title: "U.S. Army selects CSG's MSM North America to compete for work at seven government-owned ammunition plants under a USD 4.2 billion framework"
+  source: "Defence Industry Europe / CSG"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    CSG reports the U.S. Army selected its subsidiary MSM North America to compete for modernisation work at seven
+    government-owned ammunition plants under a five-year framework with a ceiling of about USD 4.2 billion shared
+    across all selected contractors, making it a quantified vehicle for automating and expanding United States
+    ammunition production capacity rather than a single project award; cited specifics include individual projects
+    to be awarded through separate competitions administered by Army Contracting Command-Rock Island, a scope
+    covering construction of new facilities, upgrading and automating production lines and operating and
+    maintaining industrial infrastructure, plants listed as Holston in Tennessee for military explosives, Radford
+    in Virginia for propellants, Lake City in Missouri for small-calibre ammunition, the Iowa, Scranton and Milan
+    Army Ammunition Plants and the Quad City Cartridge Case Facility in Illinois, and a separate contract worth up
+    to USD 635 million under which MSM is already building the Future Artillery Complex at the Iowa Army Ammunition
+    Plant, with construction begun in 2026, opening expected in 2029 and capacity to load up to 36,000 rounds of
+    155 mm artillery ammunition a month, while the framework discloses no funded project values, automation
+    specifications or project schedule.
+  url: "https://defence-industry.eu/csg-says-u-s-army-selects-its-unit-to-bid-for-ammunition-plant-upgrades-under-4-2-billion-framework/"
+
 - date: "2026-11-05"
   title: "U.S. Department of War signs a USD 250 million conditional loan with 6K to expand single-crystal NMC cathode output in Jackson, Tennessee"
   source: "U.S. Department of War Office of Strategic Capital"
@@ -135,6 +156,28 @@
   url: "https://hanwha-aerospace.eu/cgr080-plant-construction-begins-in-poland/"
 
 - date: "2026-11-03"
+  title: "Samsung SDI starts LFP cell output for energy storage at StarPlus Energy in Indiana on more than 60 GWh of U.S. storage orders"
+  source: "ESS News / Samsung SDI"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Samsung SDI began mass production of lithium iron phosphate prismatic cells for energy storage at its StarPlus
+    Energy joint venture plant in Kokomo, Indiana in October 2026 and reported more than 60 GWh of United States
+    storage orders booked during the year, making it a quantified conversion of electric vehicle cell capacity to
+    grid storage output rather than a chemistry announcement; cited specifics include cell shipments from
+    mid-October with finished Samsung Battery Box container systems due to reach customers from December 2026, the
+    designation of the Indiana site as an ESS production hub with three of the four lines at the 33 GWh first plant
+    reassigned from vehicle cells to storage, one line producing nickel-cobalt-aluminium storage cells at about
+    7 GWh a year beside converted LFP lines initially building 200 ampere-hour cells and a 300 ampere-hour line
+    planned for the second quarter of 2027, a two-plant Kokomo complex with Stellantis totalling 67 GWh and more
+    than USD 6.3 billion of combined investment with a 34 GWh second plant targeted for early 2027, orders
+    including a 1 GWh nickel-cobalt-aluminium Samsung Battery Box 1.7 agreement with Alpha Omega Power and a United
+    States cell supply arrangement with Sungrow, Section 45X production credits of up to USD 35 per kilowatt-hour
+    available for domestically manufactured cells, and no disclosed LFP output volume, post-conversion line
+    capacity or contract values.
+  url: "https://www.ess-news.com/2026/11/03/samsung-sdi-books-60-gwh-of-us-storage-orders-and-begins-indiana-lfp-ess-production/"
+
+- date: "2026-11-03"
   title: "LG Energy Solution targets more than 70 GWh of North American ESS capacity by end-2027 after third-quarter revenue of KRW 9.6 trillion"
   source: "LG Energy Solution"
   sector: ev_manufacturing
@@ -191,6 +234,27 @@
     hardware updates, a dark interface for programming, and GEAR PRO 2027 bevel reporting rebuilt on InvoluteNX
     with ZEISS PiWeb integration, with no pricing disclosed.
   url: "https://www.zeiss.com/metrology/en/software/innovations/2027-release-1.html"
+
+- date: "2026-11-02"
+  title: "Hexagon completes the USD 1.45 billion acquisition of Waygate Technologies and consolidates it into Manufacturing Intelligence from 1 November 2026"
+  source: "Hexagon"
+  sector: quality_software
+  kind: industry_news
+  summary: >-
+    Hexagon completed its acquisition of non-destructive testing supplier Waygate Technologies from Baker Hughes
+    and consolidated the business into its Manufacturing Intelligence area from 1 November 2026, making it a
+    quantified addition of industrial computed tomography, radiography, ultrasonic testing and remote visual
+    inspection to a dimensional metrology portfolio rather than a software release; cited specifics include an
+    enterprise value of approximately USD 1.45 billion on a cash- and debt-free basis, Waygate revenue of
+    approximately USD 630 million in fiscal 2025 at a 10 percent EBIT margin with about 1,500 employees across 25
+    locations, radiography and remote visual inspection platforms contributing around USD 330 million of that
+    revenue at a 16 percent EBIT margin, estimated transaction, carve-out and integration costs of approximately
+    EUR 50 million, pro forma dilution of about 300 basis points to the Manufacturing Intelligence EBITAC margin
+    and about 150 basis points at group level, a stated intent to lift Waygate margins toward the business area
+    range of 21 to 24 percent, and pro forma leverage of about 1.4 times net debt to EBITDA including the Guidance
+    Marine and ZG Technologies acquisitions and the announced Rocscience acquisition, with no customer retention,
+    product roadmap or headcount commitments disclosed.
+  url: "https://hexagon.com/about/news-media/press-releases/2494128/hexagon-completes-acquisition-of-waygate-technologies"
 
 - date: "2026-11-02"
   title: "Lockheed Martin commits USD 420 million and 650 jobs to its Camden, Arkansas missile plant for PAC-3, THAAD and PrSM capacity"
