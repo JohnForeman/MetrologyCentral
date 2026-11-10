@@ -1,4 +1,100 @@
 ---
+- date: "2026-11-10"
+  title: "U.S. manufacturing technology orders set a monthly record of USD 1,007.3 million in September, up 101.7 percent year on year"
+  source: "Metrology News / AMT - The Association For Manufacturing Technology"
+  sector: quality_software
+  kind: industry_news
+  summary: >-
+    AMT's U.S. Manufacturing Technology Orders report shows new orders of metal-cutting and metal-forming machinery
+    totalling USD 1,007.3 million in September 2026, up 38.0 percent on August and 101.7 percent on September 2025
+    and 22.5 percent above the previous monthly record of December 2025, making it a quantified leading indicator of
+    the machine capacity and automated inspection load being installed rather than a single vendor result; cited
+    specifics include orders of USD 5.76 billion in 2026 through September, 45.0 percent above the first three
+    quarters of 2025, 3,471 machines ordered for the highest monthly unit count since September 2014, a seventh
+    consecutive month above USD 500 million as the longest streak in the series, contract machine shop orders at a
+    record nearly 25 percent above August 2026, aerospace orders at record value and unit levels, 5.0 percent and
+    8.9 percent above the December 2025 peak, and AMT attributing part of the moderation in value per unit to buyers
+    trading automation content for shorter lead times.
+  url: "https://metrology.news/us-manufacturing-technology-orders-surge-102-percent-to-record-levels/"
+
+- date: "2026-11-09"
+  title: "Honda commits USD 3 billion to a new Ohio assembly plant with 240,000-unit capacity and production from 2029"
+  source: "CNBC / Honda Motor"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Honda said on 9 November 2026 that it will invest USD 3 billion in a new vehicle assembly plant near its
+    existing operations in Marysville, Ohio, with production expected to begin in 2029 subject to final government
+    approvals, making it a quantified North American assembly capacity commitment rather than a model announcement;
+    cited specifics include capacity for 240,000 vehicles a year and more than 2,000 jobs, a plant able to build
+    internal combustion, hybrid and battery-electric vehicles, a rise in Honda's U.S. light-duty capacity to about
+    1.3 million units a year across 12 U.S. manufacturing plants of which eight build engines or light-duty
+    vehicles, companion investments in Ohio, Alabama and Georgia expanding hybrid vehicle, engine and hybrid-system
+    output with Ohio hybrid powertrain capacity planned to rise about 250 percent, siting near existing vehicle,
+    research and L-H Battery joint venture operations, Honda stating that nearly 99 percent of Honda and Acura
+    automobiles sold in the United States in 2025 were made in North America, and no vehicle allocation for the new
+    plant disclosed.
+  url: "https://www.cnbc.com/2026/11/09/honda-to-invest-3-billion-in-new-vehicle-assembly-plant-in-ohio.html"
+
+- date: "2026-11-09"
+  title: "Boeing cuts about 5 percent of its commercial airplanes workforce as the 737 MAX rate reset pushes a 52-a-month target into the second half of 2027"
+  source: "CNBC / Reuters / Boeing Commercial Airplanes"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Boeing Commercial Airplanes told employees on 9 November 2026 that it will reduce its workforce by about 5
+    percent through attrition and involuntary layoffs with notifications beginning in December, after resetting its
+    production rate ramps, making it a quantified staffing correction to a slower airframe build rate rather than a
+    general cost programme; cited specifics include a division of about 50,494 employees at December 2025, implying
+    a reduction of roughly 2,500 positions, a memo from commercial airplanes president and chief executive Stephanie
+    Pope stating that adjusting production schedules and reducing aircraft output left the unit overstaffed,
+    stabilisation of 737 MAX output at about 47 aircraft a month with 52 a month now targeted for the second half of
+    2027 instead of earlier plans, 787 output still short of a move from 8 to 10 aircraft a month, wing production
+    in Renton cited by chief executive Kelly Ortberg as holding up the ramp, 60-day notice requirements in many
+    states, and no disclosure of affected sites or job categories.
+  url: "https://www.cnbc.com/2026/11/09/boeing-layoffs-commercial-airplane.html"
+
+- date: "2026-11-09"
+  title: "TYTAN opens a Munich-Aubing plant with capacity for up to 3,000 interceptor drones a month at a stated investment of about EUR 10 million"
+  source: "Europaeische Sicherheit & Technik / TYTAN Technologies"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    TYTAN Technologies opened a production site in Munich-Aubing on 9 November 2026 with capacity for up to 3,000
+    autonomous interceptor drones a month, described by Bavarian minister-president Markus Soeder as the largest
+    series production of such systems in Western Europe, making it a quantified counter-UAS production capacity
+    signal rather than a technology demonstration; cited specifics include a site of about 3,000 square metres
+    built in a few months for an investment of roughly EUR 10 million, up to 100 shift jobs starting with about 60
+    staff, the company stating that it has run series production since August 2026 and that 3,000 a month is
+    capacity rather than achieved output or order volume, interceptor variants listed as Metis at up to 200 km/h and
+    20 km range, Interceptor B at 350 km/h, 25 km and a 1.1 kilogram payload and EOS at 375 km/h and up to 60 km, a
+    mobile counter-UAS platform shown with KNDS Deutschland on a Dingo 2 pickup carrying four METIS V2 launch
+    containers for twelve interceptors and three Hensoldt Spexer 2000M 3D MkIII radar panels with series production
+    planned for early 2027, an October 2026 BAAINBw order for six TYTAN Drone Defender systems and two command
+    vehicles under the SMoK3D programme with value and delivery dates unpublished, and no split of Munich output by
+    interceptor variant disclosed.
+  url: "https://esut.de/2026/11/meldungen/76701/tytan-3-000-abfangdrohnen-bayern/"
+
+- date: "2026-11-05"
+  title: "Transponder-type heterodyne interferometer suppresses back-reflection phase noise by factors of 77 and 23 at 720 picowatts received power"
+  source: "arXiv (Lin et al.)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 5 November 2026 reports characterisation and suppression of parasitic
+    back-reflection noise in transponder-type heterodyne interferometry, a technique applied to gravity-field
+    recovery, space-based gravitational-wave detection, deep-space ranging and Doppler tracking, making it a
+    quantified phase-noise budget result for a high-precision displacement readout rather than generic
+    interferometry coverage; cited specifics include an interferometer with coaxially aligned counter-propagating
+    beams operating stably at a received optical power of 720 picowatts, an adjustable reflecting system inserted in
+    the master-side transmit path to reproduce back-reflection under realistic conditions, optical path scans and
+    model fitting showing phase errors that vary periodically with the relative phase between the main and parasitic
+    interference signals, suppression by low-sensitivity working point adjustment combined with balanced detection
+    reaching maximum factors of 77 for single-frequency phase errors and 23 for band-limited phase-noise amplitude
+    spectral density against single-detector readout, and working point diagnosis demonstrated at 3.8 nanowatts of
+    back-reflection power.
+  url: "https://arxiv.org/abs/2611.08110"
+
 - date: "2026-11-06"
   title: "Firefly Aerospace signs a USD 1.3 billion agreement to supply 36 Miranda and Vira engines and an engine manufacturing licence to AST SpaceMobile"
   source: "Firefly Aerospace / AST SpaceMobile"
@@ -1786,23 +1882,6 @@
     production for the first electric models at the end of 2028 with the new hybrid models from 2029, and funding
     combining company resources with national PERTE and Castilla y Leon regional public support.
   url: "https://www.elmundo.es/motor/2026/09/24/6ab4be30e85ece77638b4572.html"
-- date: "2026-09-24"
-  title: "Honda reported in final-stage talks on a USD 1.8 billion to USD 2.5 billion hybrid vehicle plant in Union County, Ohio"
-  source: "Marysville Journal-Tribune / Nikkei"
-  sector: auto_manufacturing
-  kind: industry_news
-  summary: >-
-    The Marysville Journal-Tribune reports a new Honda hybrid vehicle production plant is planned for Union County,
-    Ohio at an investment reported at about USD 2.5 billion, following a Nikkei report that Honda Motor has entered
-    the final stage of discussions to build a hybrid vehicle plant in the United States for between JPY 300 billion
-    and JPY 400 billion, about USD 1.8 billion to USD 2.5 billion, making it a quantified North American automotive
-    capacity signal rather than generic expansion coverage; cited specifics include a Union County site in the
-    Marysville area where Honda already operates Ohio manufacturing, what would be the first new Honda North American
-    vehicle factory in about 20 years, a context of Honda approaching the limits of its existing North American
-    production capacity while localising more hybrid powertrain production, and reporting that precedes any company
-    confirmation or disclosed final investment decision.
-  url: "https://www.marysvillejt.com/2026/09/24/new-honda-plant-coming-union-county/"
-
 - date: "2026-09-24"
   title: "Orizzonte Sistemi Navali signs a EUR 3.7 billion OCCAR contract for two DDX destroyers for the Italian Navy"
   source: "Fincantieri / Orizzonte Sistemi Navali"
