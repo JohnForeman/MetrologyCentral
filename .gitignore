@@ -18,3 +18,10 @@ node_modules/
 .openclaw-healthcheck.ps1
 .openclaw-rendercheck.ps1
 
+# AI agent local state — allowlists/MCP config can hold plaintext secrets
+# (Claude Code "don't ask again" writes commands verbatim to settings.local.json)
+.claude/settings.local.json
+.claude/settings.json
+.cursor/mcp.json
+.gemini/
+.specstory/
