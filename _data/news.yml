@@ -1,5 +1,60 @@
 ---
 - date: "2026-11-10"
+  title: "Lohum's Vidyuta wins approval for 20,000 tonnes a year of LCO cathode active material capacity in India under the Electronics Component Manufacturing Scheme"
+  source: "Rediff / PTI (Lohum, Vidyuta)"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    PTI reports through Rediff that Vidyuta, a subsidiary of battery recycling firm Lohum, received approval for 20
+    kilotonnes a year of lithium cobalt oxide cathode active material capacity under India's Electronics Component
+    Manufacturing Scheme, making it a quantified step in domestic cell-material capacity rather than a general policy
+    notice; cited specifics include a total capital investment of INR 500 crore with up to INR 125 crore, or 25 percent,
+    supported through a capex-linked incentive, the first LCO cathode active material approval under the scheme, a line
+    designed for polycrystalline and single-crystal LCO so cell makers can specify chemistry and morphology from one
+    supplier, feedstock of lithium, cobalt and nickel refined by Lohum including critical minerals recovered from spent
+    lithium-ion cells, a company citation of NITI Aayog estimating positive active material at nearly half of lithium-ion
+    pack cost and Indian advanced-chemistry-cell manufacturing needing about 193,000 tonnes of cathode active material a
+    year to produce around 100 GWh by 2030, and no plant location, commissioning date, offtake or customer qualification
+    disclosed.
+  url: "https://www.rediff.com/money/report/vidyuta-gets-nod-for-cathode-active-material-manufacturing-under-ecms/20261110.htm"
+
+- date: "2026-11-10"
+  title: "France awards a EUR 1.5 billion IRIS contract to Airbus and Thales Alenia Space for two high-resolution optical reconnaissance satellites"
+  source: "Breaking Defense / DGA"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Breaking Defense reports France's Directorate General of Armament awarded EUR 1.5 billion, about USD 1.7 billion, to
+    Airbus Defence and Space and Thales Alenia Space for two high-resolution Earth-observation satellites under the IRIS
+    programme, making it a quantified commitment to sovereign optical payload manufacturing rather than a policy
+    statement; cited specifics include a scope covering development, manufacturing and testing of both satellites plus
+    in-orbit operations and maintenance, Airbus as lead contractor supplying both platforms and the majority of the first
+    satellite's payload while overseeing the ground segment, Thales Alenia Space as co-contractor supplying the optical
+    systems with infrared capability for low-light and night imaging, replacement of the three-satellite CSO optical space
+    component, a first satellite operational by 2033 and both in orbit by 2035, and Airbus framing the programme as
+    strengthening the French supply chain in space-based optical imagery, with no satellite mass, ground sample distance,
+    payload aperture or per-unit price disclosed.
+  url: "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/"
+
+- date: "2026-11-10"
+  title: "Honda commits CAD 166 million at Alliston within a CAD 867 million Canadian commitment to retool for hybrids and reintroduce engine manufacturing"
+  source: "Honda Canada"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Honda reports it will invest CAD 166 million of capital within a broader CAD 867 million commitment at Honda of Canada
+    Mfg. in Alliston, Ontario, to retool for next-generation hybrid and gasoline models including the reintroduction of
+    engine manufacturing, making it a quantified North American powertrain and assembly retool rather than a model
+    announcement; cited specifics include maintenance of a workforce of more than 4,000 at the two Alliston plants, a
+    combined 4 million square feet with annual capacity above 400,000 vehicles and 401,000 vehicles built in 2025, Line 1
+    building the Civic and Line 2 the CR-V in petrol and hybrid forms, an 11 millionth vehicle produced at the site in
+    2025, partnership with the federal and provincial governments on the project, positioning inside Honda's plan to
+    launch 15 new Honda and Acura hybrid models globally by 2030 and alongside its USD 3 billion Ohio plant and Alabama
+    and Georgia investments, and no incremental capacity, model allocation, construction start or government contribution
+    amount disclosed in the release.
+  url: "https://global.honda/en/newsroom/news/2026/c261110ceng.html"
+
+- date: "2026-11-10"
   title: "U.S. manufacturing technology orders set a monthly record of USD 1,007.3 million in September, up 101.7 percent year on year"
   source: "Metrology News / AMT - The Association For Manufacturing Technology"
   sector: quality_software
@@ -74,6 +129,27 @@
     vehicles under the SMoK3D programme with value and delivery dates unpublished, and no split of Munich output by
     interceptor variant disclosed.
   url: "https://esut.de/2026/11/meldungen/76701/tytan-3-000-abfangdrohnen-bayern/"
+
+- date: "2026-11-09"
+  title: "VNA-only calibration of waveguide thermistor mounts reproduces factory certificates within 1.0 percent rms and PTB-traceable values within 0.34 percent rms"
+  source: "arXiv (Greco)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 9 November 2026 presents a method for determining the calibration factor and
+    effective efficiency of waveguide thermistor mounts from vector network analyser reflection data alone, without a
+    microcalorimeter, extending the three reflection-coefficient method used for coaxial mounts to waveguide mounts where
+    the thermistor-port reference impedance is not known in advance, making it a quantified shortening of the artefact
+    chain in radio-frequency power traceability rather than a general calibration note; cited specifics include inference
+    of the thermistor-port reference impedance through a power-consistency relation between pairs of states under a
+    real-impedance convention, reproduction of factory certificates at an expanded uncertainty of 2 percent for four
+    K486A mounts within 1.0 percent root mean square and of PTB-traceable values at 0.85 to 0.98 percent for a fifth
+    within 0.34 percent root mean square, expanded measurement uncertainty of 0.5 to 1.16 percent at k equal to 2 for the
+    best specimen and below 2 percent for all five, direct calibration of a mount with its waveguide-to-coaxial adapter
+    without separately characterising the adapter, a minimum-norm correction that brings the implied scattering matrix to
+    the passivity floor without changing the calibration result, and a closed-form sensitivity of efficiency to bias
+    resistance below 4 x 10-5 per ohm in band mean.
+  url: "https://arxiv.org/abs/2611.12369"
 
 - date: "2026-11-05"
   title: "Transponder-type heterodyne interferometer suppresses back-reflection phase noise by factors of 77 and 23 at 720 picowatts received power"
