@@ -1,4 +1,136 @@
 ---
+- date: "2026-11-11"
+  title: "Carbon Resources and Cosmo AM&T propose an INR 4,000 crore ferric phosphate and LFP cathode plant at Naidupeta in Andhra Pradesh"
+  source: "The Hindu BusinessLine / Carbon Cosmo Advanced Materials"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Hindu BusinessLine reports Carbon Resources of Kolkata and Korea's Cosmo AM&T plan a INR 4,000 crore, about
+    USD 480 million, battery raw materials plant at Naidupeta in the Tirupati district of Andhra Pradesh through a
+    joint venture named Carbon Cosmo Advanced Materials, making it a quantified Indian cathode-material capacity
+    proposal rather than a generic investment statement; cited specifics include a 230-acre site using Cosmo AM&T
+    technology to make ferric phosphate and lithium iron phosphate cathode materials, 700 direct and 3,500 to 5,000
+    indirect jobs, a three-phase build with a first phase of 30,000 tonnes a year each of ferric phosphate and
+    lithium iron phosphate due operational by mid-2028, a final phase completing by 2031 at 180,000 tonnes a year of
+    each material with up to 130,000 tonnes a year exportable, Cosmo AM&T supplying cathode materials to Samsung SDI
+    and LG Energy Solution, and the proposal discussed with state minister for education, IT and electronics Nara
+    Lokesh ahead of a CII Partnership Summit on 12 and 13 November 2026, with no land allotment, incentive package,
+    offtake agreement or construction start disclosed.
+  url: "https://www.thehindubusinessline.com/news/national/carbon-resources-cosmo-amt-to-invest-4000-crore-in-battery-materials-plant-in-ap/article71690307.ece"
+
+- date: "2026-11-10"
+  title: "LS MnM commissions a KRW 670 billion battery materials plant at Onsan with 24,000 tonnes a year of nickel sulfate capacity"
+  source: "The Herald Business / LS MnM"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    The Herald Business reports LS MnM completed a battery materials factory at its Onsan smelter in Ulju-gun, Ulsan,
+    and marked its 90th anniversary there on 10 November 2026, making it a quantified step from copper smelting into
+    battery precursor feedstock and spent-battery recycling rather than a general diversification notice; cited
+    specifics include a KRW 670 billion investment approved in 2023, a site of about 95,000 square metres, annual
+    capacity of 24,000 tonnes of nickel contained in nickel sulfate against an original 22,000-tonne target and
+    enough to supply about 500,000 electric vehicles, a single facility able to process both mixed hydroxide
+    precipitate from nickel ore and black mass recovered from spent lithium-ion cells, output of nickel sulfate,
+    cobalt sulfate and manganese sulfate for precursor manufacturers including the LS-L&F Battery Solution joint
+    venture with L&F, recovery of lithium from black mass into lithium hydroxide as cathode feedstock, and no ramp
+    schedule, customer volumes or per-tonne cost disclosed.
+  url: "https://biz.heraldcorp.com/article/10931871"
+
+- date: "2026-11-10"
+  title: "BMW Group adds Samsung SDI and LG Energy Solution as sixth-generation 46 mm cylindrical cell suppliers for the Neue Klasse"
+  source: "Electronic Times / BMW Group"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    The Electronic Times reports BMW Group said on 10 November 2026 that it signed high-voltage battery cell supply
+    agreements with Samsung SDI and LG Energy Solution, with Samsung SDI supplying cells produced in Europe and LG
+    Energy Solution cells made at its United States plants from the late 2020s, making it a quantified second-source
+    and localisation decision for a defined cell format rather than a generic supplier announcement; cited specifics
+    include sixth-generation cells in a 46 mm diameter cylindrical format replacing the prismatic fifth-generation
+    cells with more than 20 percent higher energy density and improvements of up to 30 percent in charging speed and
+    driving range, installation in vehicles on the Neue Klasse platform, Samsung SDI operating a Hungarian cell plant
+    and building a 46 mm cylindrical line targeted for mass production in 2028, LG Energy Solution operating plants at
+    Holland and Lansing in Michigan and preparing 46-series cylindrical output in Arizona, BMW battery assembly sites
+    at Irlbach-Strasskirchen, Debrecen, Shenyang, Woodruff and San Luis Potosi under a local-for-local procurement
+    strategy, three battery competence centres in Bavaria, and no supply volumes, contract values or per-plant
+    allocation disclosed.
+  url: "https://en.etnews.com/20261111200004"
+
+- date: "2026-11-10"
+  title: "Stellantis sells its idled 2.95 million square foot Brampton assembly plant to armoured vehicle maker Roshel"
+  source: "WardsAuto via Yahoo Finance / Stellantis / Roshel"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    WardsAuto reports Stellantis confirmed on 9 November 2026 that it is selling its idled Brampton, Ontario assembly
+    plant to Brampton-based armoured vehicle manufacturer Roshel Inc. for an undisclosed amount, with closing expected
+    by the end of 2026 subject to government and regulatory conditions, making it a quantified transfer of vehicle
+    assembly capacity out of automotive production rather than a capacity expansion; cited specifics include a plant
+    of 2.95 million square feet on 269 acres built in 1986 that last built Dodge muscle cars and the Chrysler 300
+    before being idled in 2023 for a retooling that never ran, Jeep Compass production moved to Illinois in 2025 with
+    more than 2,000 workers still on layoff, up to CAD 529 million of federal funding paid in 2022 for Brampton and
+    Windsor retooling tied to maintaining an average of 4,475 workers through 2036, Roshel output of 1,500 armoured
+    vehicles in 2025 from plants in Mississauga, Brampton, Ohio, Mexico, France and Colombia, Roshel bidding on a
+    federal light utility vehicle programme valued at about CAD 5 billion and stating it will pursue defence and
+    automotive contracts using the existing assembly line and equipment, and Unifor calling the sale a breach of the
+    collective agreement, with no purchase price, staffing commitment or production volume disclosed.
+  url: "https://finance.yahoo.com/economy/policy/articles/stellantis-confirms-sale-brampton-plant-184500952.html"
+
+- date: "2026-11-10"
+  title: "Lockheed Martin delivers its 100,000th GMLRS rocket and reaches nearly 14,000 rounds a year at Camden"
+  source: "Lockheed Martin"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Lockheed Martin reported on 10 November 2026 that it delivered its 100,000th Guided Multiple Launch Rocket System
+    rocket and is now producing nearly 14,000 rockets a year, a rate the company said was reached ahead of schedule,
+    making it a quantified output measure for a precision-strike munitions line rather than a contract award; cited
+    specifics include the milestones marked at a ceremony at the company's Camden, Arkansas site, a first test
+    completed with General Dynamics Ordnance and Tactical Systems of a new solid rocket motor for GMLRS with
+    continued testing and qualification in 2027 intended to establish a third domestic source for a key component,
+    more than 200 suppliers across 35 states of which more than 50 are small businesses, more than 200 employees
+    supporting GMLRS production at Camden while the site is hiring 50 percent more staff across accelerated PAC-3 MSE
+    and Precision Strike Missile work, more than 40 local high school graduates hired into the plant this year, and
+    rounds fired from M270 and HIMARS launchers, with no per-round price or delivery schedule disclosed.
+  url: "https://news.lockheedmartin.com/2026-11-10-More-Rockets,-Faster-Lockheed-Martin-Reaches-Major-GMLRS-Production-Milestone"
+
+- date: "2026-11-10"
+  title: "Diehl Metall and Diehl Defence open a 7,000 square metre DiNa 155 mm shell body line at Roethenbach with Nammo"
+  source: "Diehl Metall / Diehl Defence / Nammo"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Diehl Metall and Diehl Defence inaugurated a production line for the cases of the DiNa 155 mm artillery
+    projectile at Roethenbach an der Pegnitz on 10 November 2026, established in cooperation with Norway's Nammo AS,
+    making it a quantified addition of European artillery shell-body capacity rather than a contract notice; cited
+    specifics include a project launched in June 2024 that converted an existing production hall on a brownfield
+    basis across about 7,000 square metres, pilot-series production beginning in October 2026, investment in the mid
+    double-digit millions of euros, newly installed forming, welding, machining, surface treatment and testing
+    equipment with two new forging presses at the centre of the facility, a starting point of a 2024 order Diehl
+    Defence describes as the largest artillery ammunition order in its history, existing framework agreements under
+    which Germany and partner nations can call off DiNa 155 mm rounds and components for a complete round load, and
+    an inauguration attended by Bavarian minister-president Markus Soeder alongside German and Norwegian defence
+    ministry representatives, with no rounds-per-year capacity, unit cost or delivery schedule disclosed.
+  url: "https://new.diehl.com/metall/en/support-center/press/diehl-metall-and-diehl-defence-inaugurate-new-production-line-for-155mm-artillery-shell-bodies-in-roethenbach"
+
+- date: "2026-11-10"
+  title: "ZEISS PiWeb 2027.R1 adds rule-based inspection dynamization, a full ISO 22514-2 model set and native Kubernetes deployment"
+  source: "ZEISS Metrology"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    ZEISS published PiWeb 2027.R1 as part of its November 2026 quality software release, adding a dynamization
+    option that uses rule sets, historical data and simulation to reduce inspection scope without changing the
+    measurement plan so stable characteristics can be skipped while critical ones stay in focus, making it a change
+    to how much of a plan is measured rather than a reporting update; cited specifics include a stated aim of
+    shortening inspection cycles and freeing CMM capacity, ZEISS PiWeb Supply Chain Quality for consolidating
+    supplier-reviewed quality data and extending visibility beyond direct suppliers, support for the complete range
+    of ISO 22514-2 SPC workflows with the addition of the C2 model set verified in accordance with ISO 11462-2,
+    native Kubernetes support with a containerized architecture for automated scaling and recovery, and a ZEISS
+    CONNECTED QUALITY telemetry interface providing OPC UA access to system data based on the Companion Specification
+    for Geometric Measurement Systems for integration into ERP, MES or customer IT systems, with no pricing or
+    per-module availability detail disclosed.
+  url: "https://www.zeiss.com/metrology/en/software/innovations/2027-release-1.html"
 - date: "2026-11-10"
   title: "Lohum's Vidyuta wins approval for 20,000 tonnes a year of LCO cathode active material capacity in India under the Electronics Component Manufacturing Scheme"
   source: "Rediff / PTI (Lohum, Vidyuta)"
@@ -7591,17 +7723,6 @@
     Blum digital laser tool-center probing integration, and first official rollout
     of Mastercam Copilot for AI-assisted workflow support.
   url: https://www.mastercam.com/news/blog/mastercam-2026-r2-release/
-- date: '2026-02-07'
-  title: ZEISS PiWeb 2026 R1 release notes highlight CAD-result visualization and
-    AI-assisted translation
-  source: ZEISS Metrology
-  sector: quality_software
-  kind: vendor_release
-  summary: ZEISS PiWeb 2026 R1 release notes call out direct visualization of additional
-    measurement-result context in CAD views, server-side template management refinements,
-    and AI-assisted report translation features. The update also emphasizes notification
-    customization and usability improvements for cross-team quality-data workflows.
-  url: https://www.zeiss.com/metrology/en/software/zeiss-piweb/release-notes.html
 - date: '2026-02-07'
   title: LK launches MAXIMA/MAXIMA R large-volume CMM ranges with table and twin-rail
     architectures
