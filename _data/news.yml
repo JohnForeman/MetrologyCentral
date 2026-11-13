@@ -1,4 +1,81 @@
 ---
+- date: "2026-11-12"
+  title: "Kia and its suppliers sign an Andhra Pradesh MoU for a USD 2 billion second plant adding 200,000 vehicles a year"
+  source: "The Hindu BusinessLine / Kia India"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Kia India signed a memorandum of understanding with the Andhra Pradesh government at the 31st CII Partnership
+    Summit in Visakhapatnam on 12 November 2026 for a second manufacturing plant in Anantapur at a combined investment
+    of about USD 2 billion, or INR 18,770 crore, by the automaker and its supplier partners, making it a quantified
+    addition of Indian vehicle assembly capacity rather than a model or sales announcement; cited specifics include
+    annual installed capacity of 200,000 vehicles taking Kia India combined capacity from 430,000 to 630,000 units, a
+    site of 465 acres shared with supplier operations in the expanded area beside the existing plant, stamping,
+    welding, painting and assembly carried out on site for new internal combustion engine and electric models for
+    domestic and export markets, production targeted to begin in early 2030, about 12,000 additional direct and
+    indirect jobs, cumulative investment across both Kia plants including suppliers of about USD 5 billion, an existing
+    Anantapur plant that began production in August 2019 and builds the Seltos, Sonet and Carens, and a statement by
+    Kia India managing director and chief executive Gwanggu Lee that India is central to the company long-term growth,
+    with no model allocation, supplier list, incentive package or construction start disclosed.
+  url: "https://www.thehindubusinessline.com/companies/kia-to-invest-2-billion-in-ap-to-expand-operations/article71692518.ece"
+
+- date: "2026-11-12"
+  title: "ZEISS INRADIA 3D moves computed tomography into series production at up to ten prismatic battery cells inspected per minute"
+  source: "ZEISS Research & Quality Solutions"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    ZEISS introduced ZEISS INRADIA 3D on 12 November 2026, an in-line computed tomography system for automated
+    non-destructive inspection of internal component structures inside production lines, making it a quantified move of
+    volumetric metrology into series production rather than a laboratory CT announcement; cited specifics include a
+    stated throughput of up to ten prismatic battery cells per minute, a CT architecture in which the X-ray source and
+    detector move around a stationary component instead of the part rotating, two robots handling automated part feeding
+    and removal in alternation to minimise waiting time between scans, evaluation through ZEISS INSPECT X-Ray and
+    Volume Inspection AI with application-specific models producing automated pass or fail decisions, inspection of
+    electrode overhangs, electrode count and folded or protruding electrodes inside cells, further applications in
+    soldered and welded joints in power electronics and geometric inspection of complex connectors, integration into
+    existing production lines and manufacturing execution systems, automatic calibration, temperature compensation and
+    reference measurements for stability in continuous operation, and adaptable component handling, inspection
+    parameters and automation interfaces, with no scanner resolution, measurement uncertainty, cycle-time breakdown or
+    price disclosed.
+  url: "https://www.zeiss.com/metrology/en/about-us/newsroom/2026/inline-ct-series-production.html"
+
+- date: "2026-11-12"
+  title: "KP Group plans 10 GWh of battery cell capacity in India at more than INR 5,000 crore with a first phase by March 2028"
+  source: "BESS News / Business Standard (KPI Green Energy)"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    BESS News, citing a Business Standard interview with KPI Green Energy whole-time director Affan Faruk Patel,
+    reports KP Group plans 10 GWh of battery cell manufacturing capacity at an investment above INR 5,000 crore, about
+    USD 533 million, with the first phase expected to be operational by March 2028, making it a quantified entry of a
+    renewable independent power producer and engineering contractor into cell manufacturing rather than a storage
+    project announcement; cited specifics include an expectation of launching the plant in about one to one-and-a-half
+    years, three consultants engaged to apply under relevant government incentive schemes that Patel said are needed
+    for financial viability and the required internal rate of return, a home portfolio of about 3.2 GW of independent
+    power production and 6.2 GW of renewable engineering procurement and construction work, approximately 1.5 GWh of
+    cumulative battery energy storage orders from Gujarat Urja Vikas Nigam Limited with power purchase agreements still
+    being negotiated, a 5 GWh storage pipeline in Botswana and storage development target markets including Zambia,
+    Tanzania, Saudi Arabia and the United Arab Emirates, and an ambition to raise the domestic portfolio to 10 GW by
+    2032, with no plant site, cell chemistry, line equipment, incentive award or offtake for the cells disclosed.
+  url: "https://bessnews.com/technology/2026/11/12/kp-group-kpi-green-energy-10-gwh-battery-cell-manufacturing-inr-5000-crore-india"
+
+- date: "2026-11-12"
+  title: "U.S. Navy awards BAE Systems USD 138 million to keep producing Virginia-class submarine propulsors at two sets a year through 2032"
+  source: "Defence Industry Europe / BAE Systems"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports the U.S. Navy awarded BAE Systems a USD 138 million contract to continue producing
+    propulsors for the Virginia-class submarine programme, with orders placeable through September 2032 for propulsor
+    assemblies, engineering services, replacement parts and related support, making it a quantified sustainment of a
+    constrained submarine industrial-base line rather than a platform award; cited specifics include current output of
+    two Virginia-class propulsor sets a year that BAE Systems says meets the Navy production goal, delivery of major
+    propulsor assemblies for every submarine in the class to date, capacity funded by company self-investment at
+    Louisville in Kentucky, Jacksonville in Florida and Minneapolis in Minnesota, and BAE citing the contract as
+    support for the Navy 1 plus 2 submarine build cadence, with no annual quantity increase, per-set price or capacity
+    expansion figure disclosed.
+  url: "https://defence-industry.eu/u-s-navys-138-million-bae-systems-contract-covers-virginia-class-propulsor-orders-through-2032/"
 - date: "2026-11-11"
   title: "Carbon Resources and Cosmo AM&T propose an INR 4,000 crore ferric phosphate and LFP cathode plant at Naidupeta in Andhra Pradesh"
   source: "The Hindu BusinessLine / Carbon Cosmo Advanced Materials"
