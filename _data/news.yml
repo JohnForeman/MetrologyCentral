@@ -1,4 +1,95 @@
 ---
+- date: "2026-11-12"
+  title: "Speckle angle metric gives a linear small-perturbation response and a 1.96 attometre acquisition-limited wavelength resolution bound at 1550 nanometres"
+  source: "arXiv (Trowbridge, Britto Monteiro, Dholakia et al.)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 12 November 2026 introduces the speckle angle, the angular displacement between
+    normalised speckle intensity patterns treated as vectors on a high-dimensional unit sphere, in place of similarity-
+    based metrics whose gradient vanishes as similarity approaches unity, making it a quantified change to how speckle-
+    based displacement and wavelength sensing is characterised rather than a general optics result; cited specifics
+    include a linear, maximally sensitive response in the small-perturbation regime, direct estimation of uncorrelated
+    and fixed-pattern noise from a departure angle of arccos of one minus the squared uncorrelated noise fraction and an
+    asymptote angle set by the squared correlated noise fraction, an integrating-sphere experiment with a laser swept
+    from 1550 to 1551 nanometres at 0.5 nanometres per second and a 640 by 64 pixel, 14-bit short-wave infrared camera
+    at 3,486 hertz with a measured characteristic wavelength change of about 1.1 picometres, an acquisition-limited
+    resolution bound of about 1.96 attometres at 1550 nanometres derived from bit depth and pixel count alone, an
+    uncorrelated noise departure angle of 0.133 radians equal to a noise-limited resolution of about 103 femtometres,
+    and peak sensitivity of 1.041 milliradians per femtometre at 267 femtometres of detuning against 0.6617 with added
+    noise, as an unrefereed preprint.
+  url: "https://arxiv.org/abs/2611.16438"
+
+- date: "2026-11-11"
+  title: "General Atomics AeroTec breaks ground on a 40,000 square metre Nordholz MRO site with four docks due by the end of 2027"
+  source: "General Atomics AeroTec Systems / aeroTELEGRAPH / Defence Industry Europe"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    General Atomics AeroTec Systems held a groundbreaking ceremony on 11 November 2026 for a maintenance facility at
+    Nordholz in Lower Saxony, attended by Minister President Olaf Lies, making it a quantified addition of European
+    military aircraft maintenance, repair and overhaul capacity rather than a corporate site notice; cited specifics
+    include a 40,000 square metre site connected to the Cuxhaven/Nordholz airfield, four MRO docks expected to be
+    operational by the end of 2027 within a build-out of three hangars and up to twelve docks, training rooms for
+    customer maintenance training, a stated long-term investment potential above EUR 50 million, more than 100 jobs at
+    maturity against around 60 initially, intended work on Bundeswehr NH90 transport helicopters with prospective
+    support for the MQ-9B Sea Guardian at an airfield where the German Navy is to base almost 50 NH90 helicopters and
+    eight P-8A Poseidon aircraft by 2030, with no per-phase capital cost, dock throughput or contract value disclosed.
+  url: "https://www.ga-ats.com/en/news-and-fairs/news/news-detail/groundbreaking-ceremony-for-new-general-atomics-aerotec-facility-in-nordholz"
+
+- date: "2026-11-14"
+  title: "Waaree commissions a 5.15 GWh battery pack line at Rola in Gujarat"
+  source: "Waaree Energies (BSE and NSE disclosure)"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Waaree Energies disclosed to the BSE and the National Stock Exchange on 14 November 2026 that subsidiary Waaree
+    Energy Storage Solutions Private Limited commissioned a new battery pack manufacturing line with annual installed
+    capacity of 5.15 GWh at its factory at Rola in Valsad district, Gujarat, at 10:00 a.m. that day, making it a
+    quantified addition of Indian pack-level capacity rather than a project announcement; cited specifics include the
+    disclosure made under Regulation 30 of the SEBI Listing Obligations and Disclosure Requirements Regulations and a
+    single line rated at 5.15 GWh of annual installed capacity, with no capital cost, cell chemistry or format, cell
+    sourcing, pack output rate, customer offtake or ramp schedule disclosed.
+  url: "https://nsearchives.nseindia.in/corporate/WAAREE_14112026195402_BESSPacklineannouncementsigned.pdf"
+
+- date: "2026-11-13"
+  title: "Scout Motors assembles first validation vehicles at Blythewood with about 5,000 welds per body checked by AI weld monitoring and an advanced metrology system"
+  source: "Manufacturing.net / Scout Motors"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Manufacturing.net reports Scout Motors began welding, painting and assembling validation vehicles at its production
+    center in Blythewood, South Carolina, announced during a factory tour on 12 November 2026, making it a quantified
+    commissioning stage at which the plant weld monitoring and dimensional inspection systems are proven on real bodies
+    rather than a construction milestone; cited specifics include body shop, paint shop and assembly buildings totalling
+    3 million square feet at 85 to 95 percent complete with most equipment installed and being commissioned,
+    approximately 160 parts forming a complete body on a line with more than 750 robots and about 5,000 weld points per
+    body, AI-supported weld monitoring and advanced measurement systems evaluating weld performance and dimensional
+    accuracy, sample bodies measured thousands of times against engineering specifications by an advanced metrology
+    system before paint and assembly, a body shop designed for approximately 40 vehicles per hour against a stated
+    200,000 vehicles a year plant capacity, more than USD 2 billion committed with more than 4,000 jobs expected, and
+    212,000 refundable USD 100 reservations of which about 87 percent are range-extender variants, with validation
+    builds continuing into 2027 and deliveries not expected before 2028.
+  url: "https://www.manufacturing.net/automotive/news/22978425/scout-motors-begins-validation-vehicle-builds-in-south-carolina"
+
+- date: "2026-11-13"
+  title: "Topre approves about USD 140 million for a new Alabama stamping plant and Tennessee press additions with operations from fiscal 2028"
+  source: "Topre Corporation (Tokyo Stock Exchange disclosure)"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Topre Corporation disclosed a board resolution on 13 November 2026 to invest approximately USD 140 million at wholly
+    owned subsidiary Topre America Corporation, covering a new plant and equipment in Alabama and additional press
+    machines at its Tennessee plant, making it a quantified expansion of North American body-panel stamping capacity
+    tied to customer hybrid output plans rather than a general supplier investment note; cited specifics include an
+    integrated stamping-to-assembly production system at the new Alabama site, a planned start of operations in fiscal
+    2028, subsidiary capital of USD 211 million against which the investment equals about two thirds, a subsidiary
+    established in 2002 at County Road 222 in Cullman, Alabama, a stated rationale of expanding hybrid demand combined
+    with reassessment of electric vehicle demand and Japanese automakers optimising local production, and an expectation
+    of minimal effect on results for the fiscal year ending 31 March 2027, with no named customer, incremental capacity,
+    construction schedule or payback disclosed.
+  url: "https://www2.jpx.co.jp/disc/59750/140120261111574082.pdf"
+
 - date: "2026-11-13"
   title: "BMW Group opens Plant Woodruff and starts series production of Gen6 high-voltage batteries for the U.S.-built iX5"
   source: "BMW Group"
