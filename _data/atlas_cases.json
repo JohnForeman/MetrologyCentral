@@ -1129,5 +1129,93 @@
   "part_group": "Automotive springs",
   "vendor_group": "Jenex",
   "context": "R&D project"
+ },
+ {
+  "id": "pilatus-hexagon-aeon-pc24-assembly-check",
+  "title": "Pilatus (Stans) trials Hexagon's AEON humanoid robot to check that the right components are fitted in the right place on PC-24 assemblies",
+  "company_plant": "Pilatus Aircraft, final assembly line, Stans (Switzerland)",
+  "industry": "aerospace",
+  "defect_type": "Wrong or misplaced components in assemblies (installed-part check)",
+  "part": "PC-24 fuselage sidewall assembly",
+  "material": "",
+  "vendor": "Hexagon (AEON humanoid robot)",
+  "camera_lighting": "Humanoid robot combining sensors, artificial intelligence and precision measurement; navigates the hangar on its own to the assembly and makes digital recordings",
+  "training_data": "",
+  "reported_result": "No inspection metrics published. In an initial test, AEON \"finds its way to an assembly such as a PC-24 fuselage sidewall and checks that a worker has fitted the right component in the right place.\" Pilatus says the robot \"could eventually do those checks at night, inspecting work completed during the day.\" Head of structure assembly Benjamin Mettler: \"we certainly recognize the robot's potential.\"",
+  "source_url": "https://defence-industry.eu/pilatus-aircraft-tests-aeon-humanoid-robot-to-inspect-aircraft-parts-on-its-final-assembly-line/",
+  "source_type": "Trade press (citing company announcement)",
+  "notes": "Defence Industry Europe, Nov 5, 2026. Trial run jointly with Hexagon; first time Pilatus has used a humanoid robot; not yet in production. Pilatus' own news post: https://www.pilatus-aircraft.com/en/news/pilatus-tests-a-humanoid-robot (\"The system still needs a lot of work before it's ready for use in the future\"). Project manager Kilian Läubli says a regulatory framework is still needed to define how such robots can be used legally.",
+  "defect_categories": [
+   "Assembly / missing part"
+  ],
+  "part_group": "PC-24 fuselage sidewall assembly",
+  "vendor_group": "Hexagon",
+  "context": "R&D project"
+ },
+ {
+  "id": "bison-forged-main-bearing-cap-bolt-retrofit",
+  "title": "Bison retrofits an automotive forging maker's main bearing cap bolt inline inspection: 28 to 60 parts per minute, overkill from over 20% to within 0.5%",
+  "company_plant": "Unnamed automotive forged-parts manufacturer; existing main bearing cap bolt inline inspection machine",
+  "industry": "automotive",
+  "defect_type": "Defects on forged parts (defect types not specified); false rejects (overkill) of good parts",
+  "part": "Main bearing cap bolts (forged)",
+  "material": "",
+  "vendor": "Bison (BISON, AI machine vision)",
+  "camera_lighting": "Modular vision platform on an industrial mini PC; camera, lens and lighting layout adapted to the part and to the existing machine's structure and space",
+  "training_data": "",
+  "reported_result": "Vendor-reported: inspection throughput rose from 28 to 60 parts per minute (about 2.1x), and the overkill rate (good parts judged defective) fell from over 20% to within 0.5%. The retrofit took 10 days.",
+  "source_url": "https://www.mt.co.kr/industry/2026/11/06/2026110410161566666",
+  "source_type": "Trade press (Korean)",
+  "notes": "Money Today (mt.co.kr), Nov 6, 2026, in Korean, based on Bison's announcement. Bison's third inspection-system supply contract with this forging maker. The existing machine previously ran a global company's smart vision system; Bison reused the existing equipment. Bison plans to keep retraining the AI model on forging images and defect data collected on site. Vendor-published results, not independently verified.",
+  "defect_categories": [
+   "Other"
+  ],
+  "part_group": "Main bearing cap bolts",
+  "vendor_group": "Bison",
+  "context": "Production"
+ },
+ {
+  "id": "autoliv-jiangsu-burst-disc-laser-weld-ai",
+  "title": "Autoliv (Jiangsu): in-house AI vision system inspects laser welds on burst discs for automotive safety components",
+  "company_plant": "Autoliv (Jiangsu) Automotive Safety Components Co., Ltd., Jintan District, Changzhou (China)",
+  "industry": "automotive",
+  "defect_type": "Laser weld defects (varied, complex weld defect shapes)",
+  "part": "Burst discs (rupture discs) for automotive safety components",
+  "material": "",
+  "vendor": "Autoliv (in-house algorithm model)",
+  "camera_lighting": "",
+  "training_data": "Algorithm model built by the team and tuned repeatedly with industrial shop-floor data",
+  "reported_result": "No inspection metrics published. The system was selected for Changzhou NDRC's \"2026 second batch AI+ application scenario list.\" Deployment uses a centralized server architecture in which one server handles detection inference for several production lines at once. The source says it makes up for manual inspection's unstable recognition of tiny flaws.",
+  "source_url": "https://www.jintan.gov.cn/html/czjt/2026/IJLEQALK_1116/304793.html",
+  "source_type": "Government news (Chinese)",
+  "notes": "Jintan District government site (district media center), Nov 16, 2026, in Chinese. The source notes conventional machine vision suits rule-based features such as size, position and count but struggles with variable weld defects; the AI system targets that gap and runs on the production floor. Autoliv plans further AI uses in automotive safety components.",
+  "defect_categories": [
+   "Weld & spatter"
+  ],
+  "part_group": "Burst discs",
+  "vendor_group": "Autoliv",
+  "context": "Production"
+ },
+ {
+  "id": "goworld-shantou-auto-display-panel-yolo-aoi",
+  "title": "Automotive display panels: multiview AOI with a YOLOv8n-based detector reaches 99.2% panel-level recall in production-line validation",
+  "company_plant": "Shantou University with Shantou Goworld Display Technology (Guangdong Provincial Key Laboratory of Automotive Display and Touch Technologies), China",
+  "industry": "automotive",
+  "defect_type": "Surface defects on display panels, often obscured by reflections, dust, moiré and viewing angle",
+  "part": "Automotive display panels",
+  "material": "",
+  "vendor": "Research system (YOLO-OG, improved YOLOv8n)",
+  "camera_lighting": "Multiview image acquisition with dark-field dust suppression and region-of-interest preprocessing",
+  "training_data": "Self-built automotive display panel defect dataset (not public, industrial confidentiality); transfer tests on the public PKU MSD dataset",
+  "reported_result": "In production-line validation the system \"achieved 99.2% panel-level recall, exceeding that of manual inspection, and produced half the false positives of conventional AOI under the same imaging workflow, with a mean station time of 1.57 s across the defective panels.\" On the dataset, YOLO-OG improved precision by 7.6, mAP@0.5 by 5.7 and mAP@0.5:0.95 by 2.1 percentage points over the YOLOv8n baseline.",
+  "source_url": "https://link.springer.com/article/10.1007/s11220-026-00926-0",
+  "source_type": "Peer-reviewed paper",
+  "notes": "Sensing and Imaging (Springer Nature), published Nov 13, 2026. Research project; authors from Shantou University's College of Engineering and one co-author from Shantou Goworld Display Technology. The paper does not say which production line was used for validation. Authors thank engineers from the Machine Vision Department of the Shantou Institute of Light Industry Equipment.",
+  "defect_categories": [
+   "Surface scratches/dents"
+  ],
+  "part_group": "Automotive display panels",
+  "vendor_group": "Research system",
+  "context": "R&D project"
  }
 ]
