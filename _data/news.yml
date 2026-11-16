@@ -1,4 +1,100 @@
 ---
+- date: "2026-11-11"
+  title: "Boeing tops out the second 787 final assembly building at North Charleston less than a year into a USD 1 billion expansion"
+  source: "Charleston Business Report / The Post and Courier / Boeing"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Charleston Business Report, citing The Post and Courier, reports Boeing lifted the final steel beam into place at
+    its new 787 final assembly building at Boeing South Carolina in North Charleston on 30 October 2026, less than a
+    year after breaking ground on 7 November 2025 for an investment of more than USD 1 billion, making it a quantified
+    construction stage on the capacity that sets the 787 build rate rather than a production result; cited specifics
+    include a near duplicate of the original 787 factory measuring 1,037 by 614 feet whose construction took 6,000
+    concrete trucks and is supported by 75,000 pieces of steel, a second building that adds a third production line to
+    the two in the current building according to chief financial officer Jay Malave on the 27 October 2026 analyst
+    call, a stated expectation that the majority of the capability comes online late next year, a commitment of more
+    than 1,000 jobs over five years with the company having estimated 1,000 additional South Carolina workers by 2030,
+    a construction programme expected to employ more than 2,500 people over more than 6.2 million hours, HITT
+    Contracting and BE&K Building Group as construction manager with BRPH as architect of record, and engines from GE
+    Aerospace still cited as the constraint on Dreamliner output, with no building commissioning date, rate by line or
+    per-phase cost disclosed.
+  url: "https://chsbusinessreport.com/stories/boeing-787-expansion-final-beam"
+
+- date: "2026-11-07"
+  title: "Boeing and Hexcel joint venture Aerospace Composites Malaysia adds 125,000 square feet at Bukit Kayu Hitam in a RM50 million expansion"
+  source: "The Edge Malaysia / Aerospace Composites Malaysia"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Edge Malaysia reports Aerospace Composites Malaysia, the Boeing and Hexcel joint venture at the Bukit Kayu
+    Hitam industrial estate in Kedah, opened an expanded manufacturing facility on 7 November 2026 after a RM50
+    million investment that raises factory floor area by 40 percent, making it a quantified addition of aerostructures
+    capacity on a Boeing commercial supply line rather than a corporate event; cited specifics include 125,000 square
+    feet added to a footprint now totalling 440,000 square feet, an 11,000 square foot clean-room expansion, RM14
+    million of newly installed equipment, almost RM240 million invested at the site since the company was established
+    in 2001, employment of almost 1,000 against about 100 at start-up, flight surfaces for the 737 next generation,
+    747-8, 767, 777 and 787 programmes, general manager Robert Moray attributing the expansion to growing demand for
+    aerospace technology work, and the facility opened by Kedah Menteri Besar Mukhriz Tun Dr Mahathir, with no output
+    rate, part family split or commissioning schedule for the new equipment disclosed.
+  url: "https://theedgemalaysia.com/article/boeing-hexcel-invest-rm50-mln-expand-jv-facility"
+
+- date: "2026-11-13"
+  title: "Satrec Initiative approves KRW 40.3 billion for a Daejeon facility to raise repeat satellite production capacity"
+  source: "Seoulz / Satrec Initiative (DART disclosure)"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Seoulz reports Satrec Initiative, a satellite manufacturer affiliated with Hanwha Aerospace, approved a KRW 40.3
+    billion new facility investment in a regulatory filing to the Financial Supervisory Service DART system on 13
+    November 2026, making it a quantified addition of repeat satellite production capacity rather than a study or
+    delivery contract; cited specifics include an investment amount of KRW 40,300,000,000 equal to 17.00 percent of
+    equity capital of KRW 237,002,942,111, a stated purpose of strengthening repeat satellite-production capability,
+    an investment period running from the 13 November 2026 board resolution date to a scheduled construction
+    completion of 31 December 2028, a site at Guryong-dong in Yuseong-gu, Daejeon, an amount stated before value-added
+    tax, and funding from internal funds, new funds from business activities and funds raised through financing
+    activities, with no floor area, satellite output rate, programme allocation or per-phase cost disclosed.
+  url: "https://www.seoulz.com/news/satrec-initiative-approves-40-3-billion-won-investment-expand-satellite"
+
+- date: "2026-11-08"
+  title: "LK Metrology introduces a UKAS-certified CMM Checking Gage for intermediate accuracy verification between annual calibrations"
+  source: "Modern Manufacturing India / LK Metrology"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Modern Manufacturing India reports LK Metrology introduced a range of UKAS-certified length and form gages
+    supplied with a holding fixture that allows the inspection accuracy of a CMM or portable measuring arm to be
+    verified between annual calibrations, making it a quantified intermediate-check artefact for a dimensional
+    measurement platform rather than a measuring instrument launch; cited specifics include a stated gage measurement
+    tolerance of plus or minus 0.01 micrometres, three combinations of length bars, ring gage, test sphere and fixture
+    in different sizes to suit different machine models, a go/no-go check that produces measurement results for
+    ongoing machine monitoring, delivery in a carrying case with a program on a USB drive that runs in LK CAMIO and
+    includes DMIS measurement and alignment routines for bridge and horizontal arm CMMs, intended use in detecting
+    environmental change or an unnoticed probe crash in time to schedule an interim machine service or calibration
+    before downstream manufacturing is affected, applicability to other three-dimensional measuring platforms through
+    a probing cycle programmed around the gage, with no gage sizes, check interval, uncertainty budget or price
+    disclosed.
+  url: "https://www.mmindia.co.in/article/1624/lk-metrology-introduces-cmm-checking-gage"
+
+- date: "2026-11-14"
+  title: "MOS depletion-layer capacitance sensor measures electrostatic fields at 178 volts per metre resolution across a plus or minus 1000 kilovolt per metre range"
+  source: "Nature Communications (Liu, Wu, Ye et al.)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published open access in Nature Communications on 14 November 2026 in an accepted early version presents a
+    miniaturized electrostatic field sensor in which an induction electrode converts an external field into an
+    equivalent bias voltage that modulates the depletion-layer width and total capacitance of a
+    metal-oxide-semiconductor structure, read out by a bias-tunable capacitance bridge, making it a quantified
+    measurement-instrument result for embedded online field monitoring rather than a general device paper; cited
+    specifics include a measurement range of plus or minus 1000 kilovolts per metre, a resolution of 178 volts per
+    metre and a linearity of 0.9999 after calibration in a parallel-plate electrode system, positioning of the
+    depletion response inside a monotonic regime of the capacitance to voltage characteristic so that bipolar field
+    measurement is possible, demonstrated monitoring of surface-charge evolution on insulating materials and scanning
+    of surface electric fields on power devices, and authors Xinting Liu, Shilin Wu, Yihan Ye, Chuanyang Li, Jinliang
+    He and Jun Hu, with no long-term drift, temperature coefficient or field-comparison uncertainty budget reported in
+    the abstract.
+  url: "https://www.nature.com/articles/s41467-026-79482-w"
+
 - date: "2026-11-12"
   title: "Speckle angle metric gives a linear small-perturbation response and a 1.96 attometre acquisition-limited wavelength resolution bound at 1550 nanometres"
   source: "arXiv (Trowbridge, Britto Monteiro, Dholakia et al.)"
