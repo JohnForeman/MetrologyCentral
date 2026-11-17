@@ -1,4 +1,96 @@
 ---
+- date: "2026-11-17"
+  title: "SinceVision SGI-N030W wide-spot laser displacement sensor states plus or minus 0.3 micrometre electrode thickness at 300 millimetres per second"
+  source: "Metrology News / SinceVision"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    Metrology News reports SinceVision introduced the SGI-N030W wide-spot laser displacement sensor for
+    non-contact dimensional measurement of rough, textured and diffuse surfaces, widening the illuminated spot
+    so sub-spot surface texture is optically averaged before signal conversion instead of being read as a
+    dimensional change, making it a quantified configuration change to a shop-floor triangulation sensor rather
+    than a general sensor launch; cited specifics include a 30 millimetre reference distance with a plus or
+    minus 5 millimetre measuring range spanning 25 to 35 millimetres, a stated repeatability of 0.05 micrometres
+    on a static diffuse white target, linearity of plus or minus 0.02 percent of full scale, 50 kilohertz
+    sampling equal to a 20 microsecond update interval, a 655 nanometre class 3R source with a 40 by 850
+    micrometre spot at the reference distance, hardware-level master-slave synchronisation for two heads
+    operating in opposition, RS485 plus 100Base-TX Ethernet and switchable 4 to 20 milliampere or 0 to 10 volt
+    analogue output, IP67 rating in an 87 by 75 by 30 millimetre housing, a proposed electrode web arrangement
+    with two opposed heads on a low-expansion gantry subtracting measured clearances from a fixed mechanical
+    datum with periodic zero-point compensation on a reference block, a vendor-stated thickness stability within
+    plus or minus 0.3 micrometres at 300 millimetres per second web speed with production runs reported between
+    1 and 2 metres per second, and intended use in wafer position and edge checking and voice-coil or linear
+    actuator stroke measurement, with no price, calibration interval, temperature coefficient or full-speed
+    thickness uncertainty disclosed.
+  url: "https://metrology.news/sincevision-launches-wide-spot-laser-displacement-sensor-for-precision-measurement/"
+
+- date: "2026-11-16"
+  title: "Tesla commits EUR 3 billion to a Gruenheide expansion sized for up to one million Cybercabs a year with production from 2029"
+  source: "electrive / Tesla"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    electrive reports Tesla announced on 16 November 2026 a EUR 3 billion expansion of Gigafactory
+    Berlin-Brandenburg at Gruenheide, covering a new production hall, ancillary buildings and an additional
+    wastewater treatment plant, making it a quantified vehicle assembly capacity commitment for a named model
+    rather than a general site announcement; cited specifics include a new hall sized to build up to one million
+    Cybercab robotaxis a year with construction beginning in the first half of 2027 and production starting in
+    2029, a permit application to be filed before the end of 2026 building on a 2023 application for the
+    overall project, a three-phase approval process whose first partial approval was granted in October 2024
+    over about 70 hectares, existing capacity of around 375,000 vehicles a year against about 200,000 Model Y
+    units built in 2025, weekly output of around 7,000 vehicles approaching a technical limit of 7,500,
+    in-house cell production expected to reach full capacity by mid-2027 with 1,500 additional workers still
+    needed for it, a workforce of 12,600 against a low of about 11,000, and comments from plant manager Andre
+    Thierig and Brandenburg minister-president Dietmar Woidke, with no split of the EUR 3 billion between
+    buildings and production equipment, per-phase cost, Cybercab line output rate or European type-approval
+    route disclosed.
+  url: "https://www.electrive.com/2026/11/16/tesla-announces-multi-billion-euro-expansion-of-gigafactory-grunheide/"
+
+- date: "2026-11-16"
+  title: "Hadrian acquires Kutztown Foundry and Machine and commits USD 300 million to naval steel casting capacity as Factory 6"
+  source: "Hadrian / PR Newswire / Reading Eagle"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Hadrian announced on 16 November 2026 that it acquired Kutztown Foundry and Machine in Kutztown,
+    Pennsylvania, a specialty and high-alloy steel casting supplier founded in 1866 that becomes Factory 6, and
+    will invest an additional USD 300 million to modernise and expand the site for Columbia- and Virginia-class
+    submarine hardware, making it a quantified addition of domestic naval-grade casting and forging capacity at
+    an existing foundry rather than a greenfield announcement; cited specifics include modernisation of the
+    existing plant with advanced software and automation, construction of two new plants on the site starting
+    in January 2027 with one dedicated to pouring steel and submarine parts and one to munitions and engines,
+    completion expected in about two years, Navy approval for HY-80 and HY-100 castings alongside ISO 9001, a
+    qualified welding and inspection workforce and an ASME nuclear quality system, the site pouring Navy steel
+    for the first time on 15 November 2026, existing casting design and simulation, heat treatment, grinding and
+    finishing, CNC and manual machining, metallurgical and chemical testing and non-destructive testing
+    capability, a workforce of 49 rising to at least 200 with hundreds of manufacturing jobs expected and
+    further supplier jobs cited, and the project following the March 2026 opening of Hadrian 2.25 million square
+    foot Factory 4 in Cherokee, Alabama backed by USD 2.4 billion of public and private investment, with no
+    purchase price, casting tonnage, melt capacity or output rate disclosed.
+  url: "https://www.prnewswire.com/news-releases/hadrian-acquires-kutztown-foundry--machine-plans-300-million-investment-to-expand-americas-submarine-production-capacity-302939809.html"
+
+- date: "2026-11-16"
+  title: "Toyota Kirloskar Auto Parts opens an INR 460 crore E-Drive line at Bidadi taking capacity to 360,000 units a year"
+  source: "CNBC TV18 / Toyota Kirloskar Auto Parts"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    CNBC TV18 reports Toyota Kirloskar Auto Parts inaugurated a new E-Drive manufacturing line at its Bidadi
+    facility in Bengaluru, Karnataka on 16 November 2026, adding annual capacity of 200,000 electrified
+    powertrain units and taking the company total E-Drive capacity to 360,000 units a year, making it a
+    quantified addition of localised hybrid component capacity rather than a general supplier investment note;
+    cited specifics include an investment of about INR 460 crore, next-generation E-Drive systems classified
+    under the Advanced Automotive Technology category of the India Production Linked Incentive scheme for
+    automobiles and auto components, the new line operating alongside the fourth-generation E-Drive line
+    commissioned in 2022, the project sitting inside an INR 4,800 crore memorandum of understanding between
+    Toyota group companies and the Karnataka government covering advanced manufacturing, localisation,
+    employment and green mobility technologies, inauguration by Karnataka principal secretary for commerce and
+    industries S Selvakumar with Toyota Kirloskar Motor vice chairperson Manasi Tata and Toyota Kirloskar Auto
+    Parts managing director Tabrez Ahmed, and Toyota citing global hybrid sales above 36.8 million units, with
+    no employment figure for the new line, unit price, local content share, customer allocation or ramp
+    schedule disclosed.
+  url: "https://www.cnbctv18.com/auto/toyota-kirloskar-auto-parts-bengaluru-e-drive-manufacturing-hybrid-vehicle-production-20035543.htm"
+
 - date: "2026-11-11"
   title: "Boeing tops out the second 787 final assembly building at North Charleston less than a year into a USD 1 billion expansion"
   source: "Charleston Business Report / The Post and Courier / Boeing"
