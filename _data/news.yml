@@ -1,5 +1,94 @@
 ---
 - date: "2026-11-17"
+  title: "Ford orders a prismatic LFP pilot cell line for Ion Park in Michigan with DH supplying the winder and Hana Technology the formation and finishing equipment"
+  source: "The Elec"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    The Elec reports, citing industry sources on 16 November 2026, that Ford will build a pilot production line for
+    prismatic lithium iron phosphate cells for energy storage systems at Ion Park, its electrification research and
+    development site in Michigan, with principal equipment already ordered from South Korean suppliers DH and Hana
+    Technology, making it a quantified move from licensed CATL process output toward an in-house cell process proven
+    on a pilot line rather than a capacity announcement; cited specifics include DH supplying assembly equipment
+    including the winder that rolls cathode, anode and separator into an electrode assembly and Hana Technology
+    supplying formation and finishing equipment, electrode processing continuing on existing equipment with
+    modification, Ford engineers travelling to Korea in late October 2026 to agree equipment build and delivery
+    schedules, a winding rather than stacking assembly route matching CATL practice, cells in a 512 ampere-hour
+    prismatic format feeding the Ford Energy DC Block 20-foot containerised system rated at 5.45 megawatt-hours in
+    two-hour and four-hour configurations, a five-year framework agreement with EDF Power Solutions for up to 4
+    gigawatt-hours a year and 20 gigawatt-hours over the term with deliveries from 2028 and DESRI added as a second
+    customer in November 2026, a planned investment of about USD 2 billion over two years targeting at least 20
+    gigawatt-hours of annual deployments, the Glendale, Kentucky plant taken over from the dissolved BlueOval SK
+    joint venture with SK On as the intended expansion site at around 20 gigawatt-hours a year from late 2027 after
+    trial runs of electrode mixing, an existing LFP line at BlueOval Battery Park Michigan completed in 2026 on
+    licensed CATL technology with equipment from CATL partners including Wuxi Lead Intelligent Equipment and cell
+    cans and caps from Red Fairy, and a USD 30,000-class midsize electric pickup due in 2027 as a second user of the
+    cells, with no pilot line output rate, equipment order value, cell cost, ramp schedule or Ford confirmation of
+    the plan disclosed.
+  url: "https://www.thelec.net/news/articleView.html?idxno=15669"
+
+- date: "2026-11-17"
+  title: "GM targets a 20 percent rise in North American plant automation by 2028 and assembles its own autonomous mobile robots at Kokomo"
+  source: "CBT News / Reuters"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    CBT News, citing a Reuters report of 17 November 2026 based on two people familiar with the matter, reports
+    General Motors aims to increase the use of robots and other automation at its North American factories by 20
+    percent by 2028 and is developing and assembling its own robots at its Kokomo, Indiana plant, making it a
+    quantified automation target that fixes the handling and in-line inspection equipment content of future lines
+    rather than a product announcement; cited specifics include a focus on autonomous mobile robots moving parts
+    between stations, continued purchase of robotics equipment from outside suppliers alongside in-house
+    development, a requirement for parts suppliers bidding on new contracts to submit automation plans for their own
+    operations that GM scores on a scorecard and weighs in contract decisions, an in-house robotics development team
+    of about 100 roboticists, AI engineers and hardware specialists as of 2025, GM labour cost additions of about USD
+    575 per vehicle from the 2023 UAW contract against about USD 900 per vehicle at Ford cited as the cost pressure
+    behind the target, GM stating only that automation is used to improve safety, quality and efficiency without
+    confirming the 20 percent figure or the Indiana robot assembly, and UAW contracts at GM, Ford and Stellantis
+    expiring in 2028, with no per-plant automation baseline, robot count, capital figure or milestone schedule inside
+    the 2028 horizon disclosed.
+  url: "https://www.cbtnews.com/gm-targets-2028-factory-automation/"
+
+- date: "2026-11-16"
+  title: "Northrop Grumman receives a USD 1.6 billion multi-year order for PAC-3 MSE solid rocket motors and ignition safety devices"
+  source: "Northrop Grumman"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Northrop Grumman announced on 16 November 2026 a USD 1.6 billion multi-year order to ramp production of solid
+    rocket motors and ignition safety devices for the U.S. Army PAC-3 Missile Segment Enhancement interceptor, which
+    it supplies to prime contractor Lockheed Martin, making it a quantified propulsion-capacity commitment at a
+    single energetics site rather than a prime contract award; cited specifics include the dual-pulse solid rocket
+    motor manufactured at Allegany Ballistics Laboratory in Rocket Center, West Virginia, the order sitting inside
+    the broader USD 3 billion of agreements the company announced in August 2026, solid rocket motor capacity added
+    since 2021 in which the company doubled capacity at its Utah facilities, nearly tripled capacity at Allegany
+    Ballistics Laboratory and raised capacity 25 percent at Elkton, Maryland, more than USD 2 billion committed to
+    munitions technologies and facilities since 2019 including more than USD 1 billion in solid rocket motor
+    production, more than 1.3 million rocket motors delivered worldwide, the order framed as supporting the
+    Department of War Acquisition Transformation Strategy of trading longer demand commitments for contractor
+    capacity investment, and a company statement that the order translates propulsion investment into greater scale,
+    with no motor quantities, annual delivery rates, period of performance, contract type or share of the August
+    framework consumed disclosed.
+  url: "https://news.northropgrumman.com/missiles/northrop-grumman-lands-1-6-billion-award-to-scale-pac-3-mse-propulsion-production"
+
+- date: "2026-11-13"
+  title: "Spectral-domain interferometry with super-Gaussian windowing carries a combined length uncertainty of 10 nanometres plus 9.7 parts per million of length"
+  source: "arXiv (Kim, On, Eom, Kang, Jang)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 13 November 2026 evaluates the measurement uncertainty of spectral-domain
+    interferometry with super-Gaussian windowing, a configuration proposed for interferometer-based dimensional
+    calibration services, making it a quantified uncertainty budget for millimetre-scale length calibration rather
+    than a general optics result; cited specifics include a broadband super-luminescent diode source with a
+    frequency-calibrated spectrometer capturing the spectral interference signal, measured lengths compared against
+    a laser displacement interferometer, numerical simulation of the intensity-noise level of the spectrometer
+    charge-coupled device and of the spectrometer frequency-axis uncertainty, a combined standard uncertainty of the
+    square root of 10 nanometres squared plus 9.7 x 10-6 times length squared, and a stated aim of extending the
+    method toward interferometric dimensional calibration tasks over the millimetre range, as an unrefereed preprint
+    by Dae Hee Kim, Yoonkwon On, Sunghoon Eom, Chu-Shik Kang and Yoon-Soo Jang.
+  url: "https://arxiv.org/abs/2611.17769"
+- date: "2026-11-17"
   title: "SinceVision SGI-N030W wide-spot laser displacement sensor states plus or minus 0.3 micrometre electrode thickness at 300 millimetres per second"
   source: "Metrology News / SinceVision"
   sector: scientific_metrology
