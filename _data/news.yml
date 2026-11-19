@@ -1,4 +1,90 @@
 ---
+- date: "2026-11-18"
+  title: "Raytheon awards Ursa Major and Avio USA a joint contract to design and qualify a second-source solid rocket motor booster for Tomahawk"
+  source: "Ursa Major / Defence Industry Europe / Axios"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Ursa Major announced on 18 November 2026 that Raytheon, an RTX business, awarded it and Avio USA a
+    multi-year joint contract to design, develop and qualify a new solid rocket motor booster for the
+    Tomahawk cruise missile, creating a path for both companies to become qualified U.S. propulsion
+    suppliers rather than a production order; cited specifics include a scope limited to design, development
+    and qualification with future production orders contingent on that qualification, a September 2026
+    groundbreaking by Avio USA on a 900,000 square foot solid rocket motor plant in Hurt, Virginia that the
+    company links directly to the award, the existing Ursa Major solid rocket motor work across several
+    tactical missile programmes, a contract value of more than USD 80 million reported by Axios and not
+    disclosed in the release, Raytheon stating the dual source is intended to expand competition and
+    production flexibility, and the award sitting against plans to raise Tomahawk output above 1,000
+    missiles a year under a seven-year Pentagon arrangement after more than 850 rounds were expended in the
+    opening weeks of the conflict with Iran, with no qualification date, motor quantity, production rate or
+    delivery schedule disclosed.
+  url: "https://ursamajor.com/media/press-release/raytheon-awards-ursa-major-and-avio-usa-a-joint-contract-to-develop-solid-rocket-motors-for-the-u-s-navys-tactical-tomahawk-m"
+
+- date: "2026-11-18"
+  title: "PTB extends its double-ended interferometer to map absolute diameter topography across a 30 mm test sphere at 20 nanometres combined standard uncertainty"
+  source: "Measurement Science and Technology (Neupert-Wentz, Bartl, Schoeldel) / Physikalisch-Technische Bundesanstalt"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published open access in Measurement Science and Technology on 18 November 2026 presents an
+    extension to the Physikalisch-Technische Bundesanstalt double-ended interferometer that measures
+    absolute diameter topography over the whole surface of the test spheres used to calibrate CMM styli and
+    other free-form measuring devices, making it a quantified replacement for the small set of diameters and
+    great-circle roundness traces on which stylus calibration currently depends rather than a general
+    interferometry result; cited specifics include pixelwise diameter values computed for every measurement
+    on a sphere and stitched into a single surface figure using spherical harmonics up to order 14, a 30
+    millimetre silicon sphere with a reconstructed mean diameter of 30.012607 millimetres and a
+    peak-to-valley deviation of 253 nanometres across the measured area with residuals below 20 nanometres,
+    one local measurement taken in high vacuum against the remainder in air with the optical-axis position
+    determined per measurement to compensate the refractive-index change, a combined standard uncertainty of
+    20 nanometres for the diameter, and stated limitations including incomplete surface coverage pending an
+    upgraded sphere positioning unit and the absence of an external comparison, by Tillman Neupert-Wentz,
+    Guido Bartl and Rene Schoeldel.
+  url: "https://iopscience.iop.org/article/10.1088/1361-6501/aebef2"
+
+- date: "2026-11-18"
+  title: "Ford starts LFP cell production at its USD 3 billion Marshall, Michigan plant and ships the first cells for Fathom prototypes"
+  source: "MLive / Ford"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    MLive reports Ford confirmed on 18 November 2026 that cell production is running at BlueOval Battery Park
+    Michigan in Marshall, a USD 3 billion, 2 million square foot plant where prismatic lithium iron phosphate
+    cells began coming off the line in the preceding weeks and are now being shipped, making Ford the first
+    U.S. automaker to deliver domestically manufactured LFP cells for mainstream consumer automotive use
+    rather than a capacity announcement; cited specifics include two production lines each running at 40
+    cells per minute, roughly 100 cells per pack, annual output the company equates to 20 gigawatt-hours for
+    vehicles and its energy storage business against initial plans of up to 40 gigawatt-hours, cells and
+    packs going to the Ford Louisville Assembly Plant in Kentucky for Fathom prototypes with that pickup due
+    to start production in late 2027 at a USD 28,350 starting price, a separate pack plant on the Marshall
+    site not yet at full production and expected to ramp from spring 2027, laser systems and AI vision used
+    in cell assembly with automated guided vehicles moving material between stations, 1,700 jobs committed
+    at the site, LFP technology licensed from CATL under a limited technology-licensing and services
+    agreement in which Ford owns the plant, controls operations and employs the workforce, criticism of that
+    arrangement from legislators and Transportation Secretary Sean Duffy, and cells already in test vehicles
+    on the road, with no cell cost, measured scrap rate, line qualification date or per-cell royalty
+    disclosed.
+  url: "https://www.mlive.com/auto/2026/11/ford-opens-3b-battery-plant-in-marshall-production-underway-on-cells-for-ford-fathom-ev.html"
+
+- date: "2026-11-18"
+  title: "Honda commits USD 462 million to its Alabama Auto Plant for a new V6 hybrid engine line and multi-model assembly"
+  source: "Honda / WardsAuto"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Honda announced on 18 November 2026 a USD 462 million investment in its Alabama Auto Plant in Lincoln
+    that adds a new V6 hybrid engine assembly line and the ability to build multiple models on the same
+    line, with 200 new jobs, making it a quantified powertrain and line-flexibility commitment at an
+    operating assembly plant rather than a model announcement; cited specifics include a facility of 4.9
+    million square feet that has produced more than 7 million vehicles and nearly 6.6 million V6 engines in
+    25 years of operation, total capital investment at the site reaching USD 3.2 billion, a workforce of
+    5,772 associates carrying a payroll of USD 493.4 million, an estimated 19,949 jobs supported inside the
+    plant and at other Alabama businesses with nearly 47,000 jobs tied to the plant and its supply chain,
+    and the investment framed as supporting increased production of high-demand models alongside the hybrid
+    engine line, with no engine displacement or output rating, incremental vehicle capacity, line
+    commissioning date or model allocation disclosed.
+  url: "https://hondanews.com/en-US/releases/honda-invests-462-million-in-alabama-auto-plant-as-facility-marks-25-years-of-production"
+
 - date: "2026-11-17"
   title: "Ford orders a prismatic LFP pilot cell line for Ion Park in Michigan with DH supplying the winder and Hana Technology the formation and finishing equipment"
   source: "The Elec"
