@@ -1,4 +1,153 @@
 ---
+
+- date: "2026-11-19"
+  title: "ZEISS extends the DuraMax shop-floor CMM family to an 800 x 500 x 500 mm measuring volume with 160 kg workpiece capacity"
+  source: "ZEISS Research & Quality Solutions"
+  sector: scientific_metrology
+  kind: hardware_news
+  summary: >-
+    ZEISS introduced the ZEISS DuraMax 8/5/5 on 19 November 2026, a larger member of its DuraMax shop-floor coordinate
+    measuring machine family in which the X axis is extended by 300 millimetres against the DuraMax 5/5/5, making it a
+    quantified expansion of a production-floor CMM envelope rather than a new platform; cited specifics include a
+    measuring range of 800 by 500 by 500 millimetres, a workpiece capacity of 160 kilograms, a stated length
+    measurement error of 2.2 plus L over 210 micrometres against 2.4 plus L over 300 on the 5/5/5, an operating
+    temperature range of 18 to 30 degrees Celsius with no compressed air supply required, covered guideways,
+    glass-ceramic scales and standard passive vibration damping, a ZEISS VAST XXT TL3 sensor combining single-point
+    tactile probing with continuous scanning for dimensional, form and positional tolerances and free-form surfaces,
+    ZEISS CALYPSO or ZEISS INSPECT software, improved lateral and top access for complex contours and deep bores,
+    reference spheres and multiple stylus systems able to remain mounted inside the measuring volume for automated
+    calibration and changeovers, manual and automated duplex pallet systems with three-side and top loading through
+    the ZEISS Automation Interface, and a specification table listing an optional rotary table and optional pneumatic
+    damping as in development, with no price, machine mass, volumetric ISO 10360 test result or availability date for
+    the rotary table disclosed.
+  url: "https://www.zeiss.com/metrology/en/about-us/newsroom/2026/duramax.html"
+
+- date: "2026-11-19"
+  title: "Leonardo DRS wins a BAE Systems contract for a next-generation THAAD seeker focal plane array and expands its Dallas foundry toward about four times historical seeker output"
+  source: "Leonardo DRS"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    Leonardo DRS announced on 19 November 2026 that it was awarded a contract by BAE Systems to develop a
+    next-generation infrared focal plane array for the Terminal High Altitude Area Defense interceptor missile, making
+    it a quantified commitment to seeker detector manufacturing capacity on a missile-defence line rather than a
+    sensor research award; cited specifics include development work under way at the company 200,000 square foot
+    foundry in Dallas, a stated expansion of capacity at that site to support the programme objective of increasing
+    seeker production to about four times historical levels, positioning of the award against earlier DRS wins
+    spanning cooled and uncooled detector, sensor and subsystem levels in the munitions seeker market, and BAE Systems
+    as the interceptor supplier placing the development contract, with no contract value, focal plane array format,
+    pixel pitch, detector material, quantity, delivery schedule or incremental capacity figure disclosed.
+  url: "https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-contract-to-develop-advanced-next-generation-sensor-for-thaad/"
+
+- date: "2026-11-19"
+  title: "Sigmetrix releases VariSight 3.0 with revision-to-revision sensitivity and contribution comparison for CETOL 6 sigma tolerance results"
+  source: "Sigmetrix"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Sigmetrix released VariSight 3.0 on 19 November 2026, the latest version of its cloud-based platform for managing,
+    comparing and sharing tolerance analysis results generated in CETOL 6 sigma, making it a quantified change to how
+    variation drivers are compared across design revisions rather than a general reporting update; cited specifics
+    include comparison of sensitivities and contributions between revisions of an analysis model so a changed
+    tolerance on a critical feature can be traced to a shift in the primary contributors or in the predicted
+    distribution, distribution plots displayed inside detailed measurement results and base and compare plots shown
+    side by side in the Results Comparison summary, attachment of image files to measurement definitions through a
+    Custom 1 filename parameter for photographs, annotated CAD screenshots or inspection images, formal support for
+    CETOL 6 sigma data version 12.3.2 with automatic up-versioning during upload of files created in versions 11.5.4
+    to 12.3.1, bookmarkable page URLs that preserve selections and configuration, direct analysis model upload from
+    the CAD Model Details page and revision upload from the Analysis Model Details page, support for current Chrome,
+    Microsoft Edge and Firefox releases on Windows 11, a VariSight PLM Connector supporting PTC Windchill 12.0, and a
+    webinar on 10 December 2026, with no quantified analysis-time, accuracy or data-volume improvement, no pricing and
+    no release date for other PLM connectors disclosed.
+  url: "https://www.sigmetrix.com/blog/varisight-3-0-is-now-available-explore-the-new-features"
+
+- date: "2026-11-19"
+  title: "Jetour commits BRL 400 million for a first Brazilian plant with planned output of 20,000 to 50,000 vehicles a year from the first quarter of 2027"
+  source: "O Globo / Jetour"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    O Globo reports Jetour announced on 19 November 2026 an investment of BRL 400 million to establish a plant in
+    Brazil and begin national vehicle production in the first quarter of 2027, an amount the company says adds to BRL
+    400 million already planned and takes its Brazilian commitment to BRL 800 million, making it a quantified
+    assembly-capacity entry rather than a distribution announcement; cited specifics include a stated target band of
+    20,000 to 50,000 vehicles a year, national production of the T1 and T2 SUVs plus the new T0 model, a planned
+    network of 150 dealerships by the end of 2027, development of flex-fuel powertrain and autonomous driving
+    technology, more than 8,000 vehicles sold in the company first year in the country with six models launched, a T0
+    launch in 2027 in plug-in hybrid and fully electric forms as the brand first battery-electric vehicle in Brazil, an
+    undisclosed plant location with the company in talks with the Rio de Janeiro state government to buy the Jaguar
+    Land Rover plant at Itatiaia that industry sources put at about 35,000 vehicles a year of capacity, and a state
+    economic development secretariat statement that it aims to restart industrial activity at that unit, with no
+    confirmed site, incentive package, model allocation by plant, employment figure or construction start disclosed.
+  url: "https://oglobo.globo.com/economia/negocios/noticia/2026/11/19/montadora-chinesa-jetour-anuncia-investimento-de-r-400-milhoes-em-sua-primeira-fabrica-no-brasil.ghtml"
+
+- date: "2026-11-19"
+  title: "Envision AESC passes 10 million 46120 cylindrical cells delivered with a stated 95 percent yield and more than 1,000 camera inspection points on the line"
+  source: "electrive / Envision AESC"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    electrive reports Envision AESC announced on 19 November 2026 that it has delivered more than 10 million of its
+    46120 cylindrical cells, a 46 millimetre diameter and 120 millimetre tall format supplied primarily to BMW under a
+    contract signed in 2022, making it a quantified output and in-line inspection signal for a large-format
+    cylindrical cell line rather than a chemistry announcement; cited specifics include series production of the cell
+    at the company plants in Jiangsu and Hebei in China since July 2026, a stated manufacturing yield of 95 percent,
+    the BMW iX5 entering series production at Plant Spartanburg in the United States in the week of the announcement
+    as the first model on the cell with BMW expecting 60,000 units a year there in 2027, the iX7 confirmed as the
+    second model on the cell and also planned for Spartanburg, magnetic-levitation transport systems used to minimise
+    particle contamination from mechanical friction, laser welding performed while components move along the line,
+    more than 1,000 camera-based inspection points across the production lines, X-ray inspection of every individual
+    cell for foreign particles, and quality checks at critical manufacturing stages, and cells currently imported into
+    the United States after construction of the announced Florence County, South Carolina plant was paused in mid-2025
+    with local production timing unclarified, with no per-cell price, annual capacity in gigawatt-hours, scrap rate
+    beyond the stated yield or inspection false-accept rate disclosed.
+  url: "https://www.electrive.com/2026/11/19/envision-aesc-surpasses-production-volume-milestone-for-46120-battery-cells/"
+
+- date: "2026-11-18"
+  title: "KRISS ships its third-generation mini-AWS to NIST, weighing 75 millilitre gas cylinders to 0.01 milligram and holding 0.001 percent uncertainty on five grams"
+  source: "Seoul Economic Daily / The Asia Business Daily / Korea Research Institute of Standards and Science"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    The Korea Research Institute of Standards and Science said on 18 November 2026 that it exported its third
+    generation mini automatic weighing system to the U.S. National Institute of Standards and Technology, making it a
+    quantified shortening of the gravimetric chain behind standard gas reference materials rather than a laboratory
+    result; cited specifics include measurement of a 75 millilitre mini cylinder in 0.01 milligram increments against
+    the 10 litre cylinders and 1 milligram increments of existing equipment, a stated measurement uncertainty of about
+    0.001 percent when weighing 5 grams of gas against about 0.1 percent for the second generation system, a contract
+    worth about USD 424,500 or KRW 570 million signed in July 2025 covering manufacture, on-site installation and
+    transfer of operating technology, installation at NIST completed in September 2026 with final performance
+    verification and technology transfer scheduled for the first half of 2027, a rotary plate motor placed outside the
+    measurement chamber plus a revised integrated control unit and operating software in the export configuration,
+    intended use in SI-traceable isotope-ratio gas measurement standards for greenhouse gas source attribution,
+    semiconductor and display process control and quantum materials, a stated reduction in raw material cost for
+    standards using expensive isotopes such as helium-3, NIST as a repeat buyer after two second generation systems
+    and a first purchase in 2009, 10 second generation units exported to seven countries including the United
+    Kingdom, Singapore and South Africa, and underlying research published in Metrologia in 2022, with no delivered
+    verification uncertainty at NIST yet reported.
+  url: "https://en.sedaily.com/business/2026/11/19/korea-exports-ultra-precise-gas-measurement-system-to-us"
+
+- date: "2026-11-18"
+  title: "Hanwha Aerospace lifts its Boeun capacity expansion to KRW 936.3 billion and raises a Changwon aero-engine and inspection equipment programme to KRW 125.2 billion"
+  source: "Seoulz / Global Economic / Hanwha Aerospace (quarterly regulatory filing)"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Seoulz, citing Global Economic, reports Hanwha Aerospace disclosed a KRW 936.3 billion, about USD 701 million,
+    capacity expansion at its Boeun site in its third-quarter report, up KRW 186.5 billion from KRW 749.8 billion in
+    the half-year report with the planned completion date unchanged at January 2028, making it a quantified
+    defence-production capacity commitment tracked through regulatory filings rather than a single announcement;
+    cited specifics include cumulative spending on the Boeun plan of KRW 451.1 billion at the end of September
+    against KRW 335.2 billion at the end of June, an expanded Changwon 1 site investment for aero-engine production
+    and inspection equipment raised from KRW 44.2 billion to KRW 125.2 billion, a combined increase of KRW 267.5
+    billion across the two plans in three months, parallel disclosures of Hanwha Systems defence production-equipment
+    investment at KRW 535.5 billion with KRW 425.3 billion executed, Hyundai Rotem lifting its 2026 to 2028 facility
+    plan from KRW 277.8 billion to KRW 297.8 billion for K2 tanks, ground weapons, robots and hydrogen, LIG D&A
+    continuing a KRW 128.7 billion Kimcheon second plant for guided-weapon assembly with completion planned for
+    January 2027 and KRW 97.4 billion executed, and Korea Aerospace Industries cutting its 2026 to 2028 facility plan
+    from KRW 665.6 billion to KRW 654.4 billion, with no output rates, missile or engine quantities, floor areas or
+    per-programme completion dates disclosed beyond the stated Jan 2028 and Jan 2027 targets.
+  url: "https://www.seoulz.com/news/hanwha-aerospace-boosts-boeun-plant-investment-701-million-korean"
 - date: "2026-11-18"
   title: "Raytheon awards Ursa Major and Avio USA a joint contract to design and qualify a second-source solid rocket motor booster for Tomahawk"
   source: "Ursa Major / Defence Industry Europe / Axios"
