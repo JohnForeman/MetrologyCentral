@@ -1,5 +1,68 @@
 ---
 
+- date: "2026-11-20"
+  title: "BAE Systems opens a GBP 180 million automated 155 mm shell filling plant at Glascoed, targeting a sixteenfold increase over 2023 output"
+  source: "Defence Blog / BAE Systems"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    BAE Systems opened a melt-cast explosive filling facility at its Glascoed site in South Wales on 20 November 2026,
+    described by the company as the first fully automated large-calibre ammunition factory in the United Kingdom and
+    part of a GBP 180 million, about USD 235 million, investment intended to raise 155 mm artillery shell production
+    capacity sixteenfold against 2023 output, making it a quantified addition of sovereign shell-filling capacity
+    rather than a contract award; cited specifics include 2023 output of between 3,000 and 5,000 shells a year as the
+    reference for the sixteenfold figure, an investment raised from the more than GBP 150 million announced in April
+    2025, a delay against the summer 2025 operational date that BAE attributed in February 2026 to a mid-construction
+    decision to double planned capacity from eightfold to sixteenfold, operation by advanced robotic systems and
+    autonomous guided vehicles with limited human resources so production hours and output can be expanded, empty
+    shell bodies machined at BAE Systems Washington in north-east England and shipped to Glascoed for filling, a
+    melt-cast process in which explosive is melted, cast into the shells and cooled under controlled thermal profiles
+    before final assembly, full-scale production beginning only after an initial period of live trials with trial
+    duration and annual shell output undisclosed, and a site that has produced munitions since the 1940s and is BAE
+    Systems' centre for the production, assembly and testing of munitions and energetic materials, with no per-round
+    cost, staffing change or contract value for the output disclosed.
+  url: "https://defence-blog.com/bae-opens-uks-first-fully-automated-artillery-shell-plant/"
+
+- date: "2026-11-20"
+  title: "Niron Magnetics commits USD 1.8 billion to a 10,000-ton iron nitride magnet plant in Dothan, Alabama with production from 2029"
+  source: "Office of the Governor of Alabama / Niron Magnetics"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Alabama Governor Kay Ivey announced on 20 November 2026 that Niron Magnetics will build a USD 1.8 billion
+    advanced manufacturing campus in Dothan producing rare-earth-free iron nitride permanent magnets, making it a
+    quantified addition of domestic magnet capacity serving traction motors and defence hardware rather than a
+    research or pilot line notice; cited specifics include a stated plant output of 10,000 tons of magnets a year,
+    700 high-wage jobs expected within five years, a 1.6 million square foot campus at the 446-acre Westgate Super
+    Site industrial park with CSX rail access, construction starting in 2028 and production in 2029, a first
+    high-volume plant at Sartell, Minnesota opening in 2027 with capacity of up to 1,500 tons a year, a company
+    founded in Minneapolis in 2013 commercialising iron nitride magnets as a substitute for neodymium-based magnets
+    that uses abundant domestic materials, approximately 90 percent of global rare-earth magnet production
+    concentrated overseas, current magnet applications spanning AI infrastructure, automotive, industrial and
+    consumer electronics, and a site selection the company said covered 22 states, with no state or local incentive
+    value, magnet grade, coercivity or operating temperature specification, customer offtake quantity or per-tonne
+    price disclosed.
+  url: "https://governor.alabama.gov/newsroom/2026/11/governor-ivey-announces-1-8-billion-niron-magnetics-investment/"
+
+- date: "2026-11-19"
+  title: "Sila signs a multi-year silicon-carbon anode offtake with Panasonic Energy worth potentially more than USD 1 billion from its Moses Lake plant"
+  source: "electrive / Sila Nanotechnologies"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    electrive reports Sila Nanotechnologies announced on 18 November 2026 a multi-year commercial offtake agreement
+    to supply its Titan Silicon silicon-carbon anode material to Panasonic Energy Corporation of North America for
+    cells built at Panasonic plants in the United States, making it a quantified commitment to a non-graphite anode
+    supply chain rather than a technology collaboration; cited specifics include potential offtake value above USD 1
+    billion over the term, supply from the Moses Lake, Washington plant commissioned in April 2025 and in production
+    since autumn 2025 with an initial capacity equivalent to about 2 gigawatt-hours a year, a stated energy density
+    gain of around 20 percent against leading graphite cells, an estimated 500 additional manufacturing and
+    construction jobs at Moses Lake as output scales, the agreement following a USD 1.4 billion loan commitment from
+    the U.S. Department of Defense Office of Strategic Capital, and a precursor December 2023 Panasonic order for
+    silicon anode material aimed at reducing graphite content, with no delivery quantities, per-kilogram price,
+    material qualification date or start of series cell production disclosed.
+  url: "https://www.electrive.com/2026/11/19/sila-secures-billion-dollar-offtake-agreement-with-panasonic/"
+
 - date: "2026-11-19"
   title: "ZEISS extends the DuraMax shop-floor CMM family to an 800 x 500 x 500 mm measuring volume with 160 kg workpiece capacity"
   source: "ZEISS Research & Quality Solutions"
