@@ -1,5 +1,65 @@
 ---
 
+- date: "2026-11-21"
+  title: "France orders 50,000 155 mm shells from KNDS and co-funds a plan to triple capacity at its La Chapelle-Saint-Ursin plant"
+  source: "Defence Industry Europe / KNDS France / DGA"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Defence Industry Europe reports France ordered 50,000 155 mm artillery shells from KNDS France for delivery in
+    2029 and 2030 and will share the cost of a capacity expansion equally with the company under a plan intended to
+    triple output at the La Chapelle-Saint-Ursin site in the Cher department, making it a quantified addition of
+    French large-calibre machining and explosive-fill capacity backed by a stated order rather than a framework
+    agreement; cited specifics include the order placed by the Direction generale de l'armement inside the update of
+    the country's Military Programming Law, a new explosive-filling unit plus two new units for large-calibre
+    machining and driving banding, annual 155 mm capacity at the site having already doubled since the war in
+    Ukraine began in 2022, recruitment of more than 150 production and systems engineering staff against an existing
+    workforce of 500, the project classified as a Major National Interest Project among 150 such projects identified
+    in France with the first recognition decree published in the Journal officiel on 29 June 2026, and no project
+    cost, state share in value, rounds-per-year capacity, per-round price or completion date disclosed.
+  url: "https://defence-industry.eu/france-orders-50000-artillery-shells-from-knds-and-co-funds-plan-to-triple-capacity-at-its-la-chapelle-saint-ursin-plant/"
+
+- date: "2026-11-20"
+  title: "Canada commits CAD 464.5 million and Ontario CAD 464 million as Ford's retooled Oakville complex begins Super Duty output at up to 100,000 trucks a year"
+  source: "Innovation, Science and Economic Development Canada / Government of Ontario"
+  sector: auto_manufacturing
+  kind: press_release
+  summary: >-
+    Innovation, Science and Economic Development Canada announced on 20 November 2026 a CAD 464.5 million
+    contribution through the Strategic Response Fund toward Ford Motor Company of Canada's retooling of the Oakville
+    Assembly Complex for F-Series Super Duty production and construction of a new stamping plant, with the
+    Government of Ontario contributing CAD 464 million, alongside the official relaunch of the plant, making it a
+    quantified public share of an assembly retool that also localises aluminium stamping previously carried out only
+    in the United States; cited specifics include a combined public contribution of about CAD 928 million against a
+    project the company and the province put at nearly CAD 5 billion, capacity of up to 100,000 vehicles a year,
+    protection of more than 2,000 jobs at Oakville within roughly 7,000 Ford employees in Canada, 3,488 trucks built
+    at the plant in October 2026 according to The Logic, a new stamping building on previously empty land that
+    stamps the panels and body parts for the truck, expansion of the Windsor and Essex engine plants to support the
+    7.3-litre V8 line, multi-energy variants of the Super Duty announced by Ford, and no line rate, per-phase
+    capital split, press count or ramp schedule to full capacity disclosed.
+  url: "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html"
+
+- date: "2026-11-17"
+  title: "Grating interferometer with diffractive polarization modulation lifts demodulated intensity to 994 milliwatts and cuts 100-second displacement noise to 1.598 nanometres"
+  source: "Nanomanufacturing and Metrology (Feng, Cui, Li, Li) / Springer Nature"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published open access in Nanomanufacturing and Metrology on 17 November 2026 presents a full-chain
+    polarization tracking and compensation method for grating interferometers used in multi-degree-of-freedom
+    displacement measurement, making it a quantified treatment of a cascaded error source in a
+    grating-interferometer displacement sensor rather than a general optics result; cited specifics include a model
+    combining three-dimensional finite-difference time-domain and transfer matrix methods that identifies the
+    grating-to-mirror error amplification mechanism, a quarter-wave plate plus half-wave plate module that
+    reconstructs the distorted returning beam to an absolute normalized third Stokes parameter of at least 0.95 and
+    raises the effective intensity entering the demodulation path from 300 to 994 milliwatts, angular tolerances in
+    pitch, yaw and roll improved by factors of 5.3, 1.8 and 4.8 respectively, the standard deviation of a 100-second
+    closed-loop displacement measurement reduced from 7.505 to 1.598 nanometres, positioning against
+    six-degree-of-freedom measurement for lithography stages, wafer positioning and large optical systems, and
+    authors Zhigang Feng, Can Cui, Shangru Li and Xinghui Li, with no long-term drift, thermal coefficient or
+    comparison against a traceable interferometer reported.
+  url: "https://link.springer.com/article/10.1007/s41871-026-00320-0"
+
 - date: "2026-11-20"
   title: "BAE Systems opens a GBP 180 million automated 155 mm shell filling plant at Glascoed, targeting a sixteenfold increase over 2023 output"
   source: "Defence Blog / BAE Systems"
