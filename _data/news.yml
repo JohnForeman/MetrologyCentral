@@ -1,5 +1,48 @@
 ---
 
+- date: "2026-11-22"
+  title: "Hyundai Transys raises its 2027 to 2029 investment plan 80 percent to KRW 2.88 trillion and lifts overseas spending to KRW 2.01 trillion"
+  source: "The Herald Business / Hyundai Transys"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Herald Business reports Hyundai Transys disclosed a projected total investment of KRW 2.88 trillion for 2027
+    through 2029, up KRW 1.28 trillion or 80 percent from the KRW 1.6 trillion plan it disclosed as of the second
+    quarter, making it a quantified upward revision of a supplier capital plan tied to hybrid drivetrain conversion
+    rather than a single plant announcement; cited specifics include KRW 1.06 trillion planned for 2027, KRW 909.6
+    billion for 2028 and KRW 908.3 billion for 2029 after an original intention to taper spending from 2028, overseas
+    investment rising 86.2 percent or KRW 928.8 billion from KRW 1.08 trillion to KRW 2.01 trillion and accounting for
+    72.7 percent of the increase, domestic investment rising 67.1 percent or KRW 349.2 billion to KRW 869.5 billion,
+    average annual capital expenditure up 94.5 percent from KRW 346 billion in 2020 to 2022 to KRW 673.1 billion in
+    2023 to 2025, TMED-II hybrid drive system lines at domestic and North American plants with underused manual
+    transmission and axle lines converted to electrified parts production, the Georgia announcement of 8 October 2026
+    that the company will invest about USD 560 million to upgrade the first and second West Point plants and build a
+    third for hybrid powertrains with 320 new jobs, Hyundai and Kia selling 411,992 hybrid vehicles in the United
+    States from January to October 2026, up 60.1 percent and about 26 percent of their combined US sales, consolidated
+    operating cash flow falling 95.7 percent year on year to KRW 11.9 billion in the first nine months, and net
+    borrowings rising KRW 458.3 billion from KRW 1.78 trillion at the end of 2025 to about KRW 2.24 trillion at the
+    end of September, with no per-site investment split, line conversion schedule or output figure disclosed.
+  url: "https://biz.heraldcorp.com/article/10944476"
+
+- date: "2026-11-22"
+  title: "Ashok Leyland plans a 4 GWh battery pack plant at Pillaipakkam scalable to 8 to 12 GWh with output from the third quarter of 2027"
+  source: "The Hindu BusinessLine / Ashok Leyland"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    The Hindu BusinessLine reports Ashok Leyland said on its Q2 FY27 earnings call that it plans a battery pack
+    manufacturing facility at Pillaipakkam near Chennai with an initial capacity of 4 gigawatt-hours, scalable to 8 to
+    12 GWh, and production targeted to begin in the third quarter of calendar year 2027, making it a quantified pack
+    assembly commitment inside an automaker rather than a supplier announcement; cited specifics include supply to
+    Ashok Leyland and subsidiary Switch Mobility, an order for more than 200 electric trucks for cement distribution
+    on fixed routes under an energy-mobility-as-a-service model placed with e-mobility subsidiary OHM Mobility as its
+    move beyond electric buses into freight, with the customer, contract value and deployment timeline undisclosed,
+    INR 150 crore infused into OHM Mobility during the quarter and INR 324 crore spent repaying a loan at Switch
+    Mobility UK, factory utilisation near 90 percent, capital expenditure of INR 1,000 to 1,200 crore projected for
+    FY27, and a plan to raise light commercial vehicle platform coverage from 55 to 60 percent of the market to 80 to
+    85 percent, with no cell chemistry, cell supplier, pack output rate or site capital cost disclosed.
+  url: "https://www.thehindubusinessline.com/companies/ashok-leyland-expands-ev-push-with-order-of-200-trucks-for-cement-transport-eyes-wider-lcv-market/article71729219.ece"
+
 - date: "2026-11-21"
   title: "France orders 50,000 155 mm shells from KNDS and co-funds a plan to triple capacity at its La Chapelle-Saint-Ursin plant"
   source: "Defence Industry Europe / KNDS France / DGA"
@@ -18,6 +61,95 @@
     in France with the first recognition decree published in the Journal officiel on 29 June 2026, and no project
     cost, state share in value, rounds-per-year capacity, per-round price or completion date disclosed.
   url: "https://defence-industry.eu/france-orders-50000-artillery-shells-from-knds-and-co-funds-plan-to-triple-capacity-at-its-la-chapelle-saint-ursin-plant/"
+
+- date: "2026-11-20"
+  title: "EVE Energy converts its Chengdu 21 GWh ternary cylindrical cell project to 8 GWh of LFP and cuts the investment to RMB 2.801 billion"
+  source: "EnergyTrend / EVE Energy (board announcement)"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    EnergyTrend reports EVE Energy disclosed on 20 November 2026 that its board approved changing the 21 GWh large
+    cylindrical passenger car power battery project to the Chengdu EVE Energy high specific energy cylindrical battery
+    project, cutting total investment from RMB 5.203 billion to RMB 2.801 billion and switching the product from
+    ternary to lithium iron phosphate chemistry, making it a quantified downward revision of a named cell project
+    rather than a new capacity announcement; cited specifics include planned capacity falling from 21 GWh to 8 GWh,
+    equal to a 62 percent reduction, a three-year construction period, RMB 1.871 billion of raised funds unused as of
+    30 June 2026 redirected into the revised project with the remainder funded from the company own resources, an
+    after-tax internal rate of return of 10.60 percent and a payback period of 8.58 years including construction in
+    the feasibility study, output intended for light power, vehicle power and small energy storage applications, the
+    company citing the multi-scenario application trend for large-diameter cylindrical LFP cells and improved
+    efficiency in the use of raised funds, a parallel forecast that daily related-party transactions in 2027 will not
+    exceed RMB 10.353 billion excluding value added tax including up to RMB 467 million of energy storage container
+    and outdoor cabinet sales to Turkish distributor AKSA, and both proposals approved by the board but still subject
+    to shareholder approval, with no cell dimensions, line equipment, per-cell cost or construction start date
+    disclosed.
+  url: "https://www.energytrend.com/news/20261123-52588.html"
+
+- date: "2026-11-20"
+  title: "U.S. Air Force places dozens of engine makers on a USD 16.1 billion advanced propulsion IDIQ through November 2041 with USD 1,000 obligated per awardee"
+  source: "U.S. Department of War contracts announcement / Air Force Materiel Command"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Department of War contract announcement for 20 November 2026 records a multiple-award indefinite-delivery,
+    indefinite-quantity contract for advanced propulsion enterprise work with a cumulative maximum ceiling of USD
+    16,100,000,000 and completion expected by November 2041, with fiscal 2027 research, development, test and
+    evaluation funds of USD 58,000, equal to USD 1,000 per awardee, obligated at award, making it a quantified
+    pre-cleared pool for propulsion development and production rather than a funded order; cited specifics include
+    Air Force Materiel Command at Wright-Patterson Air Force Base as the contracting activity, a competitive
+    acquisition, a scope covering continuing enhancement of propulsion technology across all areas and lifecycle
+    phases, contract numbers in the FA8626-27-D-B series, named awardees including General Electric, RTX, Rolls-Royce
+    North American Technologies, Honeywell, Williams International, Boeing, Lockheed Martin, Northrop Grumman,
+    Aerojet Rocketdyne, Safran Defense & Space, Amentum, Booz Allen Hamilton, Southwest Research Institute, Sintavia,
+    Mach Industries, Hermeus, Beehive Industries, Astro Mechanica Federal, Velontra, Whisper Aero, JetCat Defense and
+    Bet Shemesh Engines of Israel as the only awardee based outside the United States, a vehicle matching the
+    Advanced Propulsion Acquisition Contract the Air Force Life Cycle Management Center propulsion directorate
+    described in March 2026 for work from technology development through production, fielding and sustainment, an
+    awardee count of 58 implied by the USD 58,000 obligation against a published list that one trade count puts at 57
+    companies, and no funding beyond the token obligation, task order value or platform delivery schedule disclosed.
+  url: "https://www.war.gov/News/Contracts/Contract/Article/4657624/contracts-for-nov-20-2026"
+
+- date: "2026-11-20"
+  title: "U.S. Navy places an un-priced USD 1.53 billion letter contract on Lockheed Martin for Trident II D5 production and deployed systems support through 2031"
+  source: "U.S. Department of War contracts announcement via MGG Geopolitics / DefenseBook"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Department of War contract announcement for 20 November 2026 records an un-priced letter contract
+    modification, N0003026C0100P00002, with a not-to-exceed amount of USD 1,533,124,563 to Lockheed Martin at
+    Titusville, Florida for Trident II D5 missile production and deployed systems support, making it a quantified
+    production and sustainment commitment on the submarine-launched ballistic missile line rather than a development
+    award; cited specifics include a sole-source award under 10 U.S. Code 3204(a)(1) previously synopsised on
+    SAM.gov, completion expected 30 September 2031, work spread across Magna, Utah at 16 percent, Cape Canaveral,
+    Florida and Denver, Colorado at 14 percent each, Titusville at 11 percent, Kings Bay, Georgia at 8 percent,
+    Culpeper, Virginia at 7 percent, Bangor, Washington at 6 percent, Sunnyvale, California at 4 percent and eleven
+    further locations at 1 percent or less, the Naval Strategic Systems Programs office as contracting activity, a
+    parallel USD 315,687,820 cost-plus-fixed-fee modification to Charles Stark Draper Laboratory for specialised
+    guidance subsystem engineering support through 30 September 2028 with the full amount obligated from fiscal 2027
+    Navy weapons procurement funds, and no missile quantity, obligated amount at award or final negotiated price
+    disclosed because the modification is unpriced.
+  url: "https://www.mgg-geopolitics.com/us-air-force-16-billion-propulsion-trident-contracts-2026/"
+
+- date: "2026-11-20"
+  title: "Single-image deep learning reconstruction reaches 71 micrometres on 3 cm parts and 164 micrometres above 10 cm after training on renders of 3,700 CAD models"
+  source: "npj Advanced Manufacturing (Kabir, Bimrose, Whealton et al.) / Springer Nature"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published open access in npj Advanced Manufacturing on 20 November 2026 reports a method that
+    reconstructs three-dimensional geometry from a single photograph by training a deep learning model to predict its
+    own reconstruction accuracy and to build a physically accurate mesh from that prediction, making it a quantified
+    route to low-cost dimensional inspection in which a digital camera or smartphone image substitutes for a
+    structured-light or laser measurement system rather than a general computer vision result; cited specifics
+    include training on synthetic image data rendered from 3,700 computer-aided design models, testing against 50
+    unique physical objects, a measurement accuracy of 71 micrometres for small objects of about 3 centimetres
+    photographed with a digital camera and 164 micrometres for large objects above 10 centimetres photographed or
+    video-recorded with a smartphone, reconstruction within a few seconds, and positioning against the cost,
+    measurement time and computational effort of three-dimensional optical measurement, by Hossein Kabir, Miles V.
+    Bimrose, Charles T. Whealton, Christopher H. Conway and colleagues with William P. King as senior author, with no
+    uncertainty budget, traceability to a dimensional standard or comparison against a traceable coordinate
+    measurement reported in the abstract.
+  url: "https://www.nature.com/articles/s44334-026-00123-7"
 
 - date: "2026-11-20"
   title: "Canada commits CAD 464.5 million and Ontario CAD 464 million as Ford's retooled Oakville complex begins Super Duty output at up to 100,000 trucks a year"
