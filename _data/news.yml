@@ -1,5 +1,54 @@
 ---
 
+- date: "2026-11-23"
+  title: "Air Force withdraws its 58-awardee advanced propulsion notice, saying the USD 16.1 billion announcement was published in error and no contracts were awarded"
+  source: "Breaking Defense / U.S. Department of War"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Breaking Defense reports an Air Force spokesperson confirmed on 23 November 2026 that the 20 November
+    announcement naming 58 companies to the Advanced Propulsion Acquisition Contract was posted in error and that
+    no contracts have been awarded, and the Department of War added a matching correction to its contract
+    announcement for 23 November stating that the USD 16,100,000,000 multiple-award indefinite-delivery,
+    indefinite-quantity notice was erroneously published and that the contracts were not awarded, making it a
+    retraction that removes a previously reported pre-cleared propulsion pool rather than a new award; cited
+    specifics include the service still planning to award APAC at the same USD 16.1 billion ceiling running to
+    November 2041 through Air Force Materiel Command at Wright-Patterson Air Force Base, confirmation that a total
+    of 58 vendors are so far planned for selection, a USD 1,000 initial disbursement to each intended to support
+    participation in a post-award orientation conference, a statement that future orders will be competed among
+    the qualified vendor pool as requirements are validated and funded, platform, scope, funding, contract type,
+    period of performance and pricing to be established at individual delivery order or task order level, the
+    withdrawn notice naming General Electric, RTX, Rolls-Royce North American Technologies, Honeywell, Williams
+    International, Boeing, Lockheed Martin, Northrop Grumman, Aerojet Rocketdyne, Safran Defense and Space,
+    Southwest Research Institute, Sintavia, Hermeus and Beehive Industries among the awardees, and a March 2026
+    notice that the effort had no dedicated funding yet, with no revised award date, obligated amount or task
+    order value disclosed.
+  url: "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says/"
+
+- date: "2026-11-23"
+  title: "Metrolog V26 turns dimensional tolerances into standalone traceable objects, adds QIF round-trip checks and supports Renishaw PH20 PLUS, API iLT with VProbe2 and Nikon APDIS MV5X"
+  source: "Metrologic DCS"
+  sector: quality_software
+  kind: vendor_release
+  summary: >-
+    Metrologic DCS published Metrolog V26, its November 2026 inspection software release, in which each
+    dimensional tolerance becomes its own object carrying a separate identifier, evaluation criteria and
+    conformity data instead of being stored inside the geometric feature, making it a change to how tolerance
+    identity is carried through the digital thread rather than a reporting update; cited specifics include
+    preservation of imported identifiers so a tolerance remains uniquely traceable when a file is passed to a
+    subcontractor and returned with results, a tolerance object stated to comply with ISO and ASME standards and
+    to stay valid as those standards evolve, two added QIF capabilities in the form of a syntax check against the
+    standard on import and export that flags anomalies and export of predefined points to be measured so a
+    subcontractor can build an inspection plan from the file, new 3D expert views for deviations and anomalies,
+    and support for three further measurement systems programmed and analysed in the same environment as existing
+    equipment, listed as the Renishaw PH20 PLUS five-axis touch-trigger CMM head for deep bores and multi-stylus
+    sequences, the API iLT laser tracker with VProbe2 handheld tactile probe for features outside the tracker line
+    of sight, and the Nikon APDIS MV5X compact non-contact laser radar in portable, robot-mounted, fixed and
+    near-line setups, with Profiles and Workspaces and a Metrolog Copilot assistant listed only as coming soon and
+    no quantified cycle-time, accuracy or data-volume improvement, no pricing and no date for the Copilot or the
+    workspace feature disclosed.
+  url: "https://www.metrologicdcs.com/new-metrolog-v26-release/"
+
 - date: "2026-11-22"
   title: "Hyundai Transys raises its 2027 to 2029 investment plan 80 percent to KRW 2.88 trillion and lifts overseas spending to KRW 2.01 trillion"
   source: "The Herald Business / Hyundai Transys"
@@ -86,30 +135,6 @@
   url: "https://www.energytrend.com/news/20261123-52588.html"
 
 - date: "2026-11-20"
-  title: "U.S. Air Force places dozens of engine makers on a USD 16.1 billion advanced propulsion IDIQ through November 2041 with USD 1,000 obligated per awardee"
-  source: "U.S. Department of War contracts announcement / Air Force Materiel Command"
-  sector: aerospace_defense_manufacturing
-  kind: industry_news
-  summary: >-
-    The Department of War contract announcement for 20 November 2026 records a multiple-award indefinite-delivery,
-    indefinite-quantity contract for advanced propulsion enterprise work with a cumulative maximum ceiling of USD
-    16,100,000,000 and completion expected by November 2041, with fiscal 2027 research, development, test and
-    evaluation funds of USD 58,000, equal to USD 1,000 per awardee, obligated at award, making it a quantified
-    pre-cleared pool for propulsion development and production rather than a funded order; cited specifics include
-    Air Force Materiel Command at Wright-Patterson Air Force Base as the contracting activity, a competitive
-    acquisition, a scope covering continuing enhancement of propulsion technology across all areas and lifecycle
-    phases, contract numbers in the FA8626-27-D-B series, named awardees including General Electric, RTX, Rolls-Royce
-    North American Technologies, Honeywell, Williams International, Boeing, Lockheed Martin, Northrop Grumman,
-    Aerojet Rocketdyne, Safran Defense & Space, Amentum, Booz Allen Hamilton, Southwest Research Institute, Sintavia,
-    Mach Industries, Hermeus, Beehive Industries, Astro Mechanica Federal, Velontra, Whisper Aero, JetCat Defense and
-    Bet Shemesh Engines of Israel as the only awardee based outside the United States, a vehicle matching the
-    Advanced Propulsion Acquisition Contract the Air Force Life Cycle Management Center propulsion directorate
-    described in March 2026 for work from technology development through production, fielding and sustainment, an
-    awardee count of 58 implied by the USD 58,000 obligation against a published list that one trade count puts at 57
-    companies, and no funding beyond the token obligation, task order value or platform delivery schedule disclosed.
-  url: "https://www.war.gov/News/Contracts/Contract/Article/4657624/contracts-for-nov-20-2026"
-
-- date: "2026-11-20"
   title: "U.S. Navy places an un-priced USD 1.53 billion letter contract on Lockheed Martin for Trident II D5 production and deployed systems support through 2031"
   source: "U.S. Department of War contracts announcement via MGG Geopolitics / DefenseBook"
   sector: aerospace_defense_manufacturing
@@ -170,6 +195,30 @@
     7.3-litre V8 line, multi-energy variants of the Super Duty announced by Ford, and no line rate, per-phase
     capital split, press count or ramp schedule to full capacity disclosed.
   url: "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-announces-major-investment-in-ford-motor-company-of-canada-that-will-strengthen-auto-manufacturing-in-ontario-and-canada.html"
+
+- date: "2026-11-20"
+  title: "Dark-port phase readout of a marginally imbalanced interferometer resolves about 5 picometres of optical path without environmental isolation"
+  source: "arXiv (Silva, Molina, Esteban-Martin, Garcia-Monreal, de Valcarcel)"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A preprint submitted to arXiv on 20 November 2026 proposes reading out the complex dark-port field of a
+    marginally imbalanced interferometer instead of optical power, so that the phase response to small internal
+    phase deviations near destructive interference becomes steep enough to resolve displacements and surface
+    irregularities far below a nanometre, making it a quantified alternative readout for precision optical
+    metrology rather than a general interferometry result; cited specifics include a dark-port phase tangent that
+    reduces to the internal phase deviation divided by the small arm-amplitude imbalance, defining a phase
+    magnification equal to the inverse of that imbalance and remaining linear over a range up to the square root
+    of the imbalance, therefore wider than the imbalance itself for imbalances far below unity, synthesis of the
+    estimator from the dark-port complex field by optical time-domain holography and Fourier demodulation as a
+    heterodyne readout described as intrinsically immune to laser relative-intensity noise at any magnification, a
+    proof-of-principle Mach-Zehnder experiment run without optimisation or environmental isolation showing a
+    magnification above 1,000 and an optical-path resolution better than one hundred-thousandth of a wavelength,
+    about 5 picometres, with the shot-noise floor orders of magnitude below that environment-limited value, and
+    authors F. Silva, A. Molina, A. Esteban-Martin, J. Garcia-Monreal and G. J. de Valcarcel, with no measurement
+    uncertainty budget, stability over time, traceability to a length standard or comparison against a calibrated
+    interferometer reported.
+  url: "https://arxiv.org/abs/2611.27697"
 
 - date: "2026-11-17"
   title: "Grating interferometer with diffractive polarization modulation lifts demodulated intensity to 994 milliwatts and cuts 100-second displacement noise to 1.598 nanometres"
@@ -6179,26 +6228,6 @@
     inspection, toolless belt removal, hygienic design, image-database traceability,
     ProdX integration, real-time monitoring, and common network-protocol support.
   url: https://www.qualitymag.com/articles/99763-mettler-toledo-x56-dxd-dual-energy-photon-counting-x-ray-system
-- date: '2026-07-21'
-  title: Metrolog V25 adds CAD-free CMM programming, AI help, Revo/PH20 groundwork,
-    and blade-section compensation
-  source: Metrologic DCS
-  sector: quality_software
-  kind: software_news
-  summary: Metrologic DCS released Metrolog V25 as a production metrology software
-    update focused on CMM programming, inspection digital twins, and scanner compatibility;
-    cited specifics include CAD-free programming by probing nominal values directly,
-    a clearance mode for collision-free trajectories, an AI chat assistant inside
-    Planner, Silma, and Metrolog, real-time head-axis position tracking through the
-    UCC server, Clearance Box support with I++, DMIS management of SNSLCT and HEADCS,
-    path-planning extension to additional heads as groundwork for Revo and PH20 use
-    cases, native manual scanning with Scanology tracked and handheld devices, Creaform
-    API support for Handyscan Evo, confocal-sensor support on ESPI CMMs, 3D Envelope
-    ball compensation using two or three measured sections for thin blade measurements,
-    Proj On CAD projection options, flow-direction handling for leading-edge and trailing-edge
-    calculations, and Threshold or Canny sub-pixel algorithms for point-cloud generation
-    from image data.
-  url: https://www.metrologicdcs.com/new-metrolog-v25-release-faster-simpler-more-reliable-quality-control/
 - date: '2026-07-21'
   title: Hexagon targets aircraft MRO replacement parts with portable scanning and
     Geomagic reverse engineering
