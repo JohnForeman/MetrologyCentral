@@ -1,5 +1,74 @@
 ---
 
+- date: "2026-11-24"
+  title: "Air Force obligates USD 2.819 billion for 15 KC-46A Lot 13 tankers, taking the programme to 203 aircraft on contract"
+  source: "U.S. Department of War contracts announcement via DefenseBook / Boeing"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    The Department of War contract announcement for 24 November 2026 records a USD 2,819,046,560 modification to
+    contract FA8625-11-C-6600 with Boeing Defense, Space and Security in Seattle for 15 KC-46A Lot 13 production
+    aircraft together with G081, subscriptions and licences, making it a fully funded production-lot award on an
+    operating tanker line rather than a development or study contract; cited specifics include the entire value
+    obligated at award from fiscal 2027 aircraft procurement funds, work expected to be completed by 30 June 2030,
+    the Air Force Life Cycle Management Center at Wright-Patterson Air Force Base as contracting activity with the
+    modification administered under new contract FA8609-27-C-B002, a Boeing release of 24 November 2026 stating
+    that 203 KC-46A aircraft are now on contract or in service globally including 116 delivered to the U.S. Air
+    Force, six to the Japan Air Self-Defense Force and two to the Israeli Air Force, more than 180,000 fleet flight
+    hours since the first delivery in 2019, and the same Boeing release announcing the 15-aircraft order without a
+    contract value, with no per-aircraft price, share of the value attributable to G081 and the subscriptions,
+    engine or mission-system content, delivery schedule or subsequent lot disclosed.
+  url: "https://defensebook.com/notices/us-air-force-15-kc-46a-pegasus-tankers-in-lot-13-from-boeing/"
+
+- date: "2026-11-24"
+  title: "cylib buys the BASF battery recycling business, taking over a 15,000-tonne-a-year black mass plant at Schwarzheide"
+  source: "cylib / BASF"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    cylib announced on 23 November 2026 an agreement, signed on 20 November 2026, to acquire the BASF battery
+    recycling business in Europe and North America including intellectual property, customer and partner contracts
+    and the black mass production plant and battery recycling prototype plant at Schwarzheide in Brandenburg,
+    making it a transfer of installed recycling capacity and feedstock access to a company founded in 2022 rather
+    than a greenfield plant commitment; cited specifics include a black mass plant commissioned in June 2025 with
+    capacity for up to 15,000 tonnes a year of end-of-life lithium-ion batteries and production scrap, which BASF
+    equates to about 40,000 electric vehicle batteries, the plant sitting inside a battery materials complex in
+    which BASF has invested about EUR 550 million against about EUR 175 million of federal and state funding and
+    about EUR 5 million from Brandenburg for the recycling plant specifically, closing expected between the second
+    and third quarters of 2027 subject to regulatory approval with BASF continuing to operate the business until
+    then, the cylib water-based process stated to recover about 90 percent of lithium, graphite, nickel and cobalt,
+    an acquired mechanical processing plant at Wernberg-Koeblitz rated at up to 10,000 tonnes a year and a
+    hydrometallurgical plant under construction at Dormagen rated at 30,000 tonnes a year, BASF retaining cathode
+    active material production at Schwarzheide and refocusing Battery Materials exclusively on cathode materials,
+    and no purchase price, transferred headcount, post-closing plant throughput or customer volume disclosed by
+    either party.
+  url: "https://www.cylib.de/post/cylib-signs-agreement-to-acquire-basfs-battery-recycling-business"
+
+- date: "2026-11-24"
+  title: "Six Japanese automakers commit more than THB 134 billion to Thailand for 2026 to 2030 as Bangkok resets its vehicle excise regime"
+  source: "Automotive World"
+  sector: auto_manufacturing
+  kind: industry_news
+  summary: >-
+    Automotive World reports Toyota, Honda, Isuzu, Mitsubishi, Mazda and Nissan plan to invest more than THB 134
+    billion, about USD 4.1 billion, in Thailand between 2026 and 2030, following talks in Tokyo on 20 November
+    2026 with Thai finance minister Ekniti Nitithanprapas and industry minister Varawut Silpa-archa on a revised
+    vehicle excise structure, making it a quantified commitment of assembly and powertrain capacity against a dated
+    tax change rather than a sales or model announcement; cited specifics include a regime taking effect on 1
+    January 2027 under which fully imported battery-electric and range-extended electric vehicles face 35 percent
+    excise duty only where the brand has no production base in Thailand, tax treatment for locally built vehicles
+    and imports from brands holding such a base linked to investment, employment and local parts content, a pledge
+    that exceeds the THB 79 billion across 367 automotive projects Japanese investors applied for in Thailand
+    between 2021 and September 2026 and sits below the USD 4.59 billion of Thai new energy vehicle ecosystem
+    investment approved as of August 2026, the individual plans listed as Honda accelerating Smart Hybrid models,
+    Mitsubishi concentrating on hybrid and plug-in hybrid pickups, Mazda adding mild-hybrid production lines,
+    Toyota making Thailand the production base for a fuel-cell pickup for export, Isuzu developing fuel-cell
+    heavy-duty and battery-electric pickups while testing B30 biodiesel, and Nissan focusing on supply chain and
+    workforce development, the six companies also seeking longer deadlines for localising hybrid components and
+    stricter enforcement against importers, and no per-company investment split, capacity figure or model volume
+    disclosed.
+  url: "https://www.automotiveworld.com/news/japanese-oems-pledge-billions-to-defend-thai-base/"
+
 - date: "2026-11-23"
   title: "Air Force withdraws its 58-awardee advanced propulsion notice, saying the USD 16.1 billion announcement was published in error and no contracts were awarded"
   source: "Breaking Defense / U.S. Department of War"
