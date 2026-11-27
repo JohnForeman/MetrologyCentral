@@ -1,6 +1,91 @@
 ---
 
 - date: "2026-11-26"
+  title: "Suzuki and ELIIY Power win METI certification for a JPY 44.7 billion LFP cell and module plant at Kosai rated at 0.48 GWh a year from October 2029"
+  source: "Automotive World / Suzuki Motor / ELIIY Power / METI"
+  sector: ev_manufacturing
+  kind: press_release
+  summary: >-
+    Japan's Ministry of Economy, Trade and Industry certified on 26 November 2026 a joint Suzuki Motor and ELIIY
+    Power plan to develop and mass-produce lithium iron phosphate cells and modules at a domestic manufacturing
+    site in Kosai, Shizuoka Prefecture, under the Economic Security Promotion Act as a Plan for Securing the
+    Supply of Storage Batteries, making it a state-certified commitment of Japanese LFP cell capacity rather
+    than a capacity announcement; cited specifics include required project funding of about JPY 44.7 billion,
+    about USD 281.6 million, with a maximum subsidy of about JPY 18.7 billion, about USD 117.8 million, equal
+    to roughly 42 percent of the funding requirement, planned annual capacity of 0.48 GWh against a supply
+    start in October 2029, products listed as cells and multi-cell modules for stationary lithium-ion storage
+    batteries that the companies state are designed to be compatible with automotive applications, intended
+    adoption across residential, commercial and industrial storage and vehicle markets from fiscal 2030, ELIIY
+    Power contributing LFP chemistry and Suzuki small-car development and production experience, a design-stage
+    intention to move packs retired from vehicles into stationary service, and no site area, line count, cell
+    format, equipment supplier, per-kilowatt-hour cost or construction start disclosed.
+  url: "https://www.automotiveworld.com/news/suzuki-and-eliiy-power-to-build-battery-plant-in-shizuoka/"
+
+- date: "2026-11-26"
+  title: "Ultraviolette breaks ground on a INR 779 crore Hosur plant sized for 250,000 electric two-wheelers a year, scalable to 500,000"
+  source: "Business Standard / ETAuto / Ultraviolette Automotive"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    Business Standard reports Ultraviolette Automotive broke ground on 26 November 2026 at the SIPCOT Industrial
+    Park in Shoolagiri, Hosur, Tamil Nadu, on its BIGGA manufacturing facility at an investment of INR 779 crore,
+    about USD 87 million, with initial annual capacity of 250,000 vehicles scalable to 500,000 units, making it a
+    quantified addition of Indian electric two-wheeler assembly capacity rather than a product announcement;
+    cited specifics include production of the Tesseract electric scooter and Shockwave motorcycle alongside
+    future sports, crossover, cruiser and street models, a phased build operating alongside the company existing
+    Bengaluru plant, about 2,000 jobs with employment expected to scale further over five years, Industry 4.0
+    equipment listed as manufacturing execution systems, collaborative robotics, vision-based inspection and
+    digital quality management systems, a project following a memorandum of understanding with the Tamil Nadu
+    government and inaugurated at the state Vettri Tamil Nadu Investment and Conversion Conclave 2026, company
+    registrations averaging about 400 to 450 vehicles a month in 2026 against a September 2026 statement that it
+    expected annual volumes above 200,000 units in 2028, and no commissioning date, phase capital split, cell
+    supplier, line output rate or local content target disclosed.
+  url: "https://www.business-standard.com/companies/news/ultraviolette-breaks-ground-on-779-crore-electric-vehicle-plant-in-hosur-126112601000_1.html"
+
+- date: "2026-11-25"
+  title: "MTU Aero Engines Polska commits PLN 300 million to a blisk line at Tajecina for PW1100G-JM compressors, the group's first outside Munich"
+  source: "Rynek Lotniczy / Agencja Rozwoju Przemyslu / MTU Aero Engines Polska"
+  sector: aerospace_defense_manufacturing
+  kind: industry_news
+  summary: >-
+    Rynek Lotniczy reports MTU Aero Engines Polska received a support decision from the Agencja Rozwoju
+    Przemyslu, issued through the Mielec special economic zone under the Polish Investment Zone, for a PLN 300
+    million, about USD 82 million, investment at its Tajecina plant near Rzeszow that adds a production line for
+    low-pressure compressor blisks for the Pratt & Whitney PW1100G-JM engine family powering the Airbus A320neo,
+    making it a quantified transfer of class-1 rotating-part machining into Poland rather than a general
+    capacity statement; cited specifics include Tajecina becoming the only MTU location in Europe outside Munich
+    producing key GTF engine components, blisks machined as an integral disc and blade assembly from a single
+    forging with dimensional tolerances of a few hundredths of a millimetre, a stated investment completion date
+    of 31 December 2029, manufacturing capacity at the Polish plant to rise by about 30 percent by 2030,
+    employment increasing from about 1,500 to at least 1,700 by the end of 2030, roughly 200 new positions,
+    parallel expansion of engineering services and the shared services centre at the site, an existing role as
+    the sole supplier of the low-pressure turbine module for the PW1100G-JM, prior use of about EUR 35 million of
+    public support, and no line output rate, machine count, equipment order value, first-article qualification
+    date or per-part inspection method disclosed.
+  url: "https://www.rynek-lotniczy.pl/wiadomosci/mtu-aero-engines-polska-zainwestuje-300-mln-zl-w-tajecinie-ruszy-produkcja-kluczowych-czesci-silnikow-gtf-29870.html"
+
+- date: "2026-11-24"
+  title: "Measurement-constrained feature clustering plans 76 structured-light viewpoints for a 55-feature automotive side panel"
+  source: "Measurement Science and Technology (Ma, Zhang, Zhong et al.) / IOP Publishing"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in Measurement Science and Technology on 24 November 2026 presents a viewpoint-planning
+    framework for automated structured-light measurement of complex industrial parts that partitions feature
+    sampling points into measurement-compatible regions instead of planning around surface coverage alone,
+    making it a quantified treatment of robot measurement-path generation for optical dimensional inspection
+    rather than a general computer vision result; cited specifics include a two-stage clustering strategy that
+    first applies spectral clustering on normal-vector cosine similarity to group points sharing a consistent
+    observation direction and then agglomerative hierarchical clustering with spatial distance constraints to
+    form compact regions, candidate viewpoint generation, visibility evaluation, viewpoint selection and robot
+    path optimisation run on those regions to produce the final measurement trajectory, an experiment on an
+    automotive side panel carrying 55 geometric features that returned reliable feature reconstruction and
+    dimensional measurement using 76 optimised viewpoints, and authors Yaodong Ma, Pan Zhang, Kai Zhong, Zhizhan
+    Xu, Zibin Zhong and Zhongwei Li, with no quantified comparison against a coverage-only planning baseline, no
+    uncertainty against a CMM reference and no cycle-time figure reported in the abstract.
+  url: "https://iopscience.iop.org/article/10.1088/1361-6501/aec037"
+
+- date: "2026-11-26"
   title: "ST Engineering and XAICO open a USD 78 million CFM56 engine MRO shop in Xiamen with capacity for up to 300 engines a year"
   source: "The Edge Malaysia / ST Engineering"
   sector: aerospace_defense_manufacturing
