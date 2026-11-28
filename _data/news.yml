@@ -1,5 +1,45 @@
 ---
 
+- date: "2026-11-27"
+  title: "IMT Precision breaks ground on a St. Thomas, Ontario plant for 155 mm projectile shell bodies with output expected in 2028"
+  source: "Department of National Defence Canada / IMT Precision"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    The Department of National Defence and IMT Precision marked the start of construction on 27 November 2026 of an
+    ammunition manufacturing facility at the Yarmouth Yards industrial park in St. Thomas, Ontario, that will produce
+    empty metal shells for 155 mm projectiles, making it a quantified addition of Canadian large-calibre shell-body
+    machining capacity rather than a contract award; cited specifics include a project the department says will create
+    at least 75 full-time jobs in southwestern Ontario with up to 400 at full production, local reporting that places
+    the start of production in 2028, up to CAD 305.4 million in financial assistance to IMT Precision through the
+    Canadian Defence Industry Resilience Program inside the up to CAD 1.4 billion domestic ammunition production
+    package announced on 18 March 2026, an Ingersoll, Ontario parent that has made metal components for ammunition
+    and military vehicles for more than a century from a 140,000 square foot plant, a separate IMT Ingersoll plant
+    that the U.S. Army opened in October 2024 for 15,000 shell bodies a month, and no floor area, shell output rate,
+    machine count, per-shell cost or land terms disclosed.
+  url: "https://www.canada.ca/en/department-national-defence/news/2026/11/department-of-national-defence-marks-start-of-construction-on-new-ammunition-manufacturing-facility-in-st-thomas.html"
+
+- date: "2026-11-26"
+  title: "Queensland awards NIOA AUD 15 million toward an AUD 29.85 million metal and ceramic 3D printing capability at its Maryborough 155 mm shell plant"
+  source: "Queensland Ministerial Media Statements / NIOA Group"
+  sector: aerospace_defense_manufacturing
+  kind: press_release
+  summary: >-
+    The Queensland government announced on 25 November 2026 an AUD 15 million grant to NIOA from its AUD 180.6
+    million Sovereign Industry Development Fund toward an AUD 29.85 million project that adds industrial-scale metal
+    and ceramic additive manufacturing to the Rheinmetall NIOA Munitions facility in Maryborough, Queensland, making
+    it a quantified addition of printing and post-processing capacity at a plant that already forges and machines
+    large-calibre projectile bodies rather than a general sovereign-capability statement; cited specifics include the
+    Maryborough site opened in 2022 as a NIOA joint venture with Rheinmetall Waffe Munition producing 155 mm
+    projectile bodies for international supply chains, three ceramic and two metal industrial 3D printers plus two
+    post-print sintering ovens and one prototype sintering oven listed in the company release, a scope covering
+    feedstock design and production through printing and post-print processing, target components for munitions,
+    missiles, rocket motors, drones and counter-drone systems including advanced ceramic parts for high-speed defence
+    systems, up to 18 jobs created and sustained with the capability operational by late 2028, the grant lifting
+    defence-related spending through the fund above AUD 90 million, and no printer supplier, part output rate,
+    qualification route or component volumes disclosed.
+  url: "https://statements.qld.gov.au/statements/106502"
+
 - date: "2026-11-26"
   title: "Suzuki and ELIIY Power win METI certification for a JPY 44.7 billion LFP cell and module plant at Kosai rated at 0.48 GWh a year from October 2029"
   source: "Automotive World / Suzuki Motor / ELIIY Power / METI"
@@ -63,6 +103,26 @@
     public support, and no line output rate, machine count, equipment order value, first-article qualification
     date or per-part inspection method disclosed.
   url: "https://www.rynek-lotniczy.pl/wiadomosci/mtu-aero-engines-polska-zainwestuje-300-mln-zl-w-tajecinie-ruszy-produkcja-kluczowych-czesci-silnikow-gtf-29870.html"
+
+- date: "2026-11-24"
+  title: "EVE Power installs production equipment at its HUF 400 billion Debrecen cell plant with series output planned for 2027"
+  source: "Budapest Business Journal / EVE Power Hungary"
+  sector: ev_manufacturing
+  kind: industry_news
+  summary: >-
+    EVE Power Hungary said at a briefing on 24 November 2026 that manufacturing equipment is now being received at
+    its nearly HUF 400 billion battery cell plant in Debrecen and that it expects to start series production in 2027
+    after trial runs, making it a quantified commissioning stage at the company first European manufacturing site
+    rather than a capacity announcement; cited specifics include a workforce grown from 150 at the start of the year
+    to nearly 500, about 3,000 people working on the site each day, the internal utility network 90 percent complete
+    and the road network 80 percent complete, first equipment delivered over the summer while construction
+    continued, HUF 13.8 billion of state support against company commitments to generate an additional HUF 730
+    billion of revenue and pay an additional HUF 32 billion in wages in Hungary by 2033, about 1,000 employees
+    expected over the long term, supply of 46-series cylindrical lithium-ion cells to the BMW vehicle plant in
+    Debrecen, Hu Tao appointed managing director on 20 October 2026 to oversee the remaining construction and line
+    installation, and no installed capacity in gigawatt-hours, line count, ramp curve, yield or first customer
+    volume disclosed.
+  url: "https://bbj.hu/business/industry/manufacturing/eve-powers-huf-400-bln-debrecen-battery-plant-moves-toward-production/"
 
 - date: "2026-11-24"
   title: "Measurement-constrained feature clustering plans 76 structured-light viewpoints for a 55-feature automotive side panel"
@@ -901,6 +961,29 @@
     expiring in 2028, with no per-plant automation baseline, robot count, capital figure or milestone schedule inside
     the 2028 horizon disclosed.
   url: "https://www.cbtnews.com/gm-targets-2028-factory-automation/"
+
+- date: "2026-11-16"
+  title: "Forward-model analysis bounds Fabry-Perot cavity-length error at 0.0060 nanometres rms in a 50 micrometre cavity with calibration fixed"
+  source: "Measurement Science and Technology / IOP Publishing"
+  sector: scientific_metrology
+  kind: standards_method
+  summary: >-
+    A paper published in Measurement Science and Technology on 16 November 2026 formulates a coherent two-beam forward
+    model for dispersive interrogation of fibre-optic Fabry-Perot sensors that retains relative delay, reflection
+    phase, second- and third-order dispersion and detector bandwidth, making it a quantified separation of
+    propagation-model bias from time-to-wavelength calibration error in a displacement-sensing readout rather than a
+    general sensor paper; cited specifics include variable projection to remove pulse-dependent gain and offset, a 50
+    micrometre cavity simulation at 60 dB signal-to-noise ratio over 200 trials giving root-mean-square length errors
+    of 7.980 nanometres for linear intensity mapping, 0.0279 nanometres for nonlinear intensity mapping and 0.0060
+    nanometres for field-template estimation with calibration parameters fixed at their true values, a local
+    standard-deviation bound rising from 0.0060 to 2.548 nanometres when the reflection phase is unknown, separate
+    coordinate calibration measurements against an optical spectrum analyser, a dispersion-constrained local linear
+    mapping on an unloaded stainless-steel specimen that reduced the normalised spectral residual from 7.44 to 3.93
+    percent and the validation-peak wavelength discrepancy from 0.317 to 0.053 nanometres, sapphire specimen
+    residuals reduced from 6.32 to 6.63 percent to 4.94 to 5.18 percent with a physical nonlinear mapping and to 4.67
+    to 4.94 percent with an empirical quadratic calibration, and no expanded uncertainty budget against a traceable
+    length standard, temperature sensitivity or long-term stability reported.
+  url: "https://iopscience.iop.org/article/10.1088/1361-6501/aec28a"
 
 - date: "2026-11-16"
   title: "Northrop Grumman receives a USD 1.6 billion multi-year order for PAC-3 MSE solid rocket motors and ignition safety devices"
